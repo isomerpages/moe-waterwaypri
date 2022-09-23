@@ -2,8 +2,8 @@ collections:
   nurturing-young-minds:
     output: true
     order:
-      - Language Arts/Literature.md
-      - Language Arts/Orators@Waterway.md
-      - Language Arts/Language Arts.md
       - Language Arts/.keep
+      - Language Arts/Language Arts.md
+      - Language Arts/Orators@Waterway.md
+      - Language Arts/Literature.md
       - Nurturing Young Minds.md
