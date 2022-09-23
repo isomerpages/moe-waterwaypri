@@ -2,6 +2,8 @@ collections:
   nurturing-young-minds:
     output: true
     order:
+      - Building Upright Character/Character & Citizenship Education (CCE) and
+        Leadership Development.md
       - Building Upright Character/Building Upright Character.md
       - Building Upright Character/.keep
       - Language Arts/.keep
