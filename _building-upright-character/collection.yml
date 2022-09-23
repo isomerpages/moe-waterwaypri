@@ -2,5 +2,6 @@ collections:
   building-upright-character:
     output: true
     order:
+      - Form Teacher Guidance Period (FTGP).md
       - Character & Citizenship Education (CCE) and Leadership Development.md
       - Building Upright Character.md
