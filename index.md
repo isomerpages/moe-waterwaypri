@@ -12,7 +12,7 @@ sections:
         - title: Announcements
           description: ""
           url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
+        - title: Quicklinks
+          description: ""
+          url: ""
 ---
