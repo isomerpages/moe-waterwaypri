@@ -2,18 +2,18 @@ collections:
   nurturing-young-minds:
     output: true
     order:
-      - Building Upright Character/Cyber Wellness Tips for Parents.md
-      - Building Upright Character/Peer Support Relationships @ WAPS.md
-      - Building Upright Character/Sexuality Education.md
-      - Building Upright Character/Programme for Active Learning (PAL).md
-      - Building Upright Character/Music.md
-      - Building Upright Character/Art.md
-      - Building Upright Character/PE & Health Education.md
-      - Building Upright Character/Form Teacher Guidance Period (FTGP).md
+      - Building Upright Character/.keep
+      - Building Upright Character/Building Upright Character.md
       - Building Upright Character/Character & Citizenship Education (CCE) and
         Leadership Development.md
-      - Building Upright Character/Building Upright Character.md
-      - Building Upright Character/.keep
+      - Building Upright Character/Form Teacher Guidance Period (FTGP).md
+      - Building Upright Character/PE & Health Education.md
+      - Building Upright Character/Art.md
+      - Building Upright Character/Music.md
+      - Building Upright Character/Programme for Active Learning (PAL).md
+      - Building Upright Character/Sexuality Education.md
+      - Building Upright Character/Peer Support Relationships @ WAPS.md
+      - Building Upright Character/Cyber Wellness Tips for Parents.md
       - Language Arts/.keep
       - Language Arts/Language Arts.md
       - Language Arts/Orators@Waterway.md
