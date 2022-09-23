@@ -2,12 +2,12 @@ collections:
   cca:
     output: true
     order:
-      - Modular CCA/Outdoor & Life Skill.md
-      - Modular CCA/Digital Art.md
-      - Modular CCA/Speech & Drama.md
-      - Modular CCA/Coding & Robotics.md
-      - Modular CCA/Info Communication & Media.md
-      - Modular CCA/Swimsafer Programme.md
-      - Modular CCA/Modular CCA.md
       - Modular CCA/.keep
+      - Modular CCA/Modular CCA.md
+      - Modular CCA/Swimsafer Programme.md
+      - Modular CCA/Info Communication & Media.md
+      - Modular CCA/Coding & Robotics.md
+      - Modular CCA/Speech & Drama.md
+      - Modular CCA/Digital Art.md
+      - Modular CCA/Outdoor & Life Skill.md
       - CCA.md
