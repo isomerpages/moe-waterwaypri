@@ -1,4 +1,5 @@
 collections:
   nurturing-young-minds:
     output: true
-    order: []
+    order:
+      - Nurturing Young Minds.md
