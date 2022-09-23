@@ -2,14 +2,14 @@ collections:
   nurturing-young-minds:
     output: true
     order:
-      - Information & Communications Technology (ICT).md
-      - Good Morning School.md
-      - Coding and Programming.md
-      - Mother Tongue Languages.md
-      - Science.md
-      - Mathematics.md
+      - Nurturing Young Minds.md
       - Language Arts/.keep
       - Language Arts/Language Arts.md
       - Language Arts/Orators@Waterway.md
       - Language Arts/Literature.md
-      - Nurturing Young Minds.md
+      - Mathematics.md
+      - Science.md
+      - Mother Tongue Languages.md
+      - Coding and Programming.md
+      - Good Morning School.md
+      - Information & Communications Technology (ICT).md
