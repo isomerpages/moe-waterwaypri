@@ -2,4 +2,5 @@ collections:
   building-upright-character:
     output: true
     order:
+      - Character & Citizenship Education (CCE) and Leadership Development.md
       - Building Upright Character.md
