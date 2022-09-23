@@ -2,5 +2,6 @@ collections:
   nurturing-young-minds:
     output: true
     order:
+      - Language Arts/Language Arts.md
       - Language Arts/.keep
       - Nurturing Young Minds.md
