@@ -2,6 +2,7 @@ collections:
   building-upright-character:
     output: true
     order:
+      - Sexuality Education.md
       - Programme for Active Learning (PAL).md
       - Music.md
       - Art.md
