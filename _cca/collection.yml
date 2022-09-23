@@ -2,7 +2,7 @@ collections:
   cca:
     output: true
     order:
-      - Interest CCA/.keep
+      - CCA.md
       - Modular CCA/.keep
       - Modular CCA/Modular CCA.md
       - Modular CCA/Swimsafer Programme.md
@@ -11,4 +11,4 @@ collections:
       - Modular CCA/Speech & Drama.md
       - Modular CCA/Digital Art.md
       - Modular CCA/Outdoor & Life Skill.md
-      - CCA.md
+      - Interest CCA/.keep
