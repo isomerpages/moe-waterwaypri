@@ -2,6 +2,7 @@ collections:
   nurturing-young-minds:
     output: true
     order:
+      - Coding and Programming.md
       - Mother Tongue Languages.md
       - Science.md
       - Mathematics.md
