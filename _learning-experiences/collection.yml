@@ -1,5 +1,5 @@
 collections:
-  nurturing-young-minds:
+  learning-experiences:
     output: true
     order:
       - Building Upright Character/.keep
