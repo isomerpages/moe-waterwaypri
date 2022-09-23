@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Modular CCA/Swimsafer Programme.md
       - Modular CCA/Modular CCA.md
       - Modular CCA/.keep
       - CCA.md
