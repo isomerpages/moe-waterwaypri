@@ -2,8 +2,8 @@ collections:
   facilities:
     output: true
     order:
-      - General.md
-      - Music and Art.md
-      - Sports and CCAs.md
-      - Academic.md
       - Facilities.md
+      - Academic.md
+      - Sports and CCAs.md
+      - Music and Art.md
+      - General.md
