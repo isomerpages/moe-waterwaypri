@@ -7,10 +7,10 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Waterway Primary Homepage GIF.gif
+      background: /images/Waterway Pri Homepage.gif
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
+        - title: Announcements
+          description: ""
           url: https://google.com
         - title: Highlight B
           description: Important highlight B is equally important
