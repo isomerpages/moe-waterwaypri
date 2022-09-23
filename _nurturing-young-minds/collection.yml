@@ -2,6 +2,7 @@ collections:
   nurturing-young-minds:
     output: true
     order:
+      - Building Upright Character/.keep
       - Language Arts/.keep
       - Language Arts/Language Arts.md
       - Language Arts/Orators@Waterway.md
