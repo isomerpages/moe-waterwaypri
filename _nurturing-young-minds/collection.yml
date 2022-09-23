@@ -2,6 +2,7 @@ collections:
   nurturing-young-minds:
     output: true
     order:
+      - Building Upright Character/Programme for Active Learning (PAL).md
       - Building Upright Character/Music.md
       - Building Upright Character/Art.md
       - Building Upright Character/PE & Health Education.md
