@@ -2,5 +2,6 @@ collections:
   distinctive-programmes:
     output: true
     order:
+      - Flipped Classroom My Classroom at Home.md
       - Orators@Waterway.md
       - Distinctive Programmes.md
