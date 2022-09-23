@@ -2,5 +2,6 @@ collections:
   facilities:
     output: true
     order:
+      - Sports and CCAs.md
       - Academic.md
       - Facilities.md
