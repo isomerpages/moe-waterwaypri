@@ -2,4 +2,5 @@ collections:
   distinctive-programmes:
     output: true
     order:
+      - Orators@Waterway.md
       - Distinctive Programmes.md
