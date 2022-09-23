@@ -2,6 +2,7 @@ collections:
   building-upright-character:
     output: true
     order:
+      - Cyber Wellness Tips for Parents.md
       - Peer Support Relationships @ WAPS.md
       - Sexuality Education.md
       - Programme for Active Learning (PAL).md
