@@ -1,6 +1,17 @@
 logo: /images/logo.png
 links:
+  - title: About Us
+    url: /permalink
+    sublinks: []
+  - title: Learning Experiences
+    url: /permalink
+    sublinks: []
+  - title: Distinctive Programmes
+    collection: distinctive-programmes
+  - title: CCA
+    collection: cca
+  - title: Parents
+    url: /permalink
+    sublinks: []
   - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
+    url: /contact/visitor-information
