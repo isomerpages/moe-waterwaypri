@@ -361,3 +361,24 @@ description: ""
   </tr>
 </tbody>
 </table>
+
+**MALAY LANGUAGE**
+
+<table>
+<thead>
+  <tr>
+    <td><b>MDM MARTINI</b><br><a href="mailto:martini_mahmood@moe.edu.sg" target="_blank" rel="noopener noreferrer">martini_mahmood@moe.edu.sg</a></td>
+    <td><b>MR MUHAMMAD DINIE</b><br><a href="mailto:muhammad_dinie_shaifullah@moe.edu.sg" target="_blank" rel="noopener noreferrer">muhammad_dinie_shaifullah@moe.edu.sg</a></td>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td><b>MDM MARSIAH</b><br><a href="mailto:marsiah_rohim@moe.edu.sg" target="_blank" rel="noopener noreferrer">marsiah_rohim@moe.edu.sg</a></td>
+    <td><b>MDM ROZANA</b><br><a href="mailto:rozana_zainuri@moe.edu.sg">rozana_zainuri@moe.edu.sg</a> </td>
+  </tr>
+  <tr>
+    <td><b>MR MUKHLIS</b><br><a href="mailto:muhammad_mukhlis_dzulfitri@moe.edu.sg" target="_blank" rel="noopener noreferrer">muhammad_mukhlis_dzulfitri@moe.edu.sg</a> </td>
+    <td><b>MR AIDIL</b><br><a href="mailto:Muhammad_Aidil_Ishak@moe.edu.sg" target="_blank" rel="noopener noreferrer">Muhammad_Aidil_Ishak@moe.edu.sg</a> </td>
+  </tr>
+</tbody>
+</table>
