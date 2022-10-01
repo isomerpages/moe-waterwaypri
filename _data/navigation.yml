@@ -1,17 +1,59 @@
 logo: /images/logo.png
 links:
   - title: About Us
-    url: /permalink
-    sublinks: []
+    url: /about-us/principals-message
+    sublinks:
+      - title: Principal's Message
+        url: /about-us/principals-message
+      - title: Our Story
+        url: /about-us/our-story
+      - title: Mission, Vision, Values
+        url: /about-us/mission-vision-values
+      - title: School Crest
+        url: /about-us/school-crest
+      - title: School Philosophy & Direction
+        url: /about-us/school-philosophy-n-direction
+      - title: Facilities
+        url: /about-us/facilities
+      - title: Waterway Primary Family
+        url: /about-us/waterway-primary-family
+      - title: 360 Virtual Tour
+        url: https://roundme.com/embed/SvllymcqYPP96XdbxZ7Q
   - title: Learning Experiences
-    url: /permalink
-    sublinks: []
+    url: /learning-experiences/nurturing-young-minds
+    sublinks:
+      - title: Nurturing Young Minds
+        url: /learning-experiences/nurturing-young-minds
+      - title: Building Upright Character
+        url: /learning-experiences/building-upright-character
+      - title: Celebrations
+        url: /learning-experiences/celebrations
+      - title: Our Students, Our Pride
+        url: /learning-experiences/our-students-our-pride-students-channel
   - title: Distinctive Programmes
     collection: distinctive-programmes
   - title: CCA
     collection: cca
   - title: Parents
-    url: /permalink
-    sublinks: []
+    url: /parents/parents-support-group
+    sublinks:
+      - title: Parents Support Group
+        url: /parents/parents-support-group
+      - title: Parents Say....
+        url: https://waterwaypri.wixsite.com/wwps-openhouse/parents-say-1
+      - title: Vendor Information
+        url: /parents/vendor-information
+      - title: Forms
+        url: /parents/forms
+      - title: 2022 Open House Virtual Tour
+        url: https://waterwaypri.wixsite.com/wwps-openhouse
+      - title: Family Matters
+        url: /parents/family-matters
+      - title: "@parentwith.moesg"
+        url: https://www.instagram.com/parentingwith.moesg/
+      - title: Minister Wong's Media Visit
+        url: /parents/minister-wongs-media-visit
+      - title: P6 Students & Parents Say
+        url: https://waterwaypri.wixsite.com/wwps-openhouse/2021-p6-cohort-students-parents-say
   - title: Contact Us
     url: /contact/visitor-information
