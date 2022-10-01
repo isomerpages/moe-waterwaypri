@@ -55,15 +55,15 @@ description: ""
 <thead>
   <tr>
     <th></th>
-    <td>MRS WEE-KWAN LIAM<br>Principal</td>
+		<td><b>MRS WEE-KWAN LIAM</b><br>Principal</td>
     <th></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td>MR DALJIT SINGH<br>Vice-Principal (Administration)</td>
+		<td><b>MR DALJIT SINGH</b><br>Vice-Principal (Administration)</td>
     <td></td>
-    <td>MRS JUDY LING<br>Vice-Principal</td>
+		<td><b>MRS JUDY LING</b><br>Vice-Principal</td>
   </tr>
 </tbody>
 </table>
