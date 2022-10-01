@@ -265,3 +265,31 @@ description: ""
   </tr>
 </tbody>
 </table>
+
+
+**<font size=5>PRIMARY 5 TEACHERS
+</font><a name="P5"></a>**
+
+
+<table>
+<thead>
+  <tr>
+    <td><b>MRS SERENE TAN</b><br>Form Teacher Pri 5A<br><a href="mailto:neo_wei_li_serene@moe.edu.sg" target="_blank" rel="noopener noreferrer">neo_wei_li_serene@moe.edu.sg</a> </td>
+    <td><b>MISS PRISCILIA GOH</b><br>Form Teacher Pri 5B<br><a href="mailto:priscilia_goh_shi_qi@moe.edu.sg" target="_blank" rel="noopener noreferrer">priscilia_goh_shi_qi@moe.edu.sg</a></td>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td><b>MRS CLARISSA HAN</b><br>Form Teacher Pri 5C<br><a href="mailto:cheong_yoke_ling@moe.edu.sg" target="_blank" rel="noopener noreferrer">cheong_yoke_ling@moe.edu.sg</a></td>
+    <td><b>MDM JULIANA</b><br>Form Teacher Pri 5D<br><a href="mailto:juliana_abdullah@moe.edu.sg" target="_blank" rel="noopener noreferrer">juliana_abdullah@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td><b>MR IRWAN</b><br>Form Teacher Pri 5E<br><a href="mailto:irwan_shah@moe.edu.sg" target="_blank" rel="noopener noreferrer">irwan_shah@moe.edu.sg</a></td>
+    <td><b>MISS KANG KAI JUN</b><br>Form Teacher Pri 5F<br><a href="mailto:kang_kai_jun@moe.edu.sg" target="_blank" rel="noopener noreferrer">kang_kai_jun@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td><b>MS SUVITA</b><br>Form Teacher Pri 5G<br><a href="mailto:suvita_thanagopalasamy@moe.edu.sg" target="_blank" rel="noopener noreferrer">suvita_thanagopalasamy@moe.edu.sg</a></td>
+    <td><b>MS KAREN CHAN</b><br>Form Teacher Pri 5H<br><a href="mailto:karen_oi_chan@moe.edu.sg">karen_oi_chan@moe.edu.sg</a> </td>
+  </tr>
+</tbody>
+</table>
