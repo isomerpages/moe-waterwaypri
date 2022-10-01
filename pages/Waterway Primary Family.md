@@ -43,7 +43,7 @@ description: ""
 </table>
 
 
-**<center><font size=5>SCHOOL LEADERS</font></center>****<a name="Leader"></a>**
+**<font size=5>SCHOOL LEADERS</font>****<a name="Leader"></a>**
 
 
 <table style="undefined;table-layout: fixed; width: 554px">
