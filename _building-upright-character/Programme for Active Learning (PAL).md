@@ -52,3 +52,29 @@ PAL is an integral part of our curriculum as the school strive to build strong f
   </tr>
 </tbody>
 </table>
+
+**OUTDOOR EDUCATION**
+
+![](/images/Learning%20Experiences/PAL%201.jpg)
+
+**PERFORMING ARTS - MUSIC**
+
+![](/images/Learning%20Experiences/PAL%202.jpg)
+
+**SPORTS AND GAMES**
+
+![](/images/Learning%20Experiences/PAL%203.png)
+
+![](/images/Learning%20Experiences/PAL%204.png)
+
+**VISUAL ARTS**
+
+![](/images/Learning%20Experiences/PAL%205.png)
+
+![](/images/Learning%20Experiences/PAL%206.png)
+
+**ROBOTICS**
+
+![](/images/Learning%20Experiences/PAL%207.png)
+
+![](/images/Learning%20Experiences/PAL%208.png)
