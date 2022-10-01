@@ -19,7 +19,7 @@ description: ""
 <p><a href="https://ictconnection.moe.edu.sg/cyber-wellness/for-parents">
 <img src="/images/Learning%20Experiences/Cyber%20Wellness%203.jpg">
 </a></p>
-LINK IS BROKEN
+LINK DOESN'T WORK
 
 
 ![](/images/Learning%20Experiences/Cyber%20Wellness%204.jpg)
