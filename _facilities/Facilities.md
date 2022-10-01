@@ -47,7 +47,7 @@ Some of the facilities include:
 </table>
 
 
-### **FOYER**
+### FOYER
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/a0HTVM632xg" title="Students introduce School Facilities (School Foyer)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
