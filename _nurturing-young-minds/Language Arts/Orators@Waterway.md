@@ -11,7 +11,7 @@ third_nav_title: Language Arts
 
 <iframe width="480" height="360" src="https://www.youtube.com/embed/6IsVrD_nEm0" title="Toastmasters@Waterway" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-_<center>Orators@Waterway Programme in a nutshell.</center>_
+_Orators@Waterway Programme in a nutshell._
 
 
 Orators@Waterway is a key programme aimed at nurturing our students into gracious persons, engaging communicators and confident leaders. Recognising the need for our students to be socially and culturally competent in an increasingly globalised world, we seek to equip them with the listening, thinking and speaking skills critical for thriving in the 21st century.
@@ -40,4 +40,4 @@ Within a secure and encouraging environment, each student is progressively groom
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jUbd8tr5jc8" title="Toastmasters Programme at Waterway Primary School" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-_<center>Hear our students talk about some of the things they learn from the programme in this video featured on MOE's YouTube channel.</center>_
+_Hear our students talk about some of the things they learn from the programme in this video featured on MOE's YouTube channel._
