@@ -44,3 +44,26 @@ description: ""
 
 
 <center><font size=5>SCHOOL LEADERS</font></center>
+
+
+<table style="undefined;table-layout: fixed; width: 554px">
+<colgroup>
+<col style="width: 198px">
+<col style="width: 163px">
+<col style="width: 193px">
+</colgroup>
+<thead>
+  <tr>
+    <th></th>
+    <td>MRS WEE-KWAN LIAM<br>Principal</td>
+    <th></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>MR DALJIT SINGH<br>Vice-Principal (Administration)</td>
+    <td></td>
+    <td>MRS JUDY LING<br>Vice-Principal</td>
+  </tr>
+</tbody>
+</table>
