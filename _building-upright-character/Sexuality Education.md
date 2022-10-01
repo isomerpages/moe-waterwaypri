@@ -74,17 +74,17 @@ Primary 5
   <tr>
     <td rowspan="4">Gosh! I Am Changing</td>
     <td>What Is Happening To Me?<br>(30 min)</td>
-    <td>know what puberty is<br>identify the physical changes during puberty</td>
+    <td>- know what puberty is<br>- identify the physical changes during puberty</td>
     <td>Term 2</td>
   </tr>
   <tr>
     <td>What Can I Do? (Part 1)<br> (30 min)</td>
-    <td>identify the stresses caused by physical and emotional changes during puberty<br>describe healthy ways to manage the stresses caused by physical and emotional changes during puberty<br>describe the emotions caused by physical changes during puberty <br>recognise that one’s identity does not change even when one’s body is experiencing change due to puberty</td>
+    <td>- identify the stresses caused by physical and emotional changes during puberty<br>- describe healthy ways to manage the stresses caused by physical and emotional changes during puberty<br>- describe the emotions caused by physical changes during puberty <br>- recognise that one’s identity does not change even when one’s body is experiencing change due to puberty</td>
     <td>Term 2</td>
   </tr>
   <tr>
     <td>What Can I Do? (Part 2)<br> (30 min)</td>
-    <td>identify the stresses caused by physical and emotional changes during puberty<br>describe healthy ways to manage the stresses caused by these physical and emotional changes during puberty<br>describe the emotions caused by physical changes during puberty <br>recognise that one’s identity does not change even when one’s body is experiencing change due to puberty</td>
+    <td>- identify the stresses caused by physical and emotional changes during puberty<br>- describe healthy ways to manage the stresses caused by these physical and emotional changes during puberty<br>- describe the emotions caused by physical changes during puberty <br>- recognise that one’s identity does not change even when one’s body is experiencing change due to puberty</td>
     <td>Term 2</td>
   </tr>
   <tr>
@@ -95,24 +95,24 @@ Primary 5
   <tr>
     <td>Where I Belong </td>
     <td>What Are Families?<br>(30 min)</td>
-    <td>know that there are different types of family structures<br>know that every family is unique<br>state that the three basic functions of families are to provide love, protection and guidance<br>identify the right sources of help to turn to when in need</td>
+    <td>- know that there are different types of family structures<br>- know that every family is unique<br>- state that the three basic functions of families are to provide love, protection and guidance<br>- identify the right sources of help to turn to when in need</td>
     <td>Term 4</td>
   </tr>
   <tr>
     <td>Where I Belong</td>
     <td>What is My Role?<br> (30 min)</td>
-    <td>know that gender is about being male or female<br>choose not to stereotype by gender </td>
+    <td>- know that gender is about being male or female<br>- choose not to stereotype by gender </td>
     <td>Term 4</td>
   </tr>
   <tr>
     <td rowspan="2">How Do I Keep Myself Safe?</td>
     <td>What is Safety?<br>(30 min)</td>
-    <td>know what sexual abuse is<br>know that there are laws in Singapore that can protect them from sexual abuse<br>know their rights in keeping themselves safe from sexual abuse</td>
+    <td>- know what sexual abuse is<br>- know that there are laws in Singapore that can protect them from sexual abuse<br>- know their rights in keeping themselves safe from sexual abuse</td>
     <td>Term 4</td>
   </tr>
   <tr>
     <td>Stop It! Run! Tell!<br>(30 min)</td>
-    <td>protect themselves by resisting, removing themselves from harm and seeking help from a trusted adult<br>know their responsibilities in minimising the risk of sexual harm</td>
+    <td>- protect themselves by resisting, removing themselves from harm and seeking help from a trusted adult<br>- know their responsibilities in minimising the risk of sexual harm</td>
     <td>Term 4</td>
   </tr>
 </tbody>
