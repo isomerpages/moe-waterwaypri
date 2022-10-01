@@ -539,3 +539,24 @@ description: ""
   </tr>
 </tbody>
 </table>
+
+**ICT SUPPORT TEAM**
+
+<table>
+<thead>
+  <tr>
+    <td>ICT Manager</td>
+    <td><b>MR KOH CHEE WEI</b></td>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Desktop Engineer</td>
+    <td><b>MR SHAFIQ<//b></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td><b>MR SARA</b></td>
+  </tr>
+</tbody>
+</table>
