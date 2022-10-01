@@ -211,3 +211,30 @@ description: ""
 </tbody>
 </table>
 
+
+
+**<font size=5>PRIMARY 3 TEACHERS
+</font><a name="P3"></a>**
+
+<table>
+<thead>
+  <tr>
+    <td><b>MISS SHERMIN CHIA</b><br>Form Teacher Pri 3A<br><a href="mailto:shermin_chia_shi_min@moe.edu.sg" target="_blank" rel="noopener noreferrer">shermin_chia_shi_min@moe.edu.sg</a></td>
+    <td><b>MDM NAZREENA</b><br>Form Teacher Pri 3B<br><a href="mailto:nazreena_abdul_rahman@moe.edu.sg" target="_blank" rel="noopener noreferrer">nazreena_abdul_rahman@moe.edu.sg</a></td>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td><b>MRS SERENE NG</b><br>Form Teacher Pri 3C<br><a href="mailto:neo_po_tin_serene@moe.edu.sg" target="_blank" rel="noopener noreferrer">neo_po_tin_serene@moe.edu.sg</a></td>
+    <td><b>MS JOLENE LOW</b><br>Form Teacher Pri 3D<br><a href="mailto:low_wei_ling_jolene@moe.edu.sg" target="_blank" rel="noopener noreferrer">low_wei_ling_jolene@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td><b>MR NEO JUN WEI</b><br>Form Teacher Pri 3E<br><a href="mailto:neo_jun_wei@moe.edu.sg" target="_blank" rel="noopener noreferrer">neo_jun_wei@moe.edu.sg</a></td>
+    <td><b>MS SITI HAWA</b><br>Form Teacher Pri 3F<br><a href="mailto:siti_hawa_mohamad_haniff@moe.edu.sg" target="_blank" rel="noopener noreferrer">siti_hawa_mohamad_haniff@moe.edu.sg</a> </td>
+  </tr>
+  <tr>
+    <td><b>MISS SHARANIYA</b><br>Form Teacher Pri 3G<br><a href="mailto:Sharaniya_Lekshmi_Veeraraghavan@moe.edu.sg" target="_blank" rel="noopener noreferrer">sharaniya_lekshmi_veeraraghavan@moe.edu.sg</a> </td>
+    <td><br></td>
+  </tr>
+</tbody>
+</table>
