@@ -45,3 +45,9 @@ Some of the facilities include:
   </tr>
 </tbody>
 </table>
+
+
+### **FOYER**
+
+
+
