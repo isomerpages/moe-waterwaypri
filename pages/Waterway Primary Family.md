@@ -67,3 +67,45 @@ description: ""
   </tr>
 </tbody>
 </table>
+
+<center><font size=5>HEAD OF DEPARTMENT/ASSISTANT YEAR & YEAR HEAD</font></center>
+
+
+<table>
+<thead>
+  <tr>
+    <td><b>MISS PRIYADAKSHINI</b><br>HOD English<br><a href="mailto:priyadakshini_surendiran_s@moe.edu.sg">priyadakshini_surendiran_s@moe.edu.sg</a></td>
+    <td><b>MRS SHEILA CHAN</b><br>HOD Mathematics<br><a href="mailto:tay_sock_hwee_sheila@moe.edu.sg">tay_sock_hwee_sheila@moe.edu.sg</a></td>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td><b>MRS WONG YAN RU</b><br>HOD Science<br><a href="mailto:lim_yan_ru@moe.edu.sg">lim_yan_ru@moe.edu.sg</a></td>
+    <td><b>MS TANG SIAW WEN</b><br>HOD Mother Tongue<br><a href="mailto:tang_siaw_wen@moe.edu.sg">tang_siaw_wen@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td><b>MR SIM TECK CHUAN</b><br>HOD ICT<br><a href="mailto:sim_teck_chuan@moe.edu.sg">sim_teck_chuan@moe.edu.sg</a></td>
+    <td><b>MR SAMY LIM</b><br>HOD PE<br><a href="mailto:lim_chee_kwee_samy@moe.edu.sg">lim_chee_kwee_samy@moe.edu.sg</a> </td>
+  </tr>
+  <tr>
+    <td><b>MR NG BAN HOCK</b><br>HOD Student Management<br><a href="mailto:ng_ban_hock@moe.edu.sg">ng_ban_hock@moe.edu.sg</a> </td>
+    <td><b>MS NEO CHAI LEE</b><br>HOD CCE<br><a href="mailto:Neo_chai_lee@moe.edu.sg">neo_chai_lee@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td><b>MS KAREN CHAN</b><br>SSD<br><a href="mailto:karen_oi_chan@moe.edu.sg">karen_oi_chan@moe.edu.sg </a> </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><b>MRS MITCHELLE WONG</b><br>Assistant Year Head (P1)<br><a href="mailto:mitchelle_wong@moe.edu.sg">mitchelle_wong@moe.edu.sg</a></td>
+    <td><b>MS WEE JER WEN</b><br>Year Head (P2)<br><a href="mailto:wee_jer_wen@moe.edu.sg">wee_jer_wen@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td><b>MDM NAZREENA</b><br>Year Head (P3)<br><a href="mailto:nazreena_abdul_rahman@moe.edu.sg">nazreena_abdul_rahman@moe.edu.sg</a></td>
+    <td><b>MRS SHRLINDA LEE</b><br>Year Head (P4)<br><a href="mailto:see_shu_lan_shrlinda@moe.edu.sg">see_shu_lan_shrlinda@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td><b>MR WONG BENG YU</b><br>Year Head (P5) / Orators@Waterway Coordinator <br><a href="mailto:wong_beng_yu@moe.edu.sg">wong_beng_yu@moe.edu.sg</a></td>
+    <td><b>MRS LU LI TING</b><br>Assistant Year Head (P6) / Growth &amp; Benefit Mindset Coordinator<br><a href="mailto:lim_li_ting@moe.edu.sg">lim_li_ting@moe.edu.sg</a></td>
+  </tr>
+</tbody>
+</table>
