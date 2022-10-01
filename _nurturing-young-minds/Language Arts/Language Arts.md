@@ -8,7 +8,7 @@ third_nav_title: Language Arts
 >LEARNING EXPERIENCES
 
 
-## LANGUAGE ARTS
+## Language Arts
 
 
 **Aim: Confident and Proficient Use of the English Language**
