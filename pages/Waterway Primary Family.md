@@ -111,6 +111,8 @@ description: ""
 </tbody>
 </table>
 
+<br>
+
 **<font size=5>SUBJECT/LEVEL HEADS, TEACHER LEADERS & COORDINATORS</font><a name="SH"></a>**
 
 
@@ -149,6 +151,7 @@ description: ""
 </tbody>
 </table>
 
+<br>
 
 **<font size=5>PRIMARY 1 TEACHERS
 </font><a name="P1"></a>**
@@ -180,6 +183,7 @@ description: ""
 </tbody>
 </table>
 
+<br>
 
 **<font size=5>PRIMARY 2 TEACHERS
 </font><a name="P2"></a>**
@@ -211,7 +215,7 @@ description: ""
 </tbody>
 </table>
 
-
+<br>
 
 **<font size=5>PRIMARY 3 TEACHERS
 </font><a name="P3"></a>**
@@ -238,6 +242,8 @@ description: ""
   </tr>
 </tbody>
 </table>
+
+<br>
 
 
 **<font size=5>PRIMARY 4 TEACHERS
@@ -266,6 +272,7 @@ description: ""
 </tbody>
 </table>
 
+<br>
 
 **<font size=5>PRIMARY 5 TEACHERS
 </font><a name="P5"></a>**
@@ -294,6 +301,8 @@ description: ""
 </tbody>
 </table>
 
+
+<br>
 
 **<font size=5>PRIMARY 6 TEACHERS
 </font><a name="P6"></a>**
@@ -394,4 +403,7 @@ description: ""
 </thead>
 </table>
 
+<br>
 
+**<font size=5>OTHER ENGLISH MEDIUM TEACHING STAFF
+</font><a name="OtherMedium"></a>**
