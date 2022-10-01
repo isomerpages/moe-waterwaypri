@@ -451,3 +451,22 @@ description: ""
   </tr>
 </tbody>
 </table>
+
+
+**<font size=5>SEN OFFICER & SCHOOL COUNSELLOR
+</font><a name="AED"></a>**
+
+<table>
+<thead>
+  <tr>
+		<td><b>MS ROFIDAH</b><br>Senior SEN Officer<br><a href="mailto:rofidah_samah@moe.edu.sg" target="_blank" rel="noopener noreferrer">rofidah_samah@moe.edu.sg</a></td>
+		<td><b>MS SITI</b><br>SEN Officer <br><a href="mailto:siti_khairunnisa_nor@moe.edu.sg">siti_khairunnisa_nor@moe.edu.sg</a></td>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+		<td><b>MS DEON </b><br>School Counsellor<br><a href="mailto:goh_siew_hui_deon@moe.edu.sg">goh_siew_hui_deon@moe.edu.sg</a></td>
+		<td><b>MS NEEMIKA</b><br>School Counsellor<br><a href="mailto:neemika_rai@moe.edu.sg">neemika_rai@moe.edu.sg</a></td>
+  </tr>
+</tbody>
+</table>
