@@ -317,3 +317,47 @@ description: ""
   </tr>
 </tbody>
 </table>
+
+**<font size=5>MOTHER TONGUE
+</font><a name="MT"></a>**
+
+**CHINESE LANGAUGE**
+
+<table>
+<thead>
+  <tr>
+    <td><b>MDM TEO TZE YUEN</b><br><a href="mailto:teo_tze_yuen@moe.edu.sg" target="_blank" rel="noopener noreferrer">teo_tze_yuen@moe.edu.sg</a></td>
+    <td><b>MS CHIEW PUI MEI</b><br><a href="mailto:pui_mei_chiew@moe.edu.sg" target="_blank" rel="noopener noreferrer">pui_mei_chiew@moe.edu.sg</a></td>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td><b>MS CHUA QINYU</b><br><a href="mailto:chua_qinyu@moe.edu.sg" target="_blank" rel="noopener noreferrer">chua_qinyu@moe.edu.sg</a></td>
+    <td><b>MRS FAYTH ONG</b><br><a href="mailto:ong_hui_sin@moe.edu.sg">ong_hui_sin@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td><b>MISS LI HUIMIN</b><br><a href="mailto:li_huimin@moe.edu.sg" target="_blank" rel="noopener noreferrer">li_huimin@moe.edu.sg</a></td>
+    <td><b>MISS GRACE SEAH</b><br><a href="mailto:seah_pei_ru_grace@moe.edu.sg" target="_blank" rel="noopener noreferrer">seah_pei_ru_grace@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td><b>MISS LIM TIAN JING</b><br><a href="mailto:lim_tian_jing@moe.edu.sg" target="_blank" rel="noopener noreferrer">lim_tian_jing@moe.edu.sg</a></td>
+    <td><b>MDM TAN MEO CHER</b><br><a href="mailto:tan_meo_cher@moe.edu.sg" target="_blank" rel="noopener noreferrer">tan_meo_cher@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td><b>MR TI TAT HUA</b><br><a href="mailto:ti_tat_hua@moe.edu.sg">ti_tat_hua@moe.edu.sg</a></td>
+    <td><b>MDM TAN CHUI CHOO</b><br><a href="mailto:tan_chui_choo@moe.edu.sg" target="_blank" rel="noopener noreferrer">tan_chui_choo@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td><b>MS JOEY NG</b><br><a href="mailto:ng_weini@moe.edu.sg">ng_weini@moe.edu.sg</a></td>
+    <td><b>MDM GINA YEO</b><br><a href="mailto:yeo_sim_lian_gina@moe.edu.sg">yeo_sim_lian_gina@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td><b>MS NYOE HUI YEE</b><br><a href="mailto:nyoe_hui_yee@moe.edu.sg">nyoe_hui_yee@moe.edu.sg</a></td>
+    <td><b>MDM TAN EI LIN</b><br><a href="mailto:tan_ei_lin@moe.edu.sg">tan_ei_lin@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td><b>MDM ONG SEE SEE</b><br><a href="mailto:ong_see_see_a@moe.edu.sg" target="_blank" rel="noopener noreferrer">ong_see_see_a@moe.edu.sg</a><br></td>
+    <td></td>
+  </tr>
+</tbody>
+</table>
