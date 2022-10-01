@@ -10,4 +10,34 @@ description: ""
 ![](/images/About%20Us/WWPS-1.jpg)
 ## Waterway Primary Family
 
-
+<table>
+<thead>
+  <tr>
+    <td><a href="https://waterwaypri-moe-edu-sg-admin.cwp.sg/about-us/waterway-primary-family#Leader">School Leaders</a><br></td>
+    <td><a href="https://waterwaypri-moe-edu-sg-admin.cwp.sg/about-us/waterway-primary-family#HOD">Head of Department/Assistant Year &amp; Year Head</a></td>
+    <td><a href="https://waterwaypri-moe-edu-sg-admin.cwp.sg/about-us/waterway-primary-family#SH">Subject/Level Heads, Teacher Leaders &amp; Coordinators</a><br></td>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td><br><a href="https://waterwaypri-moe-edu-sg-admin.cwp.sg/about-us/waterway-primary-family#MT">Mother Tongue Teachers</a></td>
+    <td><br><a href="https://waterwaypri-moe-edu-sg-admin.cwp.sg/about-us/waterway-primary-family#OtherMedium">Other English Medium Teaching Staff</a></td>
+    <td><br></td>
+  </tr>
+  <tr>
+    <td><a href="https://waterwaypri-moe-edu-sg-admin.cwp.sg/about-us/waterway-primary-family#P1">Primary 1</a></td>
+    <td><a href="https://waterwaypri-moe-edu-sg-admin.cwp.sg/about-us/waterway-primary-family#P2">Primary 2</a><br></td>
+    <td><a href="https://waterwaypri-moe-edu-sg-admin.cwp.sg/about-us/waterway-primary-family#P3">Primary 3</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://waterwaypri-moe-edu-sg-admin.cwp.sg/about-us/waterway-primary-family#P4">Primary 4</a></td>
+    <td><a href="https://waterwaypri-moe-edu-sg-admin.cwp.sg/about-us/waterway-primary-family#P5">Primary 5</a></td>
+    <td><a href="https://waterwaypri-moe-edu-sg-admin.cwp.sg/about-us/waterway-primary-family#P5">Primary 6</a></td>
+  </tr>
+  <tr>
+    <td> <br><a href="https://waterwaypri-moe-edu-sg-admin.cwp.sg/about-us/waterway-primary-family#Admin">Administrative &amp; Support Staff</a></td>
+    <td> <br><a href="https://waterwaypri-moe-edu-sg-admin.cwp.sg/about-us/waterway-primary-family#AED">SEN Officer &amp; School Counsellor</a></td>
+    <td> </td>
+  </tr>
+</tbody>
+</table>
