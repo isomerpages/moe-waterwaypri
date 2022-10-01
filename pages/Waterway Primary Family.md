@@ -238,3 +238,30 @@ description: ""
   </tr>
 </tbody>
 </table>
+
+
+**<font size=5>PRIMARY 4 TEACHERS
+</font><a name="P4"></a>**
+
+<table>
+<thead>
+  <tr>
+    <td><b>MRS AGNES CHYE</b><br>Form Teacher Pri 4A<br><a href="mailto:ang_soo_lay@moe.edu.sg" target="_blank" rel="noopener noreferrer">ang_soo_lay@moe.edu.sg</a></td>
+    <td><b>MDM AUDREY TOH</b><br>Form Teacher Pri 4B<br><a href="mailto:toh_ling_hui_audrey@moe.edu.sg" target="_blank" rel="noopener noreferrer">toh_ling_hui_audrey@moe.edu.sg</a></td>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td><b>MDM NURSAYIDAH</b><br>Form Teacher Pri 4C<br><a href="mailto:nursayidah_abdul_rahim@moe.edu.sg" target="_blank" rel="noopener noreferrer">nursayidah_abdul_rahim@moe.edu.sg</a></td>
+    <td><b>MR DARRELL TAN</b><br>Form Teacher Pri 4D<br><a href="mailto:Tan_Aun_Peng_Darrell@moe.edu.sg">tan_aun_peng_darrell@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td><b>MDM FOO WAN QING</b><br>Form Teacher Pri 4E<br><a href="mailto:foo_wan_qing@moe.edu.sg" target="_blank" rel="noopener noreferrer">foo_wan_qing@moe.edu.sg</a></td>
+    <td><b>MS HO WEE LIN</b><br>Form Teacher Pri 4F<br><a href="mailto:ho_wee_lin@moe.edu.sg" target="_blank" rel="noopener noreferrer">ho_wee_lin@moe.edu.sg</a> </td>
+  </tr>
+  <tr>
+    <td><b>MRS JASLYN THAM</b><br>Form Teacher Pri 4G<br><a href="mailto:fang_siying_jaslyn@moe.edu.sg" target="_blank" rel="noopener noreferrer">fang_siying_jaslyn@moe.edu.sg</a> </td>
+    <td><b>MR NG BAN HOCK</b><br>Form Teacher Pri 4H<br><a href="mailto:ng_ban_hock@moe.edu.sg" target="_blank" rel="noopener noreferrer">ng_ban_hock@moe.edu.sg</a> </td>
+  </tr>
+</tbody>
+</table>
