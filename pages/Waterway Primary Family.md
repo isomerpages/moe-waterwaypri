@@ -152,3 +152,30 @@ description: ""
 
 **<font size=5>PRIMARY 1 TEACHERS
 </font><a name="P1"></a>**
+
+<table>
+<thead>
+  <tr>
+    <td><b>MRS JANE TEO</b><br>Form Teacher Pri 1A<br><a href="mailto:cheong_fong_teng@moe.edu.sg" target="_blank" rel="noopener noreferrer">cheong_fong_teng@moe.edu.sg</a></td>
+    <td><b>MISS HUMAIRAH</b><br>Form Teacher Pri 1B  <br><a href="mailto:nur_humairah_hasim@moe.edu.sg" target="_blank" rel="noopener noreferrer">nur_humairah_hasim@moe.edu.sg</a></td>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td><b>MS CLARA ONG</b><br>Form Teacher Pri 1C<br><a href="mailto:ong_fong_yan_clara@moe.edu.sg" target="_blank" rel="noopener noreferrer">ong_fong_yan_clara@moe.edu.sg </a></td>
+    <td><b>MISS ZANDRA CHEW</b><br>Form Teacher Pri 1D<br><a href="mailto:chew_yann_zandra@moe.edu.sg" target="_blank" rel="noopener noreferrer">chew_yann_zandra@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td><b>MDM NURUL HUDA</b><br>Form Teacher Pri 1E<br><a href="mailto:nurul_huda_safaruddin@moe.edu.sg" target="_blank" rel="noopener noreferrer">nurul_huda_safaruddin@moe.edu.sg</a></td>
+    <td><b>MDM HIDAYAH</b><br>Form Teacher Pri 1F<br><a href="mailto:nur_hidayah_shopieoodin@moe.edu.sg" target="_blank" rel="noopener noreferrer">nur_hidayah_shopieoodin@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td><b>MRS CALYNN TEH</b><br>Form Teacher Pri 1G<br><a href="mailto:calynn_chow_wun_yen@moe.edu.sg" target="_blank" rel="noopener noreferrer">calynn_chow_wun_yen@moe.edu.sg</a></td>
+    <td><b>MR RYAN</b><br>Form Teacher Pri 1H<br><a href="mailto:ryan_williams_fernandez@moe.edu.sg" target="_blank" rel="noopener noreferrer">ryan_williams_fernandez@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td><b>MRS DIANA YAP</b><br>Form Teacher Pri 1I<br><a href="mailto:chan_hui_min_diana@moe.edu.sg" target="_blank" rel="noopener noreferrer">chan_hui_min_diana@moe.edu.sg</a></td>
+    <td> </td>
+  </tr>
+</tbody>
+</table>
