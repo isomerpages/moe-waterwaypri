@@ -70,7 +70,7 @@ description: ""
 
 <br>
 
-**<center><font size=5>HEAD OF DEPARTMENT/ASSISTANT YEAR & YEAR HEAD</font></center><a name="HOD"></a>**
+**<font size=5>HEAD OF DEPARTMENT/ASSISTANT YEAR & YEAR HEAD</font><a name="HOD"></a>**
 
 <table>
 <thead>
