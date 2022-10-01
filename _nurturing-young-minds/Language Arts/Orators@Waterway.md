@@ -8,3 +8,9 @@ third_nav_title: Language Arts
 >LEARNING EXPERIENCES
 
 ## Orators@Waterway
+
+<iframe width="480" height="360" src="https://www.youtube.com/embed/6IsVrD_nEm0" title="Toastmasters@Waterway" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+_<center>Orators@Waterway Programme in a nutshell.</center>_
+
+
