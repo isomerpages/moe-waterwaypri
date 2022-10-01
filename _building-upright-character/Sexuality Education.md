@@ -117,3 +117,70 @@ Primary 5
   </tr>
 </tbody>
 </table>
+
+Primary 6
+
+<table>
+<thead>
+  <tr>
+    <th>UNIT</th>
+    <th>LESSONS / DURATION</th>
+    <th>LESSON OBJECTIVES<br>At the end of the lesson, pupils will be able to:</th>
+    <th>TIME PERIOD</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td rowspan="5">Are We More Than Friends?</td>
+    <td>Who Are My Friends?<br>(30 min)</td>
+    <td>- identify the qualities of a healthy friendship <br>- recognise the importance of making wise choices in friendship</td>
+    <td>Term 1</td>
+  </tr>
+  <tr>
+    <td>Am I A Good Friend?<br>(30 min)</td>
+    <td>- identify the qualities that they have as a friend<br>- recognise the importance of developing in oneself the qualities of a good friend</td>
+    <td>Term 1</td>
+  </tr>
+  <tr>
+    <td>What is Love? <br>(30 min)</td>
+    <td>- identify the characteristics of love and infatuation<br>- distinguish between the characteristics of love versus infatuation<br>- identify strong feelings arising from infatuation</td>
+    <td>Term 1</td>
+  </tr>
+  <tr>
+    <td>Am I Falling In Love?<br>(30 min)</td>
+    <td>- manage strong feelings arising from infatuation<br>- identify ways to manage and cope with teasing from peers</td>
+    <td>Term 1</td>
+  </tr>
+  <tr>
+    <td>Main Task<br> (30 min)</td>
+    <td>Description of the Main Task:<br><br>Pupils are to play the role of a game designer who wants to create a board game to help pupils of their age learn more about the Big Idea of Relationships, specifically on family, friendships, love and infatuation. They will consider the issues that their peers would face and craft questions and answers that they believe their peers would benefit most from knowing.</td>
+    <td>Term 1</td>
+  </tr>
+  <tr>
+    <td rowspan="3">Friends or Foes?</td>
+    <td>Are You Really My Friend?<br>(30 min)</td>
+    <td>- identify the pros and cons of forming relationships through social networking websites<br>- know ways to keep themselves safe when using social networking websites</td>
+    <td>Term 3</td>
+  </tr>
+  <tr>
+    <td>Is It All Safe?<br>(30 min)</td>
+    <td>- know that some information (like pornography) received through the Internet may be harmful<br>- know ways to keep themselves safe when using social networking websites or the Internet</td>
+    <td>Term 3</td>
+  </tr>
+  <tr>
+    <td>Main Task<br> (30 min)</td>
+    <td>Description of the Main Task:<br><br>Pupils are to apply their understanding of Safety in a variety of scenarios where the main character could be in a precarious situation. They will consider the situation from the point of view of the main character, discuss what they think and feel about the situation and what they will do or say to ensure their safety.  These scenarios will provide pupils with the opportunity to demonstrate their understanding of Safety and that safety is a right and a responsibility.</td>
+    <td>Term 3</td>
+  </tr>
+</tbody>
+</table>
+
+**Information for Parents**
+
+8.  Parents may opt their children out of Sexuality Education lessons, and/or supplementary sexuality education programmes by MOE-approved external providers. 
+9.  Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [**here**](https://form.gov.sg/#!/61f0bf816c89fd0012ad09a8). The completed opt-out form is to be submitted by 11 Feb 2022.  
+      
+    
+10.  Parents can contact the school at 6636 6880 for discussion or to seek clarification about the school’s sexuality education programme.
+    
+11.  Parents, who wish to attend the school sexuality education programmes, should also contact the school to make the necessary arrangements.
