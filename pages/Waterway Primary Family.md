@@ -452,6 +452,7 @@ description: ""
 </tbody>
 </table>
 
+<br>
 
 **<font size=5>SEN OFFICER & SCHOOL COUNSELLOR
 </font><a name="AED"></a>**
@@ -467,6 +468,74 @@ description: ""
   <tr>
 		<td><b>MS DEON </b><br>School Counsellor<br><a href="mailto:goh_siew_hui_deon@moe.edu.sg">goh_siew_hui_deon@moe.edu.sg</a></td>
 		<td><b>MS NEEMIKA</b><br>School Counsellor<br><a href="mailto:neemika_rai@moe.edu.sg">neemika_rai@moe.edu.sg</a></td>
+  </tr>
+</tbody>
+</table>
+
+<br>
+
+**<font size=5>ADMINISTRATIVE & SUPPORT STAFF
+</font><a name="Admin"></a>**
+
+
+**ADMINISTRATIVE STAFF**
+
+<table>
+<thead>
+  <tr>
+    <td>Administration Manager</td>
+    <td><b>MISS LIM HUI FONG</b></td>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Administration Executive</td>
+    <td><b>MISS PHUA LEE KOON</b></td>
+  </tr>
+  <tr>
+    <td>Corporate Support Officer</td>
+    <td><b>MS SOH LENG LENG</b></td>
+  </tr>
+  <tr>
+    <td>Corporate Support Officer</td>
+    <td><b>MS SITI</b></td>
+  </tr>
+</tbody>
+</table>
+
+**SUPPORT STAFF**
+
+<table>
+<thead>
+  <tr>
+    <td>Operations Manager</td>
+    <td><b>MR KONG KOON FOCK</b></td>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Operations Manager</td>
+    <td><b>MR BERNARD CHIA</b></td>
+  </tr>
+  <tr>
+    <td>Operations Support Officer</td>
+    <td><b>MDM TAN</b></td>
+  </tr>
+  <tr>
+    <td>Operations Support Officer</td>
+    <td><b>MDM ROSILAH</b></td>
+  </tr>
+  <tr>
+    <td>Operations Support Officer</td>
+    <td><b>MR CHOW PAK WAH</b></td>
+  </tr>
+  <tr>
+    <td>Operations Support Officer</td>
+    <td><b>MDM TAN KIM SIONG</b></td>
+  </tr>
+  <tr>
+    <td>Operations Support Officer</td>
+    <td><b>MDM NGHIEM NU</b></td>
   </tr>
 </tbody>
 </table>
