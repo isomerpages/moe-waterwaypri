@@ -40,4 +40,14 @@ As our students learn through these meaningful experiences, we want them to alwa
 
   
 
-Our Story
+<center> <font size=4>Our Story</font> </center>
+
+<iframe width="854" height="480" src="https://www.youtube.com/embed/EdsJxvFwOLs" title="Waterway Primary School Official Opening Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<center> <font size=4>Our School Song</font> </center>
+
+<iframe width="856" height="482" src="https://www.youtube.com/embed/mIBFremLkmM" title="Our School Song" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<center> <font size=4>Highlights Of Minister's Speech</font> </center>
+
+<iframe width="850" height="478" src="https://www.youtube.com/embed/Wi5ktkQiVBY" title="Highlights of Minister's Speech during Official Opening" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
