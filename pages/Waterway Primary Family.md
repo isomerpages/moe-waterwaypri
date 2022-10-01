@@ -179,3 +179,35 @@ description: ""
   </tr>
 </tbody>
 </table>
+
+
+**<font size=5>PRIMARY 2 TEACHERS
+</font><a name="P2"></a>**
+
+<table>
+<thead>
+  <tr>
+    <td><b>MISS YEO SHU YUAN</b><br>Form Teacher Pri 2A<br><a href="mailto:yeo_shu_yuan@moe.edu.sg" target="_blank" rel="noopener noreferrer">yeo_shu_yuan@moe.edu.sg</a></td>
+    <td><b>MDM HARIATI</b><br>Form Teacher Pri 2B<br><a href="mailto:hariati_ali@moe.edu.sg" target="_blank" rel="noopener noreferrer">hariati_ali@moe.edu.sg</a></td>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td><b>MDM SITI NURAIDAH</b><br>Form Teacher Pri 2C<br><a href="mailto:siti_nuraidah_mukthar@moe.edu.sg" target="_blank" rel="noopener noreferrer">siti_nuraidah_mukthar@moe.edu.sg</a></td>
+    <td><b>MISS REMEDIOS SARAH MEGAN</b><br>Form Teacher Pri 2D<br><a href="mailto:remedios_sarah_megan@moe.edu.sg" target="_blank" rel="noopener noreferrer">remedios_sarah_megan@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td><b>MISS CHERYL KHOO</b><br>Form Teacher Pri 2E<br><a href="mailto:KHOO_Wan_Shir_Cheryl@moe.edu.sg" target="_blank" rel="noopener noreferrer">khoo_wan_shir_cheryl@moe.edu.sg</a> </td>
+    <td><b>MISS MEGHANA PRASAD</b><br>Form Teacher Pri 2F<br><a href="mailto:Meghana_Prasad@moe.edu.sg" target="_blank" rel="noopener noreferrer">Meghana_Prasad@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td><b>MISS CHEN WEI JIE</b><br>Form Teacher Pri 2G<br><a href="mailto:chen_wei_jie_a@moe.edu.sg" target="_blank" rel="noopener noreferrer">chen_wei_jie_a@moe.edu.sg</a> </td>
+    <td><b>MRS ESTHER</b><br>Form Teacher Pri 2H<br><a href="mailto:ng_may_ling_esther@moe.edu.sg" target="_blank" rel="noopener noreferrer">ng_may_ling_esther@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td><b>MS IVY YEO</b><br>Form Teacher Pri 2I<br><a href="mailto:yeo_ivy@moe.edu.sg" target="_blank" rel="noopener noreferrer">yeo_ivy@moe.edu.sg</a></td>
+    <td> </td>
+  </tr>
+</tbody>
+</table>
+
