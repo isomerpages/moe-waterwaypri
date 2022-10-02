@@ -79,7 +79,7 @@ Please follow our detailed instructions to download the Pocket Trips app and the
 
   
 
-The user guide can be view and download from this [link](https://waterwaypri-moe-edu-sg-admin.cwp.sg/wwps/pocket-trips-guide). (CHANGE LINK)
+The user guide can be view and download from this [link](https://staging.d1vupma46t7042.amplifyapp.com/wwps/pocket-trips-guide/). 
 
 
 
