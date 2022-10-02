@@ -48,6 +48,6 @@ Please view the videos and slides (in sequence) below to find out more about PSR
 
   
 
-[Hedgehog Video](https://waterwaypri.moe.edu.sg/qql/slot/u725/Learning_Experiences/Peer%20Support/Hedgehog%20video.mp4) (UPLOAD VIDEO TO YOUTUBE)<br>
+[Hedgehog Video](https://waterwaypri.moe.edu.sg/qql/slot/u725/Learning_Experiences/Peer%20Support/Hedgehog%20video.mp4) (UPLOAD VIDEO TO YOUTUBE/VIMEO)<br>
 [Slides on PSR @ WAPS](/files/PSR%20%20WAPS.pdf)<br>
-[PSR Framework](https://waterwaypri.moe.edu.sg/qql/slot/u725/Learning_Experiences/Peer%20Support/PSR%20Framework.mp4) (UPLOAD VIDEO TO YOUTUBE)
+[PSR Framework](https://waterwaypri.moe.edu.sg/qql/slot/u725/Learning_Experiences/Peer%20Support/PSR%20Framework.mp4) (UPLOAD VIDEO TO YOUTUBE/VIMEO)
