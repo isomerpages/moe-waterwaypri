@@ -10,19 +10,17 @@ third_nav_title: Interest CCA
 ## Interest CCA
 
 <p><a href="link">
-<img align="left" style="width:35%" src="/images/CCA/Basketball.jpg">
+<img align="left" style="width:25%" src="/images/CCA/Basketball.jpg">
 </a></p>
 
 <p><a href="link">
-<img align="left" style="width:35%" src="/images/CCA/Basketball.jpg">
+<img align="left" style="width:25%" src="/images/CCA/Basketball.jpg">
 </a></p>
 
 <p><a href="link">
-<img align="left" style="width:35%" src="/images/CCA/Basketball.jpg">
+<img align="left" style="width:25%" src="/images/CCA/Basketball.jpg">
 </a></p>
 																																													
 <p><a href="link">
-<img align="left" style="width:35%" src="/images/CCA/Basketball.jpg">
+<img align="left" style="width:25%" src="/images/CCA/Basketball.jpg">
 </a></p>
-																																										
-																																																				 
