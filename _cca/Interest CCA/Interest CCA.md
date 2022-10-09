@@ -25,7 +25,7 @@ third_nav_title: Interest CCA
 <img align="left" style="width:25%" src="/images/CCA/International%20Dance.jpg">
 </a></p>
 
-<br><br><br><br>
+<br><br><br><br><br><br>
 
 <p><a href="https://staging.d1vupma46t7042.amplifyapp.com/cca/interest-cca/coding-and-robotics-info-comm-and-media-crim/">
 <img align="left" style="width:25%" src="/images/CCA/Coding%20and%20Robotics,%20Infocomm%20and%20Media%20(CRIM).jpg">
@@ -43,7 +43,7 @@ third_nav_title: Interest CCA
 <img align="left" style="width:25%" src="/images/CCA/International%20Chess.jpg">
 </a></p>
 
-<br><br><br><br>
+<br><br><br><br><br><br>
 
 <center>
 <p><a href="https://staging.d1vupma46t7042.amplifyapp.com/cca/interest-cca/art-club/">
