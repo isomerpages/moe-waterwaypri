@@ -39,24 +39,32 @@ In Choir, the students are exposed to a variety of languages, cultures, rhythmic
 \-    strengthen pitching and do simple note-reading
 
 
+<img src="/images/CCA/Choir%202.jpg"  
+     style="width:70%">
 
-![](/images/CCA/Choir%202.jpg)
+<img src="/images/CCA/Choir%203.jpg"  
+     style="width:70%">
 
-![](/images/CCA/Choir%203.jpg)
+<img src="/images/CCA/Choir%204.jpg"  
+     style="width:70%">
 
-![](/images/CCA/Choir%204.jpg)
+
 
 
 As junior choristers, the students will have opportunities to develop leadership skills through guiding new choir members and leading vocal warm up and sectional practices (soprano and alto).
 
 
-![](/images/CCA/Choir%205.jpg)
 
 
+<img src="/images/CCA/Choir%205.jpg"  
+     style="width:85%">
+		 
 As senior choristers, the students will work alongside with their peers and teachers to manage administrative and logistical processes for rehearsals and performances.
 
 
-![](/images/CCA/Choir%206.jpg)
+
+<img src="/images/CCA/Choir%206.jpg"  
+     style="width:75%">
 
 <img src="/images/CCA/Choir%207.jpg"  
-     style="width:55%">
+     style="width:35%">
