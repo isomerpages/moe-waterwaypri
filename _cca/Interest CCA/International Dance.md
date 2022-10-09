@@ -12,7 +12,7 @@ third_nav_title: Interest CCA
 Our International Dance CCA aims to inspire passionate dance students and develop their interest and talent in dance.
 
 <img src="/images/CCA/Int%20Dance%201.jpg"  
-     style="width:75%">
+     style="width:55%">
 
 It is a platform for students to learn various dance genres and styles in not just ethnic, but also contemporary dance such as Hip Hop and Jazz. We aim to provide students with a strong foundation in dance under the guidance of experienced dance instructors and teachers.
 
@@ -37,10 +37,10 @@ In the process, we strive to build confidence in our young talents, bringing out
      style="width:100%">
 
 <img src="/images/CCA/Int%20Dance%204.jpg"  
-     style="width:55%">
+     style="width:45%">
 		 
 <img src="/images/CCA/Int%20Dance%205.jpg"  
-     style="width:85%">		 
+     style="width:65%">		 
 		 
 <img src="/images/CCA/Int%20Dance%206.jpeg"  
-     style="width:85%">		 
+     style="width:65%">
