@@ -25,5 +25,4 @@ There are specially designed Art rooms for Art lessons. Our Art Gallery displays
   
 
 Students interested or talented in Art will be provided with other platforms for development such
-
 as national competitions or enrichment lessons. Activities held outside the classroom, such as visits to museums and Art exhibitions, will also enhance their learning experiences.
