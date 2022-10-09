@@ -62,6 +62,7 @@ INSERT ONE MAP
 </tbody>
 </table>
 
+<br>
 
 <table>
 <thead>
@@ -88,6 +89,8 @@ INSERT ONE MAP
 </tbody>
 </table>
 
+<br>
+
 <table>
 <thead>
   <tr>
@@ -107,6 +110,8 @@ INSERT ONE MAP
 </tbody>
 </table>
 
+<br>
+
 <table>
 <thead>
   <tr>
@@ -119,6 +124,8 @@ INSERT ONE MAP
   </tr>
 </tbody>
 </table>
+
+<br>
 
 <table>
 <thead>
@@ -144,6 +151,8 @@ INSERT ONE MAP
   </tr>
 </tbody>
 </table>
+
+<br>
 
 <table>
 <thead>
