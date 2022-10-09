@@ -24,6 +24,7 @@ INSERT ONE MAP
 </thead>
 </table>
 
+<br>
 
 <table>
 <thead>
