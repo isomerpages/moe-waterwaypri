@@ -21,7 +21,7 @@ These students will be stretched further to develop coding and computational thi
 
 
 <img src="/images/CCA/CRIM%202.jpeg"  
-     style="width:75%">
+     style="width:55%">
 
 
 Students will be given a chance to participate in any potential CRIM-related competitions such as the National Primary Games Creation and Coding Competition, World Robo Tournament and  East Zone DSTA-DSO Robotics Challenge.
@@ -29,4 +29,4 @@ Students will be given a chance to participate in any potential CRIM-related com
 
 
 <img src="/images/CCA/CRIM%203.jpeg"  
-     style="width:55%">
+     style="width:40%">
