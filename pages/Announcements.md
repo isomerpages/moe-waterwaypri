@@ -123,4 +123,43 @@ Please click on the link below to view:
 
 -------------------
 
+**We are On Air**
 
+Our Principal, Mrs Wee-Kwan Liam, was featured in a news article giving her comments about the new PSLE Scoring and S1 Posting.
+
+[Today Online](http://www.todayonline.com/singapore/educators-hope-revamp-will-lead-mastery-content)
+
+-----------------
+
+**Parents Say....**
+
+Take a look at what our parents have to say about Waterway Primary School. Find out more [here](https://padlet.com/waterwaypri/us9zlsr4iji9 "Parents Say...").
+
+
+-----------------
+
+**2021 P6 Cohort Students & Parents Say**
+
+Notes of appreciation from our graduating students and their parents.
+
+Click here to [view](https://waterwaypri.wixsite.com/wwps-openhouse/2021-p6-cohort-students-parents-say).
+
+
+---------------
+
+**Student Vaccination Exercise**
+
+As part of the national vaccination exercise, the Ministry of Health will work with the Ministry of Education to progressively cover over 400,000 students from schools and Institutes of Higher Learning (IHLs) from 1 June 2021.
+
+You may find more information from the following link.
+
+**[Parent Kit on Student Vaccination Exercise](http://waterwaypri-moe-edu-sg-admin.cwp.sg/qql/slot/u725/Student%20Vaccination/Parent%20Kit%20on%20Student%20Vaccination%20Exercise.pdf)**
+
+**[Infographic](http://waterwaypri-moe-edu-sg-admin.cwp.sg/qql/slot/u725/Student%20Vaccination/One%20page%20Infographic%20on%20Student%20Vaccination%20Exercise.pdf)**
+
+
+--------------------
+
+**Safe Management Measures**
+
+To stay safe and follow Safe Management Measures (SMM), watch this Soaper 5 [episode](https://youtu.be/fQiaQ_yVSCc)
