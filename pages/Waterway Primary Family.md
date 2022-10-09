@@ -546,17 +546,17 @@ description: ""
 <thead>
   <tr>
     <td>ICT Manager</td>
-    <td><b>MR KOH CHEE WEI</b></td>
+    <th>MR KOH CHEE WEI<br></th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td>Desktop Engineer</td>
-    <td><b>MR SHAFIQ<//b></td>
+		<td><b>MR SHAFIQ</b></td>
   </tr>
   <tr>
     <td></td>
-    <td><b>MR SARA</b></td>
+		<td><b>MR SARA</b></td>
   </tr>
 </tbody>
 </table>
