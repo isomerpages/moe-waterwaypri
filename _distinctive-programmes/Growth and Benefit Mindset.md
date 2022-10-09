@@ -42,34 +42,47 @@ through integration in subjects across the curriculum.
 
 
 **Good Morning School (GMS)**
-![](/images/Distinctive%20Programmes/G&B%201.jpg)
+
+<img src="/images/Distinctive%20Programmes/G&B%201.jpg"  
+     style="width:75%">
+
 _As teachers and student presenters share about current affairs during morning assemblies, they link their topics to the growth and benefit mindset. These links help our students to see how embracing a growth and benefit mindset is important and relevant to their lives._
 
  _**P1 Growth Mindset Activity Book**_
 
 _In 2020, a series of growth mindset lessons was rolled out to our Primary 1 students. An activity book was specially designed by our teachers for this purpose. The topics covered include what a growth mindset is, positive self-talk, dealing with challenges and learning from mistakes._
 
-![](/images/Distinctive%20Programmes/G&B%202.jpg)
 
+<img src="/images/Distinctive%20Programmes/G&B%202.jpg"  
+     style="width:55%">
 
- __P2 **Growth Mindset Lessons during Orators**__
+ __**P2 Growth Mindset Lessons during Orators**__
  
- ![](/images/Distinctive%20Programmes/G&B%203.jpg)
+ <img src="/images/Distinctive%20Programmes/G&B%203.jpg"  
+     style="width:90%">
+		 
+		 
+<img src="/images/Distinctive%20Programmes/G&B%204.jpg"  
+     style="width:90%">	 
 
- ![](/images/Distinctive%20Programmes/G&B%204.jpg)
 
 
  _**P3 to P5 Growth Mindset Lessons**_<br>
 _Students gain a better understanding of the themes ‘Everyone can learn’, ‘Mistakes are opportunities for learning’, ‘We love challenges’ and ‘Feedback is a gift’, through lesson packages specially crafted by our teachers. These lesson packages help students to understand the importance of embracing a growth mindset and ways to cultivate a growth mindset._
 
- ![](/images/Distinctive%20Programmes/G&B%205.jpg)
 
+<img src="/images/Distinctive%20Programmes/G&B%205.jpg"  
+     style="width:85%">
 
 _**S.H.I.N.E Read & Reflect**_
 
- ![](/images/Distinctive%20Programmes/G&B%206.jpg)
+<img src="/images/Distinctive%20Programmes/G&B%206.jpg"  
+     style="width:65%">
 
- ![](/images/Distinctive%20Programmes/G&B%207.jpg)
+<img src="/images/Distinctive%20Programmes/G&B%207.jpg"  
+     style="width:75%">
+
+
 
 _To sustain and establish a culture of growth mindset, students read a prescribed book on growth mindset or graciousness every fortnight and answer some questions in their reflection journals. Through this programme, we hope that our students will improve in their language skills and build a habit of introspection._
 
@@ -86,9 +99,13 @@ The school values of **Responsibility** and **Empathy** underpin a Benefit M
 
 _**Benefit Mindset Journey at Waterway Primary**_
 
-![](/images/Distinctive%20Programmes/G&B%208.jpg)
 
-![](/images/Distinctive%20Programmes/G&B%209.jpg)
+<img src="/images/Distinctive%20Programmes/G&B%208.jpg"  
+     style="width:85%">
+		 
+<img src="/images/Distinctive%20Programmes/G&B%209.jpg"  
+     style="width:85%">		 
+
 
 
 **_S.H.I.N.E_** is the acronym that Waterway Primary School uses to describe the efforts that we take to imbue a _Growth Mindset and_ a _Benefit Mindset_ in our students. 
