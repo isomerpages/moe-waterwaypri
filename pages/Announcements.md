@@ -35,7 +35,7 @@ Students' Channel@Waterway is a showcase of our students as self-regulated learn
 
 Students' Channel@Waterway is entirely the creation and works of our students.
 
-[Link for Students' Channel@Waterway](https://waterwaypri-moe-edu-sg-admin.cwp.sg/learning-experiences/our-students-our-pride-students-channel)
+[Link for Students' Channel@Waterway](https://staging.d1vupma46t7042.amplifyapp.com/learning-experiences/our-students-our-pride-students-channel/)
 
 -----------
 
@@ -53,7 +53,7 @@ If you would like to know more about Waterway Primary School, join us on a virtu
 
 10 of our P4 students represented Waterway Primary School to participate in the National Primary Games Creation and Coding Competition 2019 (NPGC3). They emerged 1st Runner-up and 2nd Runner-up in their respective categories. Well done, children!
 
-Click on this [link](https://waterwaypri.moe.edu.sg/celebrations) to read the details.
+Click on this [link](https://staging.d1vupma46t7042.amplifyapp.com/learning-experiences/celebrations/) to read the details.
 
 -----------------
 
@@ -72,7 +72,7 @@ Waterway Primary School’s Computational Thinking Programme has been featured o
 
 Please click on the link below for the full article.
 
-[Link](https://www.imda.gov.sg/digitalmaker/media-center/2019/03/26/19feb16_waterwayprimary)
+[Link](https://www.imda.gov.sg/digitalmaker/media-center/2019/03/26/19feb16_waterwayprimary) **(BROKEN LINK)**
 
 
 -----------------
@@ -81,7 +81,7 @@ Please click on the link below for the full article.
 
 As part of our partnership with SIT, two SIT scholars shared with our students on their area of study (computer engineering) during the “Good Morning School” programme on 13 February 2019. 
 
-Click [here](https://waterwaypri-moe-edu-sg-admin.cwp.sg/wwps/sharing-by-singapore-institute-of-technology-sit-during-good-morning-school-programme) to view the photos of the sharing.
+Click [here](https://staging.d1vupma46t7042.amplifyapp.com/wwps/sharing-by-singapore-institute-of-technology-sit-during-good-morning-school-programme/) to view the photos of the sharing.
 
 --------------
 
@@ -95,7 +95,7 @@ Our school's Year Head, Mr Wong Beng Yu, was interviewed on Mediacorp's Channel 
 
 Our Orators@Waterway Programme was featured in Schoolbag.sg
 
-[News Article](https://www.schoolbag.sg/story/waterway-primary-school-students-speak-their-way-to-confidence)
+[News Article](https://www.schoolbag.edu.sg/story/waterway-primary-school-students-speak-their-way-to-confidence)
 
 ----------------
 
@@ -109,7 +109,9 @@ Minister for Education (Schools) Mr Ng Chee Meng commended us on our initiative 
 
 Our Orators@Waterway programme was highlighted in the Lian He Zao Bao.
 
-[News Article](http://waterwaypri.moe.edu.sg/qql/slot/u725/NewsPaper_08012017.jpg)
+<img src="/images/NewsPaper_08012017.jpg"  
+     style="width:55%">
+
 
 ------------
 
@@ -153,9 +155,9 @@ As part of the national vaccination exercise, the Ministry of Health will work w
 
 You may find more information from the following link.
 
-**[Parent Kit on Student Vaccination Exercise](http://waterwaypri-moe-edu-sg-admin.cwp.sg/qql/slot/u725/Student%20Vaccination/Parent%20Kit%20on%20Student%20Vaccination%20Exercise.pdf)**
+**[Parent Kit on Student Vaccination Exercise](/files/Parent%20Kit%20on%20Student%20Vaccination%20Exercise.pdf)**
 
-**[Infographic](http://waterwaypri-moe-edu-sg-admin.cwp.sg/qql/slot/u725/Student%20Vaccination/One%20page%20Infographic%20on%20Student%20Vaccination%20Exercise.pdf)**
+**[Infographic](/files/One%20page%20Infographic%20on%20Student%20Vaccination%20Exercise.pdf)**
 
 
 --------------------
