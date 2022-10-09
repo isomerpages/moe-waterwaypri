@@ -25,14 +25,14 @@ description: ""
 
 *   [Student Vaccination Exercise](https://staging.d1vupma46t7042.amplifyapp.com/others/student-vaccination-exercise/)  
     
-*   [Newsletter 2021](https://go.gov.sg/waterway-newsletter2021)  
+*   [Newsletter 2021](/files/Newsletter_2021.pdf)
     
 *   [@parentingwith.moesg](https://instagram.com/parentingwith.moesg)
 *   [Vendor Information](https://staging.d1vupma46t7042.amplifyapp.com/parents/vendor-information/)
 *   [Forms](https://staging.d1vupma46t7042.amplifyapp.com/parents/forms/)
-*   [Schoolbag](https://www.schoolbag.sg/)
-*   [MOE Cyberwellness](https://ictconnection.moe.edu.sg/cyber-wellness/for-parents)
-*   [MOE Kindergarten](https://www.moe.gov.sg/microsites/moekindergarten/)  
+*   [Schoolbag](https://www.schoolbag.edu.sg/)
+*   [MOE Cyberwellness](https://ictconnection.moe.edu.sg/cyber-wellness/for-parents) (BROKEN LINK)
+*   [MOE Kindergarten](https://www.moe.gov.sg/microsites/moekindergarten/)  (BROKEN LINK)
       
     
 
