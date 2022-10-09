@@ -27,10 +27,10 @@ The NPGC3 is an annual competition organised by Wellington Primary School to pro
 Our 2 teams of students participated in the Drone and Minecraft categories of the competition. The teams emerged 1st Runner-up and 2nd Runner-up in their respective categories. In addition, the Drone team clinched the ‘Best Art Work’ award for their proposal submitted prior to the final of the competition.
 
 <img src="/images/Learning%20Experiences/Celebrations/Celebrations%203.png"  
-     style="width:55%">
+     style="width:35%">
 
 <img src="/images/Learning%20Experiences/Celebrations/Celebrations%204.png"  
-     style="width:65%">
+     style="width:45%">
 
 
 
