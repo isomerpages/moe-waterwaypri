@@ -17,6 +17,10 @@ Our PE programme aims to develop students’ psychomotor skills, control and co-
 
 **<u>Physical & Health Education Framework</u>**
 
-![](/images/Learning%20Experiences/PE%20and%20Health%201.png)
+<img src="/images/Learning%20Experiences/PE%20and%20Health%201.png"  
+     style="width:55%">
 
-![](/images/Learning%20Experiences/PE%20and%20Health%202.png)
+
+
+<img src="/images/Learning%20Experiences/PE%20and%20Health%202.png"  
+     style="width:75%">
