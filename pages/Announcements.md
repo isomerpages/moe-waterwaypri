@@ -7,7 +7,7 @@ description: ""
 
 Minister of Education, Mr Lawrence Wong, made a media visit to our school on 4 Jan 2021. The various media agencies got to observe the safe management practices the school has in place to ensure the safety of our students.
 
-Click on this [link](https://waterwaypri-moe-edu-sg-admin.cwp.sg/parents/minister-wongs-media-visit) to view the media reports and videos.
+Click on this [link](https://staging.d1vupma46t7042.amplifyapp.com/parents/minister-wongs-media-visit/) to view the media reports and videos.
 
 -----------------
 
@@ -16,7 +16,7 @@ Click on this [link](https://waterwaypri-moe-edu-sg-admin.cwp.sg/parents/minist
 
 We were part of the Punggol Inter Racial and Religious Harmony Street Parade E-Fiesta 2020.
 
-Click [here](https://waterwaypri-moe-edu-sg-admin.cwp.sg/qql/slot/u725/2020/PunggolEFiesta2020.mp4) to watch the video clip
+Click [here](https://waterwaypri-moe-edu-sg-admin.cwp.sg/qql/slot/u725/2020/PunggolEFiesta2020.mp4) to watch the video clip **(NEED TO UPLOAD VIDEO TO YOUTUBE/VIMEO)**
 
 -----------------
 
