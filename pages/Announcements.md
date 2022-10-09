@@ -103,8 +103,6 @@ Our Orators@Waterway Programme was featured in Schoolbag.sg
 
 Minister for Education (Schools) Mr Ng Chee Meng commended us on our initiative for raising a kickstart fund for the "Pay It Forward" Coffee project in his facebook post. Click [here](https://www.facebook.com/NgCheeMengforSG/posts/1331532590200804) to view the post and pictures.
 
-![](https://waterwaypri-moe-edu-sg-admin.cwp.sg/pix/spacer.gif)
-
 -------------
 
 **Featured on Lian He Zao Bao**
@@ -124,4 +122,5 @@ Please click on the link below to view:
 [MOE's feature](https://www.facebook.com/moesingapore/posts/10155047186637004)
 
 -------------------
+
 
