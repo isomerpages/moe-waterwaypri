@@ -31,7 +31,7 @@ P3 MCCA teaches students to create stop motion videos using Legos and iPads. Stu
 
 
 <img src="/images/CCA/Infocomm%202.jpg"  
-     style="width:75%">
+     style="width:55%">
 
 **<u>P4 MCCA</u>**
 
