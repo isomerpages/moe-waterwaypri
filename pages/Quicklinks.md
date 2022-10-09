@@ -23,13 +23,13 @@ description: ""
     
 *   [2021 P6 Cohort Students & Parents Say](https://waterwaypri.wixsite.com/wwps-openhouse/2021-p6-cohort-students-parents-say)
 
-*   [Student Vaccination Exercise](https://waterwaypri-moe-edu-sg-admin.cwp.sg/others/student-vaccination-exercise)  
+*   [Student Vaccination Exercise](https://staging.d1vupma46t7042.amplifyapp.com/others/student-vaccination-exercise/)  
     
 *   [Newsletter 2021](https://go.gov.sg/waterway-newsletter2021)  
     
 *   [@parentingwith.moesg](https://instagram.com/parentingwith.moesg)
-*   [Vendor Information](https://waterwaypri.moe.edu.sg/parents/vendor-information)
-*   [Forms](https://waterwaypri.moe.edu.sg/parents/forms)
+*   [Vendor Information](https://staging.d1vupma46t7042.amplifyapp.com/parents/vendor-information/)
+*   [Forms](https://staging.d1vupma46t7042.amplifyapp.com/parents/forms/)
 *   [Schoolbag](https://www.schoolbag.sg/)
 *   [MOE Cyberwellness](https://ictconnection.moe.edu.sg/cyber-wellness/for-parents)
 *   [MOE Kindergarten](https://www.moe.gov.sg/microsites/moekindergarten/)  
