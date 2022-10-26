@@ -2,9 +2,9 @@ collections:
   about-us:
     output: true
     order:
-      - School Crest.md
-      - School Philosophy & Direction.md
-      - Waterway Primary Family.md
       - Principal's Message.md
       - Our Story.md
       - Mission, Vision, Values.md
+      - School Crest.md
+      - School Philosophy & Direction.md
+      - Waterway Primary Family.md
