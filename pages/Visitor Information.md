@@ -22,9 +22,6 @@ description: ""
   </tr>
 </thead>
 </table>
-
-<br>
-
 <table>
 <thead>
   <tr>
@@ -33,10 +30,6 @@ description: ""
 </td>
 </thead>
 </table>
-
-
-<br>
-
 
 **Operating Hours**
 
