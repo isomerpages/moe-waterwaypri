@@ -9,7 +9,7 @@ description: ""
 
 ## Forms
 
-*   [MOE Financial Assistance Scheme (FAS)](https://www.moe.gov.sg/docs/default-source/document/initiatives/financial-assistance/files/moe-fas-application-form.pdf) (LINK IS BROKEN)
+*   [LOA Application](https://go.gov.sg/loawaterwaypri)
 *   [Interbank GIRO Form](/files/MOE_GIRO_Forms.pdf)
 *   [GIRO Termination Form](/files/GIRO_Termination_Form_revisedSep19.pdf)
 *   [Agreement Form for Use of Smart Device](/files/Agreement%20Form%20for%20Use%20of%20Smart%20Device.pdf)
