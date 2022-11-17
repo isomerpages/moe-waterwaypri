@@ -9,7 +9,6 @@ description: ""
 
 ## Visitor Information
 
-INSERT ONE MAP
 
 [**70 Punggol Drive Singapore 828802**](https://share.onemap.sg/mmWGGv)
 
