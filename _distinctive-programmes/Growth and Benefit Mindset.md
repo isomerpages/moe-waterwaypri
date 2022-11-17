@@ -9,10 +9,7 @@ description: ""
 
 ## Growth and Benefit Mindset
 
-
 #### Growth Mindset
-
-  
 
 A Growth Mindset refers to the belief that a person’s abilities and intelligence can be developed through
 dedication and hard work. According to Dr. Carol Dweck – the professor of psychology who coined the
@@ -34,14 +31,11 @@ The growth mindset is imbued in students through explicit teaching during Orator
 through integration in subjects across the curriculum.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KhVtdaeMl7g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KhVtdaeMl7g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
  _**Growth Mindset Journey at Waterway Primary**_   
-
-<br>
-
 
 **Good Morning School (GMS)**
 
