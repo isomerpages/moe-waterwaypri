@@ -9,39 +9,7 @@ description: ""
 
 ![](/images/About%20Us/WWPS-1.jpg)
 ## Waterway Primary Family
-<centeR>
-<table>
-<thead>
-  <tr>
-    <td><a href="https://staging.d1vupma46t7042.amplifyapp.com/about-us/waterway-primary-family#Leader">School Leaders</a></td>
-    <td><a href="https://staging.d1vupma46t7042.amplifyapp.com/about-us/waterway-primary-family#HOD">Head of Department/Assistant Year &amp; Year Head</a></td>
-    <td><a href="https://staging.d1vupma46t7042.amplifyapp.com/about-us/waterway-primary-family#SH">Subject/Level Heads, Teacher Leaders &amp; Coordinators</a><br></td>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td><br><a href="https://staging.d1vupma46t7042.amplifyapp.com/about-us/waterway-primary-family#MT">Mother Tongue Teachers</a></td>
-    <td><br><a href="https://staging.d1vupma46t7042.amplifyapp.com/about-us/waterway-primary-family#OtherMedium">Other English Medium Teaching Staff</a></td>
-    <td><br></td>
-  </tr>
-  <tr>
-    <td><a href="https://staging.d1vupma46t7042.amplifyapp.com/about-us/waterway-primary-family#P1">Primary 1</a></td>
-    <td><a href="https://staging.d1vupma46t7042.amplifyapp.com/about-us/waterway-primary-family#P2">Primary 2</a><br></td>
-    <td><a href="https://staging.d1vupma46t7042.amplifyapp.com/about-us/waterway-primary-family#P3">Primary 3</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://staging.d1vupma46t7042.amplifyapp.com/about-us/waterway-primary-family#P4">Primary 4</a></td>
-    <td><a href="https://staging.d1vupma46t7042.amplifyapp.com/about-us/waterway-primary-family#P5">Primary 5</a></td>
-    <td><a href="https://staging.d1vupma46t7042.amplifyapp.com/about-us/waterway-primary-family#P5">Primary 6</a></td>
-  </tr>
-  <tr>
-    <td> <br><a href="https://staging.d1vupma46t7042.amplifyapp.com/about-us/waterway-primary-family#Admin">Administrative &amp; Support Staff</a></td>
-    <td> <br><a href="https://staging.d1vupma46t7042.amplifyapp.com/about-us/waterway-primary-family#AED">SEN Officer &amp; School Counsellor</a></td>
-    <td> </td>
-  </tr>
-</tbody>
-</table>
-</centeR>
+
 
 **<font size=5>SCHOOL LEADERS</font><a name="Leader"></a>**
 
@@ -55,6 +23,7 @@ description: ""
 <thead>
       		<td><b>MRS WEE-KWAN LIAM</b><br>Principal</td>
   <tbody>
+		
   <tr>
 		<td><b>MR DALJIT SINGH</b><br>Vice-Principal (Administration)</td>
     <td></td>
@@ -337,9 +306,9 @@ description: ""
 <tbody>
   <tr>
     <td><b>MS CHUA QINYU</b><br><a href="mailto:chua_qinyu@moe.edu.sg" target="_blank" rel="noopener noreferrer">chua_qinyu@moe.edu.sg</a></td>
-    <td><b>MRS FAYTH ONG</b><br><a href="mailto:ong_hui_sin@moe.edu.sg">ong_hui_sin@moe.edu.sg</a></td>
-  </tr>
-  <tr>
+     <td><b>MDM TAN EI LIN</b><br><a href="mailto:tan_ei_lin@moe.edu.sg">tan_ei_lin@moe.edu.sg</a></td>
+  </tr>	
+	<tr>
     <td><b>MISS LI HUIMIN</b><br><a href="mailto:li_huimin@moe.edu.sg" target="_blank" rel="noopener noreferrer">li_huimin@moe.edu.sg</a></td>
     <td><b>MISS GRACE SEAH</b><br><a href="mailto:seah_pei_ru_grace@moe.edu.sg" target="_blank" rel="noopener noreferrer">seah_pei_ru_grace@moe.edu.sg</a></td>
   </tr>
@@ -355,14 +324,8 @@ description: ""
     <td><b>MS JOEY NG</b><br><a href="mailto:ng_weini@moe.edu.sg">ng_weini@moe.edu.sg</a></td>
     <td><b>MDM GINA YEO</b><br><a href="mailto:yeo_sim_lian_gina@moe.edu.sg">yeo_sim_lian_gina@moe.edu.sg</a></td>
   </tr>
-  <tr>
-    <td><b>MS NYOE HUI YEE</b><br><a href="mailto:nyoe_hui_yee@moe.edu.sg">nyoe_hui_yee@moe.edu.sg</a></td>
-    <td><b>MDM TAN EI LIN</b><br><a href="mailto:tan_ei_lin@moe.edu.sg">tan_ei_lin@moe.edu.sg</a></td>
-  </tr>
-  <tr>
-    <td><b>MDM ONG SEE SEE</b><br><a href="mailto:ong_see_see_a@moe.edu.sg" target="_blank" rel="noopener noreferrer">ong_see_see_a@moe.edu.sg</a><br></td>
-    <td></td>
-  </tr>
+
+ 
 </tbody>
 </table>
 
@@ -440,10 +403,7 @@ description: ""
     <td><b>MR MOHD ALI</b><br>PE Teacher<br><a href="mailto:mohamed_ali_mohamed_hanafiah@moe.edu.sg" target="_blank" rel="noopener noreferrer">mohamed_ali_mohamed_hanafiah@moe.edu.sg</a></td>
     <td><b>MR LAI WEE YEONG</b><br>PE Teacher<br><a href="mailto:Lai_Wee_Yeong@moe.edu.sg">Lai_Wee_Yeong@moe.edu.sg</a></td>
   </tr>
-  <tr>
-    <td><b>MR SAIFUL</b><br>PE Teacher<br><a href="mailto:Saiful_Nizam_Omaran@moe.edu.sg">Saiful_Nizam_Omaran@moe.edu.sg</a></td>
-    <td> </td>
-  </tr>
+ 
 </tbody>
 </table>
 
@@ -461,7 +421,6 @@ description: ""
 </thead>
 <tbody>
   <tr>
-		<td><b>MS DEON </b><br>School Counsellor<br><a href="mailto:goh_siew_hui_deon@moe.edu.sg">goh_siew_hui_deon@moe.edu.sg</a></td>
 		<td><b>MS NEEMIKA</b><br>School Counsellor<br><a href="mailto:neemika_rai@moe.edu.sg">neemika_rai@moe.edu.sg</a></td>
   </tr>
 </tbody>
