@@ -33,8 +33,7 @@ The school values of **Self-discipline** and **Integrity** underpin a Growth
 The growth mindset is imbued in students through explicit teaching during Orators lessons as well as
 through integration in subjects across the curriculum.
 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5oK30WjdAVY" title="Growth & Benefit Mindset - Everyone Can Learn" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KhVtdaeMl7g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
  _**Growth Mindset Journey at Waterway Primary**_   
 
