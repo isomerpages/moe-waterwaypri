@@ -3,14 +3,13 @@ title: Waterway Primary Family
 permalink: /about-us/waterway-primary-family/
 description: ""
 ---
-
 > ![](/images/about-us_02.jpg)
 > About Us
 
 
 ![](/images/About%20Us/WWPS-1.jpg)
 ## Waterway Primary Family
-
+<centeR>
 <table>
 <thead>
   <tr>
@@ -42,9 +41,9 @@ description: ""
   </tr>
 </tbody>
 </table>
+</centeR>
 
-
-**<font size=5>SCHOOL LEADERS</font>****<a name="Leader"></a>**
+**<font size=5>SCHOOL LEADERS</font><a name="Leader"></a>**
 
 
 <table style="undefined;table-layout: fixed; width: 554px">
@@ -54,13 +53,8 @@ description: ""
 <col style="width: 193px">
 </colgroup>
 <thead>
-  <tr>
-    <th></th>
-		<td><b>MRS WEE-KWAN LIAM</b><br>Principal</td>
-    <th></th>
-  </tr>
-</thead>
-<tbody>
+      		<td><b>MRS WEE-KWAN LIAM</b><br>Principal</td>
+  <tbody>
   <tr>
 		<td><b>MR DALJIT SINGH</b><br>Vice-Principal (Administration)</td>
     <td></td>
