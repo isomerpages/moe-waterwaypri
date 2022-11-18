@@ -1,0 +1,9 @@
+collections:
+  facilities:
+    output: true
+    order:
+      - Facilities.md
+      - Academic.md
+      - Sports and CCAs.md
+      - Music and Art.md
+      - General.md
