@@ -3,16 +3,14 @@ title: Visitor Information
 permalink: /contact/visitor-information/
 description: ""
 ---
->![](/images/contact_02.jpg)
+>![](/images/Images/contact_02.jpg)
 >CONTACT
 
 
 ## Visitor Information
 
-
-[**70 Punggol Drive Singapore 828802**](https://share.onemap.sg/mmWGGv)
-
-
+#### Waterway Primary School 
+[70 Punggol Drive Singapore 828802](https://share.onemap.sg/mmWGGv)
 
 <table>
 <thead>
@@ -31,7 +29,7 @@ description: ""
 </thead>
 </table>
 
-**Operating Hours**
+##### Operating Hours
 
 <table>
 <thead>
@@ -81,8 +79,6 @@ description: ""
   </tr>
 </tbody>
 </table>
-
-<br>
 
 <table>
 <thead>
@@ -144,8 +140,6 @@ description: ""
   </tr>
 </tbody>
 </table>
-
-<br>
 
 <table>
 <thead>

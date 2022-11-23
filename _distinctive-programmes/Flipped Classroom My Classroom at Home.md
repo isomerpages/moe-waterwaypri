@@ -18,6 +18,3 @@ Waterway Primary School adopts Flipped Classroom, an approach used in many parts
   
 
 An example of flipped classroom learning – Teachers uploaded resources so that students could learn more about the Rio 2016 Olympics at home. They came back to class and presented games such as volleyball, gymnastics and water polo. Everyone in the class was familiar with the games having watch them at home. In the class, teachers and students had adequate time to work on organising the presentations, writing the presentation and presentation skills.
-
-
-**VIDEO NEEDS TO BE UPLOADED TO YOUTUBE/VIMEO**

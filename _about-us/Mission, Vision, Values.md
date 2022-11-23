@@ -13,8 +13,6 @@ description: ""
 
 _To provide a vibrant environment that nurtures young minds and builds upright character_
 
-  
-
 #### Vision
 
 _A Lifelong Learner, A Gracious Citizen_

@@ -52,7 +52,8 @@ PAL is an integral part of our curriculum as the school strive to build strong f
   </tr>
 </tbody>
 </table>
-
+<center>
+	
 **OUTDOOR EDUCATION**
 
 <img src="/images/Learning%20Experiences/PAL%201.jpg"  
@@ -88,3 +89,5 @@ PAL is an integral part of our curriculum as the school strive to build strong f
 		 
 <img src="/images/Learning%20Experiences/PAL%208.png"  
      style="width:45%">
+	
+	</center>

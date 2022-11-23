@@ -8,23 +8,16 @@ description: ""
 
 
 ![](/images/About%20Us/WWPS-1.jpg)
-## Waterway Primary Family
+# Waterway Primary Family
 
+#### SCHOOL LEADERS
 
-**<font size=5>SCHOOL LEADERS</font><a name="Leader"></a>**
-
-
-<table style="undefined;table-layout: fixed; width: 554px">
-<colgroup>
-<col style="width: 198px">
-<col style="width: 163px">
-<col style="width: 193px">
-</colgroup>
-<thead>
+<table>
+	<tbody>
+		<tr>
       		<td><b>MRS WEE-KWAN LIAM</b><br>Principal</td>
-  <tbody>
-		
-  <tr>
+	</tr>		
+		<tr>
 		<td><b>MR DALJIT SINGH</b><br>Vice-Principal (Administration)</td>
     <td></td>
 		<td><b>MRS JUDY LING</b><br>Vice-Principal</td>
@@ -32,9 +25,7 @@ description: ""
 </tbody>
 </table>
 
-<br>
-
-**<font size=5>HEAD OF DEPARTMENT/ASSISTANT YEAR & YEAR HEAD</font><a name="HOD"></a>**
+#### HEAD OF DEPARTMENT/ASSISTANT YEAR & YEAR HEAD
 
 <table>
 <thead>
@@ -77,8 +68,7 @@ description: ""
 
 <br>
 
-**<font size=5>SUBJECT/LEVEL HEADS, TEACHER LEADERS & COORDINATORS</font><a name="SH"></a>**
-
+#### SUBJECT/LEVEL HEADS
 
 <table>
 <thead>
@@ -100,6 +90,15 @@ description: ""
     <td><b>MR JASON YEW</b><br>Subject Head Student Management<br><a href="mailto:yew_kwok_ming@moe.edu.sg" target="_blank" rel="noopener noreferrer">yew_kwok_ming@moe.edu.sg</a></td>
     <td><br></td>
   </tr>
+  
+</tbody>
+</table>
+
+#### TEACHER LEADERS & COORDINATORS
+
+<table>
+<tbody>
+  
   <tr>
     <td><b>MRS RAEBURN-SIM CHEY HOONG</b><br>Lead Teacher Science<br><a href="mailto:raeburn-sim_chey_hoong@moe.edu.sg" target="_blank" rel="noopener noreferrer">raeburn-sim_chey_hoong@moe.edu.sg</a></td>
     <td><b>MDM ALWIYAH</b><br>Senior Teacher English<br><a href="mailto:alwiyah_abdul_aziz@moe.edu.sg" target="_blank" rel="noopener noreferrer">alwiyah_abdul_aziz@moe.edu.sg</a></td>
@@ -115,10 +114,9 @@ description: ""
 </tbody>
 </table>
 
-<br>
 
-**<font size=5>PRIMARY 1 TEACHERS
-</font><a name="P1"></a>**
+
+#### PRIMARY 1 TEACHERS
 
 <table>
 <thead>
@@ -147,10 +145,9 @@ description: ""
 </tbody>
 </table>
 
-<br>
 
-**<font size=5>PRIMARY 2 TEACHERS
-</font><a name="P2"></a>**
+#### PRIMARY 2 TEACHERS
+
 
 <table>
 <thead>
@@ -179,10 +176,9 @@ description: ""
 </tbody>
 </table>
 
-<br>
 
-**<font size=5>PRIMARY 3 TEACHERS
-</font><a name="P3"></a>**
+#### PRIMARY 3 TEACHERS
+
 
 <table>
 <thead>
@@ -207,11 +203,9 @@ description: ""
 </tbody>
 </table>
 
-<br>
 
+#### PRIMARY 4 TEACHERS
 
-**<font size=5>PRIMARY 4 TEACHERS
-</font><a name="P4"></a>**
 
 <table>
 <thead>
@@ -236,10 +230,9 @@ description: ""
 </tbody>
 </table>
 
-<br>
 
-**<font size=5>PRIMARY 5 TEACHERS
-</font><a name="P5"></a>**
+#### PRIMARY 5 TEACHERS
+
 
 
 <table>
@@ -266,10 +259,9 @@ description: ""
 </table>
 
 
-<br>
 
-**<font size=5>PRIMARY 6 TEACHERS
-</font><a name="P6"></a>**
+#### PRIMARY 6 TEACHERS
+
 
 
 <table>
@@ -291,10 +283,7 @@ description: ""
 </tbody>
 </table>
 
-**<font size=5>MOTHER TONGUE
-</font><a name="MT"></a>**
-
-**CHINESE LANGAUGE**
+#### CHINESE LANGUAGE
 
 <table>
 <thead>
@@ -329,7 +318,7 @@ description: ""
 </tbody>
 </table>
 
-**MALAY LANGUAGE**
+#### MALAY LANGUAGE
 
 <table>
 <thead>
@@ -350,7 +339,7 @@ description: ""
 </tbody>
 </table>
 
-**TAMIL LANGUAGE**
+#### TAMIL LANGUAGE
 
 <table>
 <thead>
@@ -361,10 +350,7 @@ description: ""
 </thead>
 </table>
 
-<br>
-
-**<font size=5>OTHER ENGLISH MEDIUM TEACHING STAFF
-</font><a name="OtherMedium"></a>**
+#### OTHER ENGLISH MEDIUM TEACHING STAFF
 
 
 <table>
@@ -407,10 +393,8 @@ description: ""
 </tbody>
 </table>
 
-<br>
+#### SEN OFFICER & SCHOOL COUNSELLOR
 
-**<font size=5>SEN OFFICER & SCHOOL COUNSELLOR
-</font><a name="AED"></a>**
 
 <table>
 <thead>
@@ -426,22 +410,17 @@ description: ""
 </tbody>
 </table>
 
-<br>
+#### ADMINISTRATIVE & SUPPORT STAFF
 
-**<font size=5>ADMINISTRATIVE & SUPPORT STAFF
-</font><a name="Admin"></a>**
-
-
-**ADMINISTRATIVE STAFF**
+##### ADMINISTRATIVE STAFF
 
 <table>
-<thead>
-  <tr>
+
+<tbody>
+	  <tr>
     <td>Administration Manager</td>
     <td><b>MISS LIM HUI FONG</b></td>
   </tr>
-</thead>
-<tbody>
   <tr>
     <td>Administration Executive</td>
     <td><b>MISS PHUA LEE KOON</b></td>
@@ -457,16 +436,10 @@ description: ""
 </tbody>
 </table>
 
-**SUPPORT STAFF**
+##### SUPPORT STAFF
 
 <table>
 <thead>
-  <tr>
-    <td>Operations Manager</td>
-    <td><b>MR KONG KOON FOCK</b></td>
-  </tr>
-</thead>
-<tbody>
   <tr>
     <td>Operations Manager</td>
     <td><b>MR BERNARD CHIA</b></td>
@@ -494,23 +467,23 @@ description: ""
 </tbody>
 </table>
 
-**ICT SUPPORT TEAM**
+##### ICT SUPPORT STAFF
 
 <table>
 <thead>
   <tr>
     <td>ICT Manager</td>
-    <th>MR KOH CHEE WEI<br></th>
+    <td><b>MR KOH CHEE WEI</b></td>
   </tr>
-</thead>
-<tbody>
+  <tr>
+    <td>Desktop Engineer </td>
+    <td><b>MR SHAFIQ</b></td>
+  </tr>
   <tr>
     <td>Desktop Engineer</td>
-		<td><b>MR SHAFIQ</b></td>
+    <td><b>MR SARA  </b></td>
   </tr>
-  <tr>
-    <td></td>
-		<td><b>MR SARA</b></td>
-  </tr>
+  
+
 </tbody>
 </table>
