@@ -67,7 +67,7 @@ description: ""
 
 <br>
 
-#### SUBJECT/LEVEL HEADS, TEACHER LEADERS & COORDINATORS
+#### SUBJECT/LEVEL HEADS
 
 <table>
 <thead>
@@ -89,6 +89,15 @@ description: ""
     <td><b>MR JASON YEW</b><br>Subject Head Student Management<br><a href="mailto:yew_kwok_ming@moe.edu.sg" target="_blank" rel="noopener noreferrer">yew_kwok_ming@moe.edu.sg</a></td>
     <td><br></td>
   </tr>
+  
+</tbody>
+</table>
+
+#### TEACHER LEADERS & COORDINATORS
+
+<table>
+<tbody>
+  
   <tr>
     <td><b>MRS RAEBURN-SIM CHEY HOONG</b><br>Lead Teacher Science<br><a href="mailto:raeburn-sim_chey_hoong@moe.edu.sg" target="_blank" rel="noopener noreferrer">raeburn-sim_chey_hoong@moe.edu.sg</a></td>
     <td><b>MDM ALWIYAH</b><br>Senior Teacher English<br><a href="mailto:alwiyah_abdul_aziz@moe.edu.sg" target="_blank" rel="noopener noreferrer">alwiyah_abdul_aziz@moe.edu.sg</a></td>
@@ -103,6 +112,8 @@ description: ""
   </tr>
 </tbody>
 </table>
+
+
 
 #### PRIMARY 1 TEACHERS
 
@@ -403,13 +414,12 @@ description: ""
 ##### ADMINISTRATIVE STAFF
 
 <table>
-<thead>
-  <tr>
+
+<tbody>
+	  <tr>
     <td>Administration Manager</td>
     <td><b>MISS LIM HUI FONG</b></td>
   </tr>
-</thead>
-<tbody>
   <tr>
     <td>Administration Executive</td>
     <td><b>MISS PHUA LEE KOON</b></td>
