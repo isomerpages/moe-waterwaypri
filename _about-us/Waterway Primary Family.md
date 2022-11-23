@@ -13,9 +13,10 @@ description: ""
 #### SCHOOL LEADERS
 
 <table>
-<thead><tr>
+	<tbody>
+		<tr>
       		<td><b>MRS WEE-KWAN LIAM</b><br>Principal</td>
-	</tr><tbody>
+	</tr>		
 		<tr>
 		<td><b>MR DALJIT SINGH</b><br>Vice-Principal (Administration)</td>
     <td></td>
