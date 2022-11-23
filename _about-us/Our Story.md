@@ -9,7 +9,7 @@ description: ""
 
 ![](/images/About%20Us/School.jpg)
 
-<center><font size=7>Our Story</font> </center>
+# Our Story
 
 Waterway Primary School started in 2016 with 5 P1 classes. This quickly grew to 8 P1 classes in 2017 and 10 classes in 2018, despite not having many completed new flats in the vicinity of the school. In the 2019 P1 registration exercise, all 320 places in 10 classes were filled up during the 2C open phase of the exercise. Many parents commented that Waterway Primary School is their school of choice even though there are other schools that are closer in proximity to their homes. Their decision was based on very good feedback about the school and the programmes the school offers.  
   
@@ -40,14 +40,14 @@ As our students learn through these meaningful experiences, we want them to alwa
 
   
 
-<center> <font size=5>Our Story</font> </center>
+<center> <font size=6><b>Our Story</b></font> </center>
 
 <iframe width="854" height="480" src="https://www.youtube.com/embed/EdsJxvFwOLs" title="Waterway Primary School Official Opening Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<center> <font size=5>Our School Song</font> </center>
+<center> <font size=6><b>Our School Song</b></font> </center>
 
 <iframe width="856" height="482" src="https://www.youtube.com/embed/mIBFremLkmM" title="Our School Song" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<center> <font size=5>Highlights Of Minister's Speech</font> </center>
+<center> <font size=6><b>Highlights Of Minister's Speech</b></font> </center>
 
 <iframe width="850" height="478" src="https://www.youtube.com/embed/Wi5ktkQiVBY" title="Highlights of Minister's Speech during Official Opening" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
