@@ -3,8 +3,7 @@ title: Principal's Message
 permalink: /about-us/principals-message/
 description: ""
 ---
-
-> ![](/images/about-us_02.jpg)
+> ![](/images/Images/about-us_02.jpg)
 > About Us 
 
 ## Principal's Message
