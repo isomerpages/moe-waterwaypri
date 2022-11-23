@@ -1,9 +1,9 @@
 title: Waterway Primary School
 url: https://waterwaypri.moe.edu.sg
-favicon: /images/Waterway-Logo.gif
+favicon: /images/Images/Waterway-Logo.gif
 colors:
   primary-color: "#2a3390"
-  secondary-color: "#eee793"
+  secondary-color: "#eada0e"
   media-colors:
     - title: media-color-one
       color: "#49759a"
