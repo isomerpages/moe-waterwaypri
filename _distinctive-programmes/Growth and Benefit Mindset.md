@@ -35,16 +35,17 @@ through integration in subjects across the curriculum.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KhVtdaeMl7g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
- _**Growth Mindset Journey at Waterway Primary**_   
+#### Growth Mindset Journey at Waterway Primary   
+ 
 
-**Good Morning School (GMS)**
+##### Good Morning School (GMS)
 
 <img src="/images/Distinctive%20Programmes/G&B%201.jpg"  
      style="width:75%">
 
 _As teachers and student presenters share about current affairs during morning assemblies, they link their topics to the growth and benefit mindset. These links help our students to see how embracing a growth and benefit mindset is important and relevant to their lives._
 
- _**P1 Growth Mindset Activity Book**_
+##### P1 Growth Mindset Activity Book
 
 _In 2020, a series of growth mindset lessons was rolled out to our Primary 1 students. An activity book was specially designed by our teachers for this purpose. The topics covered include what a growth mindset is, positive self-talk, dealing with challenges and learning from mistakes._
 
@@ -52,7 +53,7 @@ _In 2020, a series of growth mindset lessons was rolled out to our Primary 1 stu
 <img src="/images/Distinctive%20Programmes/G&B%202.jpg"  
      style="width:55%">
 
- __**P2 Growth Mindset Lessons during Orators**__
+##### P2 Growth Mindset Lessons during Orators
  
  <img src="/images/Distinctive%20Programmes/G&B%203.jpg"  
      style="width:90%">
@@ -63,14 +64,14 @@ _In 2020, a series of growth mindset lessons was rolled out to our Primary 1 stu
 
 
 
- _**P3 to P5 Growth Mindset Lessons**_<br>
+##### P3 to P5 Growth Mindset Lessons<br>
 _Students gain a better understanding of the themes ‘Everyone can learn’, ‘Mistakes are opportunities for learning’, ‘We love challenges’ and ‘Feedback is a gift’, through lesson packages specially crafted by our teachers. These lesson packages help students to understand the importance of embracing a growth mindset and ways to cultivate a growth mindset._
 
 
 <img src="/images/Distinctive%20Programmes/G&B%205.jpg"  
      style="width:85%">
 
-_**S.H.I.N.E Read & Reflect**_
+##### S.H.I.N.E Read & Reflect
 
 <img src="/images/Distinctive%20Programmes/G&B%206.jpg"  
      style="width:65%">
@@ -91,9 +92,7 @@ A Benefit Mindset takes the Growth Mindset one step further. Rather than learnin
 
 The school values of **Responsibility** and **Empathy** underpin a Benefit Mindset. 
 
-### 
-
-_**Benefit Mindset Journey at Waterway Primary**_
+##### Benefit Mindset Journey at Waterway Primary
 
 
 <img src="/images/Distinctive%20Programmes/G&B%208.jpg"  
@@ -104,7 +103,7 @@ _**Benefit Mindset Journey at Waterway Primary**_
 
 
 
-**_S.H.I.N.E_** is the acronym that Waterway Primary School uses to describe the efforts that we take to imbue a _Growth Mindset and_ a _Benefit Mindset_ in our students. 
+**_S.H.I.N.E_**  is the acronym that Waterway Primary School uses to describe the efforts that we take to imbue a _Growth Mindset and_ a _Benefit Mindset_ in our students. 
 
   
 
