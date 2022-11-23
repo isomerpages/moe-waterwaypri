@@ -8,7 +8,8 @@ description: ""
 
 
 ![](/images/About%20Us/School.jpg)
-
+<center>
+	
 # Our Story
 
 Waterway Primary School started in 2016 with 5 P1 classes. This quickly grew to 8 P1 classes in 2017 and 10 classes in 2018, despite not having many completed new flats in the vicinity of the school. In the 2019 P1 registration exercise, all 320 places in 10 classes were filled up during the 2C open phase of the exercise. Many parents commented that Waterway Primary School is their school of choice even though there are other schools that are closer in proximity to their homes. Their decision was based on very good feedback about the school and the programmes the school offers.  
