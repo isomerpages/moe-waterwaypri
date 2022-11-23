@@ -3,7 +3,7 @@ title: Our Story
 permalink: /about-us/our-story/
 description: ""
 ---
-> ![](/images/about-us_02.jpg)
+> ![](/images/Images/about-us_02.jpg)
 > About Us 
 
 
