@@ -35,7 +35,7 @@ Students’ CoTs learning experience include:
 
   
 
-<u>P1 and P2</u>
+##### P1 and P2
 
 *   Basic coding with block codes for Dash and Dot Robots and Strawbees for simple robotic functions such as playing music, moving and exploring terrain, animation of 3d-straw designs
 
@@ -45,7 +45,7 @@ Students’ CoTs learning experience include:
 
 
 
-<u>P3 and P4</u>
+##### P3 and P4
 
 Modular CCA (for all)  
 
