@@ -3,11 +3,11 @@ title: School Crest
 permalink: /about-us/school-crest/
 description: ""
 ---
-> ![](/images/about-us_02.jpg)
+> ![](/images/Images/about-us_02.jpg)
 > About Us 
 
 ## School Crest
-
+> ![](/images/Images/Waterway-Logo.gif)
 <img src="/images/images/Waterway-Logo.gif"  
      style="width:35%">
 
