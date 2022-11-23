@@ -3,13 +3,11 @@ title: Facilities
 permalink: /about-us/facilities/
 description: ""
 ---
-> ![](/images/about-us_02.jpg)
+> ![](/images/Images/about-us_02.jpg)
 > About Us
 
 
 ## Facilities
-
-**Our Spanking New Generation School Facilities**
 
 Waterway Primary is designed to provide an engaging learning environment to support your child's holistic education.  
 
