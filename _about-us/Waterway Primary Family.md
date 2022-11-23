@@ -466,7 +466,7 @@ description: ""
 </tbody>
 </table>
 
-##### ICT SUPPORT TEAM
+##### ICT SUPPORT STAFF
 
 <table>
 <thead>
