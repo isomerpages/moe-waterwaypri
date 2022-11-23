@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/WaterwayPri.jpg
+      background: /images/Images/WaterwayPri.jpg
       key_highlights:
         - title: Announcements
           description: ""
