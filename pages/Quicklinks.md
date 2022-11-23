@@ -17,9 +17,9 @@ description: ""
 *   [2022 Waterway Primary School Virtual Open House](https://waterwaypri.wixsite.com/wwps-openhouse)
 *   [360° Virtual Tour](https://roundme.com/embed/SvllymcqYPP96XdbxZ7Q)  
     
-*   2022 [SCC - Little Professors Information](/files/Information%20%20Sheet%20SCC%20Waterway%20School%202022%2030%20Nov%202021.pdf)
+*   [2022 SCC - Little Professors Information](/files/Information%20%20Sheet%20SCC%20Waterway%20School%202022%2030%20Nov%202021.pdf)
     
-*   2022 [SCC - Little Professors Virtual Tea Session](/files/Little%20Professors%20SCC%20Waterway%2030%20Nov%202021.pdf)
+*   [2022 SCC - Little Professors Virtual Tea Session](/files/Little%20Professors%20SCC%20Waterway%2030%20Nov%202021.pdf)
     
 *   [2021 P6 Cohort Students & Parents Say](https://waterwaypri.wixsite.com/wwps-openhouse/2021-p6-cohort-students-parents-say)
 
@@ -31,8 +31,7 @@ description: ""
 *   [Vendor Information](https://staging.d1vupma46t7042.amplifyapp.com/parents/vendor-information/)
 *   [Forms](https://staging.d1vupma46t7042.amplifyapp.com/parents/forms/)
 *   [Schoolbag](https://www.schoolbag.edu.sg/)
-*   [MOE Cyberwellness](https://ictconnection.moe.edu.sg/cyber-wellness/for-parents) (BROKEN LINK)
-*   [MOE Kindergarten](https://www.moe.gov.sg/microsites/moekindergarten/)  (BROKEN LINK)
+
       
     
 
