@@ -8,8 +8,6 @@ description: ""
 
 
 ![](/images/About%20Us/WWPS-1.jpg)
-# Waterway Primary Family
-
 #### SCHOOL LEADERS
 
 <table>
@@ -25,7 +23,7 @@ description: ""
 </tbody>
 </table>
 
-#### HEAD OF DEPARTMENT/ASSISTANT YEAR & YEAR HEAD
+#### HEAD OF DEPARTMENT
 
 <table>
 <thead>
@@ -49,8 +47,13 @@ description: ""
   </tr>
   <tr>
     <td><b>MS KAREN CHAN</b><br>SSD<br><a href="mailto:karen_oi_chan@moe.edu.sg">karen_oi_chan@moe.edu.sg </a> </td>
-    <td></td>
-  </tr>
+</tbody>
+</table>
+
+#### ASSISTANT YEAR & YEAR HEAD
+
+<table>
+<tbody>
   <tr>
     <td><b>MRS MITCHELLE WONG</b><br>Assistant Year Head (P1)<br><a href="mailto:mitchelle_wong@moe.edu.sg">mitchelle_wong@moe.edu.sg</a></td>
     <td><b>MS WEE JER WEN</b><br>Year Head (P2)<br><a href="mailto:wee_jer_wen@moe.edu.sg">wee_jer_wen@moe.edu.sg</a></td>
@@ -66,9 +69,7 @@ description: ""
 </tbody>
 </table>
 
-<br>
-
-#### SUBJECT/LEVEL HEADS
+#### LEVEL/SUBJECT HEAD
 
 <table>
 <thead>
@@ -371,10 +372,6 @@ description: ""
   </tr>
   <tr>
     <td><b>MR MOHD ALI</b><br>PE Teacher<br><a href="mailto:mohamed_ali_mohamed_hanafiah@moe.edu.sg" target="_blank" rel="noopener noreferrer">mohamed_ali_mohamed_hanafiah@moe.edu.sg</a></td>
-
- 
-</tbody>
-</table>
 </thead>
 </table>
 
@@ -390,9 +387,6 @@ description: ""
     <td><b>MDM TAN LAY SYN</b> <br>English Medium<br><a href="mailto:tan_lay_syn@moe.edu.sg" target="_blank" rel="noopener noreferrer">tan_lay_syn@moe.edu.sg</a></td>
     <td><b>MDM CHERYL TAY</b><br>English Medium<br><a href="mailto:tay_soong_huang@moe.edu.sg">tay_soong_huang@moe.edu.sg</a></td>
   </tr>
- 
-</tbody>
-</table>
 </thead>
 </table>
 
@@ -404,20 +398,17 @@ description: ""
   <tr>
 		<td><b>MS ROFIDAH</b><br>Senior SEN Officer<br><a href="mailto:rofidah_samah@moe.edu.sg" target="_blank" rel="noopener noreferrer">rofidah_samah@moe.edu.sg</a></td>
 		<td><b>MS SITI</b><br>SEN Officer <br><a href="mailto:siti_khairunnisa_nor@moe.edu.sg">siti_khairunnisa_nor@moe.edu.sg</a></td>
-  </tr>
-</thead>
-<tbody>
   <tr>
 		<td><b>MS NEEMIKA</b><br>School Counsellor<br><a href="mailto:neemika_rai@moe.edu.sg">neemika_rai@moe.edu.sg</a></td>
   </tr>
-</tbody>
+</thead>
 </table>
 
 #### ADMINISTRATIVE & SUPPORT STAFF
+
 ##### ADMINISTRATIVE STAFF
 
 <table>
-
 <tbody>
 	  <tr>
     <td>Administration Manager</td>
@@ -479,7 +470,5 @@ description: ""
     <td>Desktop Engineer</td>
     <td><b>MR SARA  </b></td>
   </tr>
-  
-
-</tbody>
+  </thead>
 </table>
