@@ -3,7 +3,6 @@ title: CCA
 permalink: /cca/
 description: ""
 ---
-
 >![](/images/CCA/CCA_02.jpg)
 >CCA
 
@@ -14,4 +13,4 @@ Co-Curricular Activities (CCA) are an integral part of our students’ holistic 
 
   
 
-At Waterway Primary School, we have Modular CCA (MCCA) and Interest CCA.
+At Waterway Primary School, we have **Modular CCA (MCCA)** and **Interest CCA**.
