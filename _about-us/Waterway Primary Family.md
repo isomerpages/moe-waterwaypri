@@ -350,26 +350,10 @@ description: ""
 </thead>
 </table>
 
-#### OTHER ENGLISH MEDIUM TEACHING STAFF
-
-
+#### PAM (PHYSICAL ED, ART & MUSIC)
 <table>
 <thead>
-  <tr>
-    <td><b>MR JOSEPH LIM</b><br>English Medium<br><a href="mailto:joseph_lim@moe.edu.sg" target="_blank" rel="noopener noreferrer">joseph_lim@moe.edu.sg</a></td>
-    <td><b>MR NICK WONG</b><br>English Medium<br><a href="mailto:wong_ngian_fai@moe.edu.sg" target="_blank" rel="noopener noreferrer">wong_ngian_fai@moe.edu.sg</a></td>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td><b>MDM TAN LAY SYN</b> <br>English Medium<br><a href="mailto:tan_lay_syn@moe.edu.sg" target="_blank" rel="noopener noreferrer">tan_lay_syn@moe.edu.sg</a></td>
-    <td><b>MDM CHERYL TAY</b><br>English Medium<br><a href="mailto:tay_soong_huang@moe.edu.sg">tay_soong_huang@moe.edu.sg</a></td>
-  </tr>
-  <tr>
-    <td><b>MDM SOOMATHY</b><br>English Medium<br><a href="mailto:soomathy_veeraya@moe.edu.sg" target="_blank" rel="noopener noreferrer">soomathy_veeraya@moe.edu.sg</a></td>
-    <td></td>
-  </tr>
-  <tr>
+    <tr>
     <td><b>MDM LEE SING LAN</b><br>Art &amp; Craft<br><a href="mailto:lee_sing_lan@moe.edu.sg" target="_blank" rel="noopener noreferrer">lee_sing_lan@moe.edu.sg</a></td>
     <td><b>MDM SITI RAUDHAH</b><br>Art &amp; Craft<br><a href="mailto:siti_raudhah_imran@moe.edu.sg" target="_blank" rel="noopener noreferrer">siti_raudhah_imran@moe.edu.sg</a></td>
   </tr>
@@ -383,11 +367,25 @@ description: ""
   </tr>
   <tr>
     <td><b>MR JUSTIN TAN</b><br>PE Teacher<br><a href="mailto:tan_siow_meng@moe.edu.sg">tan_siow_meng@moe.edu.sg</a></td>
-    <td><b>MR CHUA SONG WEI</b><br>PE Teacher<br><a href="mailto:Chua_song_wei@moe.edu.sg">Chua_song_wei@moe.edu.sg</a></td>
+     <td><b>MR LAI WEE YEONG</b><br>PE Teacher<br><a href="mailto:Lai_Wee_Yeong@moe.edu.sg">Lai_Wee_Yeong@moe.edu.sg</a></td>
   </tr>
   <tr>
     <td><b>MR MOHD ALI</b><br>PE Teacher<br><a href="mailto:mohamed_ali_mohamed_hanafiah@moe.edu.sg" target="_blank" rel="noopener noreferrer">mohamed_ali_mohamed_hanafiah@moe.edu.sg</a></td>
-    <td><b>MR LAI WEE YEONG</b><br>PE Teacher<br><a href="mailto:Lai_Wee_Yeong@moe.edu.sg">Lai_Wee_Yeong@moe.edu.sg</a></td>
+
+ 
+</tbody>
+</table>
+
+#### ENGLISH MEDIUM TEACHING STAFF
+<table>
+<thead>
+  <tr>
+    <td><b>MISS SOOMATHY</b><br>English Medium<br><a href="mailto:soomathy_veeraya@moe.edu.sg" target="_blank" rel="noopener noreferrer">soomathy_veeraya@moe.edu.sg</a></td>
+    <td><b>MR NICK WONG</b><br>English Medium<br><a href="mailto:wong_ngian_fai@moe.edu.sg" target="_blank" rel="noopener noreferrer">wong_ngian_fai@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td><b>MDM TAN LAY SYN</b> <br>English Medium<br><a href="mailto:tan_lay_syn@moe.edu.sg" target="_blank" rel="noopener noreferrer">tan_lay_syn@moe.edu.sg</a></td>
+    <td><b>MDM CHERYL TAY</b><br>English Medium<br><a href="mailto:tay_soong_huang@moe.edu.sg">tay_soong_huang@moe.edu.sg</a></td>
   </tr>
  
 </tbody>
