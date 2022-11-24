@@ -43,7 +43,7 @@ description: ""
     <td><b>MS NEO CHAI LEE</b><br>HOD CCE<br><a href="mailto:Neo_chai_lee@moe.edu.sg">neo_chai_lee@moe.edu.sg</a></td>
   </tr>
   <tr>
-    <td><b>MS KAREN CHAN</b><br>SSD<br><a href="mailto:karen_oi_chan@moe.edu.sg">karen_oi_chan@moe.edu.sg </a> </td>
+    <td><b>MS KAREN CHAN</b><br>SSD<br><a href="mailto:karen_oi_chan@moe.edu.sg">karen_oi_chan@moe.edu.sg </a> </td></tr>
 </table>
 
 #### ASSISTANT YEAR & YEAR HEAD
