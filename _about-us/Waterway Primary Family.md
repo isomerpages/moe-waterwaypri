@@ -101,7 +101,6 @@ description: ""
     <td><b>MR CHRISTOPHER SHAU</b><br>Senior Teacher Educational Support<br><a href="mailto:Christopher_shau@moe.edu.sg" target="_blank" rel="noopener noreferrer">Christopher_shau@moe.edu.sg</a><br><br></td>
     <td><b>MISS GRACE SEAH</b><br>Senior Teacher Chinese Language<br><a href="mailto:seah_pei_ru_grace@moe.edu.sg" target="_blank" rel="noopener noreferrer">seah_pei_ru_grace@moe.edu.sg</a></td>
   </tr>
-</tbody>
 </table>
 
 
@@ -109,13 +108,10 @@ description: ""
 #### PRIMARY 1 TEACHERS
 
 <table>
-<thead>
   <tr>
     <td><b>MRS JANE TEO</b><br>Form Teacher Pri 1A<br><a href="mailto:cheong_fong_teng@moe.edu.sg" target="_blank" rel="noopener noreferrer">cheong_fong_teng@moe.edu.sg</a></td>
     <td><b>MISS HUMAIRAH</b><br>Form Teacher Pri 1B  <br><a href="mailto:nur_humairah_hasim@moe.edu.sg" target="_blank" rel="noopener noreferrer">nur_humairah_hasim@moe.edu.sg</a></td>
   </tr>
-</thead>
-<tbody>
   <tr>
     <td><b>MS CLARA ONG</b><br>Form Teacher Pri 1C<br><a href="mailto:ong_fong_yan_clara@moe.edu.sg" target="_blank" rel="noopener noreferrer">ong_fong_yan_clara@moe.edu.sg </a></td>
     <td><b>MISS ZANDRA CHEW</b><br>Form Teacher Pri 1D<br><a href="mailto:chew_yann_zandra@moe.edu.sg" target="_blank" rel="noopener noreferrer">chew_yann_zandra@moe.edu.sg</a></td>
@@ -132,7 +128,6 @@ description: ""
     <td><b>MRS DIANA YAP</b><br>Form Teacher Pri 1I<br><a href="mailto:chan_hui_min_diana@moe.edu.sg" target="_blank" rel="noopener noreferrer">chan_hui_min_diana@moe.edu.sg</a></td>
     <td> </td>
   </tr>
-</tbody>
 </table>
 
 
