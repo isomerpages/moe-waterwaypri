@@ -412,7 +412,6 @@ description: ""
 ##### SUPPORT & ICT SUPPORT STAFF
 
 <table>
-<thead>
   <tr>
     <td>Operations Manager</td>
     <td><b>MR BERNARD CHIA</b></td>
@@ -437,7 +436,6 @@ description: ""
     <td>Operations Support Officer</td>
     <td><b>MDM NGHIEM NU</b></td>
   </tr>
-
   <tr>
     <td>ICT Manager</td>
     <td><b>MR KOH CHEE WEI</b></td>
@@ -450,5 +448,4 @@ description: ""
     <td>Desktop Engineer</td>
     <td><b>MR SARA  </b></td>
   </tr>
-  </thead>
 </table>
