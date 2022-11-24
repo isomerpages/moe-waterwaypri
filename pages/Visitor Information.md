@@ -15,15 +15,9 @@ description: ""
 <table>
 <thead>
   <tr>
-		<td><b>Nearest LRT Station</b><br>PE5 Kadaloor Station</td>
-		<td><b>Bus services</b><br>50, 381<br></td>
-  </tr>
-</thead>
-</table>
-<table>
-<thead>
-  <tr>
-		<td><b>Contacts </b><br> Telephone : <b>6636 6880</b><br> Fax : <b>6315 3451</b> <br> Email:
+		<b>Nearest LRT Station: </b>PE5 Kadaloor Station<br>
+		<b>Bus services: </b>50, 381<br>
+  <br><b>Contacts </b><br> Telephone : <b>6636 6880</b><br> Fax : <b>6315 3451</b> <br> Email:
 <a href="mailto:waterway_ps@moe.edu.sg">waterway_ps@moe.edu.sg</a>			
 </td>
 </thead>
@@ -32,25 +26,17 @@ description: ""
 ##### Operating Hours
 
 <table>
-<thead>
   <tr>
     <th>General Office</th>
   </tr>
-</thead>
 <tbody>
   <tr>
     <td>Monday to Friday during Term Time/School Holidays</td>
-  </tr>
-  <tr>
     <td><b>7.00 a.m. - 5.30 p.m.</b></td>
   </tr>
   <tr>
-    <td>Closed on Saturdays, Sundays and Public Holidays</td>
-  </tr>
-  <tr>
-    <td>Payment of school fees to be made before <b>3.00 p.m.</b></td>
-  </tr>
-</tbody>
+    <td>Closed on Saturdays, Sundays and Public Holidays<br>
+Payment of school fees to be made before <b>3.00 p.m.</b></tbody>
 </table>
 
 <br>
