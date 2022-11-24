@@ -18,22 +18,16 @@ Our school aims to prepare students ‘For Work, For Life, For Future’. For wo
 Teaching and learning in the school goes beyond prescribed methodologies. Customised programmes are designed to engage students to learn. The learning process is emphasised over content acquisition. The curriculum aims of English and Mother Tongue Languages are to develop in our students, confidence and competence in using the languages. Mathematics and Science aim to develop problem-solving and thinking skills.  
   
 A spectrum of customised distinctive programmes complements classroom teaching and learning:  
-  
-*   Good Morning School is a daily pre-assembly programme. Teachers share with students on a wide range of topics such as current affairs, music, art and science to expose students to learning beyond their classrooms, immediate neighbourhood and Singapore.  
-      
+* Good Morning School is a daily pre-assembly programme. Teachers share with students on a wide range of topics such as current affairs, music, art and science to expose students to learning beyond their classrooms, immediate neighbourhood and Singapore.  
+         
+* Orators@Waterway nurtures students to be engaging presenters who speak with poise and confidence.  
     
-*   Orators@Waterway nurtures students to be engaging presenters who speak with poise and confidence.  
-      
-    
-*   Literature is offered from P3. Not only is the learning of English Language enhanced, Literature offers students ‘a window to peer into the world of others and a mirror to hold to look at themselves’. Through Literature, students develop essential 21st century competencies such as communication skills, collaboration skills, critical thinking, global awareness and cross-cultural sensitivities.  
-      
-    
-*   Coding and Robotics help students develop creative problem-solving skills through systematic and logical thinking and working collaboratively with others. In P1 and P2, students learn robotics during PAL lessons and from P3 onwards, students learn coding and programming during modular CCAs.  
-      
-    
-*   Modular CCAs are distinct from interest CCAs as they are conducted during curriculum time and for all students. Modular CCAs expose students to a wide range of interests to enrich their learning. Modules include Sports and Games, Coding and Programming, Infocomm and Media and Speech and Drama.
+* Literature is offered from P3. Not only is the learning of English Language enhanced, Literature offers students ‘a window to peer into the world of others and a mirror to hold to look at themselves’. Through Literature, students develop essential 21st century competencies such as communication skills, collaboration skills, critical thinking, global awareness and cross-cultural sensitivities.  
+   
+* Coding and Robotics help students develop creative problem-solving skills through systematic and logical thinking and working collaboratively with others. In P1 and P2, students learn robotics during PAL lessons and from P3 onwards, students learn coding and programming during modular CCAs.  
 
-  
+* Modular CCAs are distinct from interest CCAs as they are conducted during curriculum time and for all students. Modular CCAs expose students to a wide range of interests to enrich their learning. Modules include Sports and Games, Coding and Programming, Infocomm and Media and Speech and Drama.
+
 The school promotes a Growth and a Benefit mindset. Through the Growth Mindset, students learn that their abilities can be developed through dedication and hard work. A Benefit Mindset takes the Growth Mindset one step further. Rather than learning and growing just for the sake of individual gain, Benefit Mindset helps students to apply their strengths to benefit others. The two mindsets are imbued in students through explicit teaching during Orators lessons as well as through integration in subjects across the curriculum.  
   
 As our students learn through these meaningful experiences, we want them to always be the best that they can be so that they will thrive in the world they will grow up to. It is our aim to prepare them For Work, For Life, For Future. 
