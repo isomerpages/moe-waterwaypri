@@ -436,7 +436,7 @@ description: ""
 </tbody>
 </table>
 
-##### SUPPORT STAFF
+##### SUPPORT STAFF & ICT SUPPORT STAFF
 
 <table>
 <thead>
@@ -464,13 +464,7 @@ description: ""
     <td>Operations Support Officer</td>
     <td><b>MDM NGHIEM NU</b></td>
   </tr>
-</tbody>
-</table>
 
-##### ICT SUPPORT STAFF
-
-<table>
-<thead>
   <tr>
     <td>ICT Manager</td>
     <td><b>MR KOH CHEE WEI</b></td>
