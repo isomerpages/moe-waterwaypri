@@ -2,7 +2,6 @@ collections:
   distinctive-programmes:
     output: true
     order:
-      - Distinctive Programmes.md
       - Orators@Waterway.md
       - Growth and Benefit Mindset.md
       - Computational Thinking.md

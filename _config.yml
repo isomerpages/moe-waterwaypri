@@ -3,7 +3,7 @@ url: https://waterwaypri.moe.edu.sg
 favicon: /images/Images/Waterway-Logo.gif
 colors:
   primary-color: "#2a3390"
-  secondary-color: "#eada0e"
+  secondary-color: "#260eea"
   media-colors:
     - title: media-color-one
       color: "#49759a"
