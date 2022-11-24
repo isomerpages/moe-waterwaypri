@@ -26,14 +26,11 @@ description: ""
 #### HEAD OF DEPARTMENT
 
 <table>
-<thead>
   <tr>
     <td><b>MISS PRIYADAKSHINI</b><br>HOD English<br><a href="mailto:priyadakshini_surendiran_s@moe.edu.sg">priyadakshini_surendiran_s@moe.edu.sg</a></td>
     <td><b>MRS SHEILA CHAN</b><br>HOD Mathematics<br><a href="mailto:tay_sock_hwee_sheila@moe.edu.sg">tay_sock_hwee_sheila@moe.edu.sg</a></td>
   </tr>
-</thead>
-<tbody>
-  <tr>
+<tr>
     <td><b>MRS WONG YAN RU</b><br>HOD Science<br><a href="mailto:lim_yan_ru@moe.edu.sg">lim_yan_ru@moe.edu.sg</a></td>
     <td><b>MS TANG SIAW WEN</b><br>HOD Mother Tongue<br><a href="mailto:tang_siaw_wen@moe.edu.sg">tang_siaw_wen@moe.edu.sg</a></td>
   </tr>
@@ -47,7 +44,6 @@ description: ""
   </tr>
   <tr>
     <td><b>MS KAREN CHAN</b><br>SSD<br><a href="mailto:karen_oi_chan@moe.edu.sg">karen_oi_chan@moe.edu.sg </a> </td>
-</tbody>
 </table>
 
 #### ASSISTANT YEAR & YEAR HEAD
@@ -72,13 +68,11 @@ description: ""
 #### LEVEL/SUBJECT HEAD
 
 <table>
-<thead>
   <tr>
     <td><b>MR IRWAN</b><br>Level Head English Language<br><a href="mailto:irwan_shah@moe.edu.sg">irwan_shah@moe.edu.sg</a></td>
     <td><b>MRS SERENE TAN</b><br>Level Head Mathematics<br><a href="mailto:neo_wei_li_serene@moe.edu.sg">neo_wei_li_serene@moe.edu.sg</a> </td>
   </tr>
-</thead>
-<tbody>
+
   <tr>
     <td><b>MISS LIM TIAN JING</b><br>Level Head Mother Tongue<br><a href="mailto:lim_tian_jing@moe.edu.sg" target="_blank" rel="noopener noreferrer">lim_tian_jing@moe.edu.sg</a></td>
     <td><b>MDM CHUA QINYU</b><br>Subject Head ICT<br><a href="mailto:chua_qinyu@moe.edu.sg" target="_blank" rel="noopener noreferrer">chua_qinyu@moe.edu.sg</a> </td>
@@ -90,17 +84,12 @@ description: ""
   <tr>
     <td><b>MR JASON YEW</b><br>Subject Head Student Management<br><a href="mailto:yew_kwok_ming@moe.edu.sg" target="_blank" rel="noopener noreferrer">yew_kwok_ming@moe.edu.sg</a></td>
     <td><br></td>
-  </tr>
-  
-</tbody>
-</table>
+  </tr></table>
 
 #### TEACHER LEADERS & COORDINATORS
 
 <table>
-<tbody>
-  
-  <tr>
+<tr>
     <td><b>MRS RAEBURN-SIM CHEY HOONG</b><br>Lead Teacher Science<br><a href="mailto:raeburn-sim_chey_hoong@moe.edu.sg" target="_blank" rel="noopener noreferrer">raeburn-sim_chey_hoong@moe.edu.sg</a></td>
     <td><b>MDM ALWIYAH</b><br>Senior Teacher English<br><a href="mailto:alwiyah_abdul_aziz@moe.edu.sg" target="_blank" rel="noopener noreferrer">alwiyah_abdul_aziz@moe.edu.sg</a></td>
   </tr>
