@@ -337,7 +337,6 @@ description: ""
 
 #### PAM (PHYSICAL ED, ART & MUSIC)
 <table>
-<thead>
     <tr>
     <td><b>MDM LEE SING LAN</b><br>Art &amp; Craft<br><a href="mailto:lee_sing_lan@moe.edu.sg" target="_blank" rel="noopener noreferrer">lee_sing_lan@moe.edu.sg</a></td>
     <td><b>MDM SITI RAUDHAH</b><br>Art &amp; Craft<br><a href="mailto:siti_raudhah_imran@moe.edu.sg" target="_blank" rel="noopener noreferrer">siti_raudhah_imran@moe.edu.sg</a></td>
@@ -355,8 +354,7 @@ description: ""
      <td><b>MR LAI WEE YEONG</b><br>PE Teacher<br><a href="mailto:Lai_Wee_Yeong@moe.edu.sg">Lai_Wee_Yeong@moe.edu.sg</a></td>
   </tr>
   <tr>
-    <td><b>MR MOHD ALI</b><br>PE Teacher<br><a href="mailto:mohamed_ali_mohamed_hanafiah@moe.edu.sg" target="_blank" rel="noopener noreferrer">mohamed_ali_mohamed_hanafiah@moe.edu.sg</a></td>
-</thead>
+    <td><b>MR MOHD ALI</b><br>PE Teacher<br><a href="mailto:mohamed_ali_mohamed_hanafiah@moe.edu.sg" target="_blank" rel="noopener noreferrer">mohamed_ali_mohamed_hanafiah@moe.edu.sg</a></td></tr>
 </table>
 
 #### ENGLISH MEDIUM TEACHING STAFF
