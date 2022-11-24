@@ -376,14 +376,12 @@ description: ""
 
 
 <table>
-<thead>
   <tr>
 		<td><b>MS ROFIDAH</b><br>Senior SEN Officer<br><a href="mailto:rofidah_samah@moe.edu.sg" target="_blank" rel="noopener noreferrer">rofidah_samah@moe.edu.sg</a></td>
-		<td><b>MS SITI</b><br>SEN Officer <br><a href="mailto:siti_khairunnisa_nor@moe.edu.sg">siti_khairunnisa_nor@moe.edu.sg</a></td>
+		<td><b>MS SITI</b><br>SEN Officer <br><a href="mailto:siti_khairunnisa_nor@moe.edu.sg">siti_khairunnisa_nor@moe.edu.sg</a></td></tr>
   <tr>
 		<td><b>MS NEEMIKA</b><br>School Counsellor<br><a href="mailto:neemika_rai@moe.edu.sg">neemika_rai@moe.edu.sg</a></td>
   </tr>
-</thead>
 </table>
 
 #### ADMINISTRATIVE & SUPPORT STAFF
