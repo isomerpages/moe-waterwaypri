@@ -375,8 +375,11 @@ description: ""
  
 </tbody>
 </table>
+</thead>
+</table>
 
 #### ENGLISH MEDIUM TEACHING STAFF
+
 <table>
 <thead>
   <tr>
@@ -389,6 +392,8 @@ description: ""
   </tr>
  
 </tbody>
+</table>
+</thead>
 </table>
 
 #### SEN OFFICER & SCHOOL COUNSELLOR
@@ -409,7 +414,6 @@ description: ""
 </table>
 
 #### ADMINISTRATIVE & SUPPORT STAFF
-
 ##### ADMINISTRATIVE STAFF
 
 <table>
@@ -434,7 +438,7 @@ description: ""
 </tbody>
 </table>
 
-##### SUPPORT STAFF & ICT SUPPORT STAFF
+##### SUPPORT & ICT SUPPORT STAFF
 
 <table>
 <thead>
