@@ -11,15 +11,6 @@ Click on this [link](https://staging.d1vupma46t7042.amplifyapp.com/parents/mini
 
 -----------------
 
-
-**Punggol Inter Racial & Religious Harmony Street Parade E-Fiesta 2020**
-
-We were part of the Punggol Inter Racial and Religious Harmony Street Parade E-Fiesta 2020.
-
-Click [here](https://waterwaypri-moe-edu-sg-admin.cwp.sg/qql/slot/u725/2020/PunggolEFiesta2020.mp4) to watch the video clip **(NEED TO UPLOAD VIDEO TO YOUTUBE/VIMEO)**
-
------------------
-
 **Practising a Growth and Benefit Mindset**
 
 During the circuit breaker period, our students and teachers grew in knowledge and skills and benefited others. Please click on the link to find out how our students and teachers have practised a growth and benefit mindset.

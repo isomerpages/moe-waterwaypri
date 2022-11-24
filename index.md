@@ -7,13 +7,10 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Images/WaterwayPri.jpg
+      background: /images/Wps.png
       key_highlights:
-        - title: Announcements
-          description: ""
-          url: /announcements
         - title: Quicklinks
           description: ""
           url: /quicklinks/
-      title: FOR WORK | FOR LIFE | FOR FUTURE
+      title: FOR WORK . FOR LIFE . FOR FUTURE
 ---
