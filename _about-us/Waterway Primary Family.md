@@ -8,8 +8,6 @@ description: ""
 
 
 ![](/images/About%20Us/WWPS-1.jpg)
-# Waterway Primary Family
-
 #### SCHOOL LEADERS
 
 <table>
@@ -25,17 +23,14 @@ description: ""
 </tbody>
 </table>
 
-#### HEAD OF DEPARTMENT/ASSISTANT YEAR & YEAR HEAD
+#### HEAD OF DEPARTMENT
 
 <table>
-<thead>
   <tr>
     <td><b>MISS PRIYADAKSHINI</b><br>HOD English<br><a href="mailto:priyadakshini_surendiran_s@moe.edu.sg">priyadakshini_surendiran_s@moe.edu.sg</a></td>
     <td><b>MRS SHEILA CHAN</b><br>HOD Mathematics<br><a href="mailto:tay_sock_hwee_sheila@moe.edu.sg">tay_sock_hwee_sheila@moe.edu.sg</a></td>
   </tr>
-</thead>
-<tbody>
-  <tr>
+<tr>
     <td><b>MRS WONG YAN RU</b><br>HOD Science<br><a href="mailto:lim_yan_ru@moe.edu.sg">lim_yan_ru@moe.edu.sg</a></td>
     <td><b>MS TANG SIAW WEN</b><br>HOD Mother Tongue<br><a href="mailto:tang_siaw_wen@moe.edu.sg">tang_siaw_wen@moe.edu.sg</a></td>
   </tr>
@@ -48,9 +43,13 @@ description: ""
     <td><b>MS NEO CHAI LEE</b><br>HOD CCE<br><a href="mailto:Neo_chai_lee@moe.edu.sg">neo_chai_lee@moe.edu.sg</a></td>
   </tr>
   <tr>
-    <td><b>MS KAREN CHAN</b><br>SSD<br><a href="mailto:karen_oi_chan@moe.edu.sg">karen_oi_chan@moe.edu.sg </a> </td>
-    <td></td>
-  </tr>
+    <td><b>MS KAREN CHAN</b><br>SSD<br><a href="mailto:karen_oi_chan@moe.edu.sg">karen_oi_chan@moe.edu.sg </a> </td></tr>
+</table>
+
+#### ASSISTANT YEAR & YEAR HEAD
+
+<table>
+<tbody>
   <tr>
     <td><b>MRS MITCHELLE WONG</b><br>Assistant Year Head (P1)<br><a href="mailto:mitchelle_wong@moe.edu.sg">mitchelle_wong@moe.edu.sg</a></td>
     <td><b>MS WEE JER WEN</b><br>Year Head (P2)<br><a href="mailto:wee_jer_wen@moe.edu.sg">wee_jer_wen@moe.edu.sg</a></td>
@@ -66,18 +65,14 @@ description: ""
 </tbody>
 </table>
 
-<br>
-
-#### SUBJECT/LEVEL HEADS
+#### LEVEL/SUBJECT HEAD
 
 <table>
-<thead>
   <tr>
     <td><b>MR IRWAN</b><br>Level Head English Language<br><a href="mailto:irwan_shah@moe.edu.sg">irwan_shah@moe.edu.sg</a></td>
     <td><b>MRS SERENE TAN</b><br>Level Head Mathematics<br><a href="mailto:neo_wei_li_serene@moe.edu.sg">neo_wei_li_serene@moe.edu.sg</a> </td>
   </tr>
-</thead>
-<tbody>
+
   <tr>
     <td><b>MISS LIM TIAN JING</b><br>Level Head Mother Tongue<br><a href="mailto:lim_tian_jing@moe.edu.sg" target="_blank" rel="noopener noreferrer">lim_tian_jing@moe.edu.sg</a></td>
     <td><b>MDM CHUA QINYU</b><br>Subject Head ICT<br><a href="mailto:chua_qinyu@moe.edu.sg" target="_blank" rel="noopener noreferrer">chua_qinyu@moe.edu.sg</a> </td>
@@ -88,18 +83,13 @@ description: ""
   </tr>
   <tr>
     <td><b>MR JASON YEW</b><br>Subject Head Student Management<br><a href="mailto:yew_kwok_ming@moe.edu.sg" target="_blank" rel="noopener noreferrer">yew_kwok_ming@moe.edu.sg</a></td>
-    <td><br></td>
-  </tr>
-  
-</tbody>
-</table>
+    <td></td>
+  </tr></table>
 
 #### TEACHER LEADERS & COORDINATORS
 
 <table>
-<tbody>
-  
-  <tr>
+<tr>
     <td><b>MRS RAEBURN-SIM CHEY HOONG</b><br>Lead Teacher Science<br><a href="mailto:raeburn-sim_chey_hoong@moe.edu.sg" target="_blank" rel="noopener noreferrer">raeburn-sim_chey_hoong@moe.edu.sg</a></td>
     <td><b>MDM ALWIYAH</b><br>Senior Teacher English<br><a href="mailto:alwiyah_abdul_aziz@moe.edu.sg" target="_blank" rel="noopener noreferrer">alwiyah_abdul_aziz@moe.edu.sg</a></td>
   </tr>
@@ -111,7 +101,6 @@ description: ""
     <td><b>MR CHRISTOPHER SHAU</b><br>Senior Teacher Educational Support<br><a href="mailto:Christopher_shau@moe.edu.sg" target="_blank" rel="noopener noreferrer">Christopher_shau@moe.edu.sg</a><br><br></td>
     <td><b>MISS GRACE SEAH</b><br>Senior Teacher Chinese Language<br><a href="mailto:seah_pei_ru_grace@moe.edu.sg" target="_blank" rel="noopener noreferrer">seah_pei_ru_grace@moe.edu.sg</a></td>
   </tr>
-</tbody>
 </table>
 
 
@@ -119,13 +108,10 @@ description: ""
 #### PRIMARY 1 TEACHERS
 
 <table>
-<thead>
   <tr>
     <td><b>MRS JANE TEO</b><br>Form Teacher Pri 1A<br><a href="mailto:cheong_fong_teng@moe.edu.sg" target="_blank" rel="noopener noreferrer">cheong_fong_teng@moe.edu.sg</a></td>
     <td><b>MISS HUMAIRAH</b><br>Form Teacher Pri 1B  <br><a href="mailto:nur_humairah_hasim@moe.edu.sg" target="_blank" rel="noopener noreferrer">nur_humairah_hasim@moe.edu.sg</a></td>
   </tr>
-</thead>
-<tbody>
   <tr>
     <td><b>MS CLARA ONG</b><br>Form Teacher Pri 1C<br><a href="mailto:ong_fong_yan_clara@moe.edu.sg" target="_blank" rel="noopener noreferrer">ong_fong_yan_clara@moe.edu.sg </a></td>
     <td><b>MISS ZANDRA CHEW</b><br>Form Teacher Pri 1D<br><a href="mailto:chew_yann_zandra@moe.edu.sg" target="_blank" rel="noopener noreferrer">chew_yann_zandra@moe.edu.sg</a></td>
@@ -142,7 +128,6 @@ description: ""
     <td><b>MRS DIANA YAP</b><br>Form Teacher Pri 1I<br><a href="mailto:chan_hui_min_diana@moe.edu.sg" target="_blank" rel="noopener noreferrer">chan_hui_min_diana@moe.edu.sg</a></td>
     <td> </td>
   </tr>
-</tbody>
 </table>
 
 
@@ -351,8 +336,8 @@ description: ""
 </table>
 
 #### PAM (PHYSICAL ED, ART & MUSIC)
+
 <table>
-<thead>
     <tr>
     <td><b>MDM LEE SING LAN</b><br>Art &amp; Craft<br><a href="mailto:lee_sing_lan@moe.edu.sg" target="_blank" rel="noopener noreferrer">lee_sing_lan@moe.edu.sg</a></td>
     <td><b>MDM SITI RAUDHAH</b><br>Art &amp; Craft<br><a href="mailto:siti_raudhah_imran@moe.edu.sg" target="_blank" rel="noopener noreferrer">siti_raudhah_imran@moe.edu.sg</a></td>
@@ -371,14 +356,12 @@ description: ""
   </tr>
   <tr>
     <td><b>MR MOHD ALI</b><br>PE Teacher<br><a href="mailto:mohamed_ali_mohamed_hanafiah@moe.edu.sg" target="_blank" rel="noopener noreferrer">mohamed_ali_mohamed_hanafiah@moe.edu.sg</a></td>
-
- 
-</tbody>
+	</tr>
 </table>
 
 #### ENGLISH MEDIUM TEACHING STAFF
+
 <table>
-<thead>
   <tr>
     <td><b>MISS SOOMATHY</b><br>English Medium<br><a href="mailto:soomathy_veeraya@moe.edu.sg" target="_blank" rel="noopener noreferrer">soomathy_veeraya@moe.edu.sg</a></td>
     <td><b>MR NICK WONG</b><br>English Medium<br><a href="mailto:wong_ngian_fai@moe.edu.sg" target="_blank" rel="noopener noreferrer">wong_ngian_fai@moe.edu.sg</a></td>
@@ -387,25 +370,18 @@ description: ""
     <td><b>MDM TAN LAY SYN</b> <br>English Medium<br><a href="mailto:tan_lay_syn@moe.edu.sg" target="_blank" rel="noopener noreferrer">tan_lay_syn@moe.edu.sg</a></td>
     <td><b>MDM CHERYL TAY</b><br>English Medium<br><a href="mailto:tay_soong_huang@moe.edu.sg">tay_soong_huang@moe.edu.sg</a></td>
   </tr>
- 
-</tbody>
 </table>
 
 #### SEN OFFICER & SCHOOL COUNSELLOR
 
 
 <table>
-<thead>
   <tr>
 		<td><b>MS ROFIDAH</b><br>Senior SEN Officer<br><a href="mailto:rofidah_samah@moe.edu.sg" target="_blank" rel="noopener noreferrer">rofidah_samah@moe.edu.sg</a></td>
-		<td><b>MS SITI</b><br>SEN Officer <br><a href="mailto:siti_khairunnisa_nor@moe.edu.sg">siti_khairunnisa_nor@moe.edu.sg</a></td>
-  </tr>
-</thead>
-<tbody>
+		<td><b>MS SITI</b><br>SEN Officer <br><a href="mailto:siti_khairunnisa_nor@moe.edu.sg">siti_khairunnisa_nor@moe.edu.sg</a></td></tr>
   <tr>
 		<td><b>MS NEEMIKA</b><br>School Counsellor<br><a href="mailto:neemika_rai@moe.edu.sg">neemika_rai@moe.edu.sg</a></td>
   </tr>
-</tbody>
 </table>
 
 #### ADMINISTRATIVE & SUPPORT STAFF
@@ -413,7 +389,6 @@ description: ""
 ##### ADMINISTRATIVE STAFF
 
 <table>
-
 <tbody>
 	  <tr>
     <td>Administration Manager</td>
@@ -434,10 +409,9 @@ description: ""
 </tbody>
 </table>
 
-##### SUPPORT STAFF & ICT SUPPORT STAFF
+##### SUPPORT & ICT SUPPORT STAFF
 
 <table>
-<thead>
   <tr>
     <td>Operations Manager</td>
     <td><b>MR BERNARD CHIA</b></td>
@@ -462,7 +436,6 @@ description: ""
     <td>Operations Support Officer</td>
     <td><b>MDM NGHIEM NU</b></td>
   </tr>
-
   <tr>
     <td>ICT Manager</td>
     <td><b>MR KOH CHEE WEI</b></td>
@@ -475,7 +448,4 @@ description: ""
     <td>Desktop Engineer</td>
     <td><b>MR SARA  </b></td>
   </tr>
-  
-
-</tbody>
 </table>
