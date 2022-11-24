@@ -9,9 +9,6 @@ sections:
   - hero:
       background: /images/Wps.png
       key_highlights:
-        - title: Announcements
-          description: ""
-          url: /announcements
         - title: Quicklinks
           description: ""
           url: /quicklinks/
