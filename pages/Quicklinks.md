@@ -14,6 +14,7 @@ description: ""
   
 **For Parents**  
 
+* [Newsletter 2022](https://for.edu.sg/waterwayprinewsletter2022)
 *   [2022 Waterway Primary School Virtual Open House](https://waterwaypri.wixsite.com/wwps-openhouse)
 *   [360° Virtual Tour](https://roundme.com/embed/SvllymcqYPP96XdbxZ7Q)  
     
@@ -24,8 +25,6 @@ description: ""
 *   [2021 P6 Cohort Students & Parents Say](https://waterwaypri.wixsite.com/wwps-openhouse/2021-p6-cohort-students-parents-say)
 
 *   [Student Vaccination Exercise](https://staging.d1vupma46t7042.amplifyapp.com/others/student-vaccination-exercise/)  
-    
-*   [Newsletter 2021](/files/Newsletter_2021.pdf)
     
 *   [@parentingwith.moesg](https://instagram.com/parentingwith.moesg)
 *   [Vendor Information](https://staging.d1vupma46t7042.amplifyapp.com/parents/vendor-information/)
