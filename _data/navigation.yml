@@ -55,6 +55,8 @@ links:
         url: https://www.instagram.com/parentingwith.moesg/
       - title: Family Matters
         url: /parents/family-matters
+      - title: Newsletter
+        url: /newsletter
   - title: Contact
     url: /contact/visitor-information
     sublinks:
