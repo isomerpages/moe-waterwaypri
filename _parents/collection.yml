@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - Vendor Information.md
       - Parents Support Group.md
       - Family Matters.md
       - Forms.md
