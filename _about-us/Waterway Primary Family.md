@@ -55,6 +55,7 @@ description: ""
   <tr>
     <td><b>MRS SHRLINDA LEE</b><br>Year Head (P1)<br><a href="mailto:see_shu_lan_shrlinda@moe.edu.sg">see_shu_lan_shrlinda@moe.edu.sg</a></td>
     <td><b>MRS MITCHELLE WONG</b><br>Assistant Year Head (P2)<br><a href="mailto:mitchelle_wong@moe.edu.sg">mitchelle_wong@moe.edu.sg</a></td>
+	</tr>
   <tr>
     <td><b>MS CHERYL KHOO</b><br>Assistant Year Head (P3)<br><a href="mailto:nazreena_abdul_rahman@moe.edu.sg">nazreena_abdul_rahman@moe.edu.sg</a></td>
     <td><b>MDM NAZREENA</b><br>Assistant Year Head (P4)<br><a href="mailto:nazreena_abdul_rahman@moe.edu.sg">nazreena_abdul_rahman@moe.edu.sg</a></td>
