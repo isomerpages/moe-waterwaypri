@@ -21,8 +21,7 @@ description: ""
   </tr>
 		<tr>
 		<td><b>MR DALJIT SINGH</b><br>Vice-Principal (Administration)</td>
-    <td>
-		</tr>
+    </tr>
 </tbody>
 </table>
 
