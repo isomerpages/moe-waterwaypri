@@ -17,12 +17,12 @@ description: ""
 	</tr>		
 		<tr>
 		<td><b>MRS JUDY LING</b><br>Vice-Principal</td>
-    <td></td>
-		<td><b>MDM SHARIFAH MASTURAH</b><br>Vice-Principal</td>
+    <td><b>MDM SHARIFAH MASTURAH</b><br>Vice-Principal</td>
   </tr>
 		<tr>
 		<td><b>MR DALJIT SINGH</b><br>Vice-Principal (Administration)</td>
     <td>
+		</tr>
 </tbody>
 </table>
 
