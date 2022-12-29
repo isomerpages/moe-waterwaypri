@@ -13,13 +13,16 @@ description: ""
 <table>
 	<tbody>
 		<tr>
-      		<td><b>MRS WEE-KWAN LIAM</b><br>Principal</td>
+      		<td><b>MR WILBUR WONG</b><br>Principal</td>
 	</tr>		
 		<tr>
-		<td><b>MR DALJIT SINGH</b><br>Vice-Principal (Administration)</td>
-    <td></td>
 		<td><b>MRS JUDY LING</b><br>Vice-Principal</td>
+    <td></td>
+		<td><b>MDM SHARIFAH MASTURAH</b><br>Vice-Principal</td>
   </tr>
+		<tr>
+		<td><b>MR DALJIT SINGH</b><br>Vice-Principal (Administration)</td>
+    <td>
 </tbody>
 </table>
 
@@ -27,12 +30,12 @@ description: ""
 
 <table>
   <tr>
-    <td><b>MISS PRIYADAKSHINI</b><br>HOD English<br><a href="mailto:priyadakshini_surendiran_s@moe.edu.sg">priyadakshini_surendiran_s@moe.edu.sg</a></td>
+    <td><b>MS PRIYADAKSHINI</b><br>HOD English<br><a href="mailto:priyadakshini_surendiran_s@moe.edu.sg">priyadakshini_surendiran_s@moe.edu.sg</a></td>
     <td><b>MRS SHEILA CHAN</b><br>HOD Mathematics<br><a href="mailto:tay_sock_hwee_sheila@moe.edu.sg">tay_sock_hwee_sheila@moe.edu.sg</a></td>
   </tr>
 <tr>
     <td><b>MRS WONG YAN RU</b><br>HOD Science<br><a href="mailto:lim_yan_ru@moe.edu.sg">lim_yan_ru@moe.edu.sg</a></td>
-    <td><b>MS TANG SIAW WEN</b><br>HOD Mother Tongue<br><a href="mailto:tang_siaw_wen@moe.edu.sg">tang_siaw_wen@moe.edu.sg</a></td>
+    <td><b>MISS GINA OW</b><br>HOD Mother Tongue<br><a href="mailto:gina_ow@moe.edu.sg">gina_ow@moe.edu.sg</a></td>
   </tr>
   <tr>
     <td><b>MR SIM TECK CHUAN</b><br>HOD ICT<br><a href="mailto:sim_teck_chuan@moe.edu.sg">sim_teck_chuan@moe.edu.sg</a></td>
@@ -43,25 +46,23 @@ description: ""
     <td><b>MS NEO CHAI LEE</b><br>HOD CCE<br><a href="mailto:Neo_chai_lee@moe.edu.sg">neo_chai_lee@moe.edu.sg</a></td>
   </tr>
   <tr>
-    <td><b>MS KAREN CHAN</b><br>SSD<br><a href="mailto:karen_oi_chan@moe.edu.sg">karen_oi_chan@moe.edu.sg </a> </td></tr>
+    <td><b>MS KAREN CHAN</b><br>School Staff Developer<br><a href="mailto:karen_oi_chan@moe.edu.sg">karen_oi_chan@moe.edu.sg </a> </td></tr>
 </table>
 
-#### ASSISTANT YEAR & YEAR HEAD
+#### YEAR HEAD & ASSISTANT YEAR HEAD
 
 <table>
 <tbody>
   <tr>
-    <td><b>MRS MITCHELLE WONG</b><br>Assistant Year Head (P1)<br><a href="mailto:mitchelle_wong@moe.edu.sg">mitchelle_wong@moe.edu.sg</a></td>
-    <td><b>MS WEE JER WEN</b><br>Year Head (P2)<br><a href="mailto:wee_jer_wen@moe.edu.sg">wee_jer_wen@moe.edu.sg</a></td>
+    <td><b>MRS SHRLINDA LEE</b><br>Year Head (P1)<br><a href="mailto:see_shu_lan_shrlinda@moe.edu.sg">see_shu_lan_shrlinda@moe.edu.sg</a></td>
+    <td><b>MRS MITCHELLE WONG</b><br>Assistant Year Head (P2)<br><a href="mailto:mitchelle_wong@moe.edu.sg">mitchelle_wong@moe.edu.sg</a></td>
+  <tr>
+    <td><b>MS CHERYL KHOO</b><br>Assistant Year Head (P3)<br><a href="mailto:nazreena_abdul_rahman@moe.edu.sg">nazreena_abdul_rahman@moe.edu.sg</a></td>
+    <td><b>MDM NAZREENA</b><br>Assistant Year Head (P4)<br><a href="mailto:nazreena_abdul_rahman@moe.edu.sg">nazreena_abdul_rahman@moe.edu.sg</a></td>
   </tr>
   <tr>
-    <td><b>MDM NAZREENA</b><br>Year Head (P3)<br><a href="mailto:nazreena_abdul_rahman@moe.edu.sg">nazreena_abdul_rahman@moe.edu.sg</a></td>
-    <td><b>MRS SHRLINDA LEE</b><br>Year Head (P4)<br><a href="mailto:see_shu_lan_shrlinda@moe.edu.sg">see_shu_lan_shrlinda@moe.edu.sg</a></td>
-  </tr>
-  <tr>
-    <td><b>MR WONG BENG YU</b><br>Year Head (P5) / Orators@Waterway Coordinator <br><a href="mailto:wong_beng_yu@moe.edu.sg">wong_beng_yu@moe.edu.sg</a></td>
-    <td><b>MRS LU LI TING</b><br>Assistant Year Head (P6) / Growth &amp; Benefit Mindset Coordinator<br><a href="mailto:lim_li_ting@moe.edu.sg">lim_li_ting@moe.edu.sg</a></td>
-  </tr>
+    <td><b>MR JASON YEW</b><br>Assistant Year Head (P5) <br><a href="mailto:yew_kwok_ming@moe.edu.sg ">yew_kwok_ming@moe.edu.sg</a></td>
+   <td><b>MR WONG BENG YU</b><br>Year Head (P6) / Orators@Waterway Coordinator <br><a href="mailto:wong_beng_yu@moe.edu.sg">wong_beng_yu@moe.edu.sg</a></td>
 </tbody>
 </table>
 
@@ -75,16 +76,13 @@ description: ""
 
   <tr>
     <td><b>MISS LIM TIAN JING</b><br>Level Head Mother Tongue<br><a href="mailto:lim_tian_jing@moe.edu.sg" target="_blank" rel="noopener noreferrer">lim_tian_jing@moe.edu.sg</a></td>
-    <td><b>MDM CHUA QINYU</b><br>Subject Head ICT<br><a href="mailto:chua_qinyu@moe.edu.sg" target="_blank" rel="noopener noreferrer">chua_qinyu@moe.edu.sg</a> </td>
+    <td><b>MS CHUA QINYU</b><br>Subject Head ICT<br><a href="mailto:chua_qinyu@moe.edu.sg" target="_blank" rel="noopener noreferrer">chua_qinyu@moe.edu.sg</a> </td>
   </tr>
   <tr>
     <td><b>MS CLARA ONG</b><br>Subject Head National Education / Social Studies<br><a href="mailto:ong_fong_yan_clara@moe.edu.sg" target="_blank" rel="noopener noreferrer">ong_fong_yan_clara@moe.edu.sg </a></td>
     <td><b>MRS GIN CHAN</b><br>Subject Head Aesthetics<br><a href="mailto:chua_gim_peng_gin@moe.edu.sg" target="_blank" rel="noopener noreferrer">chua_gim_peng_gin@moe.edu.sg</a></td>
   </tr>
-  <tr>
-    <td><b>MR JASON YEW</b><br>Subject Head Student Management<br><a href="mailto:yew_kwok_ming@moe.edu.sg" target="_blank" rel="noopener noreferrer">yew_kwok_ming@moe.edu.sg</a></td>
-    <td></td>
-  </tr></table>
+ </table>
 
 #### TEACHER LEADERS & COORDINATORS
 
@@ -98,12 +96,10 @@ description: ""
     <td><b>MRS CLARISSA HAN</b><br>Senior Teacher Learner Profile (HA)<br><a href="mailto:cheong_yoke_ling@moe.edu.sg" target="_blank" rel="noopener noreferrer">cheong_yoke_ling@moe.edu.sg</a></td>
   </tr>
   <tr>
-    <td><b>MR CHRISTOPHER SHAU</b><br>Senior Teacher Educational Support<br><a href="mailto:Christopher_shau@moe.edu.sg" target="_blank" rel="noopener noreferrer">Christopher_shau@moe.edu.sg</a><br><br></td>
+    <td><b>MR CHRISTOPHER SHAU</b><br>Senior Teacher Educational Support<br><a href="mailto:Christopher_shau@moe.edu.sg" target="_blank" rel="noopener noreferrer">christopher_shau@moe.edu.sg</a><br><br></td>
     <td><b>MISS GRACE SEAH</b><br>Senior Teacher Chinese Language<br><a href="mailto:seah_pei_ru_grace@moe.edu.sg" target="_blank" rel="noopener noreferrer">seah_pei_ru_grace@moe.edu.sg</a></td>
   </tr>
 </table>
-
-
 
 #### PRIMARY 1 TEACHERS
 
@@ -137,7 +133,8 @@ description: ""
 <table>
 <thead>
   <tr>
-    <td><b>MISS YEO SHU YUAN</b><br>Form Teacher Pri 2A<br><a href="mailto:yeo_shu_yuan@moe.edu.sg" target="_blank" rel="noopener noreferrer">yeo_shu_yuan@moe.edu.sg</a></td>
+    <td><b>MRS JANE TEO</b><br>Form Teacher Pri 1A<br><a href="mailto:cheong_fong_teng@moe.edu.sg" target="_blank" rel="noopener noreferrer">cheong_fong_teng@moe.edu.sg</a></td>
+		<td><b>MISS YEO SHU YUAN</b><br>Form Teacher Pri 2A<br><a href="mailto:yeo_shu_yuan@moe.edu.sg" target="_blank" rel="noopener noreferrer">yeo_shu_yuan@moe.edu.sg</a></td>
     <td><b>MDM HARIATI</b><br>Form Teacher Pri 2B<br><a href="mailto:hariati_ali@moe.edu.sg" target="_blank" rel="noopener noreferrer">hariati_ali@moe.edu.sg</a></td>
   </tr>
 </thead>
@@ -340,22 +337,23 @@ description: ""
 <table>
     <tr>
     <td><b>MDM LEE SING LAN</b><br>Art &amp; Craft<br><a href="mailto:lee_sing_lan@moe.edu.sg" target="_blank" rel="noopener noreferrer">lee_sing_lan@moe.edu.sg</a></td>
-    <td><b>MDM SITI RAUDHAH</b><br>Art &amp; Craft<br><a href="mailto:siti_raudhah_imran@moe.edu.sg" target="_blank" rel="noopener noreferrer">siti_raudhah_imran@moe.edu.sg</a></td>
+    <td><b>MISS SITI RAUDHAH</b><br>Art &amp; Craft<br><a href="mailto:siti_raudhah_imran@moe.edu.sg" target="_blank" rel="noopener noreferrer">siti_raudhah_imran@moe.edu.sg</a></td>
   </tr>
   <tr>
     <td><b>MDM HARIATI</b><br>Art &amp; Craft<br><a href="mailto:hariati_abdul_hamid@moe.edu.sg" target="_blank" rel="noopener noreferrer">hariati_abdul_hamid@moe.edu.sg</a> </td>
-    <td><b>MS CHIA HWEE HIAN</b><br>Music<br><a href="mailto:chia_hwee_hian@moe.edu.sg" target="_blank" rel="noopener noreferrer">chia_hwee_hian@moe.edu.sg</a></td>
+    <td><b>MDM CHIA HWEE HIAN</b><br>Music<br><a href="mailto:chia_hwee_hian@moe.edu.sg" target="_blank" rel="noopener noreferrer">chia_hwee_hian@moe.edu.sg</a></td>
   </tr>
   <tr>
-    <td><b>MISS TAN PEI WEN</b><br>PE Teacher<br><a href="mailto:tan_pei_wen_b@moe.edu.sg">tan_pei_wen_b@moe.edu.sg</a></td>
+    <td><b>MS TAN PEI WEN</b><br>PE Teacher<br><a href="mailto:tan_pei_wen_b@moe.edu.sg">tan_pei_wen_b@moe.edu.sg</a></td>
     <td><b>MR JAN JOEL</b><br>PE Teacher<br><a href="mailto:jan_joel_jayanta@moe.edu.sg">jan_joel_jayanta@moe.edu.sg</a></td>
   </tr>
   <tr>
     <td><b>MR JUSTIN TAN</b><br>PE Teacher<br><a href="mailto:tan_siow_meng@moe.edu.sg">tan_siow_meng@moe.edu.sg</a></td>
-     <td><b>MR LAI WEE YEONG</b><br>PE Teacher<br><a href="mailto:Lai_Wee_Yeong@moe.edu.sg">Lai_Wee_Yeong@moe.edu.sg</a></td>
+     <td><b>MR LAI WEE YEONG</b><br>PE Teacher<br><a href="mailto:Lai_Wee_Yeong@moe.edu.sg">lai_Wee_Yeong@moe.edu.sg</a></td>
   </tr>
   <tr>
     <td><b>MR MOHD ALI</b><br>PE Teacher<br><a href="mailto:mohamed_ali_mohamed_hanafiah@moe.edu.sg" target="_blank" rel="noopener noreferrer">mohamed_ali_mohamed_hanafiah@moe.edu.sg</a></td>
+		<td><b>MRS DIANA YAP</b><br>PE Teacher<br><a href="mailto:chan_hui_min_diana@moe.edu.sg" target="_blank" rel="noopener noreferrer">chan_hui_min_diana@moe.edu.sg</a></td>
 	</tr>
 </table>
 
@@ -377,10 +375,10 @@ description: ""
 
 <table>
   <tr>
-		<td><b>MS ROFIDAH</b><br>Senior SEN Officer<br><a href="mailto:rofidah_samah@moe.edu.sg" target="_blank" rel="noopener noreferrer">rofidah_samah@moe.edu.sg</a></td>
-		<td><b>MS SITI</b><br>SEN Officer <br><a href="mailto:siti_khairunnisa_nor@moe.edu.sg">siti_khairunnisa_nor@moe.edu.sg</a></td></tr>
+		<td><b>MISS ROFIDAH SAMAH</b><br>Senior SEN Officer<br><a href="mailto:rofidah_samah@moe.edu.sg" target="_blank" rel="noopener noreferrer">rofidah_samah@moe.edu.sg</a></td>
+		<td><b>MISS SITI KHAIRUNNISA</b><br>SEN Officer <br><a href="mailto:siti_khairunnisa_nor@moe.edu.sg">siti_khairunnisa_nor@moe.edu.sg</a></td></tr>
   <tr>
-		<td><b>MS NEEMIKA</b><br>School Counsellor<br><a href="mailto:neemika_rai@moe.edu.sg">neemika_rai@moe.edu.sg</a></td>
+		<td><b>MISS NEEMIKA RAI</b><br>School Counsellor<br><a href="mailto:neemika_rai@moe.edu.sg">neemika_rai@moe.edu.sg</a></td>
   </tr>
 </table>
 
@@ -404,7 +402,7 @@ description: ""
   </tr>
   <tr>
     <td>Corporate Support Officer</td>
-    <td><b>MS SITI</b></td>
+    <td><b>MISS SITI NUR HAJAR</b></td>
   </tr>
 </tbody>
 </table>
