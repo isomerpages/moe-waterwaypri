@@ -63,6 +63,7 @@ description: ""
   <tr>
     <td><b>MR JASON YEW</b><br>Assistant Year Head (P5) <br><a href="mailto:yew_kwok_ming@moe.edu.sg ">yew_kwok_ming@moe.edu.sg</a></td>
    <td><b>MR WONG BENG YU</b><br>Year Head (P6) / Orators@Waterway Coordinator <br><a href="mailto:wong_beng_yu@moe.edu.sg">wong_beng_yu@moe.edu.sg</a></td>
+	</tr>
 </tbody>
 </table>
 
@@ -105,33 +106,29 @@ description: ""
 
 <table>
   <tr>
-    <td><b>MRS JANE TEO</b><br>Form Teacher Pri 1A<br><a href="mailto:cheong_fong_teng@moe.edu.sg" target="_blank" rel="noopener noreferrer">cheong_fong_teng@moe.edu.sg</a></td>
+		<td><b>MRS CALYNN TEH</b><br>Form Teacher Pri 1A<br><a href="mailto:calynn_chow_wun_yen@moe.edu.sg" target="_blank" rel="noopener noreferrer">calynn_chow_wun_yen@moe.edu.sg</a></td>
     <td><b>MISS HUMAIRAH</b><br>Form Teacher Pri 1B  <br><a href="mailto:nur_humairah_hasim@moe.edu.sg" target="_blank" rel="noopener noreferrer">nur_humairah_hasim@moe.edu.sg</a></td>
   </tr>
-  <tr>
-    <td><b>MS CLARA ONG</b><br>Form Teacher Pri 1C<br><a href="mailto:ong_fong_yan_clara@moe.edu.sg" target="_blank" rel="noopener noreferrer">ong_fong_yan_clara@moe.edu.sg </a></td>
-    <td><b>MISS ZANDRA CHEW</b><br>Form Teacher Pri 1D<br><a href="mailto:chew_yann_zandra@moe.edu.sg" target="_blank" rel="noopener noreferrer">chew_yann_zandra@moe.edu.sg</a></td>
+	<tr>
+		  <td><b>MDM SITI NURAIDAH</b><br>Form Teacher Pri 1C<br><a href="mailto:siti_nuraidah_mukthar@moe.edu.sg" target="_blank" rel="noopener noreferrer">siti_nuraidah_mukthar@moe.edu.sg</a></td>
+		  <td><b>MDM NUR AZLIN</b><br>Form Teacher Pri 1D<br><a href="mailto:siti_nuraidah_mukthar@moe.edu.sg" target="_blank" rel="noopener noreferrer">siti_nuraidah_mukthar@moe.edu.sg</a></td>
+		</TR>
+		<TR>
+	  <td><b>MDM IRENE GAN</b><br>Form Teacher Pri 1E<br><a href="mailto:siti_nuraidah_mukthar@moe.edu.sg" target="_blank" rel="noopener noreferrer">siti_nuraidah_mukthar@moe.edu.sg</a></td>
+	<td><b>MS JOLENE LOW</b><br>Form Teacher Pri 1F<br><a href="mailto:low_wei_ling_jolene@moe.edu.sg" target="_blank" rel="noopener noreferrer">low_wei_ling_jolene@moe.edu.sg</a></td>
   </tr>
-  <tr>
-    <td><b>MDM NURUL HUDA</b><br>Form Teacher Pri 1E<br><a href="mailto:nurul_huda_safaruddin@moe.edu.sg" target="_blank" rel="noopener noreferrer">nurul_huda_safaruddin@moe.edu.sg</a></td>
-    <td><b>MDM HIDAYAH</b><br>Form Teacher Pri 1F<br><a href="mailto:nur_hidayah_shopieoodin@moe.edu.sg" target="_blank" rel="noopener noreferrer">nur_hidayah_shopieoodin@moe.edu.sg</a></td>
-  </tr>
-  <tr>
-    <td><b>MRS CALYNN TEH</b><br>Form Teacher Pri 1G<br><a href="mailto:calynn_chow_wun_yen@moe.edu.sg" target="_blank" rel="noopener noreferrer">calynn_chow_wun_yen@moe.edu.sg</a></td>
-    <td><b>MR RYAN</b><br>Form Teacher Pri 1H<br><a href="mailto:ryan_williams_fernandez@moe.edu.sg" target="_blank" rel="noopener noreferrer">ryan_williams_fernandez@moe.edu.sg</a></td>
-  </tr>
-  <tr>
-    <td><b>MRS DIANA YAP</b><br>Form Teacher Pri 1I<br><a href="mailto:chan_hui_min_diana@moe.edu.sg" target="_blank" rel="noopener noreferrer">chan_hui_min_diana@moe.edu.sg</a></td>
-    <td> </td>
-  </tr>
-</table>
-
+	<TR>
+	<td><b>MS IVY YEO</b><br>Form Teacher Pri 1G<br><a href="mailto:yeo_ivy@moe.edu.sg" target="_blank" rel="noopener noreferrer">yeo_ivy@moe.edu.sg</a></td>
+     <td><b>MRS JASLYN THAM</b><br>Form Teacher Pri 1H<br><a href="mailto:fang_siying_jaslyn@moe.edu.sg" target="_blank" rel="noopener noreferrer">fang_siying_jaslyn@moe.edu.sg</a> </td>
+	</TR>		
+	<TR>
+	    <td><b>MISS MEGHANA PRASAD</b><br>Form Teacher Pri 1I<br><a href="mailto:Meghana_Prasad@moe.edu.sg" target="_blank" rel="noopener noreferrer">Meghana_Prasad@moe.edu.sg</a></td>
+	</TR>
+	</table>
 
 #### PRIMARY 2 TEACHERS
-
-
 <table>
-<thead>
+
   <tr>
     <td><b>MRS JANE TEO</b><br>Form Teacher Pri 1A<br><a href="mailto:cheong_fong_teng@moe.edu.sg" target="_blank" rel="noopener noreferrer">cheong_fong_teng@moe.edu.sg</a></td>
 		<td><b>MISS YEO SHU YUAN</b><br>Form Teacher Pri 2A<br><a href="mailto:yeo_shu_yuan@moe.edu.sg" target="_blank" rel="noopener noreferrer">yeo_shu_yuan@moe.edu.sg</a></td>
@@ -140,20 +137,19 @@ description: ""
 </thead>
 <tbody>
   <tr>
-    <td><b>MDM SITI NURAIDAH</b><br>Form Teacher Pri 2C<br><a href="mailto:siti_nuraidah_mukthar@moe.edu.sg" target="_blank" rel="noopener noreferrer">siti_nuraidah_mukthar@moe.edu.sg</a></td>
+  
     <td><b>MISS REMEDIOS SARAH MEGAN</b><br>Form Teacher Pri 2D<br><a href="mailto:remedios_sarah_megan@moe.edu.sg" target="_blank" rel="noopener noreferrer">remedios_sarah_megan@moe.edu.sg</a></td>
   </tr>
   <tr>
     <td><b>MISS CHERYL KHOO</b><br>Form Teacher Pri 2E<br><a href="mailto:KHOO_Wan_Shir_Cheryl@moe.edu.sg" target="_blank" rel="noopener noreferrer">khoo_wan_shir_cheryl@moe.edu.sg</a> </td>
-    <td><b>MISS MEGHANA PRASAD</b><br>Form Teacher Pri 2F<br><a href="mailto:Meghana_Prasad@moe.edu.sg" target="_blank" rel="noopener noreferrer">Meghana_Prasad@moe.edu.sg</a></td>
+
   </tr>
   <tr>
     <td><b>MISS CHEN WEI JIE</b><br>Form Teacher Pri 2G<br><a href="mailto:chen_wei_jie_a@moe.edu.sg" target="_blank" rel="noopener noreferrer">chen_wei_jie_a@moe.edu.sg</a> </td>
     <td><b>MRS ESTHER</b><br>Form Teacher Pri 2H<br><a href="mailto:ng_may_ling_esther@moe.edu.sg" target="_blank" rel="noopener noreferrer">ng_may_ling_esther@moe.edu.sg</a></td>
   </tr>
   <tr>
-    <td><b>MS IVY YEO</b><br>Form Teacher Pri 2I<br><a href="mailto:yeo_ivy@moe.edu.sg" target="_blank" rel="noopener noreferrer">yeo_ivy@moe.edu.sg</a></td>
-    <td> </td>
+     </td>
   </tr>
 </tbody>
 </table>
@@ -172,8 +168,7 @@ description: ""
 <tbody>
   <tr>
     <td><b>MRS SERENE NG</b><br>Form Teacher Pri 3C<br><a href="mailto:neo_po_tin_serene@moe.edu.sg" target="_blank" rel="noopener noreferrer">neo_po_tin_serene@moe.edu.sg</a></td>
-    <td><b>MS JOLENE LOW</b><br>Form Teacher Pri 3D<br><a href="mailto:low_wei_ling_jolene@moe.edu.sg" target="_blank" rel="noopener noreferrer">low_wei_ling_jolene@moe.edu.sg</a></td>
-  </tr>
+    
   <tr>
     <td><b>MR NEO JUN WEI</b><br>Form Teacher Pri 3E<br><a href="mailto:neo_jun_wei@moe.edu.sg" target="_blank" rel="noopener noreferrer">neo_jun_wei@moe.edu.sg</a></td>
     <td><b>MS SITI HAWA</b><br>Form Teacher Pri 3F<br><a href="mailto:siti_hawa_mohamad_haniff@moe.edu.sg" target="_blank" rel="noopener noreferrer">siti_hawa_mohamad_haniff@moe.edu.sg</a> </td>
@@ -206,7 +201,7 @@ description: ""
     <td><b>MS HO WEE LIN</b><br>Form Teacher Pri 4F<br><a href="mailto:ho_wee_lin@moe.edu.sg" target="_blank" rel="noopener noreferrer">ho_wee_lin@moe.edu.sg</a> </td>
   </tr>
   <tr>
-    <td><b>MRS JASLYN THAM</b><br>Form Teacher Pri 4G<br><a href="mailto:fang_siying_jaslyn@moe.edu.sg" target="_blank" rel="noopener noreferrer">fang_siying_jaslyn@moe.edu.sg</a> </td>
+   
     <td><b>MR NG BAN HOCK</b><br>Form Teacher Pri 4H<br><a href="mailto:ng_ban_hock@moe.edu.sg" target="_blank" rel="noopener noreferrer">ng_ban_hock@moe.edu.sg</a> </td>
   </tr>
 </tbody>
