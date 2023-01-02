@@ -3,8 +3,6 @@ title: Waterway Primary Family
 permalink: /about-us/waterway-primary-family/
 description: ""
 ---
-&gt; ![](/images/Images/about-us_02.jpg)
-&gt; About Us
 
 
 ![](/images/About%20Us/WWPS-1.jpg)
