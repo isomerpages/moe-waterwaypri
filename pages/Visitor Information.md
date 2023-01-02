@@ -13,41 +13,31 @@ description: ""
 [70 Punggol Drive Singapore 828802](https://share.onemap.sg/mmWGGv)
 
 <table>
-<thead>
   <tr>
 		<b>Nearest LRT Station: </b>PE5 Kadaloor Station<br>
 		<b>Bus services: </b>50, 381<br>
   <br><b>Contacts </b><br> Telephone : <b>6636 6880</b><br> Fax : <b>6315 3451</b> <br> Email:
-<a href="mailto:waterway_ps@moe.edu.sg">waterway_ps@moe.edu.sg</a>			
-</td>
-</thead>
+<a href="mailto:waterway_ps@moe.edu.sg">waterway_ps@moe.edu.sg</a>
+	</tr>
 </table>
 
-##### Operating Hours
-
+#### Operating Hours
+##### General Office
 <table>
-  <tr>
-    <th>General Office</th>
-  </tr>
-<tbody>
-  <tr>
+   <tr>
     <td>Monday to Friday during Term Time/School Holidays</td>
-    <td><b>7.00 a.m. - 5.30 p.m.</b></td>
-  </tr>
+	</tr>
+	<tr>
+  	<td><b>7.00 a.m. - 5.30 p.m.</b><td>
+	</tr>
   <tr>
     <td>Closed on Saturdays, Sundays and Public Holidays<br>
-Payment of school fees to be made before <b>3.00 p.m.</b></tbody>
+			Payment of school fees to be made before <b>3.00 p.m.</b></td>
+	</tr>
 </table>
 
-<br>
-
+##### School Bookshop
 <table>
-<thead>
-  <tr>
-    <th>School Bookshop</th>
-  </tr>
-</thead>
-<tbody>
   <tr>
     <td><b>For Students</b></td>
   </tr>
@@ -63,16 +53,12 @@ Payment of school fees to be made before <b>3.00 p.m.</b></tbody>
   <tr>
     <td>Closed on Saturdays, Sundays, School and Public Holidays</td>
   </tr>
-</tbody>
 </table>
 
 <table>
-<thead>
   <tr>
-    <th>For Parents/Guardians</th>
+		<td><B>For Parents/Guardians</b></td>
   </tr>
-</thead>
-<tbody>
   <tr>
     <td>Monday to Friday during Term Time after school hours</td>
   </tr>
@@ -82,33 +68,17 @@ Payment of school fees to be made before <b>3.00 p.m.</b></tbody>
   <tr>
     <td>Closed on Saturdays, Sundays, School and Public Holidays</td>
   </tr>
-</tbody>
 </table>
 
-<br>
-
+##### School Dental Clinic
 <table>
-<thead>
-  <tr>
-    <th>School Dental Clinic</th>
-  </tr>
-</thead>
-<tbody>
   <tr>
     <td>Tel: <b>91139437</b></td>
   </tr>
-</tbody>
 </table>
 
-<br>
-
+##### Sale of School Uniform (Bookshop)
 <table>
-<thead>
-  <tr>
-    <th>Sale of School Uniform (Bookshop)</th>
-  </tr>
-</thead>
-<tbody>
   <tr>
     <td><b>For Students</b></td>
   </tr>
@@ -124,7 +94,6 @@ Payment of school fees to be made before <b>3.00 p.m.</b></tbody>
   <tr>
     <td>Closed on Saturdays, Sundays, School and Public Holidays</td>
   </tr>
-</tbody>
 </table>
 
 <table>
