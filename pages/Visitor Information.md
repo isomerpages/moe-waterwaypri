@@ -22,6 +22,7 @@ description: ""
 </table>
 
 #### Operating Hours
+
 ##### General Office
 
 <table>
@@ -29,7 +30,7 @@ description: ""
     <td>Monday to Friday during Term Time/School Holidays</td>
 	</tr>
 	<tr>
-  	<td><b>7.00 a.m. - 5.30 p.m.</b><td>
+  	<td><b>7.00 a.m. - 5.30 p.m.</b></td>
 	</tr>
   <tr>
     <td>Closed on Saturdays, Sundays and Public Holidays<br>
