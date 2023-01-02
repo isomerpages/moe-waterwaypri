@@ -23,6 +23,7 @@ description: ""
 
 #### Operating Hours
 ##### General Office
+
 <table>
    <tr>
     <td>Monday to Friday during Term Time/School Holidays</td>
@@ -37,6 +38,7 @@ description: ""
 </table>
 
 ##### School Bookshop
+
 <table>
   <tr>
     <td><b>For Students</b></td>
@@ -53,9 +55,6 @@ description: ""
   <tr>
     <td>Closed on Saturdays, Sundays, School and Public Holidays</td>
   </tr>
-</table>
-
-<table>
   <tr>
 		<td><B>For Parents/Guardians</b></td>
   </tr>
@@ -71,6 +70,7 @@ description: ""
 </table>
 
 ##### School Dental Clinic
+
 <table>
   <tr>
     <td>Tel: <b>91139437</b></td>
@@ -78,6 +78,7 @@ description: ""
 </table>
 
 ##### Sale of School Uniform (Bookshop)
+
 <table>
   <tr>
     <td><b>For Students</b></td>
@@ -94,15 +95,9 @@ description: ""
   <tr>
     <td>Closed on Saturdays, Sundays, School and Public Holidays</td>
   </tr>
-</table>
-
-<table>
-<thead>
   <tr>
-    <th>For Parents/Guardian</th>
+		<td><b>For Parents/Guardian</b></td>
   </tr>
-</thead>
-<tbody>
   <tr>
     <td>Monday to Friday during Term Time after school hours</td>
   </tr>
@@ -112,5 +107,4 @@ description: ""
   <tr>
     <td>Closed on Saturdays, Sundays, School and Public Holidays</td>
   </tr>
-</tbody>
 </table>
