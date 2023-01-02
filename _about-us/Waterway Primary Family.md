@@ -3,8 +3,6 @@ title: Waterway Primary Family
 permalink: /about-us/waterway-primary-family/
 description: ""
 ---
-
-
 ![](/images/About%20Us/WWPS-1.jpg)
 #### SCHOOL LEADERS
 
