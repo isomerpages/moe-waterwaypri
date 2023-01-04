@@ -95,6 +95,8 @@ description: ""
     <td><b>MR CHRISTOPHER SHAU</b><br>Senior Teacher Educational Support<br></td>
     <td><b>MISS GRACE SEAH</b><br>Senior Teacher Chinese Language<br></td>
   </tr>
+	  <tr>
+    <td><b>MRS AUDREY WONG</b><br>Orators@Waterway Coordinator <br></td>
 </tbody></table>
 
 #### PRIMARY 1 TEACHERS
