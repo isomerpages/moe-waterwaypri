@@ -30,7 +30,7 @@ description: ""
   </tr>
 <tr>
     <td><b>MRS WONG YAN RU</b><br>HOD Science<br></td>
-    <td><b>MISS GINA OW</b><br>HOD Mother Tongue<br></td>
+    <td><b>MRS GINA OW</b><br>HOD Mother Tongue<br></td>
   </tr>
   <tr>
     <td><b>MR SIM TECK CHUAN</b><br>HOD ICT<br></td>
