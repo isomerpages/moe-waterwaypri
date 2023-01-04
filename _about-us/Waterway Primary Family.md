@@ -53,7 +53,7 @@ description: ""
     <td><b>MRS MITCHELLE WONG</b><br>Assistant Year Head (P2)<br></td>
 	</tr>
   <tr>
-    <td><b>MS CHERYL KHOO</b><br>Assistant Year Head (P3)<br></td>
+    <td><b>MRS LU LI TING</b><br>Assistant Year Head (P3)<br></td>
     <td><b>MDM NAZREENA</b><br>Assistant Year Head (P4)<br></td>
   </tr>
   <tr>
