@@ -58,7 +58,7 @@ description: ""
   </tr>
   <tr>
     <td><b>MR JASON YEW</b><br>Assistant Year Head (P5) <br></td>
-   <td><b>MR WONG BENG YU</b><br>Year Head (P6) / Orators@Waterway Coordinator <br></td>
+   <td><b>MR WONG BENG YU</b><br>Year Head (P6)<br></td>
 	</tr>
 </tbody>
 </table>
@@ -194,7 +194,7 @@ description: ""
 	 <td><b>MR RONNIE PHUA</b><br>Form Teacher Pri 5D<br></td>
   </tr>
 	<tr>
-	 <td><b>MDM AUDREY TOH</b><br>Form Teacher Pri 5E<br></td>
+	 <td><b>MRS AUDREY WONG</b><br>Form Teacher Pri 5E<br></td>
 	    <td><b>MS HO WEE LIN</b><br>Form Teacher Pri 5F<br></td>
   </tr>
 	<tr>
