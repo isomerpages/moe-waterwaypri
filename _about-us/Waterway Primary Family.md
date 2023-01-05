@@ -335,20 +335,20 @@ description: ""
 		<TR>
 		<td><b>MR CHAN ZHI YANG</b><br><a href="mailto:chan_zhi_yang@moe.edu.sg" target="_blank" rel="noopener noreferrer">chan_zhi_yang@moe.edu.sg
 				</a></td>
-	<td><b>MRS DIANA YAP</b><br>PE Teacher<br><a href="mailto:chan_hui_min_diana@moe.edu.sg" target="_blank" rel="noopener noreferrer">chan_hui_min_diana@moe.edu.sg
+	<td><b>MRS DIANA YAP</b><br><a href="mailto:chan_hui_min_diana@moe.edu.sg" target="_blank" rel="noopener noreferrer">chan_hui_min_diana@moe.edu.sg
 </a></td>
 		</tr>
 		<th> PRIMARY 4E </th>
 	<tr>
 	   <td><b>MR NEO JUN WEI</b><br><a href="mailto:neo_jun_wei@moe.edu.sg" target="_blank" rel="noopener noreferrer">neo_jun_wei@moe.edu.sg
 				</a></td>
-	 <td><b>MS NEO CHAI LEE</b><br>HOD CCE<br><a href="mailto:neo_chai_lee@moe.edu.sg" target="_blank" rel="noopener noreferrer">neo_chai_lee@moe.edu.sg</a></td>
+	 <td><b>MS NEO CHAI LEE</b><br><a href="mailto:neo_chai_lee@moe.edu.sg" target="_blank" rel="noopener noreferrer">neo_chai_lee@moe.edu.sg</a></td>
 		</tr>
 		<th> PRIMARY 4F </th>
 		<TR>
 	<td><b>MS SITI HAWA</b><br><a href="mailto:siti_hawa_mohamad_haniff@moe.edu.sg" target="_blank" rel="noopener noreferrer">siti_hawa_mohamad_haniff@moe.edu.sg
 				</a></td>
-<td><b>MR SAMY LIM</b><br>HOD PE<br><a href="mailto:lim_chee_kwee_samy@moe.edu.sg" target="_blank" rel="noopener noreferrer">lim_chee_kwee_samy@moe.edu.sg
+<td><b>MR SAMY LIM</b><br><a href="mailto:lim_chee_kwee_samy@moe.edu.sg" target="_blank" rel="noopener noreferrer">lim_chee_kwee_samy@moe.edu.sg
 </a></td>
 		</tr>
 		<th> PRIMARY 4G </th>
