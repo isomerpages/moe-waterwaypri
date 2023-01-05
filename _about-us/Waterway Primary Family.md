@@ -347,19 +347,28 @@ description: ""
 
 <table>
   <tbody><tr>
-    <td><b>MDM MARTINI</b></td>
-    <td><b>MDM MARSIAH</b><br></td>
+    <td><b>MDM MARTINI</b><br><a href="mailto:martini_mahmood@moe.edu.sg" target="_blank" rel="noopener noreferrer">martini_mahmood@moe.edu.sg</a></td>
+    <td><b>MDM MARSIAH</b><br><a href="mailto:marsiah_rohim@moe.edu.sg" target="_blank" rel="noopener noreferrer">marsiah_rohim@moe.edu.sg
+</a></td>
   </tr>
   <tr>
-    <td><b>MISS NOOR HIDAYAH</b><br></td>
-    <td><b>MDM ROZANA</b><br></td>
+    <td><b>MISS NOOR HIDAYAH</b><br><a href="mailto:noor_hidayah_noordin@moe.edu.sg" target="_blank" rel="noopener noreferrer">noor_hidayah_noordin@moe.edu.sg
+</a></td>
+    <td><b>MDM ROZANA</b><br><a href="mailto:rozana_Zainuri@moe.edu.sg
+" target="_blank" rel="noopener noreferrer">rozana_zainuri@moe.edu.sg
+</a></td>
   </tr>
   <tr>
-    <td><b>MR MUKHLIS</b><br></td>
-    <td><b>MR AIDIL</b><br></td>
+    <td><b>MR MUKHLIS</b><br><a href="mailto:muhammad_mukhlis_dzulfitri@moe.edu.sg" target="_blank" rel="noopener noreferrer">muhammad_mukhlis_dzulfitri@moe.edu.sg
+</a></td>
+    <td><b>MR AIDIL</b><br><a href="mailto:Muhammad_Aidil_Ishak@moe.edu.sg
+" target="_blank" rel="noopener noreferrer">muhammad_aidil_ishak@moe.edu.sg
+</a></td>
   </tr>
 	 <tr>
-    <td><b>MR MUHAMMAD DINIE</b><br></td>
+    <td><b>MR MUHAMMAD DINIE</b><br><a href="mailto:muhammad_dinie_shaifullah@moe.edu.sg" target="_blank" rel="noopener noreferrer">muhammad_dinie_shaifullah@moe.edu.sg
+
+</a></td>
   </tr>
 </tbody></table>
 
@@ -412,15 +421,19 @@ description: ""
 
 <table>
   <tbody><tr>
-     <td><b>MR NICK WONG
-     </b></td><td><b>MDM CHERYL TAY</b></td>
+     <td><b>MR NICK WONG</b><br><a href="mailto:rofidah_samah@moe.edu.sg
+" target="_blank" rel="noopener noreferrer">rofidah_samah@moe.edu.sg
+</a></td>
+		<td><b>MDM CHERYL TAY</b><br><a href="mailto:tay_soong_huang@moe.edu.sg" target="_blank" rel="noopener noreferrer">tay_soong_huang@moe.edu.sg</a></td>
   </tr>
 	<tr>
-		<td><b>MISS CHEN WEI JIE</b></td>
-    <td><b>MRS ESTHER</b></td>
+		<td><b>MDM CHEN WEI JIE</b><br><a href="mailto:chen_wei_jie_a@moe.edu.sg" target="_blank" rel="noopener noreferrer">chen_wei_jie_a@moe.edu.sg
+</a></td>
+    <td><b>MRS ESTHER </b><br><a href="mailto:ng_may_ling_esther@moe.edu.sg" target="_blank" rel="noopener noreferrer">ng_may_ling_esther@moe.edu.sg
+</a></td>
 	</tr>
 	<tr>
-    <td><b>MDM JULIANA</b></td>
+    <td><b>MDM JULIANA</b><br><a href="mailto:juliana_abdullah@moe.edu.sg" target="_blank" rel="noopener noreferrer">juliana_abdullah@moe.edu.sg</a></td>
   </tr>
 </tbody></table>
 
@@ -436,8 +449,7 @@ description: ""
 " target="_blank" rel="noopener noreferrer">siti_khairunnisa_nor@moe.edu.sg
 </a></td></tr>
   <tr>
-		<td><b>MISS NEEMIKA RAI</b><br>School Counsellor<br><a href="mailto:neemika_rai@moe.edu.sg
-" target="_blank" rel="noopener noreferrer">neemika_rai@moe.edu.sg
+		<td><b>MISS NEEMIKA RAI</b><br>School Counsellor<br><a href="mailto:neemika_rai@moe.edu.sg" target="_blank" rel="noopener noreferrer">neemika_rai@moe.edu.sg
 </a></td>
   </tr>
 </tbody></table>
