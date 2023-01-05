@@ -313,52 +313,50 @@ description: ""
 <table>
   	<th> PRIMARY 4A </th>
 	<tr>
-		<td><b>MISS SHERMIN CHIA</b><br><a href="mailto:Siti_Raudhah_Imran@moe.edu.sg" target="_blank" rel="noopener noreferrer">Siti_Raudhah_Imran@moe.edu.sg
+		<td><b>MISS SHERMIN CHIA</b><br><a href="mailto:Shermin_Chia_Shi_Min@moe.edu.sg" target="_blank" rel="noopener noreferrer">shermin_chia_shi_min@moe.edu.sg
 				</a></td>
-		<td><b>MISS SITI RAUDHAH</b><br><a href="mailto:Siti_Raudhah_Imran@moe.edu.sg" target="_blank" rel="noopener noreferrer">Siti_Raudhah_Imran@moe.edu.sg
-				</a></td>
+		<td><b>MDM CHAN PEI LING </b><br><a href="mailto:chan_pei_ling@moe.edu.sg" target="_blank" rel="noopener noreferrer">chan_pei_ling@moe.edu.sg</a></td>
 		</tr>
 		<th> PRIMARY 4B </th>
 	<TR>
-	<td><b>MR CHRISTOPHER SHAU</b><br><a href="mailto:Siti_Raudhah_Imran@moe.edu.sg" target="_blank" rel="noopener noreferrer">Siti_Raudhah_Imran@moe.edu.sg
+	<td><b>MR CHRISTOPHER SHAU</b><br><a href="mailto:christopher_shau@moe.edu.sg" target="_blank" rel="noopener noreferrer">christopher_shau@moe.edu.sg
 				</a></td>
-		<td><b>MISS SITI RAUDHAH</b><br><a href="mailto:Siti_Raudhah_Imran@moe.edu.sg" target="_blank" rel="noopener noreferrer">Siti_Raudhah_Imran@moe.edu.sg
-				</a></td>
+		   <td><b>MR TI TAT HUA</b><br><a href="mailto:ti_tat_hua@moe.edu.sg" target="_blank" rel="noopener noreferrer">ti_tat_hua@moe.edu.sg
+</a></td>
 		</tr>
 		<th> PRIMARY 4C </th>
 		<tr>
-	<td><b>MRS SERENE NG</b><br><a href="mailto:Siti_Raudhah_Imran@moe.edu.sg" target="_blank" rel="noopener noreferrer">Siti_Raudhah_Imran@moe.edu.sg
+	<td><b>MRS SERENE NG</b><br><a href="mailto:neo_po_tin_serene@moe.edu.sg" target="_blank" rel="noopener noreferrer">neo_po_tin_serene@moe.edu.sg
 				</a></td>
-	<td><b>MISS SITI RAUDHAH</b><br><a href="mailto:Siti_Raudhah_Imran@moe.edu.sg" target="_blank" rel="noopener noreferrer">Siti_Raudhah_Imran@moe.edu.sg
-				</a></td>
+<td><b>MR MUHAMMAD DINIE</b><br><a href="mailto:muhammad_dinie_shaifullah@moe.edu.sg" target="_blank" rel="noopener noreferrer">muhammad_dinie_shaifullah@moe.edu.sg
+</a></td>
 		</tr>
 		<th> PRIMARY 4D </th>
 		<TR>
-		<td><b>MR CHAN ZHI YANG</b><br><a href="mailto:Siti_Raudhah_Imran@moe.edu.sg" target="_blank" rel="noopener noreferrer">Siti_Raudhah_Imran@moe.edu.sg
+		<td><b>MR CHAN ZHI YANG</b><br><a href="mailto:chan_zhi_yang@moe.edu.sg" target="_blank" rel="noopener noreferrer">chan_zhi_yang@moe.edu.sg
 				</a></td>
-	<td><b>MISS SITI RAUDHAH</b><br><a href="mailto:Siti_Raudhah_Imran@moe.edu.sg" target="_blank" rel="noopener noreferrer">Siti_Raudhah_Imran@moe.edu.sg
-				</a></td>
+	<td><b>MRS DIANA YAP</b><br>PE Teacher<br><a href="mailto:chan_hui_min_diana@moe.edu.sg" target="_blank" rel="noopener noreferrer">chan_hui_min_diana@moe.edu.sg
+</a></td>
 		</tr>
 		<th> PRIMARY 4E </th>
 	<tr>
-	   <td><b>MR NEO JUN WEI</b><br><a href="mailto:Siti_Raudhah_Imran@moe.edu.sg" target="_blank" rel="noopener noreferrer">Siti_Raudhah_Imran@moe.edu.sg
+	   <td><b>MR NEO JUN WEI</b><br><a href="mailto:neo_jun_wei@moe.edu.sg" target="_blank" rel="noopener noreferrer">neo_jun_wei@moe.edu.sg
 				</a></td>
-	<td><b>MISS SITI RAUDHAH</b><br><a href="mailto:Siti_Raudhah_Imran@moe.edu.sg" target="_blank" rel="noopener noreferrer">Siti_Raudhah_Imran@moe.edu.sg
-				</a></td>
+	 <td><b>MS NEO CHAI LEE</b><br>HOD CCE<br><a href="mailto:neo_chai_lee@moe.edu.sg" target="_blank" rel="noopener noreferrer">neo_chai_lee@moe.edu.sg</a></td>
 		</tr>
 		<th> PRIMARY 4F </th>
 		<TR>
-	<td><b>MS SITI HAWA</b><br><a href="mailto:Siti_Raudhah_Imran@moe.edu.sg" target="_blank" rel="noopener noreferrer">Siti_Raudhah_Imran@moe.edu.sg
+	<td><b>MS SITI HAWA</b><br><a href="mailto:siti_hawa_mohamad_haniff@moe.edu.sg" target="_blank" rel="noopener noreferrer">siti_hawa_mohamad_haniff@moe.edu.sg
 				</a></td>
-	<td><b>MISS SITI RAUDHAH</b><br><a href="mailto:Siti_Raudhah_Imran@moe.edu.sg" target="_blank" rel="noopener noreferrer">Siti_Raudhah_Imran@moe.edu.sg
-				</a></td>
+<td><b>MR SAMY LIM</b><br>HOD PE<br><a href="mailto:lim_chee_kwee_samy@moe.edu.sg" target="_blank" rel="noopener noreferrer">lim_chee_kwee_samy@moe.edu.sg
+</a></td>
 		</tr>
 		<th> PRIMARY 4G </th>
 	<tr>
-	<td><b>MDM NAZREENA</b><br><a href="mailto:Siti_Raudhah_Imran@moe.edu.sg" target="_blank" rel="noopener noreferrer">Siti_Raudhah_Imran@moe.edu.sg
+	<td><b>MDM NAZREENA</b><br><a href="mailto:nazreena_abdul_rahman@moe.edu.sg" target="_blank" rel="noopener noreferrer">nazreena_abdul_rahman@moe.edu.sg
 				</a></td>
-  <td><b>MISS SITI RAUDHAH</b><br><a href="mailto:Siti_Raudhah_Imran@moe.edu.sg" target="_blank" rel="noopener noreferrer">Siti_Raudhah_Imran@moe.edu.sg
-				</a></td>
+  <td><b>MISS RAJESWARY</b><br><a href="mailto:rajeswary_ramakrishna@moe.edu.sg" target="_blank" rel="noopener noreferrer">rajeswary_ramakrishna@moe.edu.sg
+</a></td>
 		</tr>
 </table>
 	
@@ -543,7 +541,6 @@ description: ""
   </tr>
 	 <tr>
     <td><b>MR MUHAMMAD DINIE</b><br><a href="mailto:muhammad_dinie_shaifullah@moe.edu.sg" target="_blank" rel="noopener noreferrer">muhammad_dinie_shaifullah@moe.edu.sg
-
 </a></td>
   </tr>
 </tbody></table>
@@ -552,8 +549,7 @@ description: ""
 
 <table>
   <tbody><tr>
-		<td><b>MISS RAJESWARY</b><br><a href="mailto:rajeswary_ramakrishna@moe.edu.sg
-" target="_blank" rel="noopener noreferrer">rajeswary_ramakrishna@moe.edu.sg
+		<td><b>MISS RAJESWARY</b><br><a href="mailto:rajeswary_ramakrishna@moe.edu.sg" target="_blank" rel="noopener noreferrer">rajeswary_ramakrishna@moe.edu.sg
 </a></td>
 		<td><b>MISS SHAMINI</b><br><a href="mailto:shamini_subramaniam_a@moe.edu.sg" target="_blank" rel="noopener noreferrer">shamini_subramaniam_a@moe.edu.sg
 </a></td>
