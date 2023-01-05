@@ -312,63 +312,172 @@ description: ""
 	
 #### PRIMARY 4 TEACHERS
 <table>
-  <tbody><tr>
-		<td><b>MISS SHERMIN CHIA</b><br>Form Teacher Pri 4A<br></td>
-		 <td><b>MR CHRISTOPHER SHAU</b><br>Form Teacher Pri 4B<br></td>
+  	<th> PRIMARY 4A </th>
+	<tr>
+		<td><b>MISS SHERMIN CHIA</b><br><a href="mailto:Siti_Raudhah_Imran@moe.edu.sg" target="_blank" rel="noopener noreferrer">Siti_Raudhah_Imran@moe.edu.sg
+				</a></td>
+		<td><b>MISS SITI RAUDHAH</b><br><a href="mailto:Siti_Raudhah_Imran@moe.edu.sg" target="_blank" rel="noopener noreferrer">Siti_Raudhah_Imran@moe.edu.sg
+				</a></td>
 		</tr>
+		<th> PRIMARY 4B </th>
+	<TR>
+	<td><b>MR CHRISTOPHER SHAU</b><br><a href="mailto:Siti_Raudhah_Imran@moe.edu.sg" target="_blank" rel="noopener noreferrer">Siti_Raudhah_Imran@moe.edu.sg
+				</a></td>
+		<td><b>MISS SITI RAUDHAH</b><br><a href="mailto:Siti_Raudhah_Imran@moe.edu.sg" target="_blank" rel="noopener noreferrer">Siti_Raudhah_Imran@moe.edu.sg
+				</a></td>
+		</tr>
+		<th> PRIMARY 4C </th>
 		<tr>
-	<td><b>MRS SERENE NG</b><br>Form Teacher Pri 4C<br></td>
-	<td><b>MR CHAN ZHI YANG</b><br>Form Teacher Pri 4D<br></td>
-	</tr>
+	<td><b>MRS SERENE NG</b><br><a href="mailto:Siti_Raudhah_Imran@moe.edu.sg" target="_blank" rel="noopener noreferrer">Siti_Raudhah_Imran@moe.edu.sg
+				</a></td>
+	<td><b>MISS SITI RAUDHAH</b><br><a href="mailto:Siti_Raudhah_Imran@moe.edu.sg" target="_blank" rel="noopener noreferrer">Siti_Raudhah_Imran@moe.edu.sg
+				</a></td>
+		</tr>
+		<th> PRIMARY 4D </th>
+		<TR>
+		<td><b>MR CHAN ZHI YANG</b><br><a href="mailto:Siti_Raudhah_Imran@moe.edu.sg" target="_blank" rel="noopener noreferrer">Siti_Raudhah_Imran@moe.edu.sg
+				</a></td>
+	<td><b>MISS SITI RAUDHAH</b><br><a href="mailto:Siti_Raudhah_Imran@moe.edu.sg" target="_blank" rel="noopener noreferrer">Siti_Raudhah_Imran@moe.edu.sg
+				</a></td>
+		</tr>
+		<th> PRIMARY 4E </th>
 	<tr>
-	   <td><b>MR NEO JUN WEI</b><br>Form Teacher Pri 4E<br></td>
-	<td><b>MS SITI HAWA</b><br>Form Teacher Pri 4F<br></td>
-	</tr>
+	   <td><b>MR NEO JUN WEI</b><br><a href="mailto:Siti_Raudhah_Imran@moe.edu.sg" target="_blank" rel="noopener noreferrer">Siti_Raudhah_Imran@moe.edu.sg
+				</a></td>
+	<td><b>MISS SITI RAUDHAH</b><br><a href="mailto:Siti_Raudhah_Imran@moe.edu.sg" target="_blank" rel="noopener noreferrer">Siti_Raudhah_Imran@moe.edu.sg
+				</a></td>
+		</tr>
+		<th> PRIMARY 4F </th>
+		<TR>
+	<td><b>MS SITI HAWA</b><br><a href="mailto:Siti_Raudhah_Imran@moe.edu.sg" target="_blank" rel="noopener noreferrer">Siti_Raudhah_Imran@moe.edu.sg
+				</a></td>
+	<td><b>MISS SITI RAUDHAH</b><br><a href="mailto:Siti_Raudhah_Imran@moe.edu.sg" target="_blank" rel="noopener noreferrer">Siti_Raudhah_Imran@moe.edu.sg
+				</a></td>
+		</tr>
+		<th> PRIMARY 4G </th>
 	<tr>
-	<td><b>MDM NAZREENA</b><br>Form Teacher Pri 4G<br></td>
-  </tr>
-	</tbody></table>
+	<td><b>MDM NAZREENA</b><br><a href="mailto:Siti_Raudhah_Imran@moe.edu.sg" target="_blank" rel="noopener noreferrer">Siti_Raudhah_Imran@moe.edu.sg
+				</a></td>
+  <td><b>MISS SITI RAUDHAH</b><br><a href="mailto:Siti_Raudhah_Imran@moe.edu.sg" target="_blank" rel="noopener noreferrer">Siti_Raudhah_Imran@moe.edu.sg
+				</a></td>
+		</tr>
+</table>
 	
 #### PRIMARY 5 TEACHERS
 	
 <table>
-  <tbody><tr>
-    <td><b>MR SHAWN ANG</b><br>Form Teacher Pri 5A<br></td>
-	<td><b>MDM TAN LAY SYN</b> <br>Form Teacher Pri 5B<br></td>
+		<th> PRIMARY 5A </th>
+ <tr>
+    <td><b>MR SHAWN ANG</b><br><a href="mailto:Siti_Raudhah_Imran@moe.edu.sg" target="_blank" rel="noopener noreferrer">Siti_Raudhah_Imran@moe.edu.sg
+				</a></td>
+	<td><b>MDM HARIATI</b><br><a href="mailtohariati_abdul_hamid@moe.edu.sg" target="_blank" rel="noopener noreferrer">hariati_abdul_hamid@moe.edu.sg</a></td>
 		</tr>
+		<th> PRIMARY 5B </th>
+	<TR>
+	<td><b>MDM TAN LAY SYN</b> <br><a href="mailto:Siti_Raudhah_Imran@moe.edu.sg" target="_blank" rel="noopener noreferrer">Siti_Raudhah_Imran@moe.edu.sg
+				</a></td>
+	   <td><b>MR JUSTIN TAN</b><br><a href="mailto:tan_siow_meng@moe.edu.sg" target="_blank" rel="noopener noreferrer">tan_siow_meng@moe.edu.sg
+</a></td>
+		</tr>
+		<th> PRIMARY 5C </th>
 		<tr>
-	    <td><b>MISS PRIYADAKSHINI</b><br>Form Teacher Pri 5C<br></td>
-	 <td><b>MR RONNIE PHUA</b><br>Form Teacher Pri 5D<br></td>
-  </tr>
+	    <td><b>MISS PRIYADAKSHINI</b><br><a href="mailto:Siti_Raudhah_Imran@moe.edu.sg" target="_blank" rel="noopener noreferrer">Siti_Raudhah_Imran@moe.edu.sg
+				</a></td>
+	<td><b>MDM MARSIAH</b><br><a href="mailto:marsiah_rohim@moe.edu.sg" target="_blank" rel="noopener noreferrer">marsiah_rohim@moe.edu.sg
+</a></td>
+		</tr>
+		<th> PRIMARY 5D</th>
+		<TR>
+	 <td><b>MR RONNIE PHUA</b><br><a href="mailto:Siti_Raudhah_Imran@moe.edu.sg" target="_blank" rel="noopener noreferrer">Siti_Raudhah_Imran@moe.edu.sg
+				</a></td>
+ <td><b>MR JASON YEW</b><br><a href="mailto:yew_kwok_ming@moe.edu.sg
+" target="_blank" rel="noopener noreferrer">yew_kwok_ming@moe.edu.sg
+</a></td>
+		</tr>
+		<th> PRIMARY 5E </th>
 	<tr>
-	 <td><b>MRS AUDREY WONG</b><br>Form Teacher Pri 5E<br></td>
-	    <td><b>MS HO WEE LIN</b><br>Form Teacher Pri 5F<br></td>
-  </tr>
+	 <td><b>MRS AUDREY WONG</b><br><a href="mailto:Siti_Raudhah_Imran@moe.edu.sg" target="_blank" rel="noopener noreferrer">Siti_Raudhah_Imran@moe.edu.sg
+				</a></td>
+	<td><b>MISS GRACE SEAH</b><br><a href="mailto:seah_pei_ru_grace@moe.edu.sg" target="_blank" rel="noopener noreferrer">seah_pei_ru_grace@moe.edu.sg</a></td>
+		</tr>
+		<th> PRIMARY 5F </th>
+		<TR>
+	    <td><b>MS HO WEE LIN</b><br><a href="mailto:Siti_Raudhah_Imran@moe.edu.sg" target="_blank" rel="noopener noreferrer">Siti_Raudhah_Imran@moe.edu.sg
+				</a></td>
+  <td><b>MISS CHEUNG KA YAN </b><br><a href="mailto:cheung_ka_yan@moe.edu.sg" target="_blank" rel="noopener noreferrer">cheung_ka_yan@moe.edu.sg</a></td>
+		</tr>
+		<th> PRIMARY 5G </th>
 	<tr>
-	  <td><b>MDM ALWIYAH</b><br>Form Teacher Pri 5G<br></td>
-    <td><b>MS PRISCILLA TAN</b><br>Form Teacher Pri 5H<br></td>
-   </tr>
-	 </tbody></table>
+	  <td><b>MDM ALWIYAH</b><br><a href="mailto:Siti_Raudhah_Imran@moe.edu.sg" target="_blank" rel="noopener noreferrer">Siti_Raudhah_Imran@moe.edu.sg
+				</a></td>
+	<td><b>MDM TEO TZE YUEN</b><br><a href="mailto:Teo_Tze_Yuen@moe.edu.sg" target="_blank" rel="noopener noreferrer">teo_tze_yuen@moe.edu.sg</a></td>
+		</tr>
+		<th> PRIMARY 5H </th>
+		<TR>
+    <td><b>MS PRISCILLA TAN</b><br><a href="mailto:Siti_Raudhah_Imran@moe.edu.sg" target="_blank" rel="noopener noreferrer">Siti_Raudhah_Imran@moe.edu.sg
+				</a></td>
+     <td><b>MISS NOOR HIDAYAH</b><br><a href="mailto:noor_hidayah_noordin@moe.edu.sg" target="_blank" rel="noopener noreferrer">noor_hidayah_noordin@moe.edu.sg
+</a></td>
+		</tr>
+		</table>
 	 
 #### PRIMARY 6 TEACHERS
 <table>
-  <tbody><tr>
-    <td><b>MRS SERENE TAN</b><br>Form Teacher Pri 5A<br></td>
-    <td><b>MISS PRISCILIA GOH</b><br>Form Teacher Pri 5B<br></td>
-  </tr>
-	<tr>
-		    <td><b>MRS CLARISSA HAN</b><br>Form Teacher Pri 5C<br></td>
-		<td><b>MISS SOOMATHY</b><br>English Medium<br></td>
-	</tr>
-	<tr>
-		 <td><b>MR IRWAN</b><br>Form Teacher Pri 5E<br></td>
-    <td><b>MISS KANG KAI JUN</b><br>Form Teacher Pri 5F<br></td>
-  </tr>
+	<th> PRIMARY 6A </th>
   <tr>
-    <td><b>MS SUVITA</b><br>Form Teacher Pri 5G<br></td>
-    <td><b>MS KAREN CHAN</b><br>Form Teacher Pri 5H<br></td>
-  </tr>
-	</tbody></table>
+    <td><b>MRS SERENE TAN</b><br><a href="mailto:Siti_Raudhah_Imran@moe.edu.sg" target="_blank" rel="noopener noreferrer">Siti_Raudhah_Imran@moe.edu.sg
+				</a></td>
+				  <td><b>MISS SITI RAUDHAH</b><br><a href="mailto:Siti_Raudhah_Imran@moe.edu.sg" target="_blank" rel="noopener noreferrer">Siti_Raudhah_Imran@moe.edu.sg
+				</a></td>
+		</tr>
+		<th> PRIMARY 6B </th>
+	<tr>
+    <td><b>MISS PRISCILIA GOH</b><br><a href="mailto:Siti_Raudhah_Imran@moe.edu.sg" target="_blank" rel="noopener noreferrer">Siti_Raudhah_Imran@moe.edu.sg
+				</a></td>
+  		  <td><b>MISS SITI RAUDHAH</b><br><a href="mailto:Siti_Raudhah_Imran@moe.edu.sg" target="_blank" rel="noopener noreferrer">Siti_Raudhah_Imran@moe.edu.sg
+				</a></td>
+		</tr>
+		<th> PRIMARY 6C </th>
+	<tr>
+		    <td><b>MRS CLARISSA HAN</b><br><a href="mailto:Siti_Raudhah_Imran@moe.edu.sg" target="_blank" rel="noopener noreferrer">Siti_Raudhah_Imran@moe.edu.sg
+				</a>  <td><b>MISS SITI RAUDHAH</b><br><a href="mailto:Siti_Raudhah_Imran@moe.edu.sg" target="_blank" rel="noopener noreferrer">Siti_Raudhah_Imran@moe.edu.sg
+				</a></td>
+		</tr>
+		<th> PRIMARY 6D </th>
+	<tr>
+		<td><b>MISS SOOMATHY</b><br><a href="mailto:Siti_Raudhah_Imran@moe.edu.sg" target="_blank" rel="noopener noreferrer">Siti_Raudhah_Imran@moe.edu.sg
+				</a></td>
+			  <td><b>MISS SITI RAUDHAH</b><br><a href="mailto:Siti_Raudhah_Imran@moe.edu.sg" target="_blank" rel="noopener noreferrer">Siti_Raudhah_Imran@moe.edu.sg
+				</a></td>
+		</tr>
+		<th> PRIMARY 6E </th>
+	<tr>
+		 <td><b>MR IRWAN</b><br><a href="mailto:Siti_Raudhah_Imran@moe.edu.sg" target="_blank" rel="noopener noreferrer">Siti_Raudhah_Imran@moe.edu.sg
+				</a></td>
+    		  <td><b>MISS SITI RAUDHAH</b><br><a href="mailto:Siti_Raudhah_Imran@moe.edu.sg" target="_blank" rel="noopener noreferrer">Siti_Raudhah_Imran@moe.edu.sg
+				</a></td>
+		</tr>
+		<th> PRIMARY 6F </th>
+	<tr>
+		<td><b>MISS KANG KAI JUN</b><br><a href="mailto:Siti_Raudhah_Imran@moe.edu.sg" target="_blank" rel="noopener noreferrer">Siti_Raudhah_Imran@moe.edu.sg
+				</a></td>
+  		  <td><b>MISS SITI RAUDHAH</b><br><a href="mailto:Siti_Raudhah_Imran@moe.edu.sg" target="_blank" rel="noopener noreferrer">Siti_Raudhah_Imran@moe.edu.sg
+				</a></td>
+		</tr>
+		<th> PRIMARY 6G </th>
+  <tr>
+    <td><b>MS SUVITA</b><br><a href="mailto:Siti_Raudhah_Imran@moe.edu.sg" target="_blank" rel="noopener noreferrer">Siti_Raudhah_Imran@moe.edu.sg
+				</a></td>
+    		  <td><b>MISS SITI RAUDHAH</b><br><a href="mailto:Siti_Raudhah_Imran@moe.edu.sg" target="_blank" rel="noopener noreferrer">Siti_Raudhah_Imran@moe.edu.sg
+				</a></td>
+		</tr>
+		<th> PRIMARY 6H </th>
+	<tr>
+		<td><b>MS KAREN CHAN</b><br><a href="mailto:Siti_Raudhah_Imran@moe.edu.sg" target="_blank" rel="noopener noreferrer">Siti_Raudhah_Imran@moe.edu.sg
+				</a></td>
+	<td><b>MISS SITI RAUDHAH</b><br><a href="mailto:Siti_Raudhah_Imran@moe.edu.sg" target="_blank" rel="noopener noreferrer">Siti_Raudhah_Imran@moe.edu.sg
+				</a></td></TR>
+</table>
 
 #### CHINESE LANGUAGE
 
