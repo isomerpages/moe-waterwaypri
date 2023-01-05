@@ -185,8 +185,7 @@ description: ""
 	<tr>
 		<td><b>MS JOLENE LOW</b><br><a href="mailto:low_wei_ling_jolene@moe.edu.sg" target="_blank" rel="noopener noreferrer">low_wei_ling_jolene@moe.edu.sg</a><br></td>
 	  <td><b>MR AIDIL</b><br><a href="mailto:Muhammad_Aidil_Ishak@moe.edu.sg
-" target="_blank" rel="noopener noreferrer">muhammad_aidil_ishak@moe.edu.sg
-</a></td>
+" target="_blank" rel="noopener noreferrer">muhammad_aidil_ishak@moe.edu.sg</a></td>
   </tr>
 			<th> PRIMARY 1G </th>
 	<tr>
