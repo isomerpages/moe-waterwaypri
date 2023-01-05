@@ -379,11 +379,11 @@ description: ""
 
 <table>
     <tbody><tr>
-    <td><b>MDM SHARON LEE</b><br>Art &amp; Craft<br><a href="mailto:neemika_rai@moe.edu.sg
-" target="_blank" rel="noopener noreferrer">neemika_rai@moe.edu.sg
+    <td><b>MDM SHARON LEE</b><br>Art &amp; Craft<br><a href="mailto:lee_sing_lan@moe.edu.sg
+" target="_blank" rel="noopener noreferrer">lee_sing_lan@moe.edu.sg
 </a></td>
-    <td><b>MISS SITI RAUDHAH</b><br>Art &amp; Craft<br><a href="mailto:neemika_rai@moe.edu.sg
-" target="_blank" rel="noopener noreferrer">neemika_rai@moe.edu.sg
+    <td><b>MISS SITI RAUDHAH</b><br>Art &amp; Craft<br><a href="mailto:Siti_Raudhah_Imran@moe.edu.sg" target="_blank" rel="noopener noreferrer">Siti_Raudhah_Imran@moe.edu.sg
+
 </a></td>
   </tr>
   <tr>
