@@ -435,7 +435,7 @@ description: ""
 		</tr>
 		<th> PRIMARY 6C </th>
 	<tr>
-		    <td><b>MRS CLARISSA HAN</b><br><a href="mailto:cheong_yoke_ling@moe.edu.sg" target="_blank" rel="noopener noreferrer">cheong_yoke_ling@moe.edu.sg
+		    <td><b>MRS CLARISSA HAN</b><br><a href="mailto:cheong_yoke_ling@moe.edu.sg" target="_blank" rel="noopener noreferrer">cheong_yoke_ling@moe.edu.sg</a></td>
 		 <td><b>MDM GINA YEO</b><br><a href="mailto:Yeo_Sim_Lian_Gina@moe.edu.sg" target="_blank" rel="noopener noreferrer">yeo_sim_lian_gina@moe.edu.sg
 </a></td>
 		</tr>
@@ -447,31 +447,24 @@ description: ""
 		</tr>
 		<th> PRIMARY 6E </th>
 	<tr>
-		 <td><b>MR IRWAN</b><br><a href="mailto:irwan_shah@moe.edu.sg" target="_blank" rel="noopener noreferrer">irwan_shah@moe.edu.sg
-				</a></td>
+		 <td><b>MR IRWAN</b><br><a href="mailto:irwan_shah@moe.edu.sg" target="_blank" rel="noopener noreferrer">irwan_shah@moe.edu.sg</a></td>
     		 <td><b>MRS RAEBURN-SIM CHEY HOONG</b><br><a href="mailto:raeburn-sim_chey_hoong@moe.edu.sg" target="_blank" rel="noopener noreferrer">raeburn-sim_chey_hoong@moe.edu.sg
 </a></td>
 		</tr>
 		<th> PRIMARY 6F </th>
 	<tr>
-		<td><b>MISS KANG KAI JUN</b><br><a href="mailto:kang_kai_jun@moe.edu.sg" target="_blank" rel="noopener noreferrer">kang_kai_jun@moe.edu.sg
-				</a></td>
-  <td><b>MR LAI WEE YEONG</b><br><a href="mailto:lai_wee_yeong@moe.edu.sg" target="_blank" rel="noopener noreferrer">lai_wee_yeong@moe.edu.sg
-</a></td>
+		<td><b>MISS KANG KAI JUN</b><br><a href="mailto:kang_kai_jun@moe.edu.sg" target="_blank" rel="noopener noreferrer">kang_kai_jun@moe.edu.sg</a></td>
+  <td><b>MR LAI WEE YEONG</b><br><a href="mailto:lai_wee_yeong@moe.edu.sg" target="_blank" rel="noopener noreferrer">lai_wee_yeong@moe.edu.sg</a></td>
 		</tr>
 		<th> PRIMARY 6G </th>
   <tr>
     <td><b>MS SUVITA</b><br><a href="mailto:suvita_thanagopalasamy@moe.edu.sg" target="_blank" rel="noopener noreferrer">suvita_thanagopalasamy@moe.edu.sg
 				</a></td>
-    		 <td><b>MRS GIN CHAN</b><br><a href="mailto:chua_gim_peng_gin@moe.edu.sg
-" target="_blank" rel="noopener noreferrer">chua_gim_peng_gin@moe.edu.sg
-</a></td>
+    		 <td><b>MRS GIN CHAN</b><br><a href="mailto:chua_gim_peng_gin@moe.edu.sg" target="_blank" rel="noopener noreferrer">chua_gim_peng_gin@moe.edu.sg</a></td>
 		</tr>
 		<th> PRIMARY 6H </th>
 	<tr>
-	  <td><b>MS KAREN CHAN</b><br><a href="mailto:karen_oi_chan@moe.edu.sg
-" target="_blank" rel="noopener noreferrer">karen_oi_chan@moe.edu.sg
-</a></td>
+	  <td><b>MS KAREN CHAN</b><br><a href="mailto:karen_oi_chan@moe.edu.sg" target="_blank" rel="noopener noreferrer">karen_oi_chan@moe.edu.sg</a></td>
 	<td><b>MDM TAN MEO CHER</b><br><a href="mailto:tan_meo_cher@moe.edu.sg" target="_blank" rel="noopener noreferrer">tan_meo_cher@moe.edu.sg</a></td>
 	</TR>
 </table>
