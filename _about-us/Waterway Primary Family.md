@@ -141,7 +141,7 @@ description: ""
 </a></td>
     <td><b>MISS GRACE SEAH</b><br>Senior Teacher Chinese Language<br><a href="mailto:seah_pei_ru_grace@moe.edu.sg
 " target="_blank" rel="noopener noreferrer">seah_pei_ru_grace@moe.edu.sg
-</a><a href="mailto:@moe.edu.sg" target="_blank" rel="noopener noreferrer">@moe.edu.sg</a></td>
+</a><a href="mailto:@moe.edu.sg" target="_blank" rel="noopener noreferrer"></a></td>
   </tr>
 	  <tr>
     <td><b>MRS AUDREY WONG</b><br>Orators@Waterway Coordinator <br><a href="mailto:toh_ling_hui_audrey@moe.edu.sg
@@ -418,10 +418,16 @@ description: ""
 
 <table>
   <tbody><tr>
-		<td><b>MISS ROFIDAH SAMAH</b><br>Senior SEN Officer<br></td>
-		<td><b>MISS SITI KHAIRUNNISA</b><br>SEN Officer <br></td></tr>
+		<td><b>MISS ROFIDAH SAMAH</b><br>Senior SEN Officer<br><a href="mailto:rofidah_samah@moe.edu.sg
+" target="_blank" rel="noopener noreferrer">rofidah_samah@moe.edu.sg
+</a></td>
+		<td><b>MISS SITI KHAIRUNNISA</b><br>SEN Officer<br><a href="mailto:siti_khairunnisa_nor@moe.edu.sg
+" target="_blank" rel="noopener noreferrer">siti_khairunnisa_nor@moe.edu.sg
+</a></td></tr>
   <tr>
-		<td><b>MISS NEEMIKA RAI</b><br>School Counsellor<br></td>
+		<td><b>MISS NEEMIKA RAI</b><br>School Counsellor<br><a href="mailto:neemika_rai@moe.edu.sg
+" target="_blank" rel="noopener noreferrer">neemika_rai@moe.edu.sg
+</a></td>
   </tr>
 </tbody></table>
 
