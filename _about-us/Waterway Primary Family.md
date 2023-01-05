@@ -155,49 +155,59 @@ description: ""
   <tbody>
 		<th> PRIMARY 1A </th>
 			<tr>
-		<td><b>MRS CALYNN TEH</b><br><a href="mailto:@moe.edu.sg" target="_blank" rel="noopener noreferrer">@moe.edu.sg</a></td>
-				<td><b>MRS CALYNN TEH</b><br><a href="mailto:@moe.edu.sg" target="_blank" rel="noopener noreferrer">@moe.edu.sg</a></td>
+		<td><b>MRS CALYNN TEH</b><br><a href="mailto:calynn_chow_wun_yen@moe.edu.sg" target="_blank" rel="noopener noreferrer">calynn_chow_wun_yen@moe.edu.sg</a></td>
+				 <td><b>MISS LI HUIMIN</b><br><a href="mailto:li_huimin@moe.edu.sg" target="_blank" rel="noopener noreferrer">li_huimin@moe.edu.sg</a></td>
   </tr>
 		<tr>
 		<th> PRIMARY 1B </th>
 			<tr>
-				<td><b>MISS HUMAIRAH</b><br><a href="mailto:@moe.edu.sg" target="_blank" rel="noopener noreferrer">@moe.edu.sg</a><br></td>
-			<td><b>MISS HUMAIRAH</b><br><a href="mailto:@moe.edu.sg" target="_blank" rel="noopener noreferrer">@moe.edu.sg</a><br></td>
+				<td><b>MISS HUMAIRAH</b><br><a href="mailto:nur_humairah_hasim@moe.edu.sg" target="_blank" rel="noopener noreferrer">nur_humairah_hasim@moe.edu.sg</a><br></td>
+			<td><b>MR JAN JOEL</b><br><a href="mailto:jan_joel_jayanta@moe.edu.sg" target="_blank" rel="noopener noreferrer">jan_joel_jayanta@moe.edu.sg</a></td>
   </tr>
 		<th> PRIMARY 1C </th>
 	<tr>
-		  <td><b>MDM SITI NURAIDAH</b><br><a href="mailto:@moe.edu.sg" target="_blank" rel="noopener noreferrer">@moe.edu.sg</a><br></td>
-		<td><b>MDM SITI NURAIDAH</b><br><a href="mailto:@moe.edu.sg" target="_blank" rel="noopener noreferrer">@moe.edu.sg</a><br></td>
+		  <td><b>MDM SITI NURAIDAH</b><br><a href="mailto:siti_nuraidah_mukthar@moe.edu.sg" target="_blank" rel="noopener noreferrer">siti_nuraidah_mukthar@moe.edu.sg</a><br></td>
+		<td><b>MDM JOELL LIM</b><br><a href="mailto:lim_kar_hoon_joell@moe.edu.sg" target="_blank" rel="noopener noreferrer">lim_kar_hoon_joell@moe.edu.sg</a></td>
 		</tr>
 		<th> PRIMARY 1D </th>
 	<tr>  
-		<td><b>MDM NUR AZLIN</b><br><a href="mailto:@moe.edu.sg" target="_blank" rel="noopener noreferrer">@moe.edu.sg</a><br></td>
-		<td><b>MISS MEGHANA PRASAD</b><br><a href="mailto:@moe.edu.sg" target="_blank" rel="noopener noreferrer">@moe.edu.sg</a><br></td>
+		<td><b>MDM NUR AZLIN</b><br><a href="mailto:nur_azlin_junari@moe.edu.sg" target="_blank" rel="noopener noreferrer">nur_azlin_junari@moe.edu.sg</a><br></td>
+		<td><b>MRS ESTHER </b><br><a href="mailto:ng_may_ling_esther@moe.edu.sg" target="_blank" rel="noopener noreferrer">ng_may_ling_esther@moe.edu.sg
+</a>
 		</tr>
 		<th> PRIMARY 1E </th>
 	<tr>
-		<td><b>MDM IRENE GAN</b><br><a href="mailto:@moe.edu.sg" target="_blank" rel="noopener noreferrer">@moe.edu.sg</a><br></td>
-		<td><b>MISS MEGHANA PRASAD</b><br><a href="mailto:@moe.edu.sg" target="_blank" rel="noopener noreferrer">@moe.edu.sg</a><br></td>
+		<td><b>MDM IRENE GAN</b><br><a href="mailto:gan_ai_ling_irene@moe.edu.sg" target="_blank" rel="noopener noreferrer">gan_ai_ling_irene@moe.edu.sg</a><br></td>
+		  <td><b>MISS SITI RAUDHAH</b><br><a href="mailto:Siti_Raudhah_Imran@moe.edu.sg" target="_blank" rel="noopener noreferrer">Siti_Raudhah_Imran@moe.edu.sg
+				</a></td>
 		</tr>
 		<th> PRIMARY 1F </th>
 	<tr>
-		<td><b>MS JOLENE LOW</b><br><a href="mailto:@moe.edu.sg" target="_blank" rel="noopener noreferrer">@moe.edu.sg</a><br></td>
-		<td><b>MISS MEGHANA PRASAD</b><br><a href="mailto:@moe.edu.sg" target="_blank" rel="noopener noreferrer">@moe.edu.sg</a><br></td>
+		<td><b>MS JOLENE LOW</b><br><a href="mailto:low_wei_ling_jolene@moe.edu.sg" target="_blank" rel="noopener noreferrer">low_wei_ling_jolene@moe.edu.sg</a><br></td>
+	  <td><b>MR AIDIL</b><br><a href="mailto:Muhammad_Aidil_Ishak@moe.edu.sg
+" target="_blank" rel="noopener noreferrer">muhammad_aidil_ishak@moe.edu.sg
+</a></td>
   </tr>
 			<th> PRIMARY 1G </th>
 	<tr>
-		<td><b>MS IVY YEO</b><br><a href="mailto:@moe.edu.sg" target="_blank" rel="noopener noreferrer">@moe.edu.sg</a><br></td>
-		<td><b>MISS MEGHANA PRASAD</b><br><a href="mailto:@moe.edu.sg" target="_blank" rel="noopener noreferrer">@moe.edu.sg</a><br></td>
+		<td><b>MS IVY YEO</b><br><a href="mailto:yeo_ivy@moe.edu.sg" target="_blank" rel="noopener noreferrer">yeo_ivy@moe.edu.sg</a><br></td>
+ <td><b>MDM ROZANA</b><br><a href="mailto:rozana_Zainuri@moe.edu.sg
+" target="_blank" rel="noopener noreferrer">rozana_zainuri@moe.edu.sg
+</a></td>
 		</tr>	
 		<th> PRIMARY 1H </th>
 	<tr>
-		<td><b>MRS JASLYN THAM</b><br><a href="mailto:@moe.edu.sg" target="_blank" rel="noopener noreferrer">@moe.edu.sg</a><br></td>
-		<td><b>MISS MEGHANA PRASAD</b><br><a href="mailto:@moe.edu.sg" target="_blank" rel="noopener noreferrer">@moe.edu.sg</a><br></td>
+		<td><b>MRS JASLYN THAM</b><br><a href="mailto:fang_siying_jaslyn@moe.edu.sg" target="_blank" rel="noopener noreferrer">fang_siying_jaslyn@moe.edu.sg</a><br></td>
+	<td><b>MRS SHRLINDA LEE</b><br><a href="mailto:see_shu_lan_shrlinda@moe.edu.sg
+" target="_blank" rel="noopener noreferrer">see_shu_lan_shrlinda@moe.edu.sg
+</a></td>
 	</tr>		
 			<th> PRIMARY 1I </th>
 	<tr>
-	    <td><b>MISS MEGHANA PRASAD</b><br><a href="mailto:@moe.edu.sg" target="_blank" rel="noopener noreferrer">@moe.edu.sg</a><br></td>
-		<td><b>MISS MEGHANA PRASAD</b><br><a href="mailto:@moe.edu.sg" target="_blank" rel="noopener noreferrer">@moe.edu.sg</a><br></td>
+	    <td><b>MISS MEGHANA PRASAD</b><br><a href="mailto:meghana_prasad@moe.edu.sg" target="_blank" rel="noopener noreferrer">meghana_prasad@moe.edu.sg</a><br></td>
+			<td><b>MRS SHRLINDA LEE</b><br><a href="mailto:see_shu_lan_shrlinda@moe.edu.sg
+" target="_blank" rel="noopener noreferrer">see_shu_lan_shrlinda@moe.edu.sg
+</a></td>
 	</tr>
 	</tbody></table>
 
