@@ -118,28 +118,22 @@ description: ""
 #### TEACHER LEADERS &amp; COORDINATORS
 <table>
 <tr>
-    <td><b>MRS RAEBURN-SIM CHEY HOONG</b><br>Lead Teacher Science<br><a href="mailto:raeburn-sim_chey_hoong@moe.edu.sg
-" target="_blank" rel="noopener noreferrer">raeburn-sim_chey_hoong@moe.edu.sg
+    <td><b>MRS RAEBURN-SIM CHEY HOONG</b><br>Lead Teacher Science<br><a href="mailto:raeburn-sim_chey_hoong@moe.edu.sg" target="_blank" rel="noopener noreferrer">raeburn-sim_chey_hoong@moe.edu.sg
 </a></td>
-	<td><b>MDM ALWIYAH</b><br>Senior Teacher English<br><a href="mailto:alwiyah_abdul_aziz@moe.edu.sg
-" target="_blank" rel="noopener noreferrer">alwiyah_abdul_aziz@moe.edu.sg
+	<td><b>MDM ALWIYAH</b><br>Senior Teacher English<br><a href="mailto:alwiyah_abdul_aziz@moe.edu.sg" target="_blank" rel="noopener noreferrer">alwiyah_abdul_aziz@moe.edu.sg
 </a></td>
   </tr>
   <tr>
-    <td><b>MR RONNIE PHUA</b><br>Senior Teacher SEN<br><a href="mailto:phua_kiah-ian_ronnie@moe.edu.sg
-" target="_blank" rel="noopener noreferrer">phua_kiah-ian_ronnie@moe.edu.sg</a></td>
-    <td><b>MRS CLARISSA HAN</b><br>Senior Teacher Learner Profile (HA)<br><a href="mailto:cheong_yoke_ling@moe.edu.sg
-" target="_blank" rel="noopener noreferrer">cheong_yoke_ling@moe.edu.sg</a></td>
+    <td><b>MR RONNIE PHUA</b><br>Senior Teacher SEN<br><a href="mailto:phua_kiah-ian_ronnie@moe.edu.sg" target="_blank" rel="noopener noreferrer">phua_kiah-ian_ronnie@moe.edu.sg</a></td>
+    <td><b>MRS CLARISSA HAN</b><br>Senior Teacher Learner Profile (HA)<br><a href="mailto:cheong_yoke_ling@moe.edu.sg" target="_blank" rel="noopener noreferrer">cheong_yoke_ling@moe.edu.sg</a></td>
   </tr>
   <tr>
-    <td><b>MR CHRISTOPHER SHAU</b><br>Senior Teacher Educational Support<br><a href="mailto:christopher_shau@moe.edu.sg
-" target="_blank" rel="noopener noreferrer">christopher_shau@moe.edu.sg</a></td>
-    <td><b>MISS GRACE SEAH</b><br>Senior Teacher Chinese Language<br><a href="mailto:seah_pei_ru_grace@moe.edu.sg
-" target="_blank" rel="noopener noreferrer">seah_pei_ru_grace@moe.edu.sg</a></td>
+    <td><b>MR CHRISTOPHER SHAU</b><br>Senior Teacher Educational Support<br><a href="mailto:christopher_shau@moe.edu.sg" target="_blank" rel="noopener noreferrer">christopher_shau@moe.edu.sg</a></td>
+    <td><b>MISS GRACE SEAH</b><br>Senior Teacher Chinese Language<br><a href="mailto:seah_pei_ru_grace@moe.edu.sg" target="_blank" rel="noopener noreferrer">seah_pei_ru_grace@moe.edu.sg</a></td>
   </tr>
 	  <tr>
-    <td><b>MRS AUDREY WONG</b><br>Orators@Waterway Coordinator <br><a href="mailto:toh_ling_hui_audrey@moe.edu.sg
-" target="_blank" rel="noopener noreferrer">toh_ling_hui_audrey@moe.edu.sg</a></td>
+    <td><b>MRS AUDREY WONG</b><br>Orators@Waterway Coordinator <br><a href="mailto:toh_ling_hui_audrey@moe.edu.sg" target="_blank" rel="noopener noreferrer">toh_ling_hui_audrey@moe.edu.sg</a></td>
+	</tr>
 </table>
 
 #### PRIMARY 1 TEACHERS
@@ -267,22 +261,54 @@ description: ""
 	
 #### PRIMARY 3 TEACHERS
 <table>
-  <tbody><tr>
-		<td><b>MISS CHERYL KHOO</b><br>Form Teacher Pri 3A<br></td>
-		 <td><b>MRS SHEILA CHAN</b><br>Form Teacher Pri 3B<br></td>
-		</tr>
-		<tr>
-	 	<td><b>MISS YEO SHU YUAN</b><br>Form Teacher Pri 3C<br></td>
-	  <td><b>MR NG BAN HOCK</b><br>Form Teacher Pri 3D<br></td>
-  </tr>
-  <tr>
-    <td><b>MDM FOO WAN QING</b><br>Form Teacher Pri 3E<br></td>
-	<td><b>MRS LU LI TING</b><br>Form Teacher Pri 3F<br></td>
-	</tr>
+<th> PRIMARY 3A </th>
 	<tr>
-	<td><b>MRS WONG YAN RU</b><br>Form Teacher Pri 3G<br></td>
+		<td><b>MISS CHERYL KHOO</b><br><a href="khoo_wan_shir_cheryl@moe.edu.sg" target="_blank" rel="noopener noreferrer">khoo_wan_shir_cheryl@moe.edu.sg
+</a></td>
+	<td><b>MISS SHAMINI</b><br><a href="mailto:shamini_subramaniam_a@moe.edu.sg" target="_blank" rel="noopener noreferrer">shamini_subramaniam_a@moe.edu.sg
+</a></td>
   </tr>
-	</tbody></table>
+		<th> PRIMARY 3B </th>
+	<tr>
+	 <td><b>MRS SHEILA CHAN</b><br><a href="mailto:tay_sock_hwee_sheila@moe.edu.sg" target="_blank" rel="noopener noreferrer">tay_sock_hwee_sheila@moe.edu.sg
+</a></td>
+		 <td><b>MDM CHIA HWEE HIAN</b><br><a href="mailto:chia_hwee_hian@moe.edu.sg" target="_blank" rel="noopener noreferrer">chia_hwee_hian@moe.edu.sg
+</a></td>
+  </tr>
+		<th> PRIMARY 3C </th>
+		<tr>
+	 	<td><b>MISS YEO SHU YUAN</b><br><a href="yeo_shu_yuan@moe.edu.sg" target="_blank" rel="noopener noreferrer">yeo_shu_yuan@moe.edu.sg
+</a></td>
+		 <td><b>MDM JACQUELIN LAI</b><br><a href="mailto:lai_hui_jun_jacqueline@moe.edu.sg" target="_blank" rel="noopener noreferrer">lai_hui_jun_jacqueline@moe.edu.sg</a></td>
+  </tr>
+		<th> PRIMARY 3D</th>
+	<tr>
+	  <td><b>MR NG BAN HOCK</b><br><a href="mailto:ng_ban_hock@moe.edu.sg
+" target="_blank" rel="noopener noreferrer">ng_ban_hock@moe.edu.sg
+</a></td>
+  <td><b>MISS MAGDALENE FOO</b><br></td>
+  </tr>
+		<th> PRIMARY 3E </th>
+  <tr>
+    <td><b>MDM FOO WAN QING</b><br><a href="foo_wan_qing@moe.edu.sg" target="_blank" rel="noopener noreferrer">foo_wan_qing@moe.edu.sg
+</a></td>
+	 <td><b>MR NICK WONG</b><br><a href="mailto:rofidah_samah@moe.edu.sg
+" target="_blank" rel="noopener noreferrer">rofidah_samah@moe.edu.sg
+</a></td>
+  </tr>
+		<th> PRIMARY 3F </th>
+	<tr>
+	 <td><b>MRS LU LI TING</b><br><a href="mailto:lim_li_ting@moe.edu.sg" target="_blank" rel="noopener noreferrer">lim_li_ting@moe.edu.sg
+</a></td>
+	 <td><b>MR MOHD ALI</b><br><a href="mailto:Mohamed_Ali_Mohamed_Hanafiah@moe.edu.sg" target="_blank" rel="noopener noreferrer">Mohamed_Ali_Mohamed_Hanafiah@moe.edu.sg</a></td>
+  </tr>
+		<th> PRIMARY 3G </th>
+	<tr>
+	  <td><b>MRS WONG YAN RU</b><br><a href="mailto:lim_yan_ru@moe.edu.sg" target="_blank" rel="noopener noreferrer">lim_yan_ru@moe.edu.sg
+</a></td>
+  <td><b>MDM MARTINI</b><br><a href="mailto:martini_mahmood@moe.edu.sg" target="_blank" rel="noopener noreferrer">martini_mahmood@moe.edu.sg</a></td>
+  </tr>
+</table>
 	
 #### PRIMARY 4 TEACHERS
 <table>
@@ -437,8 +463,7 @@ description: ""
   </tr>
   <tr>
     <td><b>MDM HARIATI</b><br>Art &amp; Craft<br><a href="mailtohariati_abdul_hamid@moe.edu.sg" target="_blank" rel="noopener noreferrer">hariati_abdul_hamid@moe.edu.sg</a></td>
-    <td><b>MDM CHIA HWEE HIAN</b><br>Music<br><a href="mailto:chia_hwee_hian@moe.edu.sg
-" target="_blank" rel="noopener noreferrer">chia_hwee_hian@moe.edu.sg
+    <td><b>MDM CHIA HWEE HIAN</b><br>Music<br><a href="mailto:chia_hwee_hian@moe.edu.sg" target="_blank" rel="noopener noreferrer">chia_hwee_hian@moe.edu.sg
 </a></td>
   </tr>
   <tr>
