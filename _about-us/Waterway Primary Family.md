@@ -25,23 +25,35 @@ description: ""
 
 <table>
   <tbody><tr>
-    <td><b>MS PRIYADAKSHINI</b><br>HOD English<br><a href="mailto:cheong_fong_teng@moe.edu.sg" target="_blank" rel="noopener noreferrer">cheong_fong_teng@moe.edu.sg</a></td>
-    <td><b>MRS SHEILA CHAN</b><br>HOD Mathematics<br><a href="mailto:cheong_fong_teng@moe.edu.sg" target="_blank" rel="noopener noreferrer">cheong_fong_teng@moe.edu.sg</a></td>
+    <td><b>MS PRIYADAKSHINI</b><br>HOD English<br><a href="mailto:priyadakshini_surendiran_s@moe.edu.sg
+" target="_blank" rel="noopener noreferrer">priyadakshini_surendiran_s@moe.edu.sg
+</a></td>
+    <td><b>MRS SHEILA CHAN</b><br>HOD Mathematics<br><a href="mailto:tay_sock_hwee_sheila@moe.edu.sg
+" target="_blank" rel="noopener noreferrer">tay_sock_hwee_sheila@moe.edu.sg
+</a></td>
   </tr>
 <tr>
-    <td><b>MRS WONG YAN RU</b><br>HOD Science<br><a href="mailto:cheong_fong_teng@moe.edu.sg" target="_blank" rel="noopener noreferrer">cheong_fong_teng@moe.edu.sg</a></td>
-    <td><b>MRS GINA OW</b><br>HOD Mother Tongue<br><a href="mailto:cheong_fong_teng@moe.edu.sg" target="_blank" rel="noopener noreferrer">cheong_fong_teng@moe.edu.sg</a></td>
+    <td><b>MRS WONG YAN RU</b><br>HOD Science<br><a href="mailto:lim_yan_ru@moe.edu.sg
+" target="_blank" rel="noopener noreferrer">lim_yan_ru@moe.edu.sg
+</a></td>
+    <td><b>MRS GINA OW</b><br>HOD Mother Tongue<br><a href="mailto:gina_ow@moe.edu.sg" target="_blank" rel="noopener noreferrer">gina_ow@moe.edu.sg</a></td>
   </tr>
   <tr>
-    <td><b>MR SIM TECK CHUAN</b><br>HOD ICT<br><a href="mailto:cheong_fong_teng@moe.edu.sg" target="_blank" rel="noopener noreferrer">cheong_fong_teng@moe.edu.sg</a></td>
-    <td><b>MR SAMY LIM</b><br>HOD PE<br><a href="mailto:cheong_fong_teng@moe.edu.sg" target="_blank" rel="noopener noreferrer">cheong_fong_teng@moe.edu.sg</a></td>
+    <td><b>MR SIM TECK CHUAN</b><br>HOD ICT<br><a href="mailto:sim_teck_chuan@moe.edu.sg" target="_blank" rel="noopener noreferrer">sim_teck_chuan@moe.edu.sg</a></td>
+    <td><b>MR SAMY LIM</b><br>HOD PE<br><a href="mailto:lim_chee_kwee_samy@moe.edu.sg
+" target="_blank" rel="noopener noreferrer">lim_chee_kwee_samy@moe.edu.sg
+</a></td>
   </tr>
   <tr>
-    <td><b>MR NG BAN HOCK</b><br>HOD Student Management<br><a href="mailto:cheong_fong_teng@moe.edu.sg" target="_blank" rel="noopener noreferrer">cheong_fong_teng@moe.edu.sg</a></td>
-    <td><b>MS NEO CHAI LEE</b><br>HOD CCE<br><a href="mailto:cheong_fong_teng@moe.edu.sg" target="_blank" rel="noopener noreferrer">cheong_fong_teng@moe.edu.sg</a></td>
+    <td><b>MR NG BAN HOCK</b><br>HOD Student Management<br><a href="mailto:ng_ban_hock@moe.edu.sg
+" target="_blank" rel="noopener noreferrer">ng_ban_hock@moe.edu.sg
+</a></td>
+    <td><b>MS NEO CHAI LEE</b><br>HOD CCE<br><a href="mailto:neo_chai_lee@moe.edu.sg" target="_blank" rel="noopener noreferrer">neo_chai_lee@moe.edu.sg</a></td>
   </tr>
   <tr>
-    <td><b>MS KAREN CHAN</b><br>School Staff Developer<br><a href="mailto:cheong_fong_teng@moe.edu.sg" target="_blank" rel="noopener noreferrer">cheong_fong_teng@moe.edu.sg</a></td></tr>
+    <td><b>MS KAREN CHAN</b><br>School Staff Developer<br><a href="mailto:karen_oi_chan@moe.edu.sg
+" target="_blank" rel="noopener noreferrer">karen_oi_chan@moe.edu.sg
+</a></td></tr>
 </tbody></table>
 
 #### YEAR HEAD &amp; ASSISTANT YEAR HEAD
@@ -49,16 +61,28 @@ description: ""
 <table>
 <tbody>
   <tr>
-    <td><b>MRS SHRLINDA LEE</b><br>Year Head (P1)<br><a href="mailto:@moe.edu.sg" target="_blank" rel="noopener noreferrer">@moe.edu.sg</a></td>
-    <td><b>MRS MITCHELLE WONG</b><br>Assistant Year Head (P2)<br><a href="mailto:@moe.edu.sg" target="_blank" rel="noopener noreferrer">@moe.edu.sg</a></td>
+    <td><b>MRS SHRLINDA LEE</b><br>Year Head (P1)<br><a href="mailto:see_shu_lan_shrlinda@moe.edu.sg
+" target="_blank" rel="noopener noreferrer">see_shu_lan_shrlinda@moe.edu.sg
+</a></td>
+    <td><b>MRS MITCHELLE WONG</b><br>Assistant Year Head (P2)<br><a href="mitchelle_wong@moe.edu.sg
+" target="_blank" rel="noopener noreferrer">mitchelle_wong@moe.edu.sg
+</a></td>
 	</tr>
   <tr>
-    <td><b>MRS LU LI TING</b><br>Assistant Year Head (P3)<br><a href="mailto:@moe.edu.sg" target="_blank" rel="noopener noreferrer">@moe.edu.sg</a></td>
-    <td><b>MDM NAZREENA</b><br>Assistant Year Head (P4)<br><a href="mailto:@moe.edu.sg" target="_blank" rel="noopener noreferrer">@moe.edu.sg</a></td>
+    <td><b>MRS LU LI TING</b><br>Assistant Year Head (P3)<br><a href="mailto:lim_li_ting@moe.edu.sg
+" target="_blank" rel="noopener noreferrer">lim_li_ting@moe.edu.sg
+</a></td>
+    <td><b>MDM NAZREENA</b><br>Assistant Year Head (P4)<br><a href="mailto:nazreena_abdul_rahman@moe.edu.sg
+" target="_blank" rel="noopener noreferrer">nazreena_abdul_rahman@moe.edu.sg
+</a></td>
   </tr>
   <tr>
-    <td><b>MR JASON YEW</b><br>Assistant Year Head (P5) <br><a href="mailto:@moe.edu.sg" target="_blank" rel="noopener noreferrer">@moe.edu.sg</a></td>
-   <td><b>MR WONG BENG YU</b><br>Year Head (P6)<br><a href="mailto:@moe.edu.sg" target="_blank" rel="noopener noreferrer">@moe.edu.sg</a></td>
+    <td><b>MR JASON YEW</b><br>Assistant Year Head (P5) <br><a href="mailto:yew_kwok_ming@moe.edu.sg
+" target="_blank" rel="noopener noreferrer">yew_kwok_ming@moe.edu.sg
+</a></td>
+   <td><b>MR WONG BENG YU</b><br>Year Head (P6)<br><a href="mailto:wong_beng_yu@moe.edu.sg
+" target="_blank" rel="noopener noreferrer">wong_beng_yu@moe.edu.sg
+</a></td>
 	</tr>
 </tbody>
 </table>
