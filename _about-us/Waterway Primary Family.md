@@ -91,16 +91,28 @@ description: ""
 
 <table>
   <tbody><tr>
-    <td><b>MR IRWAN</b><br>Level Head English Language<br><a href="mailto:@moe.edu.sg" target="_blank" rel="noopener noreferrer">@moe.edu.sg</a></td>
-    <td><b>MRS SERENE TAN</b><br>Level Head Mathematics<br><a href="mailto:@moe.edu.sg" target="_blank" rel="noopener noreferrer">@moe.edu.sg</a></td>
+    <td><b>MR IRWAN</b><br>Level Head English Language<br><a href="mailto:irwan_shah@moe.edu.sg
+" target="_blank" rel="noopener noreferrer">irwan_shah@moe.edu.sg
+</a></td>
+    <td><b>MRS SERENE TAN</b><br>Level Head Mathematics<br><a href="mailto:neo_wei_li_serene@moe.edu.sg
+" target="_blank" rel="noopener noreferrer">neo_wei_li_serene@moe.edu.sg
+</a></td>
   </tr>
   <tr>
-    <td><b>MISS LIM TIAN JING</b><br>Level Head Mother Tongue<br><a href="mailto:@moe.edu.sg" target="_blank" rel="noopener noreferrer">@moe.edu.sg</a></td>
-    <td><b>MS CHUA QINYU</b><br>Subject Head ICT<br><a href="mailto:@moe.edu.sg" target="_blank" rel="noopener noreferrer">@moe.edu.sg</a></td>
+    <td><b>MISS LIM TIAN JING</b><br>Level Head Mother Tongue<br><a href="mailto:lim_tian_jing@moe.edu.sg
+" target="_blank" rel="noopener noreferrer">lim_tian_jing@moe.edu.sg
+</a></td>
+    <td><b>MS CHUA QINYU</b><br>Subject Head ICT<br><a href="mailto:chua_qinyu@moe.edu.sg
+" target="_blank" rel="noopener noreferrer">chua_qinyu@moe.edu.sg
+</a></td>
   </tr>
   <tr>
-    <td><b>MS CLARA ONG</b><br>Subject Head National Education / Social Studies<br><a href="mailto:@moe.edu.sg" target="_blank" rel="noopener noreferrer">@moe.edu.sg</a></td>
-    <td><b>MRS GIN CHAN</b><br>Subject Head Aesthetics<br><a href="mailto:@moe.edu.sg" target="_blank" rel="noopener noreferrer">@moe.edu.sg</a></td>
+    <td><b>MS CLARA ONG</b><br>Subject Head National Education / Social Studies<br><a href="mailto:ong_fong_yan_clara@moe.edu.sg
+" target="_blank" rel="noopener noreferrer">ong_fong_yan_clara@moe.edu.sg
+</a></td>
+    <td><b>MRS GIN CHAN</b><br>Subject Head Aesthetics<br><a href="mailto:chua_gim_peng_gin@moe.edu.sg
+" target="_blank" rel="noopener noreferrer">chua_gim_peng_gin@moe.edu.sg
+</a></td>
   </tr>
  </tbody></table>
 
