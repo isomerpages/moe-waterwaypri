@@ -379,43 +379,31 @@ description: ""
 
 <table>
     <tbody><tr>
-    <td><b>MDM SHARON LEE</b><br>Art &amp; Craft<br><a href="mailto:lee_sing_lan@moe.edu.sg
-" target="_blank" rel="noopener noreferrer">lee_sing_lan@moe.edu.sg
+    <td><b>MDM SHARON LEE</b><br>Art &amp; Craft<br><a href="mailto:lee_sing_lan@moe.edu.sg" target="_blank" rel="noopener noreferrer">lee_sing_lan@moe.edu.sg
 </a></td>
     <td><b>MISS SITI RAUDHAH</b><br>Art &amp; Craft<br><a href="mailto:Siti_Raudhah_Imran@moe.edu.sg" target="_blank" rel="noopener noreferrer">Siti_Raudhah_Imran@moe.edu.sg
-
 </a></td>
   </tr>
   <tr>
-    <td><b>MDM HARIATI</b><br>Art &amp; Craft<br><a href="mailto:neemika_rai@moe.edu.sg
-" target="_blank" rel="noopener noreferrer">neemika_rai@moe.edu.sg
-</a></td>
-    <td><b>MDM CHIA HWEE HIAN</b><br>Music<br><a href="mailto:neemika_rai@moe.edu.sg
-" target="_blank" rel="noopener noreferrer">neemika_rai@moe.edu.sg
+    <td><b>MDM HARIATI</b><br>Art &amp; Craft<br><a href="mailtohariati_abdul_hamid@moe.edu.sg" target="_blank" rel="noopener noreferrer">hariati_abdul_hamid@moe.edu.sg</a></td>
+    <td><b>MDM CHIA HWEE HIAN</b><br>Music<br><a href="mailto:chia_hwee_hian@moe.edu.sg
+" target="_blank" rel="noopener noreferrer">chia_hwee_hian@moe.edu.sg
 </a></td>
   </tr>
   <tr>
-    <td><b>MS TAN PEI WEN</b><br>PE Teacher<br><a href="mailto:neemika_rai@moe.edu.sg
-" target="_blank" rel="noopener noreferrer">neemika_rai@moe.edu.sg
+    <td><b>MS TAN PEI WEN</b><br>PE Teacher<br><a href="mailto:tan_pei_wen_b@moe.edu.sg" target="_blank" rel="noopener noreferrer">tan_pei_wen_b@moe.edu.sg
 </a></td>
-    <td><b>MR JAN JOEL</b><br>PE Teacher<br><a href="mailto:neemika_rai@moe.edu.sg
-" target="_blank" rel="noopener noreferrer">neemika_rai@moe.edu.sg
+    <td><b>MR JAN JOEL</b><br>PE Teacher<br><a href="mailto:jan_joel_jayanta@moe.edu.sg" target="_blank" rel="noopener noreferrer">jan_joel_jayanta@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td><b>MR JUSTIN TAN</b><br>PE Teacher<br><a href="mailto:tan_siow_meng@moe.edu.sg" target="_blank" rel="noopener noreferrer">tan_siow_meng@moe.edu.sg
+</a></td>
+     <td><b>MR LAI WEE YEONG</b><br>PE Teacher<br><a href="mailto:lai_wee_yeong@moe.edu.sg" target="_blank" rel="noopener noreferrer">lai_wee_yeong@moe.edu.sg
 </a></td>
   </tr>
   <tr>
-    <td><b>MR JUSTIN TAN</b><br>PE Teacher<br><a href="mailto:neemika_rai@moe.edu.sg
-" target="_blank" rel="noopener noreferrer">neemika_rai@moe.edu.sg
-</a></td>
-     <td><b>MR LAI WEE YEONG</b><br>PE Teacher<br><a href="mailto:neemika_rai@moe.edu.sg
-" target="_blank" rel="noopener noreferrer">neemika_rai@moe.edu.sg
-</a></td>
-  </tr>
-  <tr>
-    <td><b>MR MOHD ALI</b><br>PE Teacher<br><a href="mailto:neemika_rai@moe.edu.sg
-" target="_blank" rel="noopener noreferrer">neemika_rai@moe.edu.sg
-</a></td>
-		<td><b>MRS DIANA YAP</b><br>PE Teacher<br><a href="mailto:neemika_rai@moe.edu.sg
-" target="_blank" rel="noopener noreferrer">neemika_rai@moe.edu.sg
+    <td><b>MR MOHD ALI</b><br>PE Teacher<br><a href="mailto:Mohamed_Ali_Mohamed_Hanafiah@moe.edu.sg" target="_blank" rel="noopener noreferrer">Mohamed_Ali_Mohamed_Hanafiah@moe.edu.sg</a></td>
+		<td><b>MRS DIANA YAP</b><br>PE Teacher<br><a href="mailto:chan_hui_min_diana@moe.edu.sg" target="_blank" rel="noopener noreferrer">chan_hui_min_diana@moe.edu.sg
 </a></td>
 	</tr>
 </tbody></table>
