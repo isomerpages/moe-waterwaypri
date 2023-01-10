@@ -9,7 +9,9 @@ description: ""
 ## Principal's Message
 
 
-Dear Parents/Guardians I would like to take this opportunity to wish you all a very Happy New Year and to also introduce myself. I am Mr Wilbur Wong and I have been appointed by the Ministry of Education to take over the principalship from Mrs Wee with effect from January 2023. 
+Dear Parents/Guardians 
+
+I would like to take this opportunity to wish you all a very Happy New Year and to also introduce myself. I am Mr Wilbur Wong and I have been appointed by the Ministry of Education to take over the principalship from Mrs Wee with effect from January 2023. 
 
 Waterway Primary opened her doors in 2016 with 5 primary one classes and since then, we have grown from strength to strength and over the years, our family has grown and we have put in place many innovative and exciting programmes, all with the intention of providing a rich, vibrant and holistic learning experience for our students. Much of the credit for our success must go to Mrs Wee, who is the pioneering principal. Thanks to her foresight, passion and beliefs, staff and students of Waterway Primary are able to reap the fruits of her labour. As Mrs Wee moves on to the next phase of her life, we would like to thank her for her efforts and to wish her well in all her future endeavours. She will always be a treasured family member of Waterway Primary School. 
 
