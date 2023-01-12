@@ -12,6 +12,8 @@ third_nav_title: Modular CCA
 MCCA is conducted during curriculum time for all students from P3 to P6. It includes Swimsafe, Coding & Robotics, Info-Communication & Media, Digital Art, Speech & Drama and Outdoor & Lifeskill. Modular CCA 
 provides broad learning opportunities for students to enrich their experience.
 
+#### Programmes
+
 <table>
 	<tr>
 		<td> Swimsafer Programme </td>
