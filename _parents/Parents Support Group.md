@@ -3,7 +3,6 @@ title: Parents Support Group
 permalink: /parents/parents-support-group/
 description: ""
 ---
-
 >![](/images/Parents/parent.jpg)
 >PARENTS
 
@@ -14,8 +13,6 @@ description: ""
 To find out more about the Parents Support Group, please email to [waterway.psg@gmail.com](mailto:waterway.psg@gmail.com)
 
 ![](/images/Parents/PSG%20QR%20Code.jpg)
-
-
 <table>
 <thead>
   <tr>
