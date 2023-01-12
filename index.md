@@ -12,5 +12,6 @@ sections:
         - title: Quicklinks
           description: ""
           url: /quicklinks/
-      title: FOR WORK . FOR LIFE . FOR FUTURE
+      title: FOR WORK, FOR LIFE, FOR FUTURE
+      subtitle: A Lifelong Learner, A Gracious Citizen
 ---
