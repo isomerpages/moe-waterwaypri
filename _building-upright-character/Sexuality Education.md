@@ -38,7 +38,7 @@ This means encouraging healthy, heterosexual marriages and stable nuclear family
 
 You may click [**here**](https://go.gov.sg/moe-sexuality-education) for more information on MOE Sexuality Education. 
 
-###### Overview of Waterway Primary School’s Sexuality Education Programme for 2022
+##### Overview of Waterway Primary School’s Sexuality Education Programme for 2023
 
 4.  Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [**here**](https://go.gov.sg/moe-sexuality-education-scope) for more information on the scope of Sexuality Education in the school curriculum.
     
@@ -58,7 +58,7 @@ to modulate their behaviours. Furthermore, our young are also exposed to a wide 
 Primary 5 and 6. In SEd, students learn to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters.
     
 
-###### At Waterway Primary School, the following lessons from the Growing Years Programme will be taught in 2023:
+##### At Waterway Primary School, the following lessons from the Growing Years Programme will be taught in 2023:
 
 ##### Primary 5
 
@@ -161,4 +161,3 @@ pornography is and how it can affect themselves and others. Students will learn 
       
     
 10.  Parents can contact the school at 6636 6880 or [waterway_ps@moe.edu.sg](waterway_ps@moe.edu.sg) for discussion or to seek clarification about the school’s sexuality education programme.
-   
