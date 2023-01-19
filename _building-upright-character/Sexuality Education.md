@@ -145,7 +145,7 @@ the feelings of infatuation and learn to behave maturely towards each other.</td
     <td>Term 3</td>
   </tr>
   <tr>
-    <td>Did You Know? <br>(30 min)</td>
+    <td>Did You Know? <br>(60 min)</td>
     <td>This lesson focuses on helping students to know what
 pornography is and how it can affect themselves and others. Students will learn the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy <b>‘Stop-Think-Do’. </b><br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</td>
     <td>Term 2</td>
