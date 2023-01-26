@@ -30,9 +30,6 @@ The school values of **Self-discipline** and **Integrity** underpin a Growth
 The growth mindset is imbued in students through explicit teaching during Orators lessons as well as
 through integration in subjects across the curriculum.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5oK30WjdAVY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KhVtdaeMl7g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 #### Growth Mindset Journey at Waterway Primary   
@@ -64,7 +61,7 @@ _In 2020, a series of growth mindset lessons was rolled out to our Primary 1 stu
 
 
 
-##### P3 to P5 Growth Mindset Lessons<br>
+##### P3 to P6 Growth Mindset Lessons<br>
 _Students gain a better understanding of the themes ‘Everyone can learn’, ‘Mistakes are opportunities for learning’, ‘We love challenges’ and ‘Feedback is a gift’, through lesson packages specially crafted by our teachers. These lesson packages help students to understand the importance of embracing a growth mindset and ways to cultivate a growth mindset._
 
 
@@ -101,7 +98,15 @@ The school values of **Responsibility** and **Empathy** underpin a Benefit M
 <img src="/images/Distinctive%20Programmes/G&B%209.jpg"  
      style="width:85%">		 
 
+##### Good News Programme
+Through Good News programme, we share local stories on benefit mindset with students to inspire
+them to grow and contribute to benefit others. Each term, a local story is shared with the students
+during Good Morning School (GMS).
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KCRfumYDZ-4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+##### S.H.I.N.E
 
 **_S.H.I.N.E_**  is the acronym that Waterway Primary School uses to describe the efforts that we take to imbue a _Growth Mindset and_ a _Benefit Mindset_ in our students. 
 
@@ -139,3 +144,13 @@ At Waterway Primary School, **S.H.I.N.E** stands for:
   
 
 The Growth and Benefit Mindsets aim to prepare the students of Waterway Primary School, for work, for life and for the future. The mindsets are integrated into the school’s curriculum so that there is synergy in practice and application. Through the programmes, our students learn to connect the dots between individual well-being and collective betterment. As they strategise to overcome challenges, reflect on their own mistakes, find meaning and purpose in things they learn and do, and think of effective ways to relates to others around them, Waterway Primary students will grow to be lifelong learners and gracious citizens.
+
+##### Growth Mindset Videos by Our Students and Teachers
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5oK30WjdAVY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KhVtdaeMl7g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+##### Growth and Benefit Mindset e-Book
+Students share their thoughts about growth and benefit mindset.
+<br>[Volume 1](https://heyzine.com/flip-book/919cdead91.html)
