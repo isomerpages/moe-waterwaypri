@@ -103,6 +103,9 @@ Through Good News programme, we share local stories on benefit mindset with stud
 them to grow and contribute to benefit others. Each term, a local story is shared with the students
 during Good Morning School (GMS).
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KCRfumYDZ-4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
 ##### S.H.I.N.E
 
 **_S.H.I.N.E_**  is the acronym that Waterway Primary School uses to describe the efforts that we take to imbue a _Growth Mindset and_ a _Benefit Mindset_ in our students. 
