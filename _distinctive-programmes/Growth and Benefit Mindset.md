@@ -150,4 +150,4 @@ The Growth and Benefit Mindsets aim to prepare the students of Waterway Primary 
 
 ##### Growth and Benefit Mindset e-Book
 Students share their thoughts about growth and benefit mindset.
-<br>Volume 1 - https://heyzine.com/flip-book/919cdead91.html
+<br>[Volume 1](https://heyzine.com/flip-book/919cdead91.html)
