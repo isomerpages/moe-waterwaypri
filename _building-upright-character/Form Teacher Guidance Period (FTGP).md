@@ -17,5 +17,6 @@ interacting with others in the public sphere.
 Parents are the first care-givers in developing good character of their children. The development of character and citizenship dispositions in our students is influenced by what happens in school, in the family and in the wider community. There is active partnership between school and home when what is taught and learnt in school is reinforced at home. “Family Time” in the CCE (FTGP) lessons provide suggestions for activities which allow parents to bond with their children and
 support their children’s development. These activities, such as “Family Chat Time!” and “Family Activities” also enable parents to partner with schools in this meaningful journey of supporting your child/ward in his/her learning of social-emotional competencies and values.
 
-![](/images/CCE/CCE%20FTGP%20Family%20Chat%20TIme.jpg)<p>
+![](/images/CCE/CCE%20FTGP%20Family%20Chat%20TIme.jpg)
+
 ![](/images/CCE/CCE%20FTGP%20Family%20Activities.jpg)
