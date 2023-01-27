@@ -13,6 +13,7 @@ sections:
           url: /quicklinks/
       title: FOR WORK, FOR LIFE, FOR FUTURE
       subtitle: A Lifelong Learner, A Gracious Citizen
+      background: /images/Banner.gif
   - infobar:
       title: MK@Waterway Open House
       subtitle: 11 February, Saturday 9.00am
