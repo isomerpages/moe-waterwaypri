@@ -7,7 +7,6 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Wps.png
       key_highlights:
         - title: Quicklinks
           description: ""
