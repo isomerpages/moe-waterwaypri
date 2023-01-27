@@ -12,8 +12,9 @@ description: ""
 
 **Goals**
 
-  
-
+  ![](/images/CCE/CCE%20Goals.jpg)
+	
+<br>
 Our CCE programmes are anchored on the 3 Big Ideas of CCE, Identity,
 Relationships and Choices, and our values of Responsibility, Integrity, Self-discipline and Empathy (RISE). We want students to be gracious citizens – confident, well-mannered and kind.
 
