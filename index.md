@@ -21,6 +21,6 @@ sections:
         a tour of our MK premises and a briefing about our MK curriculum.
       button: Click for more info
       url: https://go.gov.sg/mkopenhouse2023pmk
-      image: /images/MK/Open House Poster.jpg
+      image: /images/MK/Open_House.jpg
       alt: Poster
 ---
