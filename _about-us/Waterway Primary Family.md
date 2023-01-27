@@ -89,7 +89,7 @@ description: ""
 
 <table>
   <tbody><tr>
-    <td><b>MR IRWAN</b><br>Level Head English Language<br><a href="mailto:irwan_shah@moe.edu.sg
+    <td><b>DR IRWAN</b><br>Level Head English Language<br><a href="mailto:irwan_shah@moe.edu.sg
 " target="_blank" rel="noopener noreferrer">irwan_shah@moe.edu.sg
 </a></td>
     <td><b>MRS SERENE TAN</b><br>Level Head Mathematics<br><a href="mailto:neo_wei_li_serene@moe.edu.sg
@@ -447,7 +447,7 @@ description: ""
 		</tr>
 		<th> PRIMARY 6E </th>
 	<tr>
-		 <td><b>MR IRWAN</b><br><a href="mailto:irwan_shah@moe.edu.sg" target="_blank" rel="noopener noreferrer">irwan_shah@moe.edu.sg</a></td>
+		 <td><b>DR IRWAN</b><br><a href="mailto:irwan_shah@moe.edu.sg" target="_blank" rel="noopener noreferrer">irwan_shah@moe.edu.sg</a></td>
     		 <td><b>MRS RAEBURN-SIM CHEY HOONG</b><br><a href="mailto:raeburn-sim_chey_hoong@moe.edu.sg" target="_blank" rel="noopener noreferrer">raeburn-sim_chey_hoong@moe.edu.sg
 </a></td>
 		</tr>
@@ -669,6 +669,10 @@ description: ""
   <tr>
     <td>Operations Support Officer</td>
     <td><b>MDM NGHIEM NU</b></td>
+  </tr>
+		<tr>
+    <td>Lab Assistant</td>
+    <td><b>MISS JACQUELINE</b></td>
   </tr>
   <tr>
     <td>ICT Manager</td>
