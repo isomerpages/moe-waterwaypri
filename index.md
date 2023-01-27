@@ -20,7 +20,7 @@ sections:
       description: Come and visit us on 11 February 2023, Saturday! Highlights include
         a tour of our MK premises and a briefing about our MK curriculum.
       button: Click for more info
-      url: https://go.gov.sg/mkopenhouse2023pmk
+      url: https://mkwaterway.wixsite.com/mkwy
       image: /images/MK/Open_House.jpg
       alt: Poster
 ---
