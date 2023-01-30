@@ -2,6 +2,7 @@ collections:
   building-upright-character:
     output: true
     order:
+      - Eco Stewardship @ WAPS.md
       - Building Upright Character.md
       - Character & Citizenship Education (CCE) and Leadership Development.md
       - Form Teacher Guidance Period (FTGP).md
