@@ -601,89 +601,34 @@ description: ""
   </tr>
 </tbody></table>
 
-#### SEN OFFICER &amp; SCHOOL COUNSELLOR
+#### SEN OFFICER & SCHOOL COUNSELLOR
+|  	|  	|
+|---	|---	|
+| **MISS ROFIDAH SAMAH**<br>Senior SEN Officer<br>rofidah_samah@moe.edu.sg 	| **MISS SITI KHAIRUNNISA**<br>SEN Officer<br>siti_khairunnisa_nor@moe.edu.sg 	|
+| **MISS NEEMIKA RAI**<br>School Counsellor<br>neemika_rai@moe.edu.sg 	|  	|
 
-
-<table>
-  <tbody><tr>
-		<td><b>MISS ROFIDAH SAMAH</b><br>Senior SEN Officer<br><a href="mailto:rofidah_samah@moe.edu.sg
-" target="_blank" rel="noopener noreferrer">rofidah_samah@moe.edu.sg
-</a></td>
-		<td><b>MISS SITI KHAIRUNNISA</b><br>SEN Officer<br><a href="mailto:siti_khairunnisa_nor@moe.edu.sg
-" target="_blank" rel="noopener noreferrer">siti_khairunnisa_nor@moe.edu.sg
-</a></td></tr>
-  <tr>
-		<td><b>MISS NEEMIKA RAI</b><br>School Counsellor<br><a href="mailto:neemika_rai@moe.edu.sg" target="_blank" rel="noopener noreferrer">neemika_rai@moe.edu.sg
-</a></td>
-  </tr>
-</tbody></table>
-
-#### ADMINISTRATIVE &amp; SUPPORT STAFF
+#### ADMINISTRATIVE & SUPPORT STAFF
 
 ##### ADMINISTRATIVE STAFF
 
-<table>
-<tbody>
-	  <tr>
-    <td>Administration Manager</td>
-    <td><b>MISS LIM HUI FONG</b></td>
-  </tr>
-  <tr>
-    <td>Administration Executive</td>
-    <td><b>MISS PHUA LEE KOON</b></td>
-  </tr>
-  <tr>
-    <td>Corporate Support Officer</td>
-    <td><b>MS SOH LENG LENG</b></td>
-  </tr>
-  <tr>
-    <td>Corporate Support Officer</td>
-    <td><b>MISS SITI NUR HAJAR</b></td>
-  </tr>
-</tbody>
-</table>
+|                           	|                         	|
+|---------------------------	|-------------------------	|
+| Administration Manager    	| **MISS LIM HUI FONG**   	|
+| Administration Executive  	| **MISS PHUA LEE KOON**  	|
+| Corporate Support Officer 	| **MS SOH LENG LENG**    	|
+| Corporate Support Officer 	| **MISS SITI NUR HAJAR** 	|
 
-##### SUPPORT &amp; ICT SUPPORT STAFF
+##### OPERATIONAL & ICT SUPPORT STAFF
 
-<table>
-  <tbody><tr>
-    <td>Operations Manager</td>
-    <td><b>MR BERNARD CHIA</b></td>
-  </tr>
-  <tr>
-    <td>Operations Support Officer</td>
-    <td><b>MDM TAN</b></td>
-  </tr>
-  <tr>
-    <td>Operations Support Officer</td>
-    <td><b>MDM ROSILAH</b></td>
-  </tr>
-  <tr>
-    <td>Operations Support Officer</td>
-    <td><b>MR CHOW PAK WAH</b></td>
-  </tr>
-  <tr>
-    <td>Operations Support Officer</td>
-    <td><b>MDM TAN KIM SIONG</b></td>
-  </tr>
-  <tr>
-    <td>Operations Support Officer</td>
-    <td><b>MDM NGHIEM NU</b></td>
-  </tr>
-		<tr>
-    <td>Lab Assistant</td>
-    <td><b>MISS JACQUELINE</b></td>
-  </tr>
-  <tr>
-    <td>ICT Manager</td>
-    <td><b>MR KOH CHEE WEI</b></td>
-  </tr>
-  <tr>
-    <td>Desktop Engineer </td>
-    <td><b>MR SHAFIQ</b></td>
-  </tr>
-  <tr>
-    <td>Desktop Engineer</td>
-    <td><b>MR SARA  </b></td>
-  </tr>
-</tbody></table>
+|                            	|                       	|
+|----------------------------	|-----------------------	|
+| Operations Manager         	| **MR BERNARD CHIA**   	|
+| Operations Support Officer 	| **MDM TAN TIAN HONG** 	|
+| Operations Support Officer 	| **MDM ROSILAH**       	|
+| Operations Support Officer 	| **MR CHOW PAK WAH**   	|
+| Operations Support Officer 	| **MDM TAN KIM SIONG** 	|
+| Operations Support Officer 	| **MDM NGHIEM NU**     	|
+| Lab Assistant              	| **MISS JACQUELINE**   	|
+| ICT Manager                	| **MR KOH CHEE WEI**   	|
+| Desktop Engineer           	| **MR SHAFIQ**         	|
+| Desktop Engineer           	| **MR SARA**           	|
