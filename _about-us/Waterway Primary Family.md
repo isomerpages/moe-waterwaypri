@@ -566,8 +566,8 @@ description: ""
 
 |  	|  	|
 |---	|---	|
-| **MISS ROFIDAH SAMAH**<br>Senior SEN Officer<br>rofidah_samah@moe.edu.sg 	| **MISS SITI KHAIRUNNISA**<br>SEN Officer<br>siti_khairunnisa_nor@moe.edu.sg 	|
-| **MISS NEEMIKA RAI**<br>School Counsellor<br>neemika_rai@moe.edu.sg 	|  	|
+| **MISS ROFIDAH SAMAH**<br>Senior SEN Officer<br>[rofidah_samah@moe.edu.sg](rofidah_samah@moe.edu.sg) 	| **MISS SITI KHAIRUNNISA**<br>SEN Officer<br>[siti_khairunnisa_nor@moe.edu.sg](siti_khairunnisa_nor@moe.edu.sg) 	|
+| **MISS NEEMIKA RAI**<br>School Counsellor<br>[neemika_rai@moe.edu.sg](neemika_rai@moe.edu.sg) 	|  	|
 
 #### ADMINISTRATIVE & SUPPORT STAFF
 
