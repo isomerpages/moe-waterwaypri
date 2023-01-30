@@ -6,20 +6,12 @@ description: ""
 ![](/images/About%20Us/WWPS-1.jpg)
 #### SCHOOL LEADERS
 
-<table>
-	<tbody>
-		<tr>
-      		<td><b>MR WILBUR WONG</b><br>Principal</td>
-	</tr>		
-		<tr>
-		<td><b>MRS JUDY LING</b><br>Vice-Principal</td>
-    <td><b>MDM SHARIFAH MASTURAH</b><br>Vice-Principal</td>
-  </tr>
-		<tr>
-		<td><b>MR DALJIT SINGH</b><br>Vice-Principal (Administration)</td>
-    </tr>
-</tbody>
-</table>
+|  	|  	|
+|---	|---	|
+| **MR WILBUR WONG** 	| Principal 	|
+| **MRS JUDY LING** 	| Vice-Principal 	|
+| **MDM SHARIFAH MASTURAH** 	| Vice-Principal 	|
+| **MR DALJIT SINGH** 	| Vice-Principal (Administration) 	|
 
 #### HEAD OF DEPARTMENT
 
