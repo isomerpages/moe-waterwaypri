@@ -555,6 +555,7 @@ description: ""
 |**MR MOHD ALI**<br>PE Teacher<br>Mohamed_Ali_Mohamed_Hanafiah@moe.edu.sg 	| **MRS DIANA YAP**<br>PE Teacher<br>chan_hui_min_diana@moe.edu.sg 	|
 
 #### ENGLISH MEDIUM TEACHING STAFF
+
 |  	|  	|
 |---	|---	|
 | **MR NICK WONG**<br>rofidah_samah@moe.edu.sg 	| **MDM CHERYL TAY**<br>tay_soong_huang@moe.edu.sg 	|
@@ -562,6 +563,7 @@ description: ""
 | **MDM JULIANA**<br>juliana_abdullah@moe.edu.sg 	|  	|
 
 #### SEN OFFICER & SCHOOL COUNSELLOR
+
 |  	|  	|
 |---	|---	|
 | **MISS ROFIDAH SAMAH**<br>Senior SEN Officer<br>rofidah_samah@moe.edu.sg 	| **MISS SITI KHAIRUNNISA**<br>SEN Officer<br>siti_khairunnisa_nor@moe.edu.sg 	|
