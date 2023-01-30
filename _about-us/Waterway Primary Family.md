@@ -569,14 +569,14 @@ description: ""
 
 #### ADMINISTRATIVE & SUPPORT STAFF
 
-|ADMINISTRATIVE STAFF                           	|                         	|
+|ADMINISTRATIVE STAFF 	|                         	|
 |---------------------------	|-------------------------	|
 | Administration Manager    	| **MRS JOAN CHUA**   	|
 | Administration Executive  	| **MISS PHUA LEE KOON**  	|
 | Corporate Support Officer 	| **MS SOH LENG LENG**    	|
 | Corporate Support Officer 	| **MISS SITI NUR HAJAR** 	|
 
-|   OPERATIONAL & ICT SUPPORT STAFF                         	|                       	|
+|   OPERATIONAL & ICT SUPPORT STAFF 	|                       	|
 |----------------------------	|-----------------------	|
 | Operations Manager         	| **MR BERNARD CHIA**   	|
 | Operations Support Officer 	| **MDM TAN TIAN HONG** 	|
