@@ -40,8 +40,8 @@ As our students learn through these meaningful experiences, we want them to alwa
 
 <center> <font size=6><b>Our School Song</b></font> </center>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bDceZ_zGdxk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="850" height="480" src="https://www.youtube.com/embed/bDceZ_zGdxk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <center> <font size=6><b>Highlights Of Minister's Speech</b></font> </center>
 
-<iframe width="850" height="478" src="https://www.youtube.com/embed/Wi5ktkQiVBY" title="Highlights of Minister's Speech during Official Opening" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="850" height="480" src="https://www.youtube.com/embed/Wi5ktkQiVBY" title="Highlights of Minister's Speech during Official Opening" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
