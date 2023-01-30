@@ -540,16 +540,11 @@ description: ""
 
 #### TAMIL LANGUAGE
 
-<table>
-  <tbody><tr>
-		<td><b>MISS RAJESWARY</b><br><a href="mailto:rajeswary_ramakrishna@moe.edu.sg" target="_blank" rel="noopener noreferrer">rajeswary_ramakrishna@moe.edu.sg
-</a></td>
-		<td><b>MISS SHAMINI</b><br><a href="mailto:shamini_subramaniam_a@moe.edu.sg" target="_blank" rel="noopener noreferrer">shamini_subramaniam_a@moe.edu.sg
-</a></td>
-  </tr>
-</tbody></table>
+|  	|  	|
+|---	|---	|
+| **MISS RAJESWARY**<br>rajeswary_ramakrishna@moe.edu.sg 	| **MISS SHAMINI**<br>shamini_subramaniam_a@moe.edu.sg 	|
 
-#### PAM (PHYSICAL ED, ART &amp; MUSIC)
+#### PAM (PHYSICAL EDUCATION, ART &amp; MUSIC)
 
 |  	|  	|
 |---	|---	|
