@@ -558,8 +558,8 @@ description: ""
 
 |  	|  	|
 |---	|---	|
-| **MR NICK WONG**<br>rofidah_samah@moe.edu.sg 	| **MDM CHERYL TAY**<br>tay_soong_huang@moe.edu.sg 	|
-| **MDM CHEN WEI JIE**<br>chen_wei_jie_a@moe.edu.sg 	| **MRS ESTHER**<br>[ng_may_ling_esther@moe.edu.sg](ng_may_ling_esther@moe.edu.sg) 	|
+| **MR NICK WONG**<br>[rofidah_samah@moe.edu.sg](rofidah_samah@moe.edu.sg) 	| **MDM CHERYL TAY**<br>[tay_soong_huang@moe.edu.sg](tay_soong_huang@moe.edu.sg) 	|
+| **MDM CHEN WEI JIE**<br>[chen_wei_jie_a@moe.edu.sg](chen_wei_jie_a@moe.edu.sg) 	| **MRS ESTHER**<br>[ng_may_ling_esther@moe.edu.sg](ng_may_ling_esther@moe.edu.sg) 	|
 | **MDM JULIANA**<br>[juliana_abdullah@moe.edu.sg](juliana_abdullah@moe.edu.sg) 	|  	|
 
 #### SEN OFFICER & SCHOOL COUNSELLOR
