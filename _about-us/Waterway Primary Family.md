@@ -534,32 +534,32 @@ description: ""
 
 |  	|  	|
 |---	|---	|
-| **MISS RAJESWARY**<br>rajeswary_ramakrishna@moe.edu.sg 	| **MISS SHAMINI**<br>shamini_subramaniam_a@moe.edu.sg 	|
+| **MISS RAJESWARY**<br><rajeswary_ramakrishna@moe.edu.sg> 	| **MISS SHAMINI**<br><shamini_subramaniam_a@moe.edu.sg> 	|
 
 #### PAM (PHYSICAL EDUCATION, ART &amp; MUSIC)
 
 |  	|  	|
 |---	|---	|
-| **MDM SHARON LEE**<br>Art & Craft<br>lee_sing_lan@moe.edu.sg 	| **MISS SITI RAUDHAH**<br>Art & Craft<br>Siti_Raudhah_Imran@moe.edu.sg 	|
-|**MDM HARIATI**<br>Art & Craft<br>hariati_abdul_hamid@moe.edu.sg 	| **MDM CHIA HWEE HIAN**<br>Music<br>chia_hwee_hian@moe.edu.sg 	|
-| **MS TAN PEI WEN**<br>PE Teacher<br>tan_pei_wen_b@moe.edu.sg 	| **MR JAN JOEL**<br>PE Teacher<br>jan_joel_jayanta@moe.edu.sg 	|
-| **MR JUSTIN TAN**<br>PE Teacher<br>tan_siow_meng@moe.edu.sg 	| **MR LAI WEE YEONG**<br>PE Teacher<br>lai_wee_yeong@moe.edu.sg 	|
-|**MR MOHD ALI**<br>PE Teacher<br>Mohamed_Ali_Mohamed_Hanafiah@moe.edu.sg 	| **MRS DIANA YAP**<br>PE Teacher<br>chan_hui_min_diana@moe.edu.sg 	|
+| **MDM SHARON LEE**<br>Art & Craft<br><lee_sing_lan@moe.edu.sg> 	| **MISS SITI RAUDHAH**<br>Art & Craft<br><Siti_Raudhah_Imran@moe.edu.sg> 	|
+|**MDM HARIATI**<br>Art & Craft<br><hariati_abdul_hamid@moe.edu.sg> 	| **MDM CHIA HWEE HIAN**<br>Music<br><chia_hwee_hian@moe.edu.sg> 	|
+| **MS TAN PEI WEN**<br>PE Teacher<br><tan_pei_wen_b@moe.edu.sg> 	| **MR JAN JOEL**<br>PE Teacher<br><jan_joel_jayanta@moe.edu.sg> 	|
+| **MR JUSTIN TAN**<br>PE Teacher<br><tan_siow_meng@moe.edu.sg> 	| **MR LAI WEE YEONG**<br>PE Teacher<br><lai_wee_yeong@moe.edu.sg> 	|
+|**MR MOHD ALI**<br>PE Teacher<br><Mohamed_Ali_Mohamed_Hanafiah@moe.edu.sg> 	| **MRS DIANA YAP**<br>PE Teacher<br><chan_hui_min_diana@moe.edu.sg> 	|
 
 #### ENGLISH MEDIUM TEACHING STAFF
 
 |  	|  	|
 |---	|---	|
-| **MR NICK WONG**<br>rofidah_samah@moe.edu.sg 	| **MDM CHERYL TAY**<br>tay_soong_huang@moe.edu.sg 	|
-| **MDM CHEN WEI JIE**<br>chen_wei_jie_a@moe.edu.sg 	| **MRS ESTHER**<br>ng_may_ling_esther@moe.edu.sg 	|
+| **MR NICK WONG**<br><rofidah_samah@moe.edu.sg> 	| **MDM CHERYL TAY**<br><tay_soong_huang@moe.edu.sg> 	|
+| **MDM CHEN WEI JIE**<br><chen_wei_jie_a@moe.edu.sg> 	| **MRS ESTHER**<br><ng_may_ling_esther@moe.edu.sg> 	|
 | **MDM JULIANA**<br><juliana_abdullah@moe.edu.sg> 	|  	|
 
 #### SEN OFFICER & SCHOOL COUNSELLOR
 
 |  	|  	|
 |---	|---	|
-| **MISS ROFIDAH SAMAH**<br>Senior SEN Officer<br>rofidah_samah@moe.edu.sg 	| **MISS SITI KHAIRUNNISA**<br>SEN Officer<br>siti_khairunnisa_nor@moe.edu.sg 	|
-| **MISS NEEMIKA RAI**<br>School Counsellor<br>neemika_rai@moe.edu.sg 	|  	|
+| **MISS ROFIDAH SAMAH**<br>Senior SEN Officer<br><rofidah_samah@moe.edu.sg> 	| **MISS SITI KHAIRUNNISA**<br>SEN Officer<br><siti_khairunnisa_nor@moe.edu.sg> 	|
+| **MISS NEEMIKA RAI**<br>School Counsellor<br><neemika_rai@moe.edu.sg> 	|  	|
 
 #### ADMINISTRATIVE & SUPPORT STAFF
 
