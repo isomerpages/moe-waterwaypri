@@ -555,7 +555,7 @@ description: ""
 |**MR MOHD ALI**<br>PE Teacher<br>Mohamed_Ali_Mohamed_Hanafiah@moe.edu.sg 	| **MRS DIANA YAP**<br>PE Teacher<br>chan_hui_min_diana@moe.edu.sg 	|
 
 #### ENGLISH MEDIUM TEACHING STAFF
-| | |
+|  	|  	|
 |---	|---	|
 | **MR NICK WONG**<br>rofidah_samah@moe.edu.sg 	| **MDM CHERYL TAY**<br>tay_soong_huang@moe.edu.sg 	|
 | **MDM CHEN WEI JIE**<br>chen_wei_jie_a@moe.edu.sg 	| **MRS ESTHER**<br>ng_may_ling_esther@moe.edu.sg 	|
@@ -569,15 +569,15 @@ description: ""
 
 #### ADMINISTRATIVE & SUPPORT STAFF
 
-|ADMINISTRATIVE STAFF 	|                         	|
+|ADMINISTRATIVE 	|                         	|
 |---------------------------	|-------------------------	|
 | Administration Manager    	| **MRS JOAN CHUA**   	|
 | Administration Executive  	| **MISS PHUA LEE KOON**  	|
 | Corporate Support Officer 	| **MS SOH LENG LENG**    	|
 | Corporate Support Officer 	| **MISS SITI NUR HAJAR** 	|
 
-|   OPERATIONAL & ICT SUPPORT STAFF 	|                       	|
-|----------------------------	|-----------------------	|
+|   OPERATIONAL & ICT 	|                       	|
+|---------------------------	|-------------------------	|
 | Operations Manager         	| **MR BERNARD CHIA**   	|
 | Operations Support Officer 	| **MDM TAN TIAN HONG** 	|
 | Operations Support Officer 	| **MDM ROSILAH**       	|
