@@ -551,55 +551,20 @@ description: ""
 
 #### PAM (PHYSICAL ED, ART &amp; MUSIC)
 
-<table>
-    <tbody><tr>
-    <td><b>MDM SHARON LEE</b><br>Art &amp; Craft<br><a href="mailto:lee_sing_lan@moe.edu.sg" target="_blank" rel="noopener noreferrer">lee_sing_lan@moe.edu.sg
-</a></td>
-    <td><b>MISS SITI RAUDHAH</b><br>Art &amp; Craft<br><a href="mailto:Siti_Raudhah_Imran@moe.edu.sg" target="_blank" rel="noopener noreferrer">Siti_Raudhah_Imran@moe.edu.sg
-</a></td>
-  </tr>
-  <tr>
-    <td><b>MDM HARIATI</b><br>Art &amp; Craft<br><a href="mailtohariati_abdul_hamid@moe.edu.sg" target="_blank" rel="noopener noreferrer">hariati_abdul_hamid@moe.edu.sg</a></td>
-    <td><b>MDM CHIA HWEE HIAN</b><br>Music<br><a href="mailto:chia_hwee_hian@moe.edu.sg" target="_blank" rel="noopener noreferrer">chia_hwee_hian@moe.edu.sg
-</a></td>
-  </tr>
-  <tr>
-    <td><b>MS TAN PEI WEN</b><br>PE Teacher<br><a href="mailto:tan_pei_wen_b@moe.edu.sg" target="_blank" rel="noopener noreferrer">tan_pei_wen_b@moe.edu.sg
-</a></td>
-    <td><b>MR JAN JOEL</b><br>PE Teacher<br><a href="mailto:jan_joel_jayanta@moe.edu.sg" target="_blank" rel="noopener noreferrer">jan_joel_jayanta@moe.edu.sg</a></td>
-  </tr>
-  <tr>
-    <td><b>MR JUSTIN TAN</b><br>PE Teacher<br><a href="mailto:tan_siow_meng@moe.edu.sg" target="_blank" rel="noopener noreferrer">tan_siow_meng@moe.edu.sg
-</a></td>
-     <td><b>MR LAI WEE YEONG</b><br>PE Teacher<br><a href="mailto:lai_wee_yeong@moe.edu.sg" target="_blank" rel="noopener noreferrer">lai_wee_yeong@moe.edu.sg
-</a></td>
-  </tr>
-  <tr>
-    <td><b>MR MOHD ALI</b><br>PE Teacher<br><a href="mailto:Mohamed_Ali_Mohamed_Hanafiah@moe.edu.sg" target="_blank" rel="noopener noreferrer">Mohamed_Ali_Mohamed_Hanafiah@moe.edu.sg</a></td>
-		<td><b>MRS DIANA YAP</b><br>PE Teacher<br><a href="mailto:chan_hui_min_diana@moe.edu.sg" target="_blank" rel="noopener noreferrer">chan_hui_min_diana@moe.edu.sg
-</a></td>
-	</tr>
-</tbody></table>
+|  	|  	|
+|---	|---	|
+| **MDM SHARON LEE**<br>Art & Craft<br>lee_sing_lan@moe.edu.sg 	| **MISS SITI RAUDHAH**<br>Art & Craft<br>Siti_Raudhah_Imran@moe.edu.sg 	|
+|**MDM HARIATI**<br>Art & Craft<br>hariati_abdul_hamid@moe.edu.sg 	| **MDM CHIA HWEE HIAN**<br>Music<br>chia_hwee_hian@moe.edu.sg 	|
+| **MS TAN PEI WEN**<br>PE Teacher<br>tan_pei_wen_b@moe.edu.sg 	| **MR JAN JOEL**<br>PE Teacher<br>jan_joel_jayanta@moe.edu.sg 	|
+| **MR JUSTIN TAN**<br>PE Teacher<br>tan_siow_meng@moe.edu.sg 	| **MR LAI WEE YEONG**<br>PE Teacher<br>lai_wee_yeong@moe.edu.sg 	|
+|**MR MOHD ALI**<br>PE Teacher<br>Mohamed_Ali_Mohamed_Hanafiah@moe.edu.sg 	| **MRS DIANA YAP**<br>PE Teacher<br>chan_hui_min_diana@moe.edu.sg 	|
 
 #### ENGLISH MEDIUM TEACHING STAFF
-
-<table>
-  <tbody><tr>
-     <td><b>MR NICK WONG</b><br><a href="mailto:rofidah_samah@moe.edu.sg
-" target="_blank" rel="noopener noreferrer">rofidah_samah@moe.edu.sg
-</a></td>
-		<td><b>MDM CHERYL TAY</b><br><a href="mailto:tay_soong_huang@moe.edu.sg" target="_blank" rel="noopener noreferrer">tay_soong_huang@moe.edu.sg</a></td>
-  </tr>
-	<tr>
-		<td><b>MDM CHEN WEI JIE</b><br><a href="mailto:chen_wei_jie_a@moe.edu.sg" target="_blank" rel="noopener noreferrer">chen_wei_jie_a@moe.edu.sg
-</a></td>
-    <td><b>MRS ESTHER </b><br><a href="mailto:ng_may_ling_esther@moe.edu.sg" target="_blank" rel="noopener noreferrer">ng_may_ling_esther@moe.edu.sg
-</a></td>
-	</tr>
-	<tr>
-    <td><b>MDM JULIANA</b><br><a href="mailto:juliana_abdullah@moe.edu.sg" target="_blank" rel="noopener noreferrer">juliana_abdullah@moe.edu.sg</a></td>
-  </tr>
-</tbody></table>
+| | |
+|---	|---	|
+| **MR NICK WONG**<br>rofidah_samah@moe.edu.sg 	| **MDM CHERYL TAY**<br>tay_soong_huang@moe.edu.sg 	|
+| **MDM CHEN WEI JIE**<br>chen_wei_jie_a@moe.edu.sg 	| **MRS ESTHER**<br>ng_may_ling_esther@moe.edu.sg 	|
+| **MDM JULIANA**<br>juliana_abdullah@moe.edu.sg 	|  	|
 
 #### SEN OFFICER & SCHOOL COUNSELLOR
 |  	|  	|
@@ -609,18 +574,14 @@ description: ""
 
 #### ADMINISTRATIVE & SUPPORT STAFF
 
-##### ADMINISTRATIVE STAFF
-
-|                           	|                         	|
+|ADMINISTRATIVE STAFF                           	|                         	|
 |---------------------------	|-------------------------	|
-| Administration Manager    	| **MISS LIM HUI FONG**   	|
+| Administration Manager    	| **MRS JOAN CHUA**   	|
 | Administration Executive  	| **MISS PHUA LEE KOON**  	|
 | Corporate Support Officer 	| **MS SOH LENG LENG**    	|
 | Corporate Support Officer 	| **MISS SITI NUR HAJAR** 	|
 
-##### OPERATIONAL & ICT SUPPORT STAFF
-
-|                            	|                       	|
+|   OPERATIONAL & ICT SUPPORT STAFF                         	|                       	|
 |----------------------------	|-----------------------	|
 | Operations Manager         	| **MR BERNARD CHIA**   	|
 | Operations Support Officer 	| **MDM TAN TIAN HONG** 	|
@@ -629,6 +590,6 @@ description: ""
 | Operations Support Officer 	| **MDM TAN KIM SIONG** 	|
 | Operations Support Officer 	| **MDM NGHIEM NU**     	|
 | Lab Assistant              	| **MISS JACQUELINE**   	|
-| ICT Manager                	| **MR KOH CHEE WEI**   	|
+| ICT Manager              	| **MR KOH CHEE WEI**   	|
 | Desktop Engineer           	| **MR SHAFIQ**         	|
 | Desktop Engineer           	| **MR SARA**           	|
