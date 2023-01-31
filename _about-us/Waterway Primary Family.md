@@ -6,20 +6,12 @@ description: ""
 ![](/images/About%20Us/WWPS-1.jpg)
 #### SCHOOL LEADERS
 
-<table>
-	<tbody>
-		<tr>
-      		<td><b>MR WILBUR WONG</b><br>Principal</td>
-	</tr>		
-		<tr>
-		<td><b>MRS JUDY LING</b><br>Vice-Principal</td>
-    <td><b>MDM SHARIFAH MASTURAH</b><br>Vice-Principal</td>
-  </tr>
-		<tr>
-		<td><b>MR DALJIT SINGH</b><br>Vice-Principal (Administration)</td>
-    </tr>
-</tbody>
-</table>
+|  	|  	|
+|---	|---	|
+| **MR WILBUR WONG** 	| Principal 	|
+| **MRS JUDY LING** 	| Vice-Principal 	|
+| **MDM SHARIFAH MASTURAH** 	| Vice-Principal 	|
+| **MR DALJIT SINGH** 	| Vice-Principal (Administration) 	|
 
 #### HEAD OF DEPARTMENT
 
@@ -540,150 +532,53 @@ description: ""
 
 #### TAMIL LANGUAGE
 
-<table>
-  <tbody><tr>
-		<td><b>MISS RAJESWARY</b><br><a href="mailto:rajeswary_ramakrishna@moe.edu.sg" target="_blank" rel="noopener noreferrer">rajeswary_ramakrishna@moe.edu.sg
-</a></td>
-		<td><b>MISS SHAMINI</b><br><a href="mailto:shamini_subramaniam_a@moe.edu.sg" target="_blank" rel="noopener noreferrer">shamini_subramaniam_a@moe.edu.sg
-</a></td>
-  </tr>
-</tbody></table>
+|  	|  	|
+|---	|---	|
+| **MISS RAJESWARY**<br><rajeswary_ramakrishna@moe.edu.sg> 	| **MISS SHAMINI**<br><shamini_subramaniam_a@moe.edu.sg> 	|
 
-#### PAM (PHYSICAL ED, ART &amp; MUSIC)
+#### PAM (PHYSICAL EDUCATION, ART &amp; MUSIC)
 
-<table>
-    <tbody><tr>
-    <td><b>MDM SHARON LEE</b><br>Art &amp; Craft<br><a href="mailto:lee_sing_lan@moe.edu.sg" target="_blank" rel="noopener noreferrer">lee_sing_lan@moe.edu.sg
-</a></td>
-    <td><b>MISS SITI RAUDHAH</b><br>Art &amp; Craft<br><a href="mailto:Siti_Raudhah_Imran@moe.edu.sg" target="_blank" rel="noopener noreferrer">Siti_Raudhah_Imran@moe.edu.sg
-</a></td>
-  </tr>
-  <tr>
-    <td><b>MDM HARIATI</b><br>Art &amp; Craft<br><a href="mailtohariati_abdul_hamid@moe.edu.sg" target="_blank" rel="noopener noreferrer">hariati_abdul_hamid@moe.edu.sg</a></td>
-    <td><b>MDM CHIA HWEE HIAN</b><br>Music<br><a href="mailto:chia_hwee_hian@moe.edu.sg" target="_blank" rel="noopener noreferrer">chia_hwee_hian@moe.edu.sg
-</a></td>
-  </tr>
-  <tr>
-    <td><b>MS TAN PEI WEN</b><br>PE Teacher<br><a href="mailto:tan_pei_wen_b@moe.edu.sg" target="_blank" rel="noopener noreferrer">tan_pei_wen_b@moe.edu.sg
-</a></td>
-    <td><b>MR JAN JOEL</b><br>PE Teacher<br><a href="mailto:jan_joel_jayanta@moe.edu.sg" target="_blank" rel="noopener noreferrer">jan_joel_jayanta@moe.edu.sg</a></td>
-  </tr>
-  <tr>
-    <td><b>MR JUSTIN TAN</b><br>PE Teacher<br><a href="mailto:tan_siow_meng@moe.edu.sg" target="_blank" rel="noopener noreferrer">tan_siow_meng@moe.edu.sg
-</a></td>
-     <td><b>MR LAI WEE YEONG</b><br>PE Teacher<br><a href="mailto:lai_wee_yeong@moe.edu.sg" target="_blank" rel="noopener noreferrer">lai_wee_yeong@moe.edu.sg
-</a></td>
-  </tr>
-  <tr>
-    <td><b>MR MOHD ALI</b><br>PE Teacher<br><a href="mailto:Mohamed_Ali_Mohamed_Hanafiah@moe.edu.sg" target="_blank" rel="noopener noreferrer">Mohamed_Ali_Mohamed_Hanafiah@moe.edu.sg</a></td>
-		<td><b>MRS DIANA YAP</b><br>PE Teacher<br><a href="mailto:chan_hui_min_diana@moe.edu.sg" target="_blank" rel="noopener noreferrer">chan_hui_min_diana@moe.edu.sg
-</a></td>
-	</tr>
-</tbody></table>
+|  	|  	|
+|---	|---	|
+| **MDM SHARON LEE**<br>Art & Craft<br><lee_sing_lan@moe.edu.sg> 	| **MISS SITI RAUDHAH**<br>Art & Craft<br><Siti_Raudhah_Imran@moe.edu.sg> 	|
+|**MDM HARIATI**<br>Art & Craft<br><hariati_abdul_hamid@moe.edu.sg> 	| **MDM CHIA HWEE HIAN**<br>Music<br><chia_hwee_hian@moe.edu.sg> 	|
+| **MS TAN PEI WEN**<br>PE Teacher<br><tan_pei_wen_b@moe.edu.sg> 	| **MR JAN JOEL**<br>PE Teacher<br><jan_joel_jayanta@moe.edu.sg> 	|
+| **MR JUSTIN TAN**<br>PE Teacher<br><tan_siow_meng@moe.edu.sg> 	| **MR LAI WEE YEONG**<br>PE Teacher<br><lai_wee_yeong@moe.edu.sg> 	|
+|**MR MOHD ALI**<br>PE Teacher<br><Mohamed_Ali_Mohamed_Hanafiah@moe.edu.sg> 	| **MRS DIANA YAP**<br>PE Teacher<br><chan_hui_min_diana@moe.edu.sg> 	|
 
 #### ENGLISH MEDIUM TEACHING STAFF
 
-<table>
-  <tbody><tr>
-     <td><b>MR NICK WONG</b><br><a href="mailto:rofidah_samah@moe.edu.sg
-" target="_blank" rel="noopener noreferrer">rofidah_samah@moe.edu.sg
-</a></td>
-		<td><b>MDM CHERYL TAY</b><br><a href="mailto:tay_soong_huang@moe.edu.sg" target="_blank" rel="noopener noreferrer">tay_soong_huang@moe.edu.sg</a></td>
-  </tr>
-	<tr>
-		<td><b>MDM CHEN WEI JIE</b><br><a href="mailto:chen_wei_jie_a@moe.edu.sg" target="_blank" rel="noopener noreferrer">chen_wei_jie_a@moe.edu.sg
-</a></td>
-    <td><b>MRS ESTHER </b><br><a href="mailto:ng_may_ling_esther@moe.edu.sg" target="_blank" rel="noopener noreferrer">ng_may_ling_esther@moe.edu.sg
-</a></td>
-	</tr>
-	<tr>
-    <td><b>MDM JULIANA</b><br><a href="mailto:juliana_abdullah@moe.edu.sg" target="_blank" rel="noopener noreferrer">juliana_abdullah@moe.edu.sg</a></td>
-  </tr>
-</tbody></table>
+|  	|  	|
+|---	|---	|
+| **MR NICK WONG**<br><rofidah_samah@moe.edu.sg> 	| **MDM CHERYL TAY**<br><tay_soong_huang@moe.edu.sg> 	|
+| **MDM CHEN WEI JIE**<br><chen_wei_jie_a@moe.edu.sg> 	| **MRS ESTHER**<br><ng_may_ling_esther@moe.edu.sg> 	|
+| **MDM JULIANA**<br><juliana_abdullah@moe.edu.sg> 	|  	|
 
-#### SEN OFFICER &amp; SCHOOL COUNSELLOR
+#### SEN OFFICER & SCHOOL COUNSELLOR
 
+|  	|  	|
+|---	|---	|
+| **MISS ROFIDAH SAMAH**<br>Senior SEN Officer<br><rofidah_samah@moe.edu.sg> 	| **MISS SITI KHAIRUNNISA**<br>SEN Officer<br><siti_khairunnisa_nor@moe.edu.sg> 	|
+| **MISS NEEMIKA RAI**<br>School Counsellor<br><neemika_rai@moe.edu.sg> 	|  	|
 
-<table>
-  <tbody><tr>
-		<td><b>MISS ROFIDAH SAMAH</b><br>Senior SEN Officer<br><a href="mailto:rofidah_samah@moe.edu.sg
-" target="_blank" rel="noopener noreferrer">rofidah_samah@moe.edu.sg
-</a></td>
-		<td><b>MISS SITI KHAIRUNNISA</b><br>SEN Officer<br><a href="mailto:siti_khairunnisa_nor@moe.edu.sg
-" target="_blank" rel="noopener noreferrer">siti_khairunnisa_nor@moe.edu.sg
-</a></td></tr>
-  <tr>
-		<td><b>MISS NEEMIKA RAI</b><br>School Counsellor<br><a href="mailto:neemika_rai@moe.edu.sg" target="_blank" rel="noopener noreferrer">neemika_rai@moe.edu.sg
-</a></td>
-  </tr>
-</tbody></table>
+#### ADMINISTRATIVE & SUPPORT STAFF
 
-#### ADMINISTRATIVE &amp; SUPPORT STAFF
+|ADMINISTRATIVE 	|                         	|
+|---------------------------	|-------------------------	|
+| Administration Manager    	| **MRS JOAN CHUA**   	|
+| Administration Executive  	| **MISS PHUA LEE KOON**  	|
+| Corporate Support Officer 	| **MS SOH LENG LENG**    	|
+| Corporate Support Officer 	| **MISS SITI NUR HAJAR** 	|
 
-##### ADMINISTRATIVE STAFF
-
-<table>
-<tbody>
-	  <tr>
-    <td>Administration Manager</td>
-    <td><b>MISS LIM HUI FONG</b></td>
-  </tr>
-  <tr>
-    <td>Administration Executive</td>
-    <td><b>MISS PHUA LEE KOON</b></td>
-  </tr>
-  <tr>
-    <td>Corporate Support Officer</td>
-    <td><b>MS SOH LENG LENG</b></td>
-  </tr>
-  <tr>
-    <td>Corporate Support Officer</td>
-    <td><b>MISS SITI NUR HAJAR</b></td>
-  </tr>
-</tbody>
-</table>
-
-##### SUPPORT &amp; ICT SUPPORT STAFF
-
-<table>
-  <tbody><tr>
-    <td>Operations Manager</td>
-    <td><b>MR BERNARD CHIA</b></td>
-  </tr>
-  <tr>
-    <td>Operations Support Officer</td>
-    <td><b>MDM TAN</b></td>
-  </tr>
-  <tr>
-    <td>Operations Support Officer</td>
-    <td><b>MDM ROSILAH</b></td>
-  </tr>
-  <tr>
-    <td>Operations Support Officer</td>
-    <td><b>MR CHOW PAK WAH</b></td>
-  </tr>
-  <tr>
-    <td>Operations Support Officer</td>
-    <td><b>MDM TAN KIM SIONG</b></td>
-  </tr>
-  <tr>
-    <td>Operations Support Officer</td>
-    <td><b>MDM NGHIEM NU</b></td>
-  </tr>
-		<tr>
-    <td>Lab Assistant</td>
-    <td><b>MISS JACQUELINE</b></td>
-  </tr>
-  <tr>
-    <td>ICT Manager</td>
-    <td><b>MR KOH CHEE WEI</b></td>
-  </tr>
-  <tr>
-    <td>Desktop Engineer </td>
-    <td><b>MR SHAFIQ</b></td>
-  </tr>
-  <tr>
-    <td>Desktop Engineer</td>
-    <td><b>MR SARA  </b></td>
-  </tr>
-</tbody></table>
+|   OPERATIONAL & ICT 	|                       	|
+|---------------------------	|-------------------------	|
+| Operations Manager         	| **MR BERNARD CHIA**   	|
+| Operations Support Officer 	| **MDM TAN TIAN HONG** 	|
+| Operations Support Officer 	| **MDM ROSILAH**       	|
+| Operations Support Officer 	| **MR CHOW PAK WAH**   	|
+| Operations Support Officer 	| **MDM TAN KIM SIONG** 	|
+| Operations Support Officer 	| **MDM NGHIEM NU**     	|
+| Lab Assistant              	| **MISS JACQUELINE**   	|
+| ICT Manager              	| **MR KOH CHEE WEI**   	|
+| Desktop Engineer           	| **MR SHAFIQ**         	|
+| Desktop Engineer           	| **MR SARA**           	|
