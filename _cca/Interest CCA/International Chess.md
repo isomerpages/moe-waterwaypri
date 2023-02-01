@@ -25,3 +25,7 @@ Through this CCA, we want to build self-confidence and instill the values of dis
 ![](/images/CCA/Int%20Chess%204.jpg)
 
 ![](/images/CCA/Int%20Chess%205.jpg)
+
+
+For the very first time, the Chess Club sent two teams, to represent Waterway Primary School in the National School Team Championship 2022 in September. The two teams were made up of selected Primary 4 and Primary 5 students who have shown qualities such as resilience and self-confidence during the CCA sessions. 
+The Girls’ Team (Under 11) managed to clinch the 2nd Position in the East Zone.
