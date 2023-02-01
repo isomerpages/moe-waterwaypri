@@ -25,6 +25,10 @@ At the end of the six-year programme, students will be able to achieve the follo
 *	Develop agency for collective actions to promote sustainable living in the community
 
 ##### Theme & Approach
+    <img src=/images/ECO/EcoStewardship.png width="200" height="100">
+		
+![](/images/ECO/EcoStewardship.png "Eco Stewardship @ WAPS Framework")
+
 Eco Stewardship @ WAPS’ theme – *Protecting Waterways, Celebrating Biodiversity* is inspired by Punggol Town’s unique agricultural heritage and Waterfront Eco-Town identity. Building on our town’s heritage and identity, our programme has a unique focus on water and biodiversity conservation. Through classroom lessons, school activities and outdoor learning experiences, our students will learn and be given opportunities to, 
 
 1.	Conserve and protect water resources
@@ -43,4 +47,3 @@ The programme adopts a 3-tiered approach to raise awareness, encourage actions a
 *	**Tier 1** focuses on promoting school-wide approaches to sustainability
 *	**Tier 2** focuses on level-specific sustainability programmes
 *	**Tier 3** focuses on developing students ambassadors who will champion our sustainability programmes
-
