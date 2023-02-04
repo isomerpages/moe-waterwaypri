@@ -277,8 +277,7 @@ description: ""
 	  <td><b>MR NG BAN HOCK</b><br><a href="mailto:ng_ban_hock@moe.edu.sg
 " target="_blank" rel="noopener noreferrer">ng_ban_hock@moe.edu.sg
 </a></td>
-  <td><b>MISS MAGDALENE FOO</b><br></td>
-  </tr>
+  
 		<th> PRIMARY 3E </th>
   <tr>
     <td><b>MDM FOO WAN QING</b><br><a href="foo_wan_qing@moe.edu.sg" target="_blank" rel="noopener noreferrer">foo_wan_qing@moe.edu.sg
@@ -385,7 +384,7 @@ description: ""
 		</tr>
 		<th> PRIMARY 5E </th>
 	<tr>
-	 <td><b>MRS AUDREY WONG</b><br><a href="mailto:toh_ling_hui_audrey@moe.edu.sg" target="_blank" rel="noopener noreferrer">Siti_Raudhah_Imran@moe.edu.sg
+	 <td><b>MRS AUDREY WONG</b><br><a href="mailto:toh_ling_hui_audrey@moe.edu.sg" target="_blank" rel="noopener noreferrer">toh_ling_hui_audrey@moe.edu.sg 
 				</a></td>
 	<td><b>MISS GRACE SEAH</b><br><a href="mailto:seah_pei_ru_grace@moe.edu.sg" target="_blank" rel="noopener noreferrer">seah_pei_ru_grace@moe.edu.sg</a></td>
 		</tr>
