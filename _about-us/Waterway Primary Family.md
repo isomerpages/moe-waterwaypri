@@ -58,6 +58,12 @@ description: ""
 
 #### YEAR HEAD &amp; ASSISTANT YEAR HEAD
 
+|  	|  	|
+|---	|---	|
+| **MRS SHRLINDA LEE**<br>Year Head (P1)<br><see_shu_lan_shrlinda@moe.edu.sg> 	| **MRS MITCHELLE WONG**<br>Assistant Year Head (P2)<br><mitchelle_wong@moe.edu.sg> 	|
+| **MRS LU LI TING**<br>Assistant Year Head (P3)<br><lim_li_ting@moe.edu.sg> 	| **MDM NAZREENA**<br>Assistant Year Head (P4)<br><nazreena_abdul_rahman@moe.edu.sg> 	|
+| **MR JASON YEW**<br>Assistant Year Head (P5)<br><yew_kwok_ming@moe.edu.sg> 	| **MR WONG BENG YU**<br>Year Head (P6)<br><wong_beng_yu@moe.edu.sg> 	|
+
 <table>
 <tbody>
   <tr>
