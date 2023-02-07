@@ -196,6 +196,25 @@ description: ""
 
 #### PRIMARY 5 TEACHERS
 	
+|  	|  	|  	|
+|---	|---	|---	|
+| **PRIMARY 5A** 	| MR SHAWN ANG<br>ang_zhenwei_shawn@moe.edu.sg 	| MDM HARIATI<br>hariati_abdul_hamid@moe.edu.sg 	|
+|  	|  	|  	|
+| **PRIMARY 5B** 	| MDM TAN LAY SYN<br>tan_lay_syn@moe.edu.sg 	| MR JUSTIN TAN<br>tan_siow_meng@moe.edu.sg 	|
+|  	|  	|  	|
+| **PRIMARY 5C** 	| MISS PRIYADAKSHINI<br>priyadakshini_surendiran_s@moe.edu.sg 	| MDM MARSIAH<br>marsiah_rohim@moe.edu.sg 	|
+|  	|  	|  	|
+| **PRIMARY 5D** 	| MR RONNIE PHUA<br>phua_kiah-ian_ronnie@moe.edu.sg 	| MR JASON YEW<br>yew_kwok_ming@moe.edu.sg 	|
+|  	|  	|  	|
+| **PRIMARY 5E** 	| MRS AUDREY WONG<br>toh_ling_hui_audrey@moe.edu.sg 	| MISS GRACE SEAH<br>seah_pei_ru_grace@moe.edu.sg 	|
+|  	|  	|  	|
+| **PRIMARY 5F** 	| MS HO WEE LIN<br>ho_wee_lin@moe.edu.sg 	| MISS CHEUNG KA YAN<br>cheung_ka_yan@moe.edu.sg 	|
+|  	|  	|  	|
+| **PRIMARY 5G** 	| MDM ALWIYAH<br>alwiyah_abdul_aziz@moe.edu.sg 	| MDM TEO TZE YUEN<br>teo_tze_yuen@moe.edu.sg 	|
+|  	|  	|  	|
+| **PRIMARY 5H** 	| MS PRISCILLA TAN<br>tan_sihui_priscilla@moe.edu.sg 	| MISS NOOR HIDAYAH<br>noor_hidayah_noordin@moe.edu.sg 	|
+|  	|  	|  	|
+
 <table>
 		<th> PRIMARY 5A </th>
  <tr>
