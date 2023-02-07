@@ -260,79 +260,14 @@ description: ""
 | **MISS LIM TIAN JING**<br><lim_tian_jing@moe.edu.sg> 	| **MDM TAN MEO CHER**<br><tan_meo_cher@moe.edu.sg> 	| **MDM GINA YEO**<br><yeo_sim_lian_gina@moe.edu.sg> 	|
 | **MR TI TAT HUA**<br><ti_tat_hua@moe.edu.sg> 	| **MDM CHAN PEI LING**<br><chan_pei_ling@moe.edu.sg> 	| **MS JOEY NG**<br><ng_weini@moe.edu.sg> 	|
 
-<table>
-  <tbody><tr>
-    <td><b>MDM TEO TZE YUEN</b><br><a href="mailto:Teo_Tze_Yuen@moe.edu.sg" target="_blank" rel="noopener noreferrer">teo_tze_yuen@moe.edu.sg</a></td>
-    <td><b>MS CHIEW PUI MEI</b><br><a href="mailto:chiew_pui_mei@moe.edu.sg" target="_blank" rel="noopener noreferrer">chiew_pui_mei@moe.edu.sg</a></td>
-  </tr>
-  <tr>
-    <td><b>MS CHUA QINYU</b><br><a href="mailto:chua_qinyu@moe.edu.sg" target="_blank" rel="noopener noreferrer">chua_qinyu@moe.edu.sg</a></td>
-     <td><b>MDM TAN EI LIN</b><br><a href="mailto:tan_ei_lin@moe.edu.sg
-" target="_blank" rel="noopener noreferrer">tan_ei_lin@moe.edu.sg
-</a></td>
-  </tr>	
-	<tr>
-    <td><b>MISS LI HUIMIN</b><br><a href="mailto:li_huimin@moe.edu.sg" target="_blank" rel="noopener noreferrer">li_huimin@moe.edu.sg</a></td>
-    <td><b>MISS GRACE SEAH</b><br><a href="mailto:seah_pei_ru_grace@moe.edu.sg" target="_blank" rel="noopener noreferrer">seah_pei_ru_grace@moe.edu.sg</a></td>
-  </tr>
-  <tr>
-    <td><b>MISS LIM TIAN JING</b><br><a href="mailto:lim_tian_jing@moe.edu.sg" target="_blank" rel="noopener noreferrer">lim_tian_jing@moe.edu.sg</a></td>
-    <td><b>MDM TAN MEO CHER</b><br><a href="mailto:tan_meo_cher@moe.edu.sg" target="_blank" rel="noopener noreferrer">tan_meo_cher@moe.edu.sg</a></td>
-  </tr>
-  <tr>
-    <td><b>MR TI TAT HUA</b><br><a href="mailto:ti_tat_hua@moe.edu.sg" target="_blank" rel="noopener noreferrer">ti_tat_hua@moe.edu.sg
-</a></td>
-     <td><b>MDM CHAN PEI LING </b><br><a href="mailto:chan_pei_ling@moe.edu.sg" target="_blank" rel="noopener noreferrer">chan_pei_ling@moe.edu.sg</a></td>
-  </tr>
-  <tr>
-    <td><b>MS JOEY NG</b><br><a href="mailto:ng_weini@moe.edu.sg" target="_blank" rel="noopener noreferrer">ng_weini@moe.edu.sg
-</a></td>
-    <td><b>MDM GINA YEO</b><br><a href="mailto:Yeo_Sim_Lian_Gina@moe.edu.sg" target="_blank" rel="noopener noreferrer">yeo_sim_lian_gina@moe.edu.sg
-</a></td>
-  </tr>
-	  <tr>
-    <td><b>MDM JOELL LIM</b><br><a href="mailto:lim_kar_hoon_joell@moe.edu.sg" target="_blank" rel="noopener noreferrer">lim_kar_hoon_joell@moe.edu.sg</a></td>
-   <td><b>MDM JACQUELIN LAI</b><br><a href="mailto:lai_hui_jun_jacqueline@moe.edu.sg" target="_blank" rel="noopener noreferrer">lai_hui_jun_jacqueline@moe.edu.sg</a></td>
-  </tr>
-		  <tr>
-    <td><b>MISS CHEUNG KA YAN </b><br><a href="mailto:cheung_ka_yan@moe.edu.sg" target="_blank" rel="noopener noreferrer">cheung_ka_yan@moe.edu.sg</a></td>
-    </tr>
-</tbody></table>
-
 #### MOTHER TONGUE - MALAY LANGUAGE
 
-|  	|  	|  	|
-|---	|---	|---	|
-| **MDM MARTINI**<br><martini_mahmood@moe.edu.sg> 	| **MDM MARSIAH**<br><marsiah_rohim@moe.edu.sg> 	| **MISS NOOR HIDAYAH**<br><noor_hidayah_noordin@moe.edu.sg> 	|
-| **MDM ROZANA**<br><rozana_zainuri@moe.edu.sg> 	| **MR AIDIL**<br><muhammad_aidil_ishak@moe.edu.sg> 	| **MR MUKHLIS**<br><muhammad_mukhlis_dzulfitri@moe.edu.sg> 	|
-| **MR MUHAMMAD DINIE**<br><muhammad_dinie_shaifullah@moe.edu.sg> 	|  	|  	|
-
-<table>
-  <tbody><tr>
-    <td><b>MDM MARTINI</b><br><a href="mailto:martini_mahmood@moe.edu.sg" target="_blank" rel="noopener noreferrer">martini_mahmood@moe.edu.sg</a></td>
-    <td><b>MDM MARSIAH</b><br><a href="mailto:marsiah_rohim@moe.edu.sg" target="_blank" rel="noopener noreferrer">marsiah_rohim@moe.edu.sg
-</a></td>
-  </tr>
-  <tr>
-    <td><b>MISS NOOR HIDAYAH</b><br><a href="mailto:noor_hidayah_noordin@moe.edu.sg" target="_blank" rel="noopener noreferrer">noor_hidayah_noordin@moe.edu.sg
-</a></td>
-    <td><b>MDM ROZANA</b><br><a href="mailto:rozana_Zainuri@moe.edu.sg
-" target="_blank" rel="noopener noreferrer">rozana_zainuri@moe.edu.sg
-</a></td>
-  </tr>
-  <tr>
-    <td><b>MR MUKHLIS</b><br><a href="mailto:muhammad_mukhlis_dzulfitri@moe.edu.sg" target="_blank" rel="noopener noreferrer">muhammad_mukhlis_dzulfitri@moe.edu.sg
-</a></td>
-    <td><b>MR AIDIL</b><br><a href="mailto:Muhammad_Aidil_Ishak@moe.edu.sg
-" target="_blank" rel="noopener noreferrer">muhammad_aidil_ishak@moe.edu.sg
-</a></td>
-  </tr>
-	 <tr>
-    <td><b>MR MUHAMMAD DINIE</b><br><a href="mailto:muhammad_dinie_shaifullah@moe.edu.sg" target="_blank" rel="noopener noreferrer">muhammad_dinie_shaifullah@moe.edu.sg
-</a></td>
-  </tr>
-</tbody></table>
-
+|  	|  	| 
+|---	|---	|
+| **MDM MARTINI**<br><martini_mahmood@moe.edu.sg> 	| **MDM MARSIAH**<br><marsiah_rohim@moe.edu.sg> 	|  
+| **MISS NOOR HIDAYAH**<br><noor_hidayah_noordin@moe.edu.sg> | **MDM ROZANA**<br><rozana_zainuri@moe.edu.sg> 	| 
+|**MR AIDIL**<br><muhammad_aidil_ishak@moe.edu.sg> 	| **MR MUKHLIS**<br><muhammad_mukhlis_dzulfitri@moe.edu.sg> 	
+| **MR MUHAMMAD DINIE**<br><muhammad_dinie_shaifullah@moe.edu.sg> 	|  	| 
 
 #### MOTHER TONGUE - TAMIL LANGUAGE
 
