@@ -57,6 +57,13 @@ links:
         url: /parents/family-matters
       - title: Newsletter
         url: /newsletter
+  - title: STUDENTS
+    url: /permalink
+    sublinks:
+      - title: Student Learning Space (SLS)
+        url: https://vle.learning.moe.edu.sg
+      - title: OPAC
+        url: https://schoolibrary.moe.edu.sg/waterwaypri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME
   - title: Contact
     url: /contact/visitor-information
     sublinks:
