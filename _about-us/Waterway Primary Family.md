@@ -225,6 +225,24 @@ description: ""
 	</tbody></table>
 	
 #### PRIMARY 3 TEACHERS
+
+|  	|  	|  	|
+|---	|---	|---	|
+| **PRIMARY 3A** 	| **MISS CHERYL KHOO**<br><khoo_wan_shir_cheryl@moe.edu.sg> 	| **MISS SHAMINI**<br><shamini_subramaniam_a@moe.edu.sg> 	|
+|  	|  	|  	|
+| **PRIMARY 3B** 	| **MRS SHEILA CHAN**<br><tay_sock_hwee_sheila@moe.edu.sg> 	| **MDM CHIA HWEE HIAN**<br><chia_hwee_hian@moe.edu.sg> 	|
+|  	|  	|  	|
+| **PRIMARY 3C** 	| **MISS YEO SHU YUAN**<br><yeo_shu_yuan@moe.edu.sg> 	| **MDM JACQUELIN LAI**<br><lai_hui_jun_jacqueline@moe.edu.sg> 	|
+|  	|  	|  	|
+| **PRIMARY 3D** 	| **MR NG BAN HOCK**<br><ng_ban_hock@moe.edu.sg> 	|  	|
+|  	|  	|  	|
+| **PRIMARY 3E** 	| **MDM FOO WAN QING**<br><foo_wan_qing@moe.edu.sg> 	| **MR NICK WONG**<br><rofidah_samah@moe.edu.sg> 	|
+|  	|  	|  	|
+| **PRIMARY 3F** 	| **MRS LU LI TING**<br><lim_li_ting@moe.edu.sg> 	| **MR MOHD ALI**<br><Mohamed_Ali_Mohamed_Hanafiah@moe.edu.sg> 	|
+|  	|  	|  	|
+| **PRIMARY 3G** 	| **MRS WONG YAN RU**<br><lim_yan_ru@moe.edu.sg> 	| **MDM MARTINI**<br><martini_mahmood@moe.edu.sg> 	|
+
+
 <table>
 <th> PRIMARY 3A </th>
 	<tr>
