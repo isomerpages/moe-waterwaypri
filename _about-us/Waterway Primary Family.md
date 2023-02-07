@@ -129,6 +129,26 @@ description: ""
 
 #### PRIMARY 1 TEACHERS
 
+|  	|  	|  	|
+|---	|---	|---	|
+| **PRIMARY 1A** 	| **MRS CALYNN TEH**<br><calynn_chow_wun_yen@moe.edu.sg> 	| **MISS LI HUIMIN**<br><li_huimin@moe.edu.sg 	|
+|  	|  	|  	|
+| **PRIMARY 1B** 	| **MISS HUMAIRAH**<br><nur_humairah_hasim@moe.edu.sg> 	| **MR JAN JOEL**<br><jan_joel_jayanta@moe.edu.sg> 	|
+|  	|  	|  	|
+| **PRIMARY 1C** 	| **MDM SITI NURAIDAH**<br><siti_nuraidah_mukthar@moe.edu.sg> 	| **MDM JOELL LIM**<br><lim_kar_hoon_joell@moe.edu.sg> 	|
+|  	|  	|  	|
+| **PRIMARY 1D** 	| **MDM NUR AZLIN**<br><nur_azlin_junari@moe.edu.sg> 	| **MRS ESTHER**<br><ng_may_ling_esther@moe.edu.sg> 	|
+|  	|  	|  	|
+| **PRIMARY 1E** 	| **MDM IRENE GAN**<br><gan_ai_ling_irene@moe.edu.sg> 	| **MISS SITI RAUDHAH**<br><Siti_Raudhah_Imran@moe.edu.sg> 	|
+|  	|  	|  	|
+| **PRIMARY 1F** 	| **MS JOLENE LOW**<br><low_wei_ling_jolene@moe.edu.sg> 	| **MR AIDIL**<br><muhammad_aidil_ishak@moe.edu.sg> 	|
+|  	|  	|  	|
+| **PRIMARY 1G** 	| **MS IVY YEO**<br>yeo_ivy@moe.edu.sg> 	| **MDM ROZANA**<br><rozana_zainuri@moe.edu.sg> 	|
+|  	|  	|  	|
+| **PRIMARY 1H** 	| **MRS JASLYN THAM**<br><fang_siying_jaslyn@moe.edu.sg> 	| **MRS SHRLINDA LEE**<br><see_shu_lan_shrlinda@moe.edu.sg> 	|
+|  	|  	|  	|
+| **PRIMARY 1I** 	| **MISS MEGHANA PRASAD**<br><meghana_prasad@moe.edu.sg> 	| **MRS SHRLINDA LEE**<br><see_shu_lan_shrlinda@moe.edu.sg> 	|
+
 <table>
 		<th> PRIMARY 1A </th>
 			<tr>
