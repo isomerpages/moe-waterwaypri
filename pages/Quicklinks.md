@@ -3,7 +3,6 @@ title: Quicklinks
 permalink: /quicklinks/
 description: ""
 ---
-
 | **Our Accolade**    |  |  |
 | -------- | -------- | -------- |
 | [Our Celebrations](https://staging.d1vupma46t7042.amplifyapp.com/learning-experiences/celebrations/) | [Parents Say](https://waterwaypri.wixsite.com/wwps-openhouse/parents-say-1)     | [2021 P6 Cohort Students & Parents Say](https://waterwaypri.wixsite.com/wwps-openhouse/2021-p6-cohort-students-parents-say)      |
@@ -17,7 +16,6 @@ description: ""
        
 **For Students**
 
-*   [Koobits](http://problemsums.koobits.com/)
 *   [Student Learning Space  
     ](https://vle.learning.moe.edu.sg/login)
 *   [School Library](https://schoolibrary.moe.edu.sg/waterwaypri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME)
