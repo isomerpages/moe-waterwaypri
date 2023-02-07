@@ -532,9 +532,11 @@ description: ""
 
 
 #### TAMIL LANGUAGE
-|  	|  	|
-|---	|---	|
-| **MISS RAJESWARY**<br><rajeswary_ramakrishna@moe.edu.sg>| **MISS SHAMINI**<br><shamini_subramaniam_a@moe.edu.sg> |
+
+
+|  |  | 
+| -------- | -------- |
+| **MISS RAJESWARY**<br><rajeswary_ramakrishna@moe.edu.sg>    | **MISS SHAMINI**<br><shamini_subramaniam_a@moe.edu.sg>    |
 
 #### PAM (PHYSICAL EDUCATION, ART &amp; MUSIC)
 
