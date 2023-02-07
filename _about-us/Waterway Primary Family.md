@@ -15,6 +15,14 @@ description: ""
 
 #### HEAD OF DEPARTMENT
 
+|  	|  	|  	|
+|---	|---	|---	|
+| **MS PRIYADAKSHINI**<br>HOD English<br><priyadakshini_surendiran_s@moe.edu.sg> 	| **MRS SHEILA CHAN**<br>HOD Mathematics<br><tay_sock_hwee_sheila@moe.edu.sg> 	|  	|
+| **MRS WONG YAN RU**<br>HOD Science<br><lim_yan_ru@moe.edu.sg> 	| **MRS GINA OW**<br>HOD Mother Tongue<br><gina_ow@moe.edu.sg> 	|  	|
+| **MR SIM TECK CHUAN**<br>HOD ICT<br><sim_teck_chuan@moe.edu.sg> 	| **MR SAMY LIM**<br>HOD PE<br><lim_chee_kwee_samy@moe.edu.sg> 	|  	|
+| **MR NG BAN HOCK**<br>HOD Student Management<br><ng_ban_hock@moe.edu.sg> 	| **MS NEO CHAI LEE**<br>HOD CCE<br><neo_chai_lee@moe.edu.sg> 	|  	|
+| **MS KAREN CHAN**<br>School Staff Developer<br><karen_oi_chan@moe.edu.sg> 	|  	|  	|
+
 <table>
   <tbody><tr>
     <td><b>MS PRIYADAKSHINI</b><br>HOD English<br><a href="mailto:priyadakshini_surendiran_s@moe.edu.sg
@@ -236,7 +244,7 @@ description: ""
 |  	|  	|  	|
 | **PRIMARY 6H** 	| **MS KAREN CHAN**<br><karen_oi_chan@moe.edu.sg> 	| **MDM TAN MEO CHER**<br><tan_meo_cher@moe.edu.sg> 	|
 
-#### CHINESE LANGUAGE
+#### MOTHER TONGUE - CHINESE LANGUAGE
 
 |  	|  	|  	|
 |---	|---	|---	|
@@ -285,7 +293,7 @@ description: ""
     </tr>
 </tbody></table>
 
-#### MALAY LANGUAGE
+#### MOTHER TONGUE - MALAY LANGUAGE
 
 |  	|  	|  	|
 |---	|---	|---	|
@@ -320,7 +328,7 @@ description: ""
 </tbody></table>
 
 
-#### TAMIL LANGUAGE
+#### MOTHER TONGUE - TAMIL LANGUAGE
 
 
 |  |  | 
@@ -337,7 +345,7 @@ description: ""
 | **MR JUSTIN TAN**<br>PE Teacher<br><tan_siow_meng@moe.edu.sg> 	| **MR LAI WEE YEONG**<br>PE Teacher<br><lai_wee_yeong@moe.edu.sg> 	|
 |**MR MOHD ALI**<br>PE Teacher<br><Mohamed_Ali_Mohamed_Hanafiah@moe.edu.sg> 	| **MRS DIANA YAP**<br>PE Teacher<br><chan_hui_min_diana@moe.edu.sg> 	|
 
-#### ENGLISH MEDIUM TEACHING STAFF
+#### ENGLISH MEDIUM TEACHING
 
 |  	|  	|
 |---	|---	|
