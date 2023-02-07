@@ -287,6 +287,12 @@ description: ""
 
 #### MALAY LANGUAGE
 
+|  	|  	|  	|
+|---	|---	|---	|
+| **MDM MARTINI**<br><martini_mahmood@moe.edu.sg> 	| **MDM MARSIAH**<br><marsiah_rohim@moe.edu.sg> 	| **MISS NOOR HIDAYAH**<br><noor_hidayah_noordin@moe.edu.sg> 	|
+| **MDM ROZANA**<br><rozana_zainuri@moe.edu.sg> 	| **MR AIDIL**<br><muhammad_aidil_ishak@moe.edu.sg> 	| **MR MUKHLIS**<br><muhammad_mukhlis_dzulfitri@moe.edu.sg> 	|
+| **MR MUHAMMAD DINIE**<br><muhammad_dinie_shaifullah@moe.edu.sg> 	|  	|  	|
+
 <table>
   <tbody><tr>
     <td><b>MDM MARTINI</b><br><a href="mailto:martini_mahmood@moe.edu.sg" target="_blank" rel="noopener noreferrer">martini_mahmood@moe.edu.sg</a></td>
