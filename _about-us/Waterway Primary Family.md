@@ -272,6 +272,25 @@ description: ""
 		</table>
 	 
 #### PRIMARY 6 TEACHERS
+
+|  	|  	|  	|
+|---	|---	|---	|
+| **PRIMARY 6A** 	| MRS SERENE TAN<br>neo_wei_li_serene@moe.edu.sg 	| MR WONG BENG YU<br>wong_beng_yu@moe.edu.sg 	|
+|  	|  	|  	|
+| **PRIMARY 6B** 	| MISS PRISCILIA GOH<br>priscilia_goh_shi_qi@moe.edu.sg 	| MRS GINA OW<br>gina_ow@moe.edu.sg 	|
+|  	|  	|  	|
+| **PRIMARY 6C** 	| MRS CLARISSA HAN<br>cheong_yoke_ling@moe.edu.sg 	| MDM GINA YEO<br>yeo_sim_lian_gina@moe.edu.sg 	|
+|  	|  	|  	|
+| **PRIMARY 6D** 	| MISS SOOMATHY<br>soomathy_veeraya@moe.edu.sg 	| MDM JULIANA<br>juliana_abdullah@moe.edu.sg 	|
+|  	|  	|  	|
+| **PRIMARY 6E** 	| DR IRWAN<br>irwan_shah@moe.edu.sg 	| MRS RAEBURN-SIM CHEY HOONG<br>raeburn-sim_chey_hoong@moe.edu.sg 	|
+|  	|  	|  	|
+| **PRIMARY 6F** 	| MISS KANG KAI JUN<br>kang_kai_jun@moe.edu.sg 	| MR LAI WEE YEONG<br>lai_wee_yeong@moe.edu.sg 	|
+|  	|  	|  	|
+| **PRIMARY 6G** 	| MS SUVITA<br>suvita_thanagopalasamy@moe.edu.sg 	| MRS GIN CHAN<br>chua_gim_peng_gin@moe.edu.sg 	|
+|  	|  	|  	|
+| **PRIMARY 6H** 	| MS KAREN CHAN<br>karen_oi_chan@moe.edu.sg 	| MDM TAN MEO CHER<br>tan_meo_cher@moe.edu.sg 	|
+
 <table>
 	<th> PRIMARY 6A </th>
   <tr>
