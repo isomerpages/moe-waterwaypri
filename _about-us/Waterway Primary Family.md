@@ -107,25 +107,12 @@ description: ""
  </tbody></table>
 
 #### TEACHER LEADERS &amp; COORDINATORS
-<table>
-<tr>
-    <td><b>MRS RAEBURN-SIM CHEY HOONG</b><br>Lead Teacher Science<br><a href="mailto:raeburn-sim_chey_hoong@moe.edu.sg" target="_blank" rel="noopener noreferrer">raeburn-sim_chey_hoong@moe.edu.sg
-</a></td>
-	<td><b>MDM ALWIYAH</b><br>Senior Teacher English<br><a href="mailto:alwiyah_abdul_aziz@moe.edu.sg" target="_blank" rel="noopener noreferrer">alwiyah_abdul_aziz@moe.edu.sg
-</a></td>
-  </tr>
-  <tr>
-    <td><b>MR RONNIE PHUA</b><br>Senior Teacher SEN<br><a href="mailto:phua_kiah-ian_ronnie@moe.edu.sg" target="_blank" rel="noopener noreferrer">phua_kiah-ian_ronnie@moe.edu.sg</a></td>
-    <td><b>MRS CLARISSA HAN</b><br>Senior Teacher Learner Profile (HA)<br><a href="mailto:cheong_yoke_ling@moe.edu.sg" target="_blank" rel="noopener noreferrer">cheong_yoke_ling@moe.edu.sg</a></td>
-  </tr>
-  <tr>
-    <td><b>MR CHRISTOPHER SHAU</b><br>Senior Teacher Educational Support<br><a href="mailto:christopher_shau@moe.edu.sg" target="_blank" rel="noopener noreferrer">christopher_shau@moe.edu.sg</a></td>
-    <td><b>MISS GRACE SEAH</b><br>Senior Teacher Chinese Language<br><a href="mailto:seah_pei_ru_grace@moe.edu.sg" target="_blank" rel="noopener noreferrer">seah_pei_ru_grace@moe.edu.sg</a></td>
-  </tr>
-	  <tr>
-    <td><b>MRS AUDREY WONG</b><br>Orators@Waterway Coordinator <br><a href="mailto:toh_ling_hui_audrey@moe.edu.sg" target="_blank" rel="noopener noreferrer">toh_ling_hui_audrey@moe.edu.sg</a></td>
-	</tr>
-</table>
+| | |
+|---	|---	|
+| **MRS RAEBURN-SIM CHEY HOONG**<br>Lead Teacher Science<br><raeburn-sim_chey_hoong@moe.edu.sg> 	| **MDM ALWIYAH**<br>Senior Teacher English<br><alwiyah_abdul_aziz@moe.edu.sg> 	|
+| **MR RONNIE PHUA**<br>Senior Teacher SEN<br><phua_kiah-ian_ronnie@moe.edu.sg> 	| **MRS CLARISSA HAN**<br>Senior Teacher Learner Profile (HA)<br><cheong_yoke_ling@moe.edu.sg> 	|
+| **MR CHRISTOPHER SHAU**<br>Senior Teacher Educational Support<br><christopher_shau@moe.edu.sg> 	| **MISS GRACE SEAH**<br>Senior Teacher Chinese Language<br><seah_pei_ru_grace@moe.edu.sg> 	|
+| **MRS AUDREY WONG**<br>Orators@Waterway Coordinator<br><toh_ling_hui_audrey@moe.edu.sg> 	|  	|
 
 #### PRIMARY 1 TEACHERS
 
