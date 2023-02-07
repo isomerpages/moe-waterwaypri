@@ -276,7 +276,7 @@ description: ""
 	<tr>
 	  <td><b>MR NG BAN HOCK</b><br><a href="mailto:ng_ban_hock@moe.edu.sg
 " target="_blank" rel="noopener noreferrer">ng_ban_hock@moe.edu.sg
-</a></td>
+</a></td></tr>
   
 		<th> PRIMARY 3E </th>
   <tr>
@@ -299,8 +299,9 @@ description: ""
   <td><b>MDM MARTINI</b><br><a href="mailto:martini_mahmood@moe.edu.sg" target="_blank" rel="noopener noreferrer">martini_mahmood@moe.edu.sg</a></td>
   </tr>
 </table>
-	
+
 #### PRIMARY 4 TEACHERS
+
 <table>
   	<th> PRIMARY 4A </th>
 	<tr>
