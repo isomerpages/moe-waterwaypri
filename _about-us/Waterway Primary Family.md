@@ -238,6 +238,14 @@ description: ""
 
 #### CHINESE LANGUAGE
 
+|  	|  	|  	|
+|---	|---	|---	|
+| **MDM TEO TZE YUEN**<br>teo_tze_yuen@moe.edu.sg 	| **MS CHIEW PUI MEI**<br>chiew_pui_mei@moe.edu.sg 	| **MISS CHEUNG KA YAN**<br>cheung_ka_yan@moe.edu.sg 	|
+| **MS CHUA QINYU**<br>chua_qinyu@moe.edu.sg 	| **MDM TAN EI LIN**<br>tan_ei_lin@moe.edu.sg 	| **MDM JACQUELIN LAI**<br>lai_hui_jun_jacqueline@moe.edu.sg 	|
+| **MISS LI HUIMIN**<br>li_huimin@moe.edu.sg 	| **MISS GRACE SEAH**<br>seah_pei_ru_grace@moe.edu.sg 	| **MDM JOELL LIM**<br>lim_kar_hoon_joell@moe.edu.sg 	|
+| **MISS LIM TIAN JING**<br>lim_tian_jing@moe.edu.sg 	| **MDM TAN MEO CHER**<br>tan_meo_cher@moe.edu.sg 	| **MDM GINA YEO**<br>yeo_sim_lian_gina@moe.edu.sg 	|
+| **MR TI TAT HUA**<br>ti_tat_hua@moe.edu.sg 	| **MDM CHAN PEI LING**<br>chan_pei_ling@moe.edu.sg 	| **MS JOEY NG**<br>ng_weini@moe.edu.sg 	|
+
 <table>
   <tbody><tr>
     <td><b>MDM TEO TZE YUEN</b><br><a href="mailto:Teo_Tze_Yuen@moe.edu.sg" target="_blank" rel="noopener noreferrer">teo_tze_yuen@moe.edu.sg</a></td>
