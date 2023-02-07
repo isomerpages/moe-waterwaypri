@@ -294,6 +294,22 @@ description: ""
 
 #### PRIMARY 4 TEACHERS
 
+|  	|  	|  	|
+|---	|---	|---	|
+| **PRIMARY 4A** 	| **MISS SHERMIN CHIA**<br><shermin_chia_shi_min@moe.edu.sg> 	| **MDM CHAN PEI LING**<br><chan_pei_ling@moe.edu.sg> 	|
+|  	|  	|  	|
+| **PRIMARY 4B** 	| **MR CHRISTOPHER SHAU**<br><christopher_shau@moe.edu.sg> 	| **MR TI TAT HUA**<br><ti_tat_hua@moe.edu.sg> 	|
+|  	|  	|  	|
+| **PRIMARY 4C** 	| **MRS SERENE NG**<br><neo_po_tin_serene@moe.edu.sg> 	| **MR MUHAMMAD DINIE**<br><muhammad_dinie_shaifullah@moe.edu.sg> 	|
+|  	|  	|  	|
+| **PRIMARY 4D** 	| **MR CHAN ZHI YANG**<br><chan_zhi_yang@moe.edu.sg> 	| **MRS DIANA YAP**<br><chan_hui_min_diana@moe.edu.sg> 	|
+|  	|  	|  	|
+| **PRIMARY 4E** 	| **MR NEO JUN WEI**<br><neo_jun_wei@moe.edu.sg> 	| **MS NEO CHAI LEE**<br><neo_chai_lee@moe.edu.sg> 	|
+|  	|  	|  	|
+| **PRIMARY 4F** 	| **MS SITI HAWA**<br><siti_hawa_mohamad_haniff@moe.edu.sg> 	| **MR SAMY LIM**<br><lim_chee_kwee_samy@moe.edu.sg> 	|
+|  	|  	|  	|
+| **PRIMARY 4G** 	| **MDM NAZREENA**<br><nazreena_abdul_rahman@moe.edu.sg> 	| **MISS RAJESWARY**<br><rajeswary_ramakrishna@moe.edu.sg> 	|
+
 <table>
   	<th> PRIMARY 4A </th>
 	<tr>
