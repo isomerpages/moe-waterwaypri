@@ -234,7 +234,7 @@ description: ""
 |  	|  	|  	|
 | **PRIMARY 6G** 	| **MS SUVITA**<br><suvita_thanagopalasamy@moe.edu.sg> 	| **MRS GIN CHAN**<br><chua_gim_peng_gin@moe.edu.sg> 	|
 |  	|  	|  	|
-| **PRIMARY 6H** 	| **MS KAREN CHAN**<br><karen_oi_chan@moe.edu.sg> 	| MDM TAN MEO CHER**<br><tan_meo_cher@moe.edu.sg> 	|
+| **PRIMARY 6H** 	| **MS KAREN CHAN**<br><karen_oi_chan@moe.edu.sg> 	| **MDM TAN MEO CHER**<br><tan_meo_cher@moe.edu.sg> 	|
 
 #### CHINESE LANGUAGE
 
