@@ -62,5 +62,10 @@ links:
     sublinks:
       - title: Visitor Information
         url: /contact/visitor-information
-  - title: opac
-    url: https://schoolibrary.moe.edu.sg/waterwaypri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME
+  - title: sTUDENTS
+    url: /permalink
+    sublinks:
+      - title: SLS
+        url: https://vle.learning.moe.edu.sg
+      - title: OPAC
+        url: https://schoolibrary.moe.edu.sg/waterwaypri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME
