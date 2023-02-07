@@ -107,6 +107,7 @@ description: ""
  </tbody></table>
 
 #### TEACHER LEADERS &amp; COORDINATORS
+
 |  |  |
 |---	|---	|
 | **MRS RAEBURN-SIM CHEY HOONG**<br>Lead Teacher Science<br><raeburn-sim_chey_hoong@moe.edu.sg> 	| **MDM ALWIYAH**<br>Senior Teacher English<br><alwiyah_abdul_aziz@moe.edu.sg> 	|
@@ -214,62 +215,6 @@ description: ""
 |  	|  	|  	|
 | **PRIMARY 5H** 	| **MS PRISCILLA TAN**<br><tan_sihui_priscilla@moe.edu.sg> 	| **MISS NOOR HIDAYAH**<br><noor_hidayah_noordin@moe.edu.sg> 	|
 |  	|  	|  	|
-
-<table>
-		<th> PRIMARY 5A </th>
- <tr>
-    <td><b>MR SHAWN ANG</b><br><a href="mailto:ang_zhenwei_shawn@moe.edu.sg" target="_blank" rel="noopener noreferrer">ang_zhenwei_shawn@moe.edu.sg
-				</a></td>
-	<td><b>MDM HARIATI</b><br><a href="mailtohariati_abdul_hamid@moe.edu.sg" target="_blank" rel="noopener noreferrer">hariati_abdul_hamid@moe.edu.sg</a></td>
-		</tr>
-		<th> PRIMARY 5B </th>
-	<TR>
-	<td><b>MDM TAN LAY SYN</b> <br><a href="mailto:tan_lay_syn@moe.edu.sg" target="_blank" rel="noopener noreferrer">tan_lay_syn@moe.edu.sg
-				</a></td>
-	   <td><b>MR JUSTIN TAN</b><br><a href="mailto:tan_siow_meng@moe.edu.sg" target="_blank" rel="noopener noreferrer">tan_siow_meng@moe.edu.sg
-</a></td>
-		</tr>
-		<th> PRIMARY 5C </th>
-		<tr>
-	    <td><b>MISS PRIYADAKSHINI</b><br><a href="mailto:priyadakshini_surendiran_s@moe.edu.sg" target="_blank" rel="noopener noreferrer">priyadakshini_surendiran_s@moe.edu.sg
-				</a></td>
-	<td><b>MDM MARSIAH</b><br><a href="mailto:marsiah_rohim@moe.edu.sg" target="_blank" rel="noopener noreferrer">marsiah_rohim@moe.edu.sg
-</a></td>
-		</tr>
-		<th> PRIMARY 5D</th>
-		<TR>
-	 <td><b>MR RONNIE PHUA</b><br><a href="mailto:phua_kiah-ian_ronnie@moe.edu.sg" target="_blank" rel="noopener noreferrer">phua_kiah-ian_ronnie@moe.edu.sg
-				</a></td>
- <td><b>MR JASON YEW</b><br><a href="mailto:yew_kwok_ming@moe.edu.sg
-" target="_blank" rel="noopener noreferrer">yew_kwok_ming@moe.edu.sg
-</a></td>
-		</tr>
-		<th> PRIMARY 5E </th>
-	<tr>
-	 <td><b>MRS AUDREY WONG</b><br><a href="mailto:toh_ling_hui_audrey@moe.edu.sg" target="_blank" rel="noopener noreferrer">toh_ling_hui_audrey@moe.edu.sg 
-				</a></td>
-	<td><b>MISS GRACE SEAH</b><br><a href="mailto:seah_pei_ru_grace@moe.edu.sg" target="_blank" rel="noopener noreferrer">seah_pei_ru_grace@moe.edu.sg</a></td>
-		</tr>
-		<th> PRIMARY 5F </th>
-		<TR>
-	    <td><b>MS HO WEE LIN</b><br><a href="mailto:ho_wee_lin@moe.edu.sg" target="_blank" rel="noopener noreferrer">ho_wee_lin@moe.edu.sg
-				</a></td>
-  <td><b>MISS CHEUNG KA YAN </b><br><a href="mailto:cheung_ka_yan@moe.edu.sg" target="_blank" rel="noopener noreferrer">cheung_ka_yan@moe.edu.sg</a></td>
-		</tr>
-		<th> PRIMARY 5G </th>
-	<tr>
-	  <td><b>MDM ALWIYAH</b><br><a href="mailto:alwiyah_abdul_aziz@moe.edu.sg" target="_blank" rel="noopener noreferrer">alwiyah_abdul_aziz@moe.edu.sg
-				</a></td>
-	<td><b>MDM TEO TZE YUEN</b><br><a href="mailto:Teo_Tze_Yuen@moe.edu.sg" target="_blank" rel="noopener noreferrer">teo_tze_yuen@moe.edu.sg</a></td>
-		</tr>
-		<th> PRIMARY 5H </th>
-		<TR>
-    <td><b>MS PRISCILLA TAN</b><br><a href="mailto:tan_sihui_priscilla@moe.edu.sg" target="_blank" rel="noopener noreferrer">tan_sihui_priscilla@moe.edu.sg
-				</a></td>
-     <td><b>MISS NOOR HIDAYAH</b><br><a href="mailto:noor_hidayah_noordin@moe.edu.sg" target="_blank" rel="noopener noreferrer">noor_hidayah_noordin@moe.edu.sg
-</a></td>
-		</tr>
-		</table>
 	 
 #### PRIMARY 6 TEACHERS
 
@@ -290,56 +235,6 @@ description: ""
 | **PRIMARY 6G** 	| **MS SUVITA**<br><suvita_thanagopalasamy@moe.edu.sg> 	| **MRS GIN CHAN**<br><chua_gim_peng_gin@moe.edu.sg> 	|
 |  	|  	|  	|
 | **PRIMARY 6H** 	| **MS KAREN CHAN**<br><karen_oi_chan@moe.edu.sg> 	| MDM TAN MEO CHER**<br><tan_meo_cher@moe.edu.sg> 	|
-
-<table>
-	<th> PRIMARY 6A </th>
-  <tr>
-    <td><b>MRS SERENE TAN</b><br><a href="mailto:neo_wei_li_serene@moe.edu.sg" target="_blank" rel="noopener noreferrer">neo_wei_li_serene@moe.edu.sg
-				</a></td>
-				   <td><b>MR WONG BENG YU</b><br><a href="mailto:wong_beng_yu@moe.edu.sg" target="_blank" rel="noopener noreferrer">wong_beng_yu@moe.edu.sg
-</a></td>
-		</tr>
-		<th> PRIMARY 6B </th>
-	<tr>
-    <td><b>MISS PRISCILIA GOH</b><br><a href="mailto:Priscilia_Goh_Shi_Qi@moe.edu.sg" target="_blank" rel="noopener noreferrer">priscilia_goh_shi_qi@moe.edu.sg
-				</a></td>
-  		<td><b>MRS GINA OW</b><br><a href="mailto:gina_ow@moe.edu.sg" target="_blank" rel="noopener noreferrer">gina_ow@moe.edu.sg</a></td>
-		</tr>
-		<th> PRIMARY 6C </th>
-	<tr>
-		    <td><b>MRS CLARISSA HAN</b><br><a href="mailto:cheong_yoke_ling@moe.edu.sg" target="_blank" rel="noopener noreferrer">cheong_yoke_ling@moe.edu.sg</a></td>
-		 <td><b>MDM GINA YEO</b><br><a href="mailto:Yeo_Sim_Lian_Gina@moe.edu.sg" target="_blank" rel="noopener noreferrer">yeo_sim_lian_gina@moe.edu.sg
-</a></td>
-		</tr>
-		<th> PRIMARY 6D </th>
-	<tr>
-		<td><b>MISS SOOMATHY</b><br><a href="mailto:soomathy_veeraya@moe.edu.sg" target="_blank" rel="noopener noreferrer">soomathy_veeraya@moe.edu.sg
-				</a></td>
-			  <td><b>MDM JULIANA</b><br><a href="mailto:juliana_abdullah@moe.edu.sg" target="_blank" rel="noopener noreferrer">juliana_abdullah@moe.edu.sg</a></td>
-		</tr>
-		<th> PRIMARY 6E </th>
-	<tr>
-		 <td><b>DR IRWAN</b><br><a href="mailto:irwan_shah@moe.edu.sg" target="_blank" rel="noopener noreferrer">irwan_shah@moe.edu.sg</a></td>
-    		 <td><b>MRS RAEBURN-SIM CHEY HOONG</b><br><a href="mailto:raeburn-sim_chey_hoong@moe.edu.sg" target="_blank" rel="noopener noreferrer">raeburn-sim_chey_hoong@moe.edu.sg
-</a></td>
-		</tr>
-		<th> PRIMARY 6F </th>
-	<tr>
-		<td><b>MISS KANG KAI JUN</b><br><a href="mailto:kang_kai_jun@moe.edu.sg" target="_blank" rel="noopener noreferrer">kang_kai_jun@moe.edu.sg</a></td>
-  <td><b>MR LAI WEE YEONG</b><br><a href="mailto:lai_wee_yeong@moe.edu.sg" target="_blank" rel="noopener noreferrer">lai_wee_yeong@moe.edu.sg</a></td>
-		</tr>
-		<th> PRIMARY 6G </th>
-  <tr>
-    <td><b>MS SUVITA</b><br><a href="mailto:suvita_thanagopalasamy@moe.edu.sg" target="_blank" rel="noopener noreferrer">suvita_thanagopalasamy@moe.edu.sg
-				</a></td>
-    		 <td><b>MRS GIN CHAN</b><br><a href="mailto:chua_gim_peng_gin@moe.edu.sg" target="_blank" rel="noopener noreferrer">chua_gim_peng_gin@moe.edu.sg</a></td>
-		</tr>
-		<th> PRIMARY 6H </th>
-	<tr>
-	  <td><b>MS KAREN CHAN</b><br><a href="mailto:karen_oi_chan@moe.edu.sg" target="_blank" rel="noopener noreferrer">karen_oi_chan@moe.edu.sg</a></td>
-	<td><b>MDM TAN MEO CHER</b><br><a href="mailto:tan_meo_cher@moe.edu.sg" target="_blank" rel="noopener noreferrer">tan_meo_cher@moe.edu.sg</a></td>
-	</TR>
-</table>
 
 #### CHINESE LANGUAGE
 
