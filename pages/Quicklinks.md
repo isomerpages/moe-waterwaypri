@@ -3,10 +3,9 @@ title: Quicklinks
 permalink: /quicklinks/
 description: ""
 ---
-| **Our Accolade**    |  |  |
-| -------- | -------- | -------- |
-| [Our Celebrations](https://staging.d1vupma46t7042.amplifyapp.com/learning-experiences/celebrations/) | [Parents Say](https://waterwaypri.wixsite.com/wwps-openhouse/parents-say-1)     | [2021 P6 Cohort Students & Parents Say](https://waterwaypri.wixsite.com/wwps-openhouse/2021-p6-cohort-students-parents-say)      |
-| [Students' Channel@Waterway](https://staging.d1vupma46t7042.amplifyapp.com/learning-experiences/our-students-our-pride-students-channel/)   |      |  |
+| **Our Accolade**    |  |  | |
+| -------- | -------- | -------- | --- |
+| [Our Celebrations](https://staging.d1vupma46t7042.amplifyapp.com/learning-experiences/celebrations/) | [Parents Say](https://waterwaypri.wixsite.com/wwps-openhouse/parents-say-1)     | [2021 P6 Cohort Students & Parents Say](https://waterwaypri.wixsite.com/wwps-openhouse/2021-p6-cohort-students-parents-say)      | [Students' Channel@Waterway](https://staging.d1vupma46t7042.amplifyapp.com/learning-experiences/our-students-our-pride-students-channel/)   |
 
 | **For Parents**  |  |  |
 | -------- | -------- | -------- |
