@@ -9,93 +9,50 @@ description: ""
 
 
 [70 Punggol Drive Singapore 828802](https://share.onemap.sg/mmWGGv)
-<br><b>Nearest LRT Station: </b>PE5 Kadaloor Station<br><b>Bus services: </b>50, 381<br><br>Tel: <b>6636 6880</b><br> Fax: <b>6315 3451</b><br> Email:
-<a href="mailto:waterway_ps@moe.edu.sg">waterway_ps@moe.edu.sg</a>
+
+
+
+| | | |
+| ---------- | ------------- | ---------- |
+| Nearest LRT Station: | **PE5 Kadaloor Station**  | |
+| Bus services: | **50, 381** | |
+| Tel: **6636 6880** | Fax: **6315 3451**|Email:<waterway_ps@moe.edu.sg> |   
 
 ### Operating Hours
 ##### General Office
 
-<table>
-   <tbody><tr>
-    <td>Monday to Friday during Term Time/School Holidays</td>
-	</tr>
-	<tr>
-  	<td><b>7.00 a.m. - 5.30 p.m.</b></td>
-	</tr>
-  <tr>
-    <td>Closed on Saturdays, Sundays and Public Holidays<br>
-			Payment of school fees to be made before <b>3.00 p.m.</b></td>
-	</tr>
-</tbody></table>
+|  |  | 
+| -------- | -------- | 
+| Monday to Friday during Term Time/School Holidays     | **7.00 a.m. - 5.30 p.m.**   | 
+|Closed on Saturdays, Sundays and Public Holidays|  |
+|Payment of school fees to be made before 3.00 p.m.| |
 
-##### School Bookshop
+##### Vendors 
 
 <table>
-  <tbody><tr>
-    <td><b>For Students</b></td>
+<thead>
+  <tr>
+    <th>School Bookshop</th>
+    <td><b>BL Marketing Pte Ltd</b><br>61 Ubi Road<br>#02-02 Oxley Bizhub<br>Singapore 408727<br>Tel: 6281 9274<br><br><b>For Students</b><br>Monday to Friday during Term Time<br><b>8.30 a.m. - 3.00 p.m.</b><br>(Closed between <b>12.00 noon</b> and <b>1.00 p.m.</b>)<br>Closed on Saturdays, Sundays, School and Public Holidays<br><br><b>For Parents/Guardians</b><br>Monday to Friday during Term Time after school hours<br><b>2.00 p.m. – 3.00 p.m.</b><br>Closed on Saturdays, Sundays, School and Public Holidays<br></td>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>School Uniform Supplier<br></td>
+    <td><b>Shanghai School Uniforms Pte Ltd</b><br>63 Ubi Ave 1, #04-09, Singapore <br>Singapore 408937<br>Tel: 6352 2741<br></td>
   </tr>
   <tr>
-    <td>Monday to Friday during Term Time</td>
+    <td>School Bus Transport Service<br></td>
+    <td><b>Sin Bus Transport Services</b><br>Tel: 9753 3363 (Mr William Thia)</td>
   </tr>
   <tr>
-    <td><b>8.30 a.m. – 3.00 p.m.</b></td>
+    <td>Student Care Centre<br></td>
+    <td><b>Little Professors</b><br>Tel: 8201 2475 (7.30am - 7.00pm)<br>Email:  <a href="mailto:waterway@littleprofessors.com.sg" target="_blank" rel="noopener noreferrer">waterway@littleprofessors.com.sg</a><br><br>Feedback and enquiry<br>Tel: 6100 8789 (Headquarters)<br>Email: <a href="mailto:enquiry@littleprofessors.com.sg" target="_blank" rel="noopener noreferrer">enquiry@littleprofessors.com.sg</a></td>
   </tr>
   <tr>
-    <td>(Closed between <b>12.00 noon</b> and <b>1.00 p.m.</b>)</td>
+    <td>School Dental Clinic</td>
+    <td>Tel: 91139437<br>Please call for operation hours.</td>
   </tr>
-  <tr>
-    <td>Closed on Saturdays, Sundays, School and Public Holidays</td>
-  </tr>
-  <tr>
-		<td><b>For Parents/Guardians</b></td>
-  </tr>
-  <tr>
-    <td>Monday to Friday during Term Time after school hours</td>
-  </tr>
-  <tr>
-    <td><b>2.00 p.m. – 3.00 p.m.</b></td>
-  </tr>
-  <tr>
-    <td>Closed on Saturdays, Sundays, School and Public Holidays</td>
-  </tr>
-</tbody></table>
 
-##### School Dental Clinic
-
-<table>
-  <tbody><tr>
-    <td>Contact No.: <b>91139437</b></td>
-  </tr>
-</tbody></table>
-
-##### Sale of School Uniform (Bookshop)
-
-<table>
-  <tbody><tr>
-    <td><b>For Students</b></td>
-  </tr>
-  <tr>
-    <td>Monday to Friday during Term Time</td>
-  </tr>
-  <tr>
-    <td><b>10.00 a.m. - 3.00 p.m.</b></td>
-  </tr>
-  <tr>
-    <td>(Closed between <b>12.00 noon</b> and <b>1.00 p.m.</b>)</td>
-  </tr>
-  <tr>
-    <td>Closed on Saturdays, Sundays, School and Public Holidays</td>
-  </tr>
-  <tr>
-		<td><b>For Parents/Guardian</b></td>
-  </tr>
-  <tr>
-    <td>Monday to Friday during Term Time after school hours</td>
-  </tr>
-  <tr>
-    <td><b>2.00 p.m. – 3.00 p.m.</b></td>
-  </tr>
-  <tr>
-    <td>Closed on Saturdays, Sundays, School and Public Holidays</td>
-  </tr>
-</tbody></table>
+</tbody>
+</table>
