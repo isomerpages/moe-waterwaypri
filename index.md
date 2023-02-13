@@ -13,7 +13,7 @@ sections:
           url: /quicklinks/
         - title: General info
           description: ""
-          url: ""
+          url: /general-info
       title: FOR WORK, FOR LIFE, FOR FUTURE
       subtitle: A Lifelong Learner, A Gracious Citizen
       background: /images/Banner.gif
