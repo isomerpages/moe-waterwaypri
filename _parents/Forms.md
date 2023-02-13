@@ -8,7 +8,7 @@ description: ""
 
 
 ## Forms
-
+*   [Wait List](https://go.gov.sg/wapswaitlistform)
 *   [LOA Application](https://go.gov.sg/loawaterwaypri)
 *   [Interbank GIRO Form](/files/Forms/MOE_GIRO_Forms.pdf)
 *   [GIRO Termination Form](/files/Forms/GIRO_Termination_Form_revisedSep19.pdf)
