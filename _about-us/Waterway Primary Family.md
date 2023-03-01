@@ -104,7 +104,7 @@ description: ""
 |  	|  	|  	|
 | **PRIMARY 3D** 	| **MR NG BAN HOCK**<br><ng_ban_hock@moe.edu.sg> 	|  	|
 |  	|  	|  	|
-| **PRIMARY 3E** 	| **MDM FOO WAN QING**<br><foo_wan_qing@moe.edu.sg> 	| **MR NICK WONG**<br><rofidah_samah@moe.edu.sg> 	|
+| **PRIMARY 3E** 	| **MDM FOO WAN QING**<br><foo_wan_qing@moe.edu.sg> 	| **MR NICK WONG**<br><wong_ngian_fai@moe.edu.sg> 	|
 |  	|  	|  	|
 | **PRIMARY 3F** 	| **MRS LU LI TING**<br><lim_li_ting@moe.edu.sg> 	| **MR MOHD ALI**<br><Mohamed_Ali_Mohamed_Hanafiah@moe.edu.sg> 	|
 |  	|  	|  	|
@@ -209,7 +209,7 @@ description: ""
 
 |  	|  	|
 |---	|---	|
-| **MR NICK WONG**<br><rofidah_samah@moe.edu.sg> 	| **MDM CHERYL TAY**<br><tay_soong_huang@moe.edu.sg> 	|
+| **MR NICK WONG**<br><wong_ngian_fai@moe.edu.sg> 	| **MDM CHERYL TAY**<br><tay_soong_huang@moe.edu.sg> 	|
 | **MDM CHEN WEI JIE**<br><chen_wei_jie_a@moe.edu.sg> 	| **MRS ESTHER**<br><ng_may_ling_esther@moe.edu.sg> 	|
 | **MDM JULIANA**<br><juliana_abdullah@moe.edu.sg> 	|  	|
 
@@ -237,7 +237,7 @@ description: ""
 | Operations Support Officer 	| **MR CHOW PAK WAH**   	|
 | Operations Support Officer 	| **MDM TAN KIM SIONG** 	|
 | Operations Support Officer 	| **MDM NGHIEM NU**     	|
-| Lab Assistant              	| **MISS JACQUELINE**   	|
+| Lab Assistant              	| **MISS JACQUELINE TAN**   	|
 | ICT Manager              	| **MR KOH CHEE WEI**   	|
 | Desktop Engineer           	| **MR SHAFIQ**         	|
 | Desktop Engineer           	| **MR SARA**           	|
