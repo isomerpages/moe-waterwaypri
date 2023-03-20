@@ -66,7 +66,7 @@ description: ""
 |  	|  	|  	|
 | **PRIMARY 1G** 	| **MS IVY YEO**<br><yeo_ivy@moe.edu.sg> 	| **MDM ROZANA**<br><rozana_zainuri@moe.edu.sg> 	|
 |  	|  	|  	|
-| **PRIMARY 1H** 	| **MRS JASLYN THAM**<br><fang_siying_jaslyn@moe.edu.sg> 	| **MRS SHRLINDA LEE**<br><see_shu_lan_shrlinda@moe.edu.sg> 	|
+| **PRIMARY 1H** 	| **MRS JASLYN THAM**<br><fang_siying_jaslyn@moe.edu.sg> 	| **MDM CHIA HWEE HIAN**<br><chia_hwee_hian@moe.edu.sg> 	|
 |  	|  	|  	|
 | **PRIMARY 1I** 	| **MISS MEGHANA PRASAD**<br><meghana_prasad@moe.edu.sg> 	| **MRS SHRLINDA LEE**<br><see_shu_lan_shrlinda@moe.edu.sg> 	|
 
@@ -86,11 +86,11 @@ description: ""
 |  	|  	|  	|
 | **PRIMARY 2F** 	| **MDM NUR HIDAYAH**<br><nur_hidayah_shopieoodin@moe.edu.sg>  	| **MDM TAN EI LIN**<br><tan_ei_lin@moe.edu.sg>  	|
 |  	|  	|  	|
-| **PRIMARY 2G** 	| **MISS REMEDIOS SARAH MEGAN**<br><remedios_sarah_megan@moe.edu.sg>  	| **MR MUKHLIS**<br><muhammad_mukhlis_dzulfitri@moe.edu.sg>  	|
+| **PRIMARY 2G** 	| **MISS REMEDIOS SARAH MEGAN**<br><remedios_sarah_megan@moe.edu.sg>  	| **MRS LOO LI TING**<br><lim_li_ting@moe.edu.sg>  	|
 |  	|  	|  	|
-| **PRIMARY 2H** 	| **MR RYAN WILLIAMS FERNANDEZ**<br><ryan_williams_fernandez@moe.edu.sg>  	| **MRS MITCHELLE** WONG<br><mitchelle_wong@moe.edu.sg>  	|
+| **PRIMARY 2H** 	| **MR RYAN WILLIAMS FERNANDEZ**<br><ryan_williams_fernandez@moe.edu.sg>  	| **MISS RAJESWARY** <br><rajeswary_ramakrishna@moe.edu.sg>  	|
 |  	|  	|  	|
-| **PRIMARY 2** 	| **MDM NURSAYIDAH**<br><nursayidah_abdul_rahim@moe.edu.sg>  	| **MS CHIEW PUI MEI**<br><chiew_pui_mei@moe.edu.sg> 	|
+| **PRIMARY 2I** 	| **MDM NURSAYIDAH**<br><nursayidah_abdul_rahim@moe.edu.sg>  	| **MS CHIEW PUI MEI**<br><chiew_pui_mei@moe.edu.sg> 	|
 
 #### PRIMARY 3 TEACHERS
 
@@ -98,17 +98,17 @@ description: ""
 |---	|---	|---	|
 | **PRIMARY 3A** 	| **MISS CHERYL KHOO**<br><khoo_wan_shir_cheryl@moe.edu.sg> 	| **MISS SHAMINI**<br><shamini_subramaniam_a@moe.edu.sg> 	|
 |  	|  	|  	|
-| **PRIMARY 3B** 	| **MRS SHEILA CHAN**<br><tay_sock_hwee_sheila@moe.edu.sg> 	| **MDM CHIA HWEE HIAN**<br><chia_hwee_hian@moe.edu.sg> 	|
+| **PRIMARY 3B** 	| **MR JEREMY YEO**<br><yeo_shi_feng_jeremy@moe.edu.sg> 	| **MS CHUA QINYU**<br><chua_qinyu@moe.edu.sg> 	|
 |  	|  	|  	|
 | **PRIMARY 3C** 	| **MISS YEO SHU YUAN**<br><yeo_shu_yuan@moe.edu.sg> 	| **MDM JACQUELIN LAI**<br><lai_hui_jun_jacqueline@moe.edu.sg> 	|
 |  	|  	|  	|
-| **PRIMARY 3D** 	| **MR NG BAN HOCK**<br><ng_ban_hock@moe.edu.sg> 	|  	|
+| **PRIMARY 3D** 	| **MR NG BAN HOCK**<br><ng_ban_hock@moe.edu.sg> 	|  **MDM GOH QIANYI**<br><goh_qian_yi_b@moe.edu.sg> 	|
 |  	|  	|  	|
 | **PRIMARY 3E** 	| **MDM FOO WAN QING**<br><foo_wan_qing@moe.edu.sg> 	| **MR NICK WONG**<br><wong_ngian_fai@moe.edu.sg> 	|
 |  	|  	|  	|
-| **PRIMARY 3F** 	| **MRS LU LI TING**<br><lim_li_ting@moe.edu.sg> 	| **MR MOHD ALI**<br><Mohamed_Ali_Mohamed_Hanafiah@moe.edu.sg> 	|
+| **PRIMARY 3F** 	| **MR LOW WEIJIE**<br><low_wei_jie@moe.edu.sg> 	| **MR MOHD ALI**<br><Mohamed_Ali_Mohamed_Hanafiah@moe.edu.sg> 	|
 |  	|  	|  	|
-| **PRIMARY 3G** 	| **MRS WONG YAN RU**<br><lim_yan_ru@moe.edu.sg> 	| **MDM MARTINI**<br><martini_mahmood@moe.edu.sg> 	|
+| **PRIMARY 3G** 	| **MR AIDILANFITRI**<br><muhammad_aidilanfitri_mohamad_noor@moe.edu.sg> 	| **MDM MARTINI**<br><martini_mahmood@moe.edu.sg> 	|
 
 #### PRIMARY 4 TEACHERS
 
@@ -120,13 +120,13 @@ description: ""
 |  	|  	|  	|
 | **PRIMARY 4C** 	| **MRS SERENE NG**<br><neo_po_tin_serene@moe.edu.sg> 	| **MR MUHAMMAD DINIE**<br><muhammad_dinie_shaifullah@moe.edu.sg> 	|
 |  	|  	|  	|
-| **PRIMARY 4D** 	| **MR CHAN ZHI YANG**<br><chan_zhi_yang@moe.edu.sg> 	| **MRS DIANA YAP**<br><chan_hui_min_diana@moe.edu.sg> 	|
+| **PRIMARY 4D** 	| **MR CHAN ZHI YANG**<br><chan_zhi_yang@moe.edu.sg> 	| **MR MUKHLIS**<br><muhammad_mukhlis_dzulfitri@moe.edu.sg> 	|
 |  	|  	|  	|
 | **PRIMARY 4E** 	| **MR NEO JUN WEI**<br><neo_jun_wei@moe.edu.sg> 	| **MS NEO CHAI LEE**<br><neo_chai_lee@moe.edu.sg> 	|
 |  	|  	|  	|
 | **PRIMARY 4F** 	| **MS SITI HAWA**<br><siti_hawa_mohamad_haniff@moe.edu.sg> 	| **MR SAMY LIM**<br><lim_chee_kwee_samy@moe.edu.sg> 	|
 |  	|  	|  	|
-| **PRIMARY 4G** 	| **MDM NAZREENA**<br><nazreena_abdul_rahman@moe.edu.sg> 	| **MISS RAJESWARY**<br><rajeswary_ramakrishna@moe.edu.sg> 	|
+| **PRIMARY 4G** 	| **MISS VANESSA CHEW**<br><vanessa_chew_huey_ying@moe.edu.sg> 	| **MDM NAZREENA**<br><nazreena_abdul_rahman@moe.edu.sg> 	|
 
 #### PRIMARY 5 TEACHERS
 	
@@ -136,7 +136,7 @@ description: ""
 |  	|  	|  	|
 | **PRIMARY 5B** 	| **MDM TAN LAY SYN**<br><tan_lay_syn@moe.edu.sg> 	| **MR JUSTIN TAN**<br><tan_siow_meng@moe.edu.sg> 	|
 |  	|  	|  	|
-| **PRIMARY 5C** 	| **MISS PRIYADAKSHINI**<br><priyadakshini_surendiran_s@moe.edu.sg> 	| **MDM MARSIAH**<br><marsiah_rohim@moe.edu.sg> 	|
+| **PRIMARY 5C** 	| **MISS PRIYADAKSHINI**<br><priyadakshini_surendiran_s@moe.edu.sg> 	| **MISS NOOR HIDAYAH**<br><noor_hidayah_noordin@moe.edu.sg> 	|
 |  	|  	|  	|
 | **PRIMARY 5D** 	| **MR RONNIE PHUA**<br><phua_kiah-ian_ronnie@moe.edu.sg> 	| **MR JASON YEW**<br><yew_kwok_ming@moe.edu.sg> 	|
 |  	|  	|  	|
@@ -146,7 +146,7 @@ description: ""
 |  	|  	|  	|
 | **PRIMARY 5G** 	| **MDM ALWIYAH**<br><alwiyah_abdul_aziz@moe.edu.sg> 	| **MDM TEO TZE YUEN**<br><teo_tze_yuen@moe.edu.sg> 	|
 |  	|  	|  	|
-| **PRIMARY 5H** 	| **MS PRISCILLA TAN**<br><tan_sihui_priscilla@moe.edu.sg> 	| **MISS NOOR HIDAYAH**<br><noor_hidayah_noordin@moe.edu.sg> 	|
+| **PRIMARY 5H** 	| **MS PRISCILLA TAN**<br><tan_sihui_priscilla@moe.edu.sg> 	| **MDM MARSIAH**<br><marsiah_rohim@moe.edu.sg> 	|
 |  	|  	|  	|
 	 
 #### PRIMARY 6 TEACHERS
