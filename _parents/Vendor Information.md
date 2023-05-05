@@ -3,9 +3,8 @@ title: Vendor Information
 permalink: /parents/vendor-information/
 description: ""
 ---
-
->![](/images/Parents/parent.jpg)
->PARENTS
+&gt;![](/images/Parents/parent.jpg)
+&gt;PARENTS
 
 ## Vendor Information
 
@@ -22,8 +21,9 @@ description: ""
     <td><b>Shanghai School Uniforms Pte Ltd</b><br>63 Ubi Ave 1, #04-09, Singapore <br>Singapore 408937<br>Tel: 6352 2741<br></td>
   </tr>
   <tr>
-    <td>School Bus Transport Service<br></td>
-    <td><b>Sin Bus Transport Services</b><br>Tel: 9753 3363 (Mr William Thia)</td>
+		<td>School Bus Transport Service<br></td>
+		 <td><b>Sin Bus Transport Services</b><br>School Bus Fare:
+			 <br>Tel: 9753 3363 (Mr William Thia)</td>
   </tr>
   <tr>
     <td>Student Care Centre<br></td>
