@@ -19,50 +19,25 @@ description: ""
 ### Operating Hours
 ##### General Office
 
-<table>
-   <tbody><tr>
-    <td>Monday to Friday during Term Time/School Holidays</td>
-	</tr>
-	<tr>
-  	<td><b>7.00 a.m. - 5.30 p.m.</b></td>
-	</tr>
-  <tr>
-    <td>Closed on Saturdays, Sundays and Public Holidays<br>
-			Payment of school fees to be made before <b>3.00 p.m.</b></td>
-	</tr>
-</tbody></table>
+|  |  |
+| -------- | -------- |
+| Monday to Friday during Term Time/School Holidays     | **7.00 a.m. - 5.30 p.m.**     | 
+|Closed on Saturdays, Sundays and Public Holidays | |
+|Payment of school fees to be made before **3.00 p.m.**||
 
 ##### School Bookshop
 
-<table>
-  <tbody><tr>
-    <td><b>For Students</b></td>
-  </tr>
-  <tr>
-    <td>Monday to Friday during Term Time</td>
-  </tr>
-  <tr>
-    <td><b>8.30 a.m. – 3.00 p.m.</b></td>
-  </tr>
-  <tr>
-    <td>(Closed between <b>12.00 noon</b> and <b>1.00 p.m.</b>)</td>
-  </tr>
-  <tr>
-    <td>Closed on Saturdays, Sundays, School and Public Holidays</td>
-  </tr>
-  <tr>
-		<td><b>For Parents/Guardians</b></td>
-  </tr>
-  <tr>
-    <td>Monday to Friday during Term Time after school hours</td>
-  </tr>
-  <tr>
-    <td><b>2.00 p.m. – 3.00 p.m.</b></td>
-  </tr>
-  <tr>
-    <td>Closed on Saturdays, Sundays, School and Public Holidays</td>
-  </tr>
-</tbody></table>
+|For Students  |  |
+| -------- | -------- |
+| Monday to Friday during Term Time     | **8.30 a.m. – 3.00 p.m.**     | 
+|(Closed between **12.00 noon** and **1.00 p.m.**)| |
+|Closed on Saturdays, Sundays and Public Holidays | |
+
+|For Parents  |  |
+| -------- | -------- |
+| Monday to Friday during Term Time after school hours    | **2.00 p.m. – 3.00 p.m.**     | 
+|(Closed between **12.00 noon** and **1.00 p.m.**)| |
+|Closed on Saturdays, Sundays and Public Holidays | |
 
 ##### School Dental Clinic
 
@@ -74,32 +49,14 @@ description: ""
 
 ##### Sale of School Uniform (Bookshop)
 
-<table>
-  <tbody><tr>
-    <td><b>For Students</b></td>
-  </tr>
-  <tr>
-    <td>Monday to Friday during Term Time</td>
-  </tr>
-  <tr>
-    <td><b>10.00 a.m. - 3.00 p.m.</b></td>
-  </tr>
-  <tr>
-    <td>(Closed between <b>12.00 noon</b> and <b>1.00 p.m.</b>)</td>
-  </tr>
-  <tr>
-    <td>Closed on Saturdays, Sundays, School and Public Holidays</td>
-  </tr>
-  <tr>
-		<td><b>For Parents/Guardian</b></td>
-  </tr>
-  <tr>
-    <td>Monday to Friday during Term Time after school hours</td>
-  </tr>
-  <tr>
-    <td><b>2.00 p.m. – 3.00 p.m.</b></td>
-  </tr>
-  <tr>
-    <td>Closed on Saturdays, Sundays, School and Public Holidays</td>
-  </tr>
-</tbody></table>
+|For Students  |  |
+| -------- | -------- |
+| Monday to Friday during Term Time     | **10.00 a.m. - 3.00 p.m.**     | 
+|(Closed between **12.00 noon** and **1.00 p.m.**)| |
+|Closed on Saturdays, Sundays and Public Holidays | |
+
+|For Parents  |  |
+| -------- | -------- |
+| Monday to Friday during Term Time after school hours    | **2.00 p.m. – 3.00 p.m.**     | 
+|(Closed between **12.00 noon** and **1.00 p.m.**)| |
+|Closed on Saturdays, Sundays and Public Holidays | |
