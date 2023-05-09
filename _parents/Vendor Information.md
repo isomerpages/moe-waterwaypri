@@ -35,7 +35,6 @@ Tel: 6352 2741
 #### School Bus Transport Service
 
 **SinBus (18) Services**  
-
 Tel: 8686 1638 (Mr William Thia)<br>
 [School Bus Operator and Fare](/files/operatorandprice.pdf)
 
@@ -51,4 +50,3 @@ Email:&nbsp;[enquiry@littleprofessors.com.sg](mailto:enquiry@littleprofessors.co
 
 #### School Dental Clinic 
 Tel: 91139437
-
