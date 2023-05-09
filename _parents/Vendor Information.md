@@ -22,7 +22,7 @@ description: ""
   </tr>
   <tr>
 		<td>School Bus Transport Service<br></td>
-		 <td><b>Sin Bus Transport Services</b><br>[School Bus Fare] (/files/operatorandprice.pdf)
+		 <td><b>Sin Bus Transport Services</b><br>[School Bus Fare] (/files/operatorandprice.pdf)[](/files/Forms/Agreement%20Form%20for%20Usbe%20of%20Smart%20Device.pdf)
 			 <br>Tel: 9753 3363 (Mr William Thia)</td>
   </tr>
   <tr>
