@@ -53,9 +53,9 @@ description: ""
 | --- | --- | --- |
 | **PRIMARY 1A** | **MRS CALYNN TEH**  <br>[calynn\_chow\_wun\_yen@moe.edu.sg](mailto:calynn_chow_wun_yen@moe.edu.sg) | **MISS LI HUIMIN**  <br>[li\_huimin@moe.edu.sg](mailto:li_huimin@moe.edu.sg) |
 | &nbsp; | &nbsp; | &nbsp; |
-| **PRIMARY 1B** | **MISS HUMAIRAH**  <br>[nur\_humairah\_hasim@moe.edu.sg](mailto:nur_humairah_hasim@moe.edu.sg) | **MR JAN JOEL**  <br>[jan\_joel\_jayanta@moe.edu.sg](mailto:jan_joel_jayanta@moe.edu.sg) |
+| **PRIMARY 1B** | **MISS HUMAIRAH**  <br>[nur\_humairah\_hasim@moe.edu.sg](mailto:nur_humairah_hasim@moe.edu.sg) | **MS CHRISTINE TAY**  <br>[tay_hsiao_wen@moe.edu.sg](mailto:tay_hsiao_wen@moe.edu.sg) |
 | &nbsp; | &nbsp; | &nbsp; |
-| **PRIMARY 1C** | **MDM SITI NURAIDAH**  <br>[siti\_nuraidah\_mukthar@moe.edu.sg](mailto:siti_nuraidah_mukthar@moe.edu.sg) | **MDM JOELL LIM**  <br>[lim\_kar\_hoon\_joell@moe.edu.sg](mailto:lim_kar_hoon_joell@moe.edu.sg) |
+| **PRIMARY 1C** | **MDM SITI NURAIDAH**  <br>[siti\_nuraidah\_mukthar@moe.edu.sg](mailto:siti_nuraidah_mukthar@moe.edu.sg) | **MR JAN JOEL**  <br>[jan\_joel\_jayanta@moe.edu.sg](mailto:jan_joel_jayanta@moe.edu.sg) |
 | &nbsp; | &nbsp; | &nbsp; |
 | **PRIMARY 1D** | **MDM NUR AZLIN**  <br>[nur\_azlin\_junari@moe.edu.sg](mailto:nur_azlin_junari@moe.edu.sg) | **MRS ESTHER**  <br>[ng\_may\_ling\_esther@moe.edu.sg](mailto:ng_may_ling_esther@moe.edu.sg) |
 | &nbsp; | &nbsp; | &nbsp; |
