@@ -40,5 +40,3 @@ This year, for the first time, our school sent a team of students to participate
 
 ![](/images/Distinctive%20Programmes/Orators/the%20debate%20team.JPEG)
  *The debate team received their certificates of participation from our principal, Mr Wilbur Wong.*
-
-
