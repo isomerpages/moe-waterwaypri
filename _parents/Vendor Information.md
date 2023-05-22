@@ -9,10 +9,9 @@ description: ""
 ## Vendor Information
 
 #### School Bookshop
-**Shanghai School Uniforms Pte Ltd (Main Office)**  
-61 Ubi Road #02-02  
-Singapore 408727  
-Tel: 6281 9274
+**BL Marketing Pte Ltd (Main Office)**  
+Tel: 62848785 <br>
+Email: [sales@blmarketing.sg](mailto:sales@blmarketing.sg "sales@blmarketing.sg")
 
 **For Students**  
 Monday to Friday during Term Time  
