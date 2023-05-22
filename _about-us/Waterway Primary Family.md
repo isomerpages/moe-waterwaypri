@@ -3,8 +3,9 @@ title: Waterway Primary Family
 permalink: /about-us/waterway-primary-family/
 description: ""
 ---
-![](/images/About%20Us/WWPS-1.jpg)
+
 #### SCHOOL LEADERS
+
 | &nbsp; | &nbsp; |
 | --- | --- |
 | **MR WILBUR WONG** | Principal |
@@ -14,12 +15,12 @@ description: ""
 
 #### HEAD OF DEPARTMENT
 
-| &nbsp; | &nbsp; | &nbsp; |
-| --- | --- | --- |
-| **MS PRIYADAKSHINI**<br>HOD English<br>[priyadakshini\_surendiran\_s@moe.edu.sg](mailto:priyadakshini_surendiran_s@moe.edu.sg) | **MRS SHEILA CHAN**  <br>HOD Mathematics  <br>[tay\_sock\_hwee\_sheila@moe.edu.sg](mailto:tay_sock_hwee_sheila@moe.edu.sg) | &nbsp; |
-| **MRS WONG YAN RU**  <br>HOD Science  <br>[lim\_yan\_ru@moe.edu.sg](mailto:lim_yan_ru@moe.edu.sg) | **MRS GINA OW**  <br>HOD Mother Tongue  <br>[gina\_ow@moe.edu.sg](mailto:gina_ow@moe.edu.sg) | &nbsp; |
-| **MS NEO CHAI LEE**  <br>HOD CCE  <br>[neo\_chai\_lee@moe.edu.sg](mailto:neo_chai_lee@moe.edu.sg) | **MR SAMY LIM**  <br>HOD PE  <br>[lim\_chee\_kwee\_samy@moe.edu.sg](mailto:lim_chee_kwee_samy@moe.edu.sg) | &nbsp; |
-| **MR NG BAN HOCK**  <br>HOD Student Management  <br>[ng\_ban\_hock@moe.edu.sg](mailto:ng_ban_hock@moe.edu.sg)| **MS KAREN CHAN**  <br>School Staff Developer  <br>[karen\_oi\_chan@moe.edu.sg](mailto:karen_oi_chan@moe.edu.sg) | &nbsp; | &nbsp; |
+| &nbsp; | &nbsp; |
+| --- | --- |
+| **MS PRIYADAKSHINI**<br>HOD English<br>[priyadakshini\_surendiran\_s@moe.edu.sg](mailto:priyadakshini_surendiran_s@moe.edu.sg) | **MRS SHEILA CHAN**  <br>HOD Mathematics  <br>[tay\_sock\_hwee\_sheila@moe.edu.sg](mailto:tay_sock_hwee_sheila@moe.edu.sg) | 
+| **MRS WONG YAN RU**  <br>HOD Science  <br>[lim\_yan\_ru@moe.edu.sg](mailto:lim_yan_ru@moe.edu.sg) | **MRS GINA OW**  <br>HOD Mother Tongue  <br>[gina\_ow@moe.edu.sg](mailto:gina_ow@moe.edu.sg) | 
+| **MS NEO CHAI LEE**  <br>HOD CCE  <br>[neo\_chai\_lee@moe.edu.sg](mailto:neo_chai_lee@moe.edu.sg) | **MR SAMY LIM**  <br>HOD PE  <br>[lim\_chee\_kwee\_samy@moe.edu.sg](mailto:lim_chee_kwee_samy@moe.edu.sg) | 
+| **MR NG BAN HOCK**  <br>HOD Student Management  <br>[ng\_ban\_hock@moe.edu.sg](mailto:ng_ban_hock@moe.edu.sg)| **MS KAREN CHAN**  <br>School Staff Developer  <br>[karen\_oi\_chan@moe.edu.sg](mailto:karen_oi_chan@moe.edu.sg) | 
 
 #### YEAR HEAD &amp; ASSISTANT YEAR HEAD
 
