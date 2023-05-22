@@ -235,8 +235,8 @@ description: ""
 | Operations Support Officer | **MR CHOW PAK WAH** |
 | Operations Support Officer | **MDM TAN KIM SIONG** |
 | Operations Support Officer | **MDM NGHIEM NU** |
-| Operations Support Officer (MK)| **MDM NGHIEM NU** |
-| Operations Support Officer (MK)| **MDM NGHIEM NU** |
+| Operations Support Officer (MK)| **MDM SALLY LIM** |
+| Operations Support Officer (MK)| **MDM KOK POOI LEE** |
 | Lab Assistant | **MDM JACQUELINE TAN** |
 | ICT Manager | **MR KOH CHEE WEI** |
 | Desktop Engineer | **MR SHAFIQ** |
