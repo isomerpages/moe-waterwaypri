@@ -227,7 +227,7 @@ description: ""
 | Corporate Support Officer | **MDM SOH LENG LENG** |
 | Corporate Support Officer | **MDM SITI NUR HAJAR** |
 
-| OPERATIONAL &amp; ICT | &nbsp; |
+| OPERATIONAL | &nbsp; |
 | --- | --- |
 | Operations Manager | **MR BERNARD CHIA** |
 | Operations Support Officer | **MDM TAN TIAN HONG** |
@@ -238,6 +238,10 @@ description: ""
 | Operations Support Officer (MK)| **MDM SALLY LIM** |
 | Operations Support Officer (MK)| **MDM KOK POOI LEE** |
 | Lab Assistant | **MDM JACQUELINE TAN** |
+
+
+| ICT | &nbsp; |
+| --- | --- |
 | ICT Manager | **MR KOH CHEE WEI** |
 | Desktop Engineer | **MR SHAFIQ** |
 | Desktop Engineer | **MR SARA** |
