@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - MoneySense Financial Literacy Programme.md
       - Newsletter.md
       - Vendor Information.md
       - Parents Support Group.md
