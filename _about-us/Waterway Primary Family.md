@@ -5,7 +5,6 @@ description: ""
 ---
 ![](/images/About%20Us/WWPS-1.jpg)
 #### SCHOOL LEADERS
-
 | &nbsp; | &nbsp; |
 | --- | --- |
 | **MR WILBUR WONG** | Principal |
