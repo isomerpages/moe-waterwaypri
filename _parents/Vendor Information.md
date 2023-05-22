@@ -28,9 +28,10 @@ Closed on Saturdays, Sundays, School and Public Holidays
 #### School Uniform Supplier
 
 **Shanghai School Uniforms Pte Ltd**  
-63 Ubi Ave 1, #04-09
-Singapore 408937  
-Tel: 6352 2741
+63 Ubi Ave 1, #04-09<br>
+63@Ubi, Singapore 408937  
+Tel: 6352 2741 <br>
+Email: contact@shanghai-uniforms.com
 
 #### School Bus Transport Service
 
