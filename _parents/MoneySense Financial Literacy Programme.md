@@ -9,4 +9,4 @@ Join Institute for Financial Literacy (IFL) in the “Ask-Me-Anything” [Facebo
 
 **Note: This workshop is for parents only**
 
-[![](/images/Parents/ms%20workshops%20and%20talks%20june%202023.jpg)]((https://www.facebook.com/events/s/ask-me-anything-moneysense-for/762779415289716/?mibextid=Z0UBBX)
+![](/images/Parents/ms%20workshops%20and%20talks%20june.jpg)
