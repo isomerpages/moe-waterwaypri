@@ -3,8 +3,8 @@ title: Orators@Waterway
 permalink: /distinctive-programmes/orators-at-waterway/
 description: ""
 ---
-&gt;![](/images/Distinctive%20Programmes/distinctive-programme_02.jpg)
-&gt;DISTINCTIVE PROGRAMMES
+>![](/images/Distinctive%20Programmes/distinctive-programme_02.jpg)
+>DISTINCTIVE PROGRAMMES
 
 
 ## Orators@Waterway
