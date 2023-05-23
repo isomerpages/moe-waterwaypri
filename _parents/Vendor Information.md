@@ -4,6 +4,7 @@ permalink: /parents/vendor-information/
 description: ""
 ---
 &gt;![](/images/Parents/parent.jpg)
+&gt;PARENTS
 
 
 ## Vendor Information
@@ -14,7 +15,7 @@ Tel: 62848785 <br>
 Email: [sales@blmarketing.sg](mailto:sales@blmarketing.sg "sales@blmarketing.sg")
 
 **For Students**  
-Monday to Friday during Term Time  
+Monday to Friday during Term Time after school hours  
 **8.30 a.m. - 3.00 p.m.**  
 (Closed between&nbsp;**12.00 noon**&nbsp;and&nbsp;**1.00 p.m.**)  
 Closed on Saturdays, Sundays, School and Public Holidays  
@@ -30,7 +31,7 @@ Closed on Saturdays, Sundays, School and Public Holidays
 63 Ubi Ave 1, #04-09<br>
 63@Ubi, Singapore 408937  
 Tel: 6352 2741 <br>
-Email: contact@shanghai-uniforms.com
+Email: [contact@shanghai-uniforms.com](contact@shanghai-uniforms.com)
 
 #### School Bus Transport Service
 

@@ -3,14 +3,13 @@ title: Parents Support Group
 permalink: /parents/parents-support-group/
 description: ""
 ---
->![](/images/Parents/parent.jpg)
->PARENTS
-
+&gt;![](/images/Parents/parent.jpg)
+&gt;PARENTS
 
 ## Parents Support Group
 
 
-To find out more about the Parents Support Group, please email to [waterway.psg@gmail.com](mailto:waterway.psg@gmail.com)
+To find out more about the Parents Support Group, please email to&nbsp;[waterway.psg@gmail.com](mailto:waterway.psg@gmail.com)
 ![](/images/Parents/PSG_2023.jpg)
 <table>
 <thead>
@@ -34,7 +33,7 @@ To find out more about the Parents Support Group, please email to [waterway.psg
   </tr>
   <tr>
     <td>Mr Luc Schultz Tan</td>
-    <td> P1 & 3 Level Rep &amp; Project Coordinator</td>
+    <td> P1 &amp; 3 Level Rep &amp; Project Coordinator</td>
   </tr>
   <tr>
     <td>Mrs Mahrukh R. Karim</td>
