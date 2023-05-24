@@ -3,7 +3,6 @@ title: Waterway Primary Family
 permalink: /about-us/waterway-primary-family/
 description: ""
 ---
-
 #### SCHOOL LEADERS
 
 | &nbsp; | &nbsp; |
@@ -77,7 +76,7 @@ description: ""
 | &nbsp; | &nbsp; | &nbsp; |
 | **PRIMARY 2B** | **MDM HARIATI**  <br>[hariati\_ali@moe.edu.sg](mailto:hariati_ali@moe.edu.sg) | **MRS MITCHELLE WONG**  <br>[mitchelle\_wong@moe.edu.sg](mailto:mitchelle_wong@moe.edu.sg) |
 | &nbsp; | &nbsp; | &nbsp; |
-| **PRIMARY 2C** | **MS CLARA ONG**  <br>[ng\_fong\_yan\_clara@moe.edu.sg](mailto:ng_fong_yan_clara@moe.edu.sg) | **MS TAN PEI WEN**  <br>[tan\_pei\_wen\_b@moe.edu.sg](mailto:tan_pei_wen_b@moe.edu.sg) |
+| **PRIMARY 2C** | **MS CLARA ONG**  <br>[ong\_fong\_yan\_clara@moe.edu.sg](mailto:ng_fong_yan_clara@moe.edu.sg) | **MS TAN PEI WEN**  <br>[tan\_pei\_wen\_b@moe.edu.sg](mailto:tan_pei_wen_b@moe.edu.sg) |
 | &nbsp; | &nbsp; | &nbsp; |
 | **PRIMARY 2D** | **MISS ZANDRA CHEW**  <br>[chew\_yann\_zandra@moe.edu.sg](mailto:chew_yann_zandra@moe.edu.sg) | **MISS LIM TIAN JING** <br> [lim\_tian\_jing@moe.edu.sg](mailto:lim_tian_jing@moe.edu.sg) |
 | &nbsp; | &nbsp; | &nbsp; |
