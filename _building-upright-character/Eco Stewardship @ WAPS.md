@@ -24,7 +24,7 @@ At the end of the six-year programme, students will be able to achieve the follo
 *	Develop a sense of wonder, appreciation and care for the environment
 *	Develop agency for collective actions to promote sustainable living in the community
 
-##### Theme & Approach
+##### Theme &amp; Approach
 		
 ![](/images/ECO/EcoStewardship.png)<center>*Eco Stewardship @ WAPS Framework*</center>
 
@@ -33,7 +33,7 @@ Eco Stewardship @ WAPS’ theme – *Protecting Waterways, Celebrating Biodivers
 1.	Conserve and protect water resources
 2.	Conserve and promote biodiversity
 
-The programme also builds on the school’s Growth & Benefit Mindset (GBM) programme. It provides platforms for students to develop and practice applying the growth and benefit mindset that they have acquired through GBM lessons. 
+The programme also builds on the school’s Growth &amp; Benefit Mindset (GnB) programme. It provides platforms for students to develop and practice applying the growth and benefit mindset that they have acquired through GnB lessons. 
 
 Besides engaging students in school, the programme seeks to involve all its stakeholders (i.e. staff, parents and community partners) in developing and enhancing the 4Cs:
 
