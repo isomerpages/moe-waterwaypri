@@ -16,26 +16,26 @@ description: ""
 
 | &nbsp; | &nbsp; |
 | --- | --- |
-| **MS PRIYADAKSHINI**<br>HOD English<br>[priyadakshini\_surendiran\_s@moe.edu.sg](mailto:priyadakshini_surendiran_s@moe.edu.sg) | **MRS SHEILA CHAN**  <br>HOD Mathematics  <br>[tay\_sock\_hwee\_sheila@moe.edu.sg](mailto:tay_sock_hwee_sheila@moe.edu.sg) | 
-| **MRS WONG YAN RU**  <br>HOD Science  <br>[lim\_yan\_ru@moe.edu.sg](mailto:lim_yan_ru@moe.edu.sg) | **MRS GINA OW**  <br>HOD Mother Tongue  <br>[gina\_ow@moe.edu.sg](mailto:gina_ow@moe.edu.sg) | 
+| **MS PRIYADAKSHINI**<br>HOD English<br>[priyadakshini\_surendiran\_s@moe.edu.sg](mailto:priyadakshini_surendiran_s@moe.edu.sg) | **MRS WONG YAN RU**  <br>HOD Science  <br>[lim\_yan\_ru@moe.edu.sg](mailto:lim_yan_ru@moe.edu.sg) | 
+| **MR NG BAN HOCK**  <br>HOD Student Management  <br>[ng\_ban\_hock@moe.edu.sg](mailto:ng_ban_hock@moe.edu.sg)| **MRS GINA OW**  <br>HOD Mother Tongue  <br>[gina\_ow@moe.edu.sg](mailto:gina_ow@moe.edu.sg) | 
 | **MS NEO CHAI LEE**  <br>HOD CCE  <br>[neo\_chai\_lee@moe.edu.sg](mailto:neo_chai_lee@moe.edu.sg) | **MR SAMY LIM**  <br>HOD PE  <br>[lim\_chee\_kwee\_samy@moe.edu.sg](mailto:lim_chee_kwee_samy@moe.edu.sg) | 
-| **MR NG BAN HOCK**  <br>HOD Student Management  <br>[ng\_ban\_hock@moe.edu.sg](mailto:ng_ban_hock@moe.edu.sg)| **MS KAREN CHAN**  <br>School Staff Developer  <br>[karen\_oi\_chan@moe.edu.sg](mailto:karen_oi_chan@moe.edu.sg) | 
+| **MS KAREN CHAN**  <br>School Staff Developer  <br>[karen\_oi\_chan@moe.edu.sg](mailto:karen_oi_chan@moe.edu.sg) | |
 
 #### YEAR HEAD &amp; ASSISTANT YEAR HEAD
 
 | &nbsp; | &nbsp; |
 | --- | --- |
 | **MRS SHRLINDA LEE**  <br>Year Head (P1)  <br>[see\_shu\_lan\_shrlinda@moe.edu.sg](mailto:see_shu_lan_shrlinda@moe.edu.sg) | **MRS MITCHELLE WONG**  <br>Assistant Year Head (P2)  <br>[mitchelle\_wong@moe.edu.sg](mailto:mitchelle_wong@moe.edu.sg) |
-| **MRS LU LI TING**  <br>Assistant Year Head (P3)  <br>[lim\_li\_ting@moe.edu.sg](mailto:lim_li_ting@moe.edu.sg) | **MDM NAZREENA**  <br>Assistant Year Head (P4)  <br>[nazreena\_abdul\_rahman@moe.edu.sg](mailto:nazreena_abdul_rahman@moe.edu.sg) |
-| **MR JASON YEW**  <br>Assistant Year Head (P5)  <br>[yew\_kwok\_ming@moe.edu.sg](mailto:yew_kwok_ming@moe.edu.sg) | **MR WONG BENG YU**  <br>Year Head (P6)  <br>[wong\_beng\_yu@moe.edu.sg](mailto:wong_beng_yu@moe.edu.sg) |
+| **MDM NAZREENA**  <br>Assistant Year Head (P4)  <br>[nazreena\_abdul\_rahman@moe.edu.sg](mailto:nazreena_abdul_rahman@moe.edu.sg) | **MR JASON YEW**  <br>Assistant Year Head (P5)  <br>[yew\_kwok\_ming@moe.edu.sg](mailto:yew_kwok_ming@moe.edu.sg) |
+| **MR WONG BENG YU**  <br>Year Head (P6)  <br>[wong\_beng\_yu@moe.edu.sg](mailto:wong_beng_yu@moe.edu.sg) ||
 
 #### LEVEL/SUBJECT HEAD
 
 | &nbsp; | &nbsp; |
 | --- | --- |
-| **DR IRWAN**  <br>Level Head English Language  <br>[irwan\_shah@moe.edu.sg](mailto:irwan_shah@moe.edu.sg) | **MRS SERENE TAN**  <br>Level Head Mathematics  <br>[neo\_wei\_li\_serene@moe.edu.sg](mailto:neo_wei_li_serene@moe.edu.sg) |
+| **DR IRWAN**  <br>Level Head English Language  <br>[irwan\_shah@moe.edu.sg](mailto:irwan_shah@moe.edu.sg) | **MRS GIN CHAN**  <br>Subject Head Aesthetics  <br>[chua\_gim\_peng\_gin@moe.edu.sg](mailto:chua_gim_peng_gin@moe.edu.sg) |
 | **MISS LIM TIAN JING**  <br>Level Head Mother Tongue  <br>[lim\_tian\_jing@moe.edu.sg](mailto:lim_tian_jing@moe.edu.sg) | **MS CHUA QINYU**  <br>Subject Head ICT  <br>[chua\_qinyu@moe.edu.sg](mailto:chua_qinyu@moe.edu.sg) |
-| **MS CLARA ONG**  <br>Subject Head National Education / Social Studies  <br>[ong\_fong\_yan\_clara@moe.edu.sg](mailto:ong_fong_yan_clara@moe.edu.sg) | **MRS GIN CHAN**  <br>Subject Head Aesthetics  <br>[chua\_gim\_peng\_gin@moe.edu.sg](mailto:chua_gim_peng_gin@moe.edu.sg) |
+| **MS CLARA ONG**  <br>Subject Head National Education / Social Studies  <br>[ong\_fong\_yan\_clara@moe.edu.sg](mailto:ong_fong_yan_clara@moe.edu.sg) | |
 
 #### TEACHER LEADERS &amp; COORDINATORS
 
@@ -98,7 +98,7 @@ description: ""
 | &nbsp; | &nbsp; | &nbsp; |
 | **PRIMARY 3B** | **MR JEREMY YEO** <br> [yeo\_shi\_feng\_jeremy@moe.edu.sg](mailto:yeo_shi_feng_jeremy@moe.edu.sg) | **MS CHUA QINYU**  <br>[chua\_qinyu@moe.edu.sg](mailto:chua_qinyu@moe.edu.sg) |
 | &nbsp; | &nbsp; | &nbsp; |
-| **PRIMARY 3C** | **MISS YEO SHU YUAN**  <br>[yeo\_shu\_yuan@moe.edu.sg](mailto:yeo_shu_yuan@moe.edu.sg) | **MDM JACQUELIN LAI**  <br>[lai\_hui\_jun\_jacqueline@moe.edu.sg](mailto:lai_hui_jun_jacqueline@moe.edu.sg) |
+| **PRIMARY 3C** | **MISS YEO SHU YUAN**  <br>[yeo\_shu\_yuan@moe.edu.sg](mailto:yeo_shu_yuan@moe.edu.sg) | **MDM JACQUELIN LAI**  <br>[lai_huijun_jacqueline@moe.edu.sg](mailto:lai_huijun_jacqueline@moe.edu.sg) |
 | &nbsp; | &nbsp; | &nbsp; |
 | **PRIMARY 3D** | **MR NG BAN HOCK**  <br>[ng\_ban\_hock@moe.edu.sg](mailto:ng_ban_hock@moe.edu.sg) | **MDM GOH QIANYI**  <br>[goh\_qian\_yi\_b@moe.edu.sg](mailto:goh_qian_yi_b@moe.edu.sg) |
 | &nbsp; | &nbsp; | &nbsp; |
@@ -200,14 +200,15 @@ description: ""
 | **MDM HARIATI**  <br>Art &amp; Craft  <br>[hariati\_abdul\_hamid@moe.edu.sg](mailto:hariati_abdul_hamid@moe.edu.sg) | **MDM CHIA HWEE HIAN** <br> Music  <br>[chia\_hwee\_hian@moe.edu.sg](mailto:chia_hwee_hian@moe.edu.sg) |
 | **MS TAN PEI WEN**  <br>PE Teacher  <br>[tan\_pei\_wen\_b@moe.edu.sg](mailto:tan_pei_wen_b@moe.edu.sg) | **MR JAN JOEL**  <br>PE Teacher  <br>[jan\_joel\_jayanta@moe.edu.sg](mailto:jan_joel_jayanta@moe.edu.sg) |
 | **MR JUSTIN TAN**  <br>PE Teacher <br> [tan\_siow\_meng@moe.edu.sg](mailto:tan_siow_meng@moe.edu.sg) | **MR LAI WEE YEONG**  <br>PE Teacher  <br>[lai\_wee\_yeong@moe.edu.sg](mailto:lai_wee_yeong@moe.edu.sg) |
-| **MR MOHD ALI**  <br>PE Teacher  <br>[Mohamed\_Ali\_Mohamed\_Hanafiah@moe.edu.sg](mailto:Mohamed_Ali_Mohamed_Hanafiah@moe.edu.sg) | **MRS DIANA YAP**  <br>PE Teacher  <br>[chan\_hui\_min\_diana@moe.edu.sg](mailto:chan_hui_min_diana@moe.edu.sg) |
+| **MR MOHD ALI**  <br>PE Teacher  <br>[Mohamed\_Ali\_Mohamed\_Hanafiah@moe.edu.sg](mailto:Mohamed_Ali_Mohamed_Hanafiah@moe.edu.sg) | **MR MOHD HAZMIE**  <br>PE Teacher  <br>[mohammad_hazmie_jaafar@moe.edu.sg](mailto:mohammad_hazmie_jaafar@moe.edu.sg) |
+| **MR MOHD IMRAN**  <br>PE Teacher  <br>[mohammed_imran_faizal@moe.edu.sg](mailto:mohammed_imran_faizal@moe.edu.sg) |
 
 #### ENGLISH MEDIUM TEACHING
 
 | &nbsp; | &nbsp; |
 | --- | --- |
 | **MR NICK WONG**  <br>[wong\_ngian\_fai@moe.edu.sg](mailto:wong_ngian_fai@moe.edu.sg) | **MDM CHERYL TAY**  <br>[tay\_soong\_huang@moe.edu.sg](mailto:tay_soong_huang@moe.edu.sg) |
-| **MDM CHEN WEI JIE**  <br>[chen\_wei\_jie\_a@moe.edu.sg](mailto:chen_wei_jie_a@moe.edu.sg) | **MRS ESTHER**  <br>[ng\_may\_ling\_esther@moe.edu.sg](mailto:ng_may_ling_esther@moe.edu.sg) |
+| **MRS ESTHER**  <br>[ng\_may\_ling\_esther@moe.edu.sg](mailto:ng_may_ling_esther@moe.edu.sg) |
 
 #### SEN OFFICER &amp; SCHOOL COUNSELLOR
 

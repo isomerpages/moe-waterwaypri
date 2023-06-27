@@ -3,7 +3,7 @@ title: Academic
 permalink: /about-us/facilities/academic/
 description: ""
 ---
-> ![](/images/about-us_02.jpg)
+> 
 > About Us
 
 ## Academic
@@ -42,18 +42,14 @@ This room can be set up for Math practical tests. It houses resources for Mathem
 
 ![](/images/About%20Us/Academic%20Facilities%204.jpg)
 
-We want to build a conducive environment so that our students can enjoy coming to the library and be comfortable when they are reading. We are building our stock of books. So far, most books are for the younger children and in time to come, there will be more for older children.
+The library is a conducive environment for our students to read comfortably. A weekly reading time is stipulated during the English lessons for our students. Each student may borrow up to 4 books for 2 weeks using their student card (EZlink cards). Students may return their books at the bookdrop at the entrance of the Library.
 
 We have a full-time librarian to look after the library.
 
-
-Every week, as part of English lessons, our students come to the library. Students can borrow up to 4 books for 2 weeks and they use their EZlink cards to sign out for the books. There is a bookdrop at the entrance of the library for students to return the books.
-
 We welcome parents to donate books to the library or class library so that our children can have access to a wide variety of books.
+ 
 
-  
-
-There is a stage equipped with a light and sound system. This is like a mini theatre. We can have Orators@Waterway and Speech and Drama lessons here where students can learn to present and act confidently in the presence of an audience.
+A stage equipped with light and sound system provides a mini theatre experience for Orators@Waterway and Speeach and Drama lessons and learning. This provides the space for our students to express themselves confidently in the presence of an audience. 
 
 
 ### PAL ROOMS 1 & 2
@@ -63,12 +59,9 @@ There is a stage equipped with a light and sound system. This is like a mini the
 
 
 
-We have 2 PAL rooms. PAL stands for “Programme for Active Learning” and is for P1 and P2 students. We have PAL to expose students to Sports and Outdoor Education, and Performing and Visual Arts so that students can learn actively beyond classroom.
+The P1 and P2 students have their Programmes for Active Learning (PAL) modules conducted in these rooms.
 
-  
-
-We want children to learn through fun. PAL lessons are conducted for 2 hours weekly. The PAL rooms have mirrors and children learn dance and movement in these rooms.
-
+The 2 PAL rooms are airconditioned, soundproof and  equipped with light and sound system so that it is able to function as a mini stage. 
 
 ### SCIENCE ROOMS
 
@@ -88,6 +81,3 @@ The Teaching Lab and Observation Room are used for teachers to share and observe
 
 Such a set-up allows teachers to observe and learn from more experienced teachers. They can learn how to teach new topics more effectively and pick up tips on classroom management.
 
-  
-
-The Observation Room is currently used for ICT lessons and students use laptops from mobile carts with wireless access and high speed LAN points. For P1, we have 2 periods of ICT within the timetable. During the ICT lessons, students learn to independently operate the basic functions of a laptop, navigate the internet environment, access online learning management systems and pick up other skills such as word processing and e-mail. They also learn about Cyberwellness so that they know how to keep themselves safe online.

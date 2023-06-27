@@ -3,14 +3,14 @@ title: Programme for Active Learning (PAL)
 permalink: /learning-experiences/building-upright-character/programme-for-active-learning-pal/
 description: ""
 ---
->![](/images/Learning%20Experiences/learning-experiences_banner.jpg)
->LEARNING EXPERIENCES
+&gt;![](/images/Learning%20Experiences/learning-experiences_banner.jpg)
+&gt;LEARNING EXPERIENCES
 
 
 ## Programme for Active Learning (PAL)
 
 
-PAL is an integral part of our curriculum as the school strive to build strong foundations for the students and prepare them for work and life in the future. The students build their social emotional competencies, in line with school values, via the broad domains of Sports and Games, Outdoor Education, Performing Arts and Visual Arts. It is conducted within curriculum time and the PAL modules offered in 2021 are as follows:
+PAL is an integral part of our curriculum as the school strive to build strong foundations for the students and prepare them for work and life in the future. The students build their social emotional competencies, in line with school values, via the broad domains of Sports and Games, Outdoor Education, Performing Arts and Visual Arts. It is conducted within curriculum time and the PAL modules offered are as follows:
 
 <table>
 <thead>
@@ -56,38 +56,30 @@ PAL is an integral part of our curriculum as the school strive to build strong f
 	
 **OUTDOOR EDUCATION**
 
-<img src="/images/Learning%20Experiences/PAL%201.jpg"  
-     style="width:65%">
+<img src="/images/Learning%20Experiences/PAL%201.jpg" style="width:65%">
 		 
 **PERFORMING ARTS - MUSIC**
 
-<img src="/images/Learning%20Experiences/PAL%202.jpg"  
-     style="width:75%">
+<img src="/images/Learning%20Experiences/PAL%202.jpg" style="width:75%">
 
 
 **SPORTS AND GAMES**
 
-<img src="/images/Learning%20Experiences/PAL%203.png"  
-     style="width:45%">
+<img src="/images/Learning%20Experiences/PAL%203.png" style="width:45%">
 
-<img src="/images/Learning%20Experiences/PAL%204.png"  
-     style="width:45%">
+<img src="/images/Learning%20Experiences/PAL%204.png" style="width:45%">
 
 
 **VISUAL ARTS**
 
-<img src="/images/Learning%20Experiences/PAL%205.png"  
-     style="width:45%">
+<img src="/images/Learning%20Experiences/PAL%205.png" style="width:45%">
 		 
-<img src="/images/Learning%20Experiences/PAL%206.png"  
-     style="width:45%">
+<img src="/images/Learning%20Experiences/PAL%206.png" style="width:45%">
 		 
 **ROBOTICS**
 
-<img src="/images/Learning%20Experiences/PAL%207.png"  
-     style="width:45%">
+<img src="/images/Learning%20Experiences/PAL%207.png" style="width:45%">
 		 
-<img src="/images/Learning%20Experiences/PAL%208.png"  
-     style="width:45%">
+<img src="/images/Learning%20Experiences/PAL%208.png" style="width:45%">
 	
 	</center>

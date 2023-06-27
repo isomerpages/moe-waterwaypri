@@ -3,16 +3,22 @@ title: Music
 permalink: /learning-experiences/building-upright-character/music/
 description: ""
 ---
->![](/images/Learning%20Experiences/learning-experiences_banner.jpg)
->LEARNING EXPERIENCES
+&gt;![](/images/Learning%20Experiences/learning-experiences_banner.jpg)
+&gt;LEARNING EXPERIENCES
 
 ## Music
 
 **Aim: Enjoyment and appreciation for all, talent and interest development for some**
 
-Our students’ learning of Music @ Waterway Primary begins with singing and movement in the earlier years to picking up instrument playing skills on the recorder, ukulele and keyboard before consolidating their 6 years of learning by collaborating with friends to put up a performance in ‘The Music Showcase’ before their graduation. 
+Every child possesses innate musical qualities awaiting to be harnessed and developed. These aural and expressive abilities and sensibilities empower the child to appreciate and participate in musical experiences that enhance the child’s life and enrich their understanding of themselves and the world.  
+ 
+The Music Programme in Waterway Primary provides experiences to acquire and apply musical skills, knowledge and understanding through listening, creating and performing. Our students begin with singing, music and movement in their earlier years to picking up instrumental playing skills on the woodwind, string and mallets, in both individual and group settings.
+ 
+Students who are passionate, have keen interest or talented in Music will be provided with other platforms for development such as Singapore Youth Festivals Arts Presentation (SYF AP), internal and external music competitions and music-making showcases.
 
-  
+Our students’ learning of Music @ Waterway Primary begins with singing and movement in the earlier years to picking up instrument playing skills on the recorder, ukulele and keyboard before consolidating their 6 years of learning by collaborating with friends to put up a performance in ‘The Music Showcase’ before their graduation.&nbsp;
+
+ 
 
 Here at Waterway Primary, we aim to develop in our students;
 
@@ -45,7 +51,7 @@ Students get to explore their interests in Performing Arts.
 ![](/images/Learning%20Experiences/Music%203.png)
 
 **WAP Centrestage**<br>
-An open stage for all to put up a performance (eg: singing, dancing and playing instrument) individually        or with friends.
+An open stage for all to put up a performance (eg: singing, dancing and playing instrument) individually&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;or with friends.
 
 ![](/images/Learning%20Experiences/Music%204.png)
 
