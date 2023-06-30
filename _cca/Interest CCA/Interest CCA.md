@@ -4,14 +4,18 @@ permalink: /cca/interest-cca/
 description: ""
 third_nav_title: Interest CCA
 ---
->![](/images/CCA/CCA_02.jpg)
->CCA
+gt;![](/images/CCA/CCA_02.jpg)
+&gt;CCA
 
 ## Interest CCA
-<br>
+Interest CCA is conducted in the afternoons for students from P3 to P6. It includes Sports & Games
+, Visual & Performing Arts, Clubs & Societies and 
+Uniformed Group. Interest CCA provides learning opportunities for students to deepen their passion and talents.
 
-| Clubs | Performing Arts | Sports & Games  | Uniformed Groups |
+
+| Clubs | Visual & Performing Arts | Sports &amp; Games  | Uniformed Groups |
 | -------- | -------- | -------- | -------- |
-| Art Club     | Choir     | Basketball     | Cub Scouts     |
+|CRIM      | Choir     | Basketball     | Cub Scouts     |
 | International Chess | Brass Band | Football |  |
-| CRIM | International Dance | Table Tennis|
+|  | Modern Dance | Table Tennis|
+||Art Club||
