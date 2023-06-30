@@ -176,6 +176,7 @@ description: ""
 | **MISS LI HUIMIN**  <br>[li\_huimin@moe.edu.sg](mailto:li_huimin@moe.edu.sg) | **MISS GRACE SEAH**  <br>[seah\_pei\_ru\_grace@moe.edu.sg]() |**MS JOEY NG**  <br>[ng\_weini@moe.edu.sg](mailto:ng_weini@moe.edu.sg) |
 | **MISS LIM TIAN JING**  <br>[lim\_tian\_jing@moe.edu.sg](mailto:lim_tian_jing@moe.edu.sg) | **MDM TAN MEO CHER**  <br>[tan\_meo\_cher@moe.edu.sg](mailto:tan_meo_cher@moe.edu.sg) | **MDM GINA YEO**  <br>[yeo\_sim\_lian\_gina@moe.edu.sg](mailto:yeo_sim_lian_gina@moe.edu.sg) |
 | **MR TI TAT HUA**  <br>[ti\_tat\_hua@moe.edu.sg](mailto:ti_tat_hua@moe.edu.sg) | **MDM CHAN PEI LING**  <br>[chan\_pei\_ling@moe.edu.sg](mailto:chan_pei_ling@moe.edu.sg) | **MR NG PENG HWEE**  <br>[ng\_peng\_hwee@moe.edu.sg](mailto:ng_peng_hwee@moe.edu.sg) | 
+| **MR PEH KWANG ENG**  <br>[peh_kwang_eng@moe.edu.sg](mailto:peh_kwang_eng@moe.edu.sg) | |
 
 #### MOTHER TONGUE - MALAY LANGUAGE
 
@@ -184,7 +185,7 @@ description: ""
 | **MDM MARTINI**  <br>[martini\_mahmood@moe.edu.sg](mailto:martini_mahmood@moe.edu.sg) | **MDM MARSIAH**  <br>[marsiah\_rohim@moe.edu.sg](mailto:marsiah_rohim@moe.edu.sg) |
 | **MISS NOOR HIDAYAH**  <br>[noor\_hidayah\_noordin@moe.edu.sg](mailto:noor_hidayah_noordin@moe.edu.sg) | **MDM ROZANA**  <br>[rozana\_zainuri@moe.edu.sg](mailto:rozana_zainuri@moe.edu.sg) |
 | **MR AIDIL**  <br>[muhammad\_aidil\_ishak@moe.edu.sg](mailto:muhammad_aidil_ishak@moe.edu.sg) | **MR MUKHLIS**  <br>[muhammad\_mukhlis\_dzulfitri@moe.edu.sg](mailto:muhammad_mukhlis_dzulfitri@moe.edu.sg) |
-| **MR MUHAMMAD DINIE**  <br>[muhammad\_dinie\_shaifullah@moe.edu.sg](mailto:muhammad_dinie_shaifullah@moe.edu.sg) | &nbsp; |
+| **MR MUHAMMAD DINIE**  <br>[muhammad\_dinie\_shaifullah@moe.edu.sg](mailto:muhammad_dinie_shaifullah@moe.edu.sg) | **MDM SITI AZIZAH**  <br>[siti_azizah_shaikh_abdullah@@moe.edu.sg](mailto:siti_azizah_shaikh_abdullah@@moe.edu.sg) | &nbsp; |
 
 #### MOTHER TONGUE - TAMIL LANGUAGE
 
@@ -208,7 +209,8 @@ description: ""
 | &nbsp; | &nbsp; |
 | --- | --- |
 | **MR NICK WONG**  <br>[wong\_ngian\_fai@moe.edu.sg](mailto:wong_ngian_fai@moe.edu.sg) | **MDM CHERYL TAY**  <br>[tay\_soong\_huang@moe.edu.sg](mailto:tay_soong_huang@moe.edu.sg) |
-| **MRS ESTHER**  <br>[ng\_may\_ling\_esther@moe.edu.sg](mailto:ng_may_ling_esther@moe.edu.sg) |
+| **MRS ESTHER**  <br>[ng\_may\_ling\_esther@moe.edu.sg](mailto:ng_may_ling_esther@moe.edu.sg)| **MDM KOH SOK SANG**  <br>[koh_sok_sang@moe.edu.sg](mailto:koh_sok_sang@moe.edu.sg) |
+| **MR HILARY ERIC NERVA**  <br>[hilary_eric_nerva_a@moe.edu.sg](mailto:hilary_eric_nerva_a@moe.edu.sg) | **MS EUNICE KANG**  <br>[kang_gek_noy_eunice@moe.edu.sg](mailto:kang_gek_noy_eunice@moe.edu.sg) |
 
 #### SEN OFFICER &amp; SCHOOL COUNSELLOR
 
