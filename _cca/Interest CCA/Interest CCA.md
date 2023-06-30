@@ -4,8 +4,8 @@ permalink: /cca/interest-cca/
 description: ""
 third_nav_title: Interest CCA
 ---
-gt;![](/images/CCA/CCA_02.jpg)
-&gt;CCA
+>![](/images/CCA/CCA_02.jpg)
+>CCA
 
 ## Interest CCA
 Interest CCA is conducted in the afternoons for students from P3 to P6. It includes Sports & Games
