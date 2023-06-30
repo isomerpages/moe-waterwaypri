@@ -15,5 +15,5 @@ P3 CCA Experience Programme was introduced in 2022 to provide a platform for stu
 Each CCA experience is 1.5hours and the activities are specially curated by the various CCA teachers to provide an authentic and meaningful time of learning for the students. The students benefited from the programme as most shared that they were able to make a more informed decision when deciding on their preferred Interest CCAs during CCA Recruitment.
 
 
-
+![](/images/cca_experience.png)
 ![](/images/CCA/P3%20CCA%20Experience.jpg)
