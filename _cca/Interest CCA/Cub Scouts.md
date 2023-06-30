@@ -45,13 +45,12 @@ The highest award in this section is the Akela Award, where a Cub Scout must hol
 
   
 
-### Scouts Investiture 2022
-
-Our Primary 4 and 5 Cub Scouts were officially invested into the CCA with a simple yet meaningful ceremony in Semester 1, 2022. All Cub Scouts received the Scout Scarf after they recited the Scout Promise and pledged to live by the Scout Law.
+### North Area Founder’s Day Hike
 
 
-![](/images/CCA/Cub%20Scouts%204.jpg)
+In commemoration of Founder’s Day, the Singapore Scouts Association has organised a Founder’s Day Celebration Hike.
+Our Cub Scouts took part in the hike, which they walked in the neighbourhood with different scouts from the area, strengthening the unique fellowship of Scouting.
 
-![](/images/CCA/Cub%20Scouts%205.jpg)
+![](/images/CCA/hike_1.jpg)
 
-![](/images/CCA/Cub%20Scouts%206.jpg)
+![](/images/CCA/hike_2.jpg)
