@@ -62,3 +62,8 @@ As senior choristers, the students will work alongside with their peers and teac
 <img src="/images/CCA/Choir%206.jpg" style="width:75%">
 
 <img src="/images/CCA/Choir%207.jpg" style="width:35%">
+
+##### SYF 2022
+![](/images/CCA/syf%202022_2.jpg)
+
+![](/images/CCA/syf%202022_3.jpg)
