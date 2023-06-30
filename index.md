@@ -14,8 +14,8 @@ sections:
         - title: General info
           description: ""
           url: /general-info
-        - title: P1 Registration
-          description: Start from Tues, 4 July 2023
+        - title: P1 Registration Exercise
+          description: Starts from Tues, 4 July 2023
           url: https://www.moe.gov.sg/primary/p1-registration
       title: FOR WORK, FOR LIFE, FOR FUTURE
       subtitle: A Lifelong Learner, A Gracious Citizen
