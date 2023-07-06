@@ -7,7 +7,7 @@ description: ""
 &gt;PARENTS
 
 ## Parents Support Group
-
+![](/images/Parents/psg_purpose.png)
 ###### Our Vision
 A Parent Support Group based on trust, passion and professionalism, guided by the school’s values of Respect, Integrity, Self-discipline and Empathy, for the well-being of the children in Waterway Primary School.
 
