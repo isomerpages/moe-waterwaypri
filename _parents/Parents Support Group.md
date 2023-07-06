@@ -9,8 +9,16 @@ description: ""
 ## Parents Support Group
 
 
-To find out more about the Parents Support Group, please email to&nbsp;[waterway.psg@gmail.com](mailto:waterway.psg@gmail.com)
-![](/images/Parents/PSG_2023.jpg)
+
+
+## Join Us!
+Come join us as a Parent Volunteer and be a part of Waterway Primary School family!
+
+Scan the QR Code or Click on this link below and complete the form.
+https://go.gov.sg/waps-pv-registration-2023
+
+
+
 <table>
 <thead>
   <tr>
@@ -54,3 +62,5 @@ To find out more about the Parents Support Group, please email to&nbsp;[waterway
   </tr>
 </tbody>
 </table>
+
+#### Our Parent Volunteers in Action!
