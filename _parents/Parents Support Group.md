@@ -21,32 +21,33 @@ To find out more about the Parents Support Group, please email to&nbsp;[waterway
 <tbody>
   <tr>
     <td>Mr Daniel Seah</td>
-    <td>Chairman, Dads For Life Champion &amp; P5 Level Rep</td>
+    <td>Chairperson, Dads For Life Champion &amp; P6 Level Rep</td>
   </tr>
   <tr>
     <td>Mdm Sylvie Chua</td>
-    <td>Vice-Chairman &amp; P2 Level Rep</td>
+    <td>Vice-Chairman &amp; P3 Level Rep</td>
   </tr>
   <tr>
     <td>Mdm Iris Ng</td>
-    <td>Secretary, P2 Level Rep &amp; Project Coordinator</td>
+    <td>Honorar Secretary, P4 Level Rep &amp; Project Coordinator</td>
   </tr>
   <tr>
     <td>Mr Luc Schultz Tan</td>
-    <td> P1 &amp; 3 Level Rep &amp; Project Coordinator</td>
+    <td> P1 Level Rep &amp; Project Coordinator</td>
   </tr>
-  <tr>
-    <td>Mrs Mahrukh R. Karim</td>
-    <td> P4 Level Rep &amp; Project Coordinator</td>
-  </tr>
-  <tr>
-    <td>Mdm Lo Pin Ju</td>
+	  <tr>
+    <td>Mdm Cindy Lim</td>
     <td> P1 Level Rep &amp; Project Coordinator</td>
   </tr>
   <tr>
-    <td>Mdm Cindy Lim</td>
-    <td> P6 Level Rep &amp; Project Coordinator</td>
+    <td>Mdm Lo Pin Ju</td>
+    <td> P2 Level Rep &amp; Project Coordinator</td>
   </tr>
+	<tr>
+    <td>Mrs Mahrukh R. Karim</td>
+    <td> P5 Level Rep &amp; Project Coordinator</td>
+  </tr>
+  
   <tr>
     <td>Mr Pok Teck Choon</td>
     <td>Project Coordinator</td>
