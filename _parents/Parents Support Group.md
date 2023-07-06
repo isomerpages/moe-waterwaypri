@@ -8,6 +8,13 @@ description: ""
 
 ## Parents Support Group
 
+###### Our Vision
+A Parent Support Group based on trust, passion and professionalism, guided by the school’s values of Respect, Integrity, Self-discipline and Empathy, for the well-being of the children in Waterway Primary School.
+
+###### Our Mission
+•	Be supportive partners in education.<br>
+•	Work in partnership with WAPS to develop a supportive parent community and encourage positive partnerships for our children’s education.<br>
+•	Reach out to other parents to contribute towards developing a rich and vibrant learning environment in WAPS. 
 
 
 
@@ -15,6 +22,8 @@ description: ""
 Come join us as a Parent Volunteer and be a part of Waterway Primary School family!
 
 Scan the QR Code or Click on this link below and complete the form.
+
+![](/images/Parents/psg_qr.png)
 https://go.gov.sg/waps-pv-registration-2023
 
 
@@ -23,7 +32,7 @@ https://go.gov.sg/waps-pv-registration-2023
 <thead>
   <tr>
     <th></th>
-    <th>PSG Members</th>
+    <th>PSG EXCO 2023</th>
   </tr>
 </thead>
 <tbody>
@@ -33,7 +42,7 @@ https://go.gov.sg/waps-pv-registration-2023
   </tr>
   <tr>
     <td>Mdm Sylvie Chua</td>
-    <td>Vice-Chairman &amp; P3 Level Rep</td>
+    <td>Vice-Chairperson &amp; P3 Level Rep</td>
   </tr>
   <tr>
     <td>Mdm Iris Ng</td>
@@ -64,13 +73,11 @@ https://go.gov.sg/waps-pv-registration-2023
 </table>
 
 #### Our Parent Volunteers in Action!
+![](/images/Parents/psg_action.png)
 
-
-Useful Links:
+###### Useful Links:
 
 •	Parent Kit - https://www.moe.gov.sg/parentkit
-•	COMPASS - https://www.moe.gov.sg/compass/
-•	Resources from Schoolbag - https://www.schoolbag.edu.sg/features/parent-partnership
-•	Dads for life – https://dadsforlife.sg/
-
-
+<br>•	COMPASS - https://www.moe.gov.sg/compass/
+<br>•	Resources from Schoolbag - https://www.schoolbag.edu.sg/features/parent-partnership
+<br>•	Dads for life – https://dadsforlife.sg/
