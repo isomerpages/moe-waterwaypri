@@ -64,3 +64,13 @@ https://go.gov.sg/waps-pv-registration-2023
 </table>
 
 #### Our Parent Volunteers in Action!
+
+
+Useful Links:
+
+•	Parent Kit - https://www.moe.gov.sg/parentkit
+•	COMPASS - https://www.moe.gov.sg/compass/
+•	Resources from Schoolbag - https://www.schoolbag.edu.sg/features/parent-partnership
+•	Dads for life – https://dadsforlife.sg/
+
+
