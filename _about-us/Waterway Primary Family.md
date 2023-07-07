@@ -94,7 +94,7 @@ description: ""
 
 | &nbsp; | &nbsp; | &nbsp; |
 | --- | --- | --- |
-| **PRIMARY 3A** | **MISS CHERYL KHOO**  <br>[khoo\_wan\_shir\_cheryl@moe.edu.sg](mailto:khoo_wan_shir_cheryl@moe.edu.sg) | **MISS SHAMINI**  <br>[shamini\_subramaniam\_a@moe.edu.sg](mailto:shamini_subramaniam_a@moe.edu.sg) |
+| **PRIMARY 3A** | **MS CHERYL KHOO**  <br>[khoo\_wan\_shir\_cheryl@moe.edu.sg](mailto:khoo_wan_shir_cheryl@moe.edu.sg) | **MISS SHAMINI**  <br>[shamini\_subramaniam\_a@moe.edu.sg](mailto:shamini_subramaniam_a@moe.edu.sg) |
 | &nbsp; | &nbsp; | &nbsp; |
 | **PRIMARY 3B** | **MR JEREMY YEO** <br> [yeo\_shi\_feng\_jeremy@moe.edu.sg](mailto:yeo_shi_feng_jeremy@moe.edu.sg) | **MS CHUA QINYU**  <br>[chua\_qinyu@moe.edu.sg](mailto:chua_qinyu@moe.edu.sg) |
 | &nbsp; | &nbsp; | &nbsp; |
