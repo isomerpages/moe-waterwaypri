@@ -176,7 +176,7 @@ description: ""
 | **MISS LI HUIMIN**  <br>[li\_huimin@moe.edu.sg](mailto:li_huimin@moe.edu.sg) | **MISS GRACE SEAH**  <br>[seah\_pei\_ru\_grace@moe.edu.sg]() |**MS JOEY NG**  <br>[ng\_weini@moe.edu.sg](mailto:ng_weini@moe.edu.sg) |
 | **MISS LIM TIAN JING**  <br>[lim\_tian\_jing@moe.edu.sg](mailto:lim_tian_jing@moe.edu.sg) | **MDM TAN MEO CHER**  <br>[tan\_meo\_cher@moe.edu.sg](mailto:tan_meo_cher@moe.edu.sg) | **MDM GINA YEO**  <br>[yeo\_sim\_lian\_gina@moe.edu.sg](mailto:yeo_sim_lian_gina@moe.edu.sg) |
 | **MR TI TAT HUA**  <br>[ti\_tat\_hua@moe.edu.sg](mailto:ti_tat_hua@moe.edu.sg) | **MDM CHAN PEI LING**  <br>[chan\_pei\_ling@moe.edu.sg](mailto:chan_pei_ling@moe.edu.sg) | **MR NG PENG HWEE**  <br>[ng\_peng\_hwee@moe.edu.sg](mailto:ng_peng_hwee@moe.edu.sg) | 
-| **MR PEH KWANG ENG**  <br>[peh_kwang_eng@moe.edu.sg](mailto:peh_kwang_eng@moe.edu.sg) |**MR QUEK WU**  <br>[quek_wu@moe.edu.sg](mailto:quek_wu@moe.edu.sg) |
+| **MR PEH KWANG ENG**  <br>[peh_kwang_eng@moe.edu.sg](mailto:peh_kwang_eng@moe.edu.sg) |**MR QUEK WU**  <br>[quek_wu@moe.edu.sg](mailto:quek_wu@moe.edu.sg) |**MDM YUE ZHUO**  <br>[yue_zhuo@moe.edu.sg](mailto:yue_zhuo@moe.edu.sg)  |
 
 #### MOTHER TONGUE - MALAY LANGUAGE
 
@@ -202,7 +202,7 @@ description: ""
 | **MS TAN PEI WEN**  <br>PE Teacher  <br>[tan\_pei\_wen\_b@moe.edu.sg](mailto:tan_pei_wen_b@moe.edu.sg) | **MR JAN JOEL**  <br>PE Teacher  <br>[jan\_joel\_jayanta@moe.edu.sg](mailto:jan_joel_jayanta@moe.edu.sg) |
 | **MR JUSTIN TAN**  <br>PE Teacher <br> [tan\_siow\_meng@moe.edu.sg](mailto:tan_siow_meng@moe.edu.sg) | **MR LAI WEE YEONG**  <br>PE Teacher  <br>[lai\_wee\_yeong@moe.edu.sg](mailto:lai_wee_yeong@moe.edu.sg) |
 | **MR MOHD ALI**  <br>PE Teacher  <br>[Mohamed\_Ali\_Mohamed\_Hanafiah@moe.edu.sg](mailto:Mohamed_Ali_Mohamed_Hanafiah@moe.edu.sg) | **MR MOHD HAZMIE**  <br>PE Teacher  <br>[mohammad_hazmie_jaafar@moe.edu.sg](mailto:mohammad_hazmie_jaafar@moe.edu.sg) |
-| **MR MOHD IMRAN**  <br>PE Teacher  <br>[mohammed_imran_faizal@moe.edu.sg](mailto:mohammed_imran_faizal@moe.edu.sg) |
+| **MR MOHD IMRAN**  <br>PE Teacher  <br>[mohammed_imran_faizal@moe.edu.sg](mailto:mohammed_imran_faizal@moe.edu.sg) |**Mr JODEL CHOW**   <br>PE Teacher  <br>[jodel_chow_zuliang@moe.edu.sg](mailto:Jodel_Chow_Zuliang@moe.edu.sg)  |
 
 #### ENGLISH MEDIUM TEACHING
 
