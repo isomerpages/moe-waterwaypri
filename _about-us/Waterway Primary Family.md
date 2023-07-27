@@ -50,9 +50,9 @@ description: ""
 
 | &nbsp; | &nbsp; | &nbsp; |
 | --- | --- | --- |
-| **PRIMARY 1A** | **MRS CALYNN TEH**  <br>[calynn\_chow\_wun\_yen@moe.edu.sg](mailto:calynn_chow_wun_yen@moe.edu.sg) |  |
+| **PRIMARY 1A** | **MRS CALYNN TEH**  <br>[calynn\_chow\_wun\_yen@moe.edu.sg](mailto:calynn_chow_wun_yen@moe.edu.sg) |**MDM YUE ZHUO**  <br>[yue_zhuo@moe.edu.sg](mailto:yue_zhuo@moe.edu.sg)  |
 | &nbsp; | &nbsp; | &nbsp; |
-| **PRIMARY 1B** | **MISS HUMAIRAH**  <br>[nur\_humairah\_hasim@moe.edu.sg](mailto:nur_humairah_hasim@moe.edu.sg) |  |
+| **PRIMARY 1B** | **MISS HUMAIRAH**  <br>[nur\_humairah\_hasim@moe.edu.sg](mailto:nur_humairah_hasim@moe.edu.sg) | **Mr JODEL CHOW**  <br>[jodel_chow_zuliang@moe.edu.sg](mailto:Jodel_Chow_Zuliang@moe.edu.sg)  |
 | &nbsp; | &nbsp; | &nbsp; |
 | **PRIMARY 1C** | **MDM SITI NURAIDAH**  <br>[siti\_nuraidah\_mukthar@moe.edu.sg](mailto:siti_nuraidah_mukthar@moe.edu.sg) | **MR JAN JOEL**  <br>[jan\_joel\_jayanta@moe.edu.sg](mailto:jan_joel_jayanta@moe.edu.sg) |
 | &nbsp; | &nbsp; | &nbsp; |
@@ -64,7 +64,7 @@ description: ""
 | &nbsp; | &nbsp; | &nbsp; |
 | **PRIMARY 1G** | **MS IVY YEO**  <br>[yeo\_ivy@moe.edu.sg](mailto:yeo_ivy@moe.edu.sg) | **MDM ROZANA**  <br>[rozana\_zainuri@moe.edu.sg](mailto:rozana_zainuri@moe.edu.sg) |
 | &nbsp; | &nbsp; | &nbsp; |
-| **PRIMARY 1H** | **MDM CHIA HWEE HIAN** <br>[chia\_hwee\_hian@moe.edu.sg](mailto:chia_hwee_hian@moe.edu.sg) | **MR HILARY ERIC NERVA**  <br>[hilary_eric_nerva_a@moe.edu.sg](mailto:hilary_eric_nerva_a@moe.edu.sg) |
+| **PRIMARY 1H** | **MDM CHIA HWEE HIAN** <br>[chia\_hwee\_hian@moe.edu.sg](mailto:chia_hwee_hian@moe.edu.sg) | **MISS FITHRIAH ANAS**  <br>[nur_fithriah_anas@moe.edu.sg](mailto:nur_fithriah_anas@moe.edu.sg) |
 | &nbsp; | &nbsp; | &nbsp; |
 | **PRIMARY 1I** | **MISS MEGHANA PRASAD**  <br>[meghana\_prasad@moe.edu.sg](mailto:meghana_prasad@moe.edu.sg) | **MRS SHRLINDA LEE**  <br>[see\_shu\_lan\_shrlinda@moe.edu.sg](mailto:see_shu_lan_shrlinda@moe.edu.sg) |
 
@@ -176,7 +176,7 @@ description: ""
 | **MISS LI HUIMIN**  <br>[li\_huimin@moe.edu.sg](mailto:li_huimin@moe.edu.sg) | **MISS GRACE SEAH**  <br>[seah\_pei\_ru\_grace@moe.edu.sg]() |**MS JOEY NG**  <br>[ng\_weini@moe.edu.sg](mailto:ng_weini@moe.edu.sg) |
 | **MISS LIM TIAN JING**  <br>[lim\_tian\_jing@moe.edu.sg](mailto:lim_tian_jing@moe.edu.sg) | **MDM TAN MEO CHER**  <br>[tan\_meo\_cher@moe.edu.sg](mailto:tan_meo_cher@moe.edu.sg) | **MDM GINA YEO**  <br>[yeo\_sim\_lian\_gina@moe.edu.sg](mailto:yeo_sim_lian_gina@moe.edu.sg) |
 | **MR TI TAT HUA**  <br>[ti\_tat\_hua@moe.edu.sg](mailto:ti_tat_hua@moe.edu.sg) | **MDM CHAN PEI LING**  <br>[chan\_pei\_ling@moe.edu.sg](mailto:chan_pei_ling@moe.edu.sg) | **MR NG PENG HWEE**  <br>[ng\_peng\_hwee@moe.edu.sg](mailto:ng_peng_hwee@moe.edu.sg) | 
-| **MR PEH KWANG ENG**  <br>[peh_kwang_eng@moe.edu.sg](mailto:peh_kwang_eng@moe.edu.sg) | |
+| **MR PEH KWANG ENG**  <br>[peh_kwang_eng@moe.edu.sg](mailto:peh_kwang_eng@moe.edu.sg) |**MR QUEK WU**  <br>[quek_wu@moe.edu.sg](mailto:quek_wu@moe.edu.sg) |**MDM YUE ZHUO**  <br>[yue_zhuo@moe.edu.sg](mailto:yue_zhuo@moe.edu.sg)  |
 
 #### MOTHER TONGUE - MALAY LANGUAGE
 
@@ -202,7 +202,7 @@ description: ""
 | **MS TAN PEI WEN**  <br>PE Teacher  <br>[tan\_pei\_wen\_b@moe.edu.sg](mailto:tan_pei_wen_b@moe.edu.sg) | **MR JAN JOEL**  <br>PE Teacher  <br>[jan\_joel\_jayanta@moe.edu.sg](mailto:jan_joel_jayanta@moe.edu.sg) |
 | **MR JUSTIN TAN**  <br>PE Teacher <br> [tan\_siow\_meng@moe.edu.sg](mailto:tan_siow_meng@moe.edu.sg) | **MR LAI WEE YEONG**  <br>PE Teacher  <br>[lai\_wee\_yeong@moe.edu.sg](mailto:lai_wee_yeong@moe.edu.sg) |
 | **MR MOHD ALI**  <br>PE Teacher  <br>[Mohamed\_Ali\_Mohamed\_Hanafiah@moe.edu.sg](mailto:Mohamed_Ali_Mohamed_Hanafiah@moe.edu.sg) | **MR MOHD HAZMIE**  <br>PE Teacher  <br>[mohammad_hazmie_jaafar@moe.edu.sg](mailto:mohammad_hazmie_jaafar@moe.edu.sg) |
-| **MR MOHD IMRAN**  <br>PE Teacher  <br>[mohammed_imran_faizal@moe.edu.sg](mailto:mohammed_imran_faizal@moe.edu.sg) |
+| **MR MOHD IMRAN**  <br>PE Teacher  <br>[mohammed_imran_faizal@moe.edu.sg](mailto:mohammed_imran_faizal@moe.edu.sg) |**Mr JODEL CHOW**   <br>PE Teacher  <br>[jodel_chow_zuliang@moe.edu.sg](mailto:Jodel_Chow_Zuliang@moe.edu.sg)  |
 
 #### ENGLISH MEDIUM TEACHING
 
@@ -210,6 +210,7 @@ description: ""
 | --- | --- |
 | **MR NICK WONG**  <br>[wong\_ngian\_fai@moe.edu.sg](mailto:wong_ngian_fai@moe.edu.sg) | **MDM CHERYL TAY**  <br>[tay\_soong\_huang@moe.edu.sg](mailto:tay_soong_huang@moe.edu.sg) |
 | **MRS ESTHER**  <br>[ng\_may\_ling\_esther@moe.edu.sg](mailto:ng_may_ling_esther@moe.edu.sg)|  **MS EUNICE KANG**  <br>[kang_gek_noy_eunice@moe.edu.sg](mailto:kang_gek_noy_eunice@moe.edu.sg) |
+|**MR HILARY ERIC NERVA**  <br>[hilary_eric_nerva_a@moe.edu.sg](mailto:hilary_eric_nerva_a@moe.edu.sg)|
 
 #### SEN OFFICER &amp; SCHOOL COUNSELLOR
 
