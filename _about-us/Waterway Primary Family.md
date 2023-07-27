@@ -64,7 +64,7 @@ description: ""
 | &nbsp; | &nbsp; | &nbsp; |
 | **PRIMARY 1G** | **MS IVY YEO**  <br>[yeo\_ivy@moe.edu.sg](mailto:yeo_ivy@moe.edu.sg) | **MDM ROZANA**  <br>[rozana\_zainuri@moe.edu.sg](mailto:rozana_zainuri@moe.edu.sg) |
 | &nbsp; | &nbsp; | &nbsp; |
-| **PRIMARY 1H** | **MDM CHIA HWEE HIAN** <br>[chia\_hwee\_hian@moe.edu.sg](mailto:chia_hwee_hian@moe.edu.sg) | **MR HILARY ERIC NERVA**  <br>[hilary_eric_nerva_a@moe.edu.sg](mailto:hilary_eric_nerva_a@moe.edu.sg) |
+| **PRIMARY 1H** | **MDM CHIA HWEE HIAN** <br>[chia\_hwee\_hian@moe.edu.sg](mailto:chia_hwee_hian@moe.edu.sg) | **MISS FITHRIAH ANAS**  <br>[nur_fithriah_anas@moe.edu.sg](mailto:nur_fithriah_anas@moe.edu.sg) |
 | &nbsp; | &nbsp; | &nbsp; |
 | **PRIMARY 1I** | **MISS MEGHANA PRASAD**  <br>[meghana\_prasad@moe.edu.sg](mailto:meghana_prasad@moe.edu.sg) | **MRS SHRLINDA LEE**  <br>[see\_shu\_lan\_shrlinda@moe.edu.sg](mailto:see_shu_lan_shrlinda@moe.edu.sg) |
 
@@ -210,6 +210,7 @@ description: ""
 | --- | --- |
 | **MR NICK WONG**  <br>[wong\_ngian\_fai@moe.edu.sg](mailto:wong_ngian_fai@moe.edu.sg) | **MDM CHERYL TAY**  <br>[tay\_soong\_huang@moe.edu.sg](mailto:tay_soong_huang@moe.edu.sg) |
 | **MRS ESTHER**  <br>[ng\_may\_ling\_esther@moe.edu.sg](mailto:ng_may_ling_esther@moe.edu.sg)|  **MS EUNICE KANG**  <br>[kang_gek_noy_eunice@moe.edu.sg](mailto:kang_gek_noy_eunice@moe.edu.sg) |
+|**MR HILARY ERIC NERVA**  <br>[hilary_eric_nerva_a@moe.edu.sg](mailto:hilary_eric_nerva_a@moe.edu.sg)|
 
 #### SEN OFFICER &amp; SCHOOL COUNSELLOR
 
