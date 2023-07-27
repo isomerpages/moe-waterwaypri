@@ -176,7 +176,7 @@ description: ""
 | **MISS LI HUIMIN**  <br>[li\_huimin@moe.edu.sg](mailto:li_huimin@moe.edu.sg) | **MISS GRACE SEAH**  <br>[seah\_pei\_ru\_grace@moe.edu.sg]() |**MS JOEY NG**  <br>[ng\_weini@moe.edu.sg](mailto:ng_weini@moe.edu.sg) |
 | **MISS LIM TIAN JING**  <br>[lim\_tian\_jing@moe.edu.sg](mailto:lim_tian_jing@moe.edu.sg) | **MDM TAN MEO CHER**  <br>[tan\_meo\_cher@moe.edu.sg](mailto:tan_meo_cher@moe.edu.sg) | **MDM GINA YEO**  <br>[yeo\_sim\_lian\_gina@moe.edu.sg](mailto:yeo_sim_lian_gina@moe.edu.sg) |
 | **MR TI TAT HUA**  <br>[ti\_tat\_hua@moe.edu.sg](mailto:ti_tat_hua@moe.edu.sg) | **MDM CHAN PEI LING**  <br>[chan\_pei\_ling@moe.edu.sg](mailto:chan_pei_ling@moe.edu.sg) | **MR NG PENG HWEE**  <br>[ng\_peng\_hwee@moe.edu.sg](mailto:ng_peng_hwee@moe.edu.sg) | 
-| **MR PEH KWANG ENG**  <br>[peh_kwang_eng@moe.edu.sg](mailto:peh_kwang_eng@moe.edu.sg) | |
+| **MR PEH KWANG ENG**  <br>[peh_kwang_eng@moe.edu.sg](mailto:peh_kwang_eng@moe.edu.sg) |**MR QUEK WU**  <br>[quek_wu@moe.edu.sg](mailto:quek_wu@moe.edu.sg) |
 
 #### MOTHER TONGUE - MALAY LANGUAGE
 
