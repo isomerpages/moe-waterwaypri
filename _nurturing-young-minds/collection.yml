@@ -2,7 +2,6 @@ collections:
   nurturing-young-minds:
     output: true
     order:
-      - Student Leadership @ WAPS.md
       - Nurturing Young Minds.md
       - Language Arts/.keep
       - Language Arts/Language Arts.md
@@ -14,3 +13,4 @@ collections:
       - Coding and Programming.md
       - Good Morning School.md
       - Information & Communications Technology (ICT).md
+      - Student Leadership @ WAPS.md
