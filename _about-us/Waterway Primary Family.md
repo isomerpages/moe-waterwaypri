@@ -50,7 +50,7 @@ description: ""
 
 | &nbsp; | &nbsp; | &nbsp; |
 | --- | --- | --- |
-| **PRIMARY 1A** | **MRS CALYNN TEH**  <br>[calynn\_chow\_wun\_yen@moe.edu.sg](mailto:calynn_chow_wun_yen@moe.edu.sg) |  |
+| **PRIMARY 1A** | **MRS CALYNN TEH**  <br>[calynn\_chow\_wun\_yen@moe.edu.sg](mailto:calynn_chow_wun_yen@moe.edu.sg) |**MDM YUE ZHUO**  <br>[yue_zhuo@moe.edu.sg](mailto:yue_zhuo@moe.edu.sg)  |
 | &nbsp; | &nbsp; | &nbsp; |
 | **PRIMARY 1B** | **MISS HUMAIRAH**  <br>[nur\_humairah\_hasim@moe.edu.sg](mailto:nur_humairah_hasim@moe.edu.sg) |  |
 | &nbsp; | &nbsp; | &nbsp; |
