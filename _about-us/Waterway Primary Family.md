@@ -226,6 +226,7 @@ description: ""
 | Administration Manager | **MRS JOAN CHUA** |
 | Administration Executive | **MISS PHUA LEE KOON** |
 | Administration Executive (MK) | **MDM NURANNISA** |
+| Administration Executive (Adjunct) | **MDM SOPIAH** |
 | Corporate Support Officer | **MDM SOH LENG LENG** |
 | Corporate Support Officer | **MDM SITI NUR HAJAR** |
 
