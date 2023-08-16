@@ -3,6 +3,11 @@ title: Waterway Primary Family
 permalink: /about-us/waterway-primary-family/
 description: ""
 ---
+
+
+
+![Staff Photo](/images/waterway%20ps%20-%20staff%20(fun)-8r.jpg)
+
 #### SCHOOL LEADERS
 
 | &nbsp; | &nbsp; |
