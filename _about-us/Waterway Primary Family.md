@@ -3,9 +3,6 @@ title: Waterway Primary Family
 permalink: /about-us/waterway-primary-family/
 description: ""
 ---
-
-
-
 ![Staff Photo](/images/waterway%20ps%20-%20staff%20(fun)-8r.jpg)
 
 #### SCHOOL LEADERS
@@ -103,7 +100,7 @@ description: ""
 | &nbsp; | &nbsp; | &nbsp; |
 | **PRIMARY 3B** | **MR JEREMY YEO** <br> [yeo\_shi\_feng\_jeremy@moe.edu.sg](mailto:yeo_shi_feng_jeremy@moe.edu.sg) | **MS CHUA QINYU**  <br>[chua\_qinyu@moe.edu.sg](mailto:chua_qinyu@moe.edu.sg) |
 | &nbsp; | &nbsp; | &nbsp; |
-| **PRIMARY 3C** | **MISS YEO SHU YUAN**  <br>[yeo\_shu\_yuan@moe.edu.sg](mailto:yeo_shu_yuan@moe.edu.sg) | **MDM JACQUELIN LAI**  <br>[lai_huijun_jacqueline@moe.edu.sg](mailto:lai_huijun_jacqueline@moe.edu.sg) |
+| **PRIMARY 3C** | **MISS YEO SHU YUAN**  <br>[yeo\_shu\_yuan@moe.edu.sg](mailto:yeo_shu_yuan@moe.edu.sg) | **MR QUEK WU**  <br>[quek_wu@moe.edu.sg](mailto:quek_wu@moe.edu.sg) |
 | &nbsp; | &nbsp; | &nbsp; |
 | **PRIMARY 3D** | **MR NG BAN HOCK**  <br>[ng\_ban\_hock@moe.edu.sg](mailto:ng_ban_hock@moe.edu.sg) | **MDM GOH QIANYI**  <br>[goh\_qian\_yi\_b@moe.edu.sg](mailto:goh_qian_yi_b@moe.edu.sg) |
 | &nbsp; | &nbsp; | &nbsp; |
@@ -182,6 +179,7 @@ description: ""
 | **MISS LIM TIAN JING**  <br>[lim\_tian\_jing@moe.edu.sg](mailto:lim_tian_jing@moe.edu.sg) | **MDM TAN MEO CHER**  <br>[tan\_meo\_cher@moe.edu.sg](mailto:tan_meo_cher@moe.edu.sg) | **MDM GINA YEO**  <br>[yeo\_sim\_lian\_gina@moe.edu.sg](mailto:yeo_sim_lian_gina@moe.edu.sg) |
 | **MR TI TAT HUA**  <br>[ti\_tat\_hua@moe.edu.sg](mailto:ti_tat_hua@moe.edu.sg) | **MDM CHAN PEI LING**  <br>[chan\_pei\_ling@moe.edu.sg](mailto:chan_pei_ling@moe.edu.sg) | **MR NG PENG HWEE**  <br>[ng\_peng\_hwee@moe.edu.sg](mailto:ng_peng_hwee@moe.edu.sg) | 
 | **MR PEH KWANG ENG**  <br>[peh_kwang_eng@moe.edu.sg](mailto:peh_kwang_eng@moe.edu.sg) |**MR QUEK WU**  <br>[quek_wu@moe.edu.sg](mailto:quek_wu@moe.edu.sg) |**MDM YUE ZHUO**  <br>[yue_zhuo@moe.edu.sg](mailto:yue_zhuo@moe.edu.sg)  |
+|**MDM TAN JOO YAN**  <br>[tan_joo_yan@moe.edu.sg](mailto:yue_zhuo@moe.edu.sg)  |||
 
 #### MOTHER TONGUE - MALAY LANGUAGE
 
