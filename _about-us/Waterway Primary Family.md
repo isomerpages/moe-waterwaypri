@@ -161,7 +161,7 @@ description: ""
 | &nbsp; | &nbsp; | &nbsp; |
 | **PRIMARY 6D** | **MISS SOOMATHY**  <br>[soomathy\_veeraya@moe.edu.sg](mailto:soomathy_veeraya@moe.edu.sg) | **MDM JULIANA**  <br>[juliana\_abdullah@moe.edu.sg](mailto:juliana_abdullah@moe.edu.sg) |
 | &nbsp; | &nbsp; | &nbsp; |
-| **PRIMARY 6E** | **DR IRWAN**  <br>[irwan\_shah@moe.edu.sg](mailto:irwan_shah@moe.edu.sg) | **MRS RAEBURN-SIM CHEY HOONG**  <br>[raeburn-sim\_chey\_hoong@moe.edu.sg](mailto:raeburn-sim_chey_hoong@moe.edu.sg) |
+| **PRIMARY 6E** | **DR IRWAN**  <br>[irwan\_shah@moe.edu.sg](mailto:irwan_shah@moe.edu.sg) | **MRS RAEBURN-SIM**  <br>[raeburn-sim\_chey\_hoong@moe.edu.sg](mailto:raeburn-sim_chey_hoong@moe.edu.sg) |
 | &nbsp; | &nbsp; | &nbsp; |
 | **PRIMARY 6F** | **MISS KANG KAI JUN** <br> [kang\_kai\_jun@moe.edu.sg](mailto:kang_kai_jun@moe.edu.sg) | **MR LAI WEE YEONG**  <br>[lai\_wee\_yeong@moe.edu.sg](mailto:lai_wee_yeong@moe.edu.sg) |
 | &nbsp; | &nbsp; | &nbsp; |
@@ -174,12 +174,11 @@ description: ""
 | &nbsp; | &nbsp; | &nbsp; |
 | --- | --- | --- |
 | **MDM TEO TZE YUEN**  <br>[teo\_tze\_yuen@moe.edu.sg](mailto:teo_tze_yuen@moe.edu.sg) | **MS CHIEW PUI MEI**  <br>[chiew\_pui\_mei@moe.edu.sg](mailto:chiew_pui_mei@moe.edu.sg) | **MISS CHEUNG KA YAN**  <br>[cheung\_ka\_yan@moe.edu.sg](mailto:cheung_ka_yan@moe.edu.sg) |
-| **MS CHUA QINYU**  <br>[chua\_qinyu@moe.edu.sg](mailto:chua_qinyu@moe.edu.sg) | **MDM TAN EI LIN**  <br>[tan\_ei\_lin@moe.edu.sg](mailto:tan_ei_lin@moe.edu.sg) | **MDM JACQUELINE LAI**  <br>[lai\_hui\_jun\_jacqueline@moe.edu.sg](mailto:lai_hui_jun_jacqueline@moe.edu.sg) |
+| **MS CHUA QINYU**  <br>[chua\_qinyu@moe.edu.sg](mailto:chua_qinyu@moe.edu.sg) | **MDM TAN EI LIN**  <br>[tan\_ei\_lin@moe.edu.sg](mailto:tan_ei_lin@moe.edu.sg) | **MDM TAN JOO YAN**  <br>[tan_joo_yan@moe.edu.sg](mailto:yue_zhuo@moe.edu.sg) |
 | **MISS LI HUIMIN**  <br>[li\_huimin@moe.edu.sg](mailto:li_huimin@moe.edu.sg) | **MISS GRACE SEAH**  <br>[seah\_pei\_ru\_grace@moe.edu.sg]() |**MS JOEY NG**  <br>[ng\_weini@moe.edu.sg](mailto:ng_weini@moe.edu.sg) |
 | **MISS LIM TIAN JING**  <br>[lim\_tian\_jing@moe.edu.sg](mailto:lim_tian_jing@moe.edu.sg) | **MDM TAN MEO CHER**  <br>[tan\_meo\_cher@moe.edu.sg](mailto:tan_meo_cher@moe.edu.sg) | **MDM GINA YEO**  <br>[yeo\_sim\_lian\_gina@moe.edu.sg](mailto:yeo_sim_lian_gina@moe.edu.sg) |
 | **MR TI TAT HUA**  <br>[ti\_tat\_hua@moe.edu.sg](mailto:ti_tat_hua@moe.edu.sg) | **MDM CHAN PEI LING**  <br>[chan\_pei\_ling@moe.edu.sg](mailto:chan_pei_ling@moe.edu.sg) | **MR NG PENG HWEE**  <br>[ng\_peng\_hwee@moe.edu.sg](mailto:ng_peng_hwee@moe.edu.sg) | 
 | **MR PEH KWANG ENG**  <br>[peh_kwang_eng@moe.edu.sg](mailto:peh_kwang_eng@moe.edu.sg) |**MR QUEK WU**  <br>[quek_wu@moe.edu.sg](mailto:quek_wu@moe.edu.sg) |**MDM YUE ZHUO**  <br>[yue_zhuo@moe.edu.sg](mailto:yue_zhuo@moe.edu.sg)  |
-|**MDM TAN JOO YAN**  <br>[tan_joo_yan@moe.edu.sg](mailto:yue_zhuo@moe.edu.sg)  |||
 
 #### MOTHER TONGUE - MALAY LANGUAGE
 
@@ -188,7 +187,7 @@ description: ""
 | **MDM MARTINI**  <br>[martini\_mahmood@moe.edu.sg](mailto:martini_mahmood@moe.edu.sg) | **MDM MARSIAH**  <br>[marsiah\_rohim@moe.edu.sg](mailto:marsiah_rohim@moe.edu.sg) |
 | **MISS NOOR HIDAYAH**  <br>[noor\_hidayah\_noordin@moe.edu.sg](mailto:noor_hidayah_noordin@moe.edu.sg) | **MDM ROZANA**  <br>[rozana\_zainuri@moe.edu.sg](mailto:rozana_zainuri@moe.edu.sg) |
 | **MR AIDIL**  <br>[muhammad\_aidil\_ishak@moe.edu.sg](mailto:muhammad_aidil_ishak@moe.edu.sg) | **MR MUKHLIS**  <br>[muhammad\_mukhlis\_dzulfitri@moe.edu.sg](mailto:muhammad_mukhlis_dzulfitri@moe.edu.sg) |
-| **MR MUHAMMAD DINIE**  <br>[muhammad\_dinie\_shaifullah@moe.edu.sg](mailto:muhammad_dinie_shaifullah@moe.edu.sg) | **MDM SITI AZIZAH**  <br>[siti_azizah_shaikh_abdullah@@moe.edu.sg](mailto:siti_azizah_shaikh_abdullah@@moe.edu.sg) | &nbsp; |
+| **MR MUHAMMAD DINIE**  <br>[muhammad\_dinie\_shaifullah@moe.edu.sg](mailto:muhammad_dinie_shaifullah@moe.edu.sg) | **MDM SITI AZIZAH**  <br>[siti_azizah_shaikh_abdullah@moe.edu.sg](mailto:siti_azizah_shaikh_abdullah@moe.edu.sg) | &nbsp; |
 
 #### MOTHER TONGUE - TAMIL LANGUAGE
 
@@ -229,13 +228,14 @@ description: ""
 | Administration Manager | **MRS JOAN CHUA** |
 | Administration Executive | **MISS PHUA LEE KOON** |
 | Administration Executive (MK) | **MDM NURANNISA** |
-| Administration Executive (Adjunct) | **MDM SOPIAH** |
+| Administration Executive (MK) | **MDM SOPIAH** |
 | Corporate Support Officer | **MDM SOH LENG LENG** |
 | Corporate Support Officer | **MDM SITI NUR HAJAR** |
 
 | OPERATIONAL | &nbsp; |
 | --- | --- |
 | Operations Manager | **MR BERNARD CHIA** |
+| Operations Manager | **MR WALLACE NG** |
 | Operations Support Officer | **MDM TAN TIAN HONG** |
 | Operations Support Officer | **MDM ROSILAH** |
 | Operations Support Officer | **MR CHOW PAK WAH** |
@@ -243,7 +243,7 @@ description: ""
 | Operations Support Officer | **MDM NGHIEM NU** |
 | Operations Support Officer (MK)| **MDM SALLY LIM** |
 | Operations Support Officer (MK)| **MDM KOK POOI LEE** |
-| Lab Assistant | **MDM JACQUELINE TAN** |
+| Lab Assistant | **MDM MISCHELLE BUSTAMANTE** |
 
 
 | ICT | &nbsp; |
