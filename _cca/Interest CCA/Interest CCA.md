@@ -4,7 +4,7 @@ permalink: /cca/interest-cca/
 description: ""
 third_nav_title: Interest CCA
 ---
-&gt;![](/images/CCA/CCA_02.jpg)
+![](/images/CCA/CCA_02.jpg)
 &gt;CCA
 
 ## Interest CCA
