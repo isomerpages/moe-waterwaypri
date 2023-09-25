@@ -4,7 +4,7 @@ permalink: /general-info/
 description: ""
 ---
 ![](/images/Images/contact_02.jpg)
-&gt;#### GENERAL INFORMATION
+**GENERAL INFORMATION**
 
 ## School Information
 
