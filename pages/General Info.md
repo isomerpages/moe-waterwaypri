@@ -3,8 +3,8 @@ title: General Info
 permalink: /general-info/
 description: ""
 ---
-&gt;![](/images/Images/contact_02.jpg)
-&gt;GENERAL INFORMATION
+![](/images/Images/contact_02.jpg)
+&gt;#### GENERAL INFORMATION
 
 ## School Information
 
@@ -47,7 +47,7 @@ description: ""
   <tr>
     <td>School Bus Transport Service<br></td>
     <td><b>Sin Bus Transport Services</b><br>
-Tel: 90080055 / 8686 1638(Mr Eric Ng)<br>
+Tel: 90080055 / 8686 1638 (Mr Eric Ng)<br>
 Email: <a href="mailto:ericng.sin@gmail.com" target="_blank" rel="noopener noreferrer">ericng.sin@gmail.com
 <br></a></td>
   </tr>
