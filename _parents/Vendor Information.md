@@ -36,9 +36,9 @@ Email: [contact@shanghai-uniforms.com](contact@shanghai-uniforms.com)
 #### School Bus Transport Service
 
 **SinBus (18) Services**  
-Tel: 8686 1638 / 90080055(Mr Eric Ng)<br>
+Tel: 8686 1638 / 90080055 (Mr Eric Ng)<br>
 Email: ericng.sin@gmail.com
-[School Bus Operator and Fare](/files/operatorandprice.pdf)
+<br> * [School Bus Operator and Fare 2024](/files/info%20sheet%20on%20school%20bus%20services%20(2024).pdf)
 
 #### Student Care Centre
 
