@@ -3,8 +3,8 @@ title: Vendor Information
 permalink: /parents/vendor-information/
 description: ""
 ---
-&gt;![](/images/Parents/parent.jpg)
-&gt;PARENTS
+![](/images/Parents/parent.jpg)
+**PARENTS**
 
 
 ## Vendor Information
