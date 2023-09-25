@@ -46,7 +46,10 @@ description: ""
   </tr>
   <tr>
     <td>School Bus Transport Service<br></td>
-    <td><b>Sin Bus Transport Services</b><br>Tel: 9753 3363 (Mr William Thia)</td>
+    <td><b>Sin Bus Transport Services</b><br>
+Tel: 8686 1638 / 90080055 (Mr Eric Ng)<br>
+Email: <a href="mailto:ericng.sin@gmail.com" target="_blank" rel="noopener noreferrer">ericng.sin@gmail.com
+<br></a></td>
   </tr>
   <tr>
     <td>Student Care Centre<br></td>
