@@ -3,8 +3,8 @@ title: General Info
 permalink: /general-info/
 description: ""
 ---
-&gt;![](/images/Images/contact_02.jpg)
-&gt;GENERAL INFORMATION
+![](/images/Images/contact_02.jpg)
+**GENERAL INFORMATION**
 
 ## School Information
 
@@ -19,7 +19,7 @@ description: ""
 | ---------- | ------------- | ---------- |
 | Nearest LRT Station: | **PE5 Kadaloor Station**  | |
 | Bus services: | **50, 381** | |
-| Tel: **6636 6880** | Fax: **6315 3451**|Email: |   
+| Tel: **6636 6880** | Fax: **6315 3451**|Email: [Waterway_PS@moe.edu.sg](Waterway_PS@moe.edu.sg) |   
 
 ### Operating Hours
 ##### General Office
@@ -47,7 +47,7 @@ description: ""
   <tr>
     <td>School Bus Transport Service<br></td>
     <td><b>Sin Bus Transport Services</b><br>
-Tel: 8686 1638 / 90080055 (Mr Eric Ng)<br>
+Tel: 90080055 / 8686 1638 (Mr Eric Ng)<br>
 Email: <a href="mailto:ericng.sin@gmail.com" target="_blank" rel="noopener noreferrer">ericng.sin@gmail.com
 <br></a></td>
   </tr>
