@@ -19,7 +19,7 @@ description: ""
 | ---------- | ------------- | ---------- |
 | Nearest LRT Station: | **PE5 Kadaloor Station**  | |
 | Bus services: | **50, 381** | |
-| Tel: **6636 6880** | Fax: **6315 3451**|Email: |   
+| Tel: **6636 6880** | Fax: **6315 3451**|Email: [Waterway_PS@moe.edu.sg](Waterway_PS@moe.edu.sg) |   
 
 ### Operating Hours
 ##### General Office
