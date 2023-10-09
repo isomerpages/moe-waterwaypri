@@ -20,8 +20,8 @@ description: ""
 | --- | --- |
 | **MS PRIYADAKSHINI**<br>HOD English<br>[priyadakshini\_surendiran\_s@moe.edu.sg](mailto:priyadakshini_surendiran_s@moe.edu.sg) | **MRS WONG YAN RU**  <br>HOD Science  <br>[lim\_yan\_ru@moe.edu.sg](mailto:lim_yan_ru@moe.edu.sg) | 
 | **MR NG BAN HOCK**  <br>HOD Student Management  <br>[ng\_ban\_hock@moe.edu.sg](mailto:ng_ban_hock@moe.edu.sg)| **MRS GINA OW**  <br>HOD Mother Tongue  <br>[gina\_ow@moe.edu.sg](mailto:gina_ow@moe.edu.sg) | 
-| **MS NEO CHAI LEE**  <br>HOD CCE  <br>[neo\_chai\_lee@moe.edu.sg](mailto:neo_chai_lee@moe.edu.sg) | **MR SAMY LIM**  <br>HOD PE  <br>[lim\_chee\_kwee\_samy@moe.edu.sg](mailto:lim_chee_kwee_samy@moe.edu.sg) | 
-| **MS KAREN CHAN**  <br>School Staff Developer  <br>[karen\_oi\_chan@moe.edu.sg](mailto:karen_oi_chan@moe.edu.sg) | |
+| **MS NEO CHAI LEE**  <br>HOD CCE  <br>[neo\_chai\_lee@moe.edu.sg](mailto:neo_chai_lee@moe.edu.sg) | **MS KAREN CHAN**  <br>School Staff Developer  <br>[karen\_oi\_chan@moe.edu.sg](mailto:karen_oi_chan@moe.edu.sg) | 
+| 
 
 #### YEAR HEAD &amp; ASSISTANT YEAR HEAD
 
@@ -212,7 +212,7 @@ description: ""
 | --- | --- |
 | **MR NICK WONG**  <br>[wong\_ngian\_fai@moe.edu.sg](mailto:wong_ngian_fai@moe.edu.sg) | **MDM CHERYL TAY**  <br>[tay\_soong\_huang@moe.edu.sg](mailto:tay_soong_huang@moe.edu.sg) |
 | **MRS ESTHER**  <br>[ng\_may\_ling\_esther@moe.edu.sg](mailto:ng_may_ling_esther@moe.edu.sg)|  **MS EUNICE KANG**  <br>[kang_gek_noy_eunice@moe.edu.sg](mailto:kang_gek_noy_eunice@moe.edu.sg) |
-|**MR HILARY ERIC NERVA**  <br>[hilary_eric_nerva_a@moe.edu.sg](mailto:hilary_eric_nerva_a@moe.edu.sg)|
+
 
 #### SEN OFFICER &amp; SCHOOL COUNSELLOR
 
