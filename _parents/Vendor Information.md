@@ -40,7 +40,7 @@ Liaison Officer: **Mr Kuah Kek Keng / Mdm Angel Siti Norbaya Binte Abu Bakar**
 Handphone No: **9777 1535** / **8129 1472** <br>
 Email address: [kerben1726@icloud.com](kerben1726@icloud.com) / [angel_yusof@hotmail.com](angel_yusof@hotmail.com)
 <br> 
-* [School Bus Operator and Fare 2024](/files/info%20sheet%20on%20school%20bus%20services%20(2024).pdf)<br>
+* [School Bus Operator and Fare 2024](/files/info%20sheet%20on%20school%20bus%20services%20(2024)_New.pdf)<br>
 * [2024 School Bus Request Form](/files/waps%20school%20bus%20request%20form%20for%202024.pdf)
 
 #### Student Care Centre
