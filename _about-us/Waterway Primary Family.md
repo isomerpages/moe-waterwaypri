@@ -249,5 +249,6 @@ description: ""
 | ICT | &nbsp; |
 | --- | --- |
 | ICT Manager | **MR KOH CHEE WEI** |
+| ICT Associate | **MR DE SILVA CEDRIC HENRY** |
 | Desktop Engineer | **MR SHAFIQ** |
 | Desktop Engineer | **MR SARA** |
