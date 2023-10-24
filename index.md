@@ -16,6 +16,9 @@ sections:
         - title: NOMINATION
           description: PAT & OYEA 2024
           url: /PATOYEA2024
+        - title: MONEYSENSE PROGRAMME
+          description: Financial Literacy Programme
+          url: ""
         - title: General info
           description: ""
           url: /general-info
