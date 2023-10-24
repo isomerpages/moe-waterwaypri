@@ -18,7 +18,7 @@ sections:
           url: /PATOYEA2024
         - title: MONEYSENSE PROGRAMME
           description: Financial Literacy Programme
-          url: ""
+          url: /moneysense
         - title: General info
           description: ""
           url: /general-info
