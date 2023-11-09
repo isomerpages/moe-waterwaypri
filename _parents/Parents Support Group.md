@@ -2,6 +2,7 @@
 title: Parents Support Group
 permalink: /parents/parents-support-group/
 description: ""
+variant: markdown
 ---
 ![](/images/Parents/parent.jpg)
 
@@ -19,13 +20,8 @@ A Parent Support Group based on trust, passion and professionalism, guided by th
 
 
 ## Join Us!
-Come join us as a Parent Volunteer and be a part of Waterway Primary School family!
-
-Scan the QR Code or Click on this link below and complete the form.
-
-![](/images/Parents/psg_qr.png)
-[https://go.gov.sg/waps-pv-registration-2023](https://go.gov.sg/waps-pv-registration-2023)
-
+Come join us as a Parent Volunteer and be a part of Waterway Primary School family!<br>
+###### [Register Here](https://form.gov.sg/652e5a9a23d6530012fa850b)
 
 
 ### PSG EXCO 2023
