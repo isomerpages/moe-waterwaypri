@@ -20,8 +20,7 @@ A Parent Support Group based on trust, passion and professionalism, guided by th
 
 
 ## Join Us!
-Come join us as a Parent Volunteer and be a part of Waterway Primary School family!<br>
-###### [Register Here](https://form.gov.sg/652e5a9a23d6530012fa850b)
+Come join us as a Parent Volunteer and be a part of Waterway Primary School family! [Register Here](https://form.gov.sg/652e5a9a23d6530012fa850b)
 
 
 ### PSG EXCO 2023
