@@ -5,8 +5,11 @@ variant: markdown
 description: ""
 ---
 
+![](/images/Sales_collection_of_books_and_uniforms_2024.jpg)
+Shanghai School Uniforms website: [https://shanghai-uniforms.com ](https://shanghai-uniforms.com/ )<br>BL Marketing website: [https://www.blmarketing.sg ](https://www.blmarketing.sg )
 
-![](/images/Sales_collection_of_books_and_uniforms.jpg)##### Primary One
+#### School Booklist<br>
+##### Primary One
 
 [P1 Booklist](/files/2024%20Booklist/WAP_2024_P1.pdf)
 
