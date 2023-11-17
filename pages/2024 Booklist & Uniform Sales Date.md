@@ -4,7 +4,9 @@ permalink: /2024bookuni/
 variant: markdown
 description: ""
 ---
-##### Primary One
+
+
+![](/images/Sales_collection_of_books_and_uniforms.jpg)##### Primary One
 
 [P1 Booklist](/files/2024%20Booklist/WAP_2024_P1.pdf)
 
