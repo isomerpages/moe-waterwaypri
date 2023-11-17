@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - 2024 P1 Orientation.md
       - 2024 Booklist & Uniform Sales Date.md
       - Nomination for PAT and OYEA 2024.md
       - Cyber Wellness Tips for Parents.md
