@@ -2,14 +2,6 @@
 title: Forms
 permalink: /parents/forms/
 description: ""
+variant: tiptap
 ---
->![](/images/Parents/parent.jpg)
->PARENTS
-
-
-## Forms
-*   [School Waiting List](https://go.gov.sg/wapswaitlistform)
-*   [Group Personal Accident Insurance for Students](https://studentgpa.incomegroupins.com.sg/#/)
-*   [LOA Application](https://go.gov.sg/loawaterwaypri)
-*   [Agreement Form for Use of Smart Device](/files/Forms/Agreement%20Form%20for%20Use%20of%20Smart%20Device.pdf)
-*   [2024 School Bus Request Form](/files/waps%20school%20bus%20request%20form%20for%202024.pdf)
+<blockquote><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Parents/parent.jpg"></div><p>PARENTS</p></blockquote><h2>Forms</h2><ul data-tight="true" class="tight"><li><p><a href="https://go.gov.sg/wapswaitlistform" rel="noopener noreferrer nofollow" target="_blank">School Waiting List</a></p></li><li><p><a href="https://studentgpa.incomegroupins.com.sg/#/" rel="noopener noreferrer nofollow" target="_blank">Group Personal Accident Insurance for Students</a></p></li><li><p><a href="https://go.gov.sg/loawaterwaypri" rel="noopener noreferrer nofollow" target="_blank">LOA Application</a></p></li><li><p><a href="https://go.gov.sg/smartdeviceinwaps" rel="noopener noreferrer nofollow" target="_blank">Agreement Form for Use of Smart Device</a></p></li><li><p><a href="/files/waps%20school%20bus%20request%20form%20for%202024.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 School Bus Request Form</a></p></li></ul><p></p>
