@@ -19,10 +19,10 @@ variant: markdown
 
 | &nbsp; | &nbsp; |
 | --- | --- |
-| **MS PRIYADAKSHINI**<br>HOD English<br>[priyadakshini\_surendiran\_s@moe.edu.sg](mailto:priyadakshini_surendiran_s@moe.edu.sg) | **MRS WONG YAN RU**  <br>HOD Science  <br>[lim\_yan\_ru@moe.edu.sg](mailto:lim_yan_ru@moe.edu.sg) | 
+| **MR CHENG HAK KEONG**<br>HOD Math<br>[cheng_hak_keong@moe.edu.sg](mailto:cheng_hak_keong@moe.edu.sg) | **MRS WONG YAN RU**  <br>HOD Science  <br>[lim\_yan\_ru@moe.edu.sg](mailto:lim_yan_ru@moe.edu.sg) | 
 | **MR NG BAN HOCK**  <br>HOD Student Management  <br>[ng\_ban\_hock@moe.edu.sg](mailto:ng_ban_hock@moe.edu.sg)| **MRS GINA OW**  <br>HOD Mother Tongue  <br>[gina\_ow@moe.edu.sg](mailto:gina_ow@moe.edu.sg) | 
-| **MS NEO CHAI LEE**  <br>HOD CCE  <br>[neo\_chai\_lee@moe.edu.sg](mailto:neo_chai_lee@moe.edu.sg) | **MS KAREN CHAN**  <br>School Staff Developer  <br>[karen\_oi\_chan@moe.edu.sg](mailto:karen_oi_chan@moe.edu.sg) | 
-| 
+| **MS NEO CHAI LEE**  <br>HOD CCE  <br>[neo\_chai\_lee@moe.edu.sg](mailto:neo_chai_lee@moe.edu.sg) | **MS KAREN CHAN**  <br>School Staff Developer  <br>[karen\_oi\_chan@moe.edu.sg](mailto:karen_oi_chan@moe.edu.sg) |
+| **MR LIM TICK KIT**  <br>HOD ICT  <br>[lim\_tick\_kit@moe.edu.sg](mailto:lim_tick_kit@moe.edu.sg) |  |
 
 #### YEAR HEAD &amp; ASSISTANT YEAR HEAD
 
@@ -37,7 +37,7 @@ variant: markdown
 | &nbsp; | &nbsp; |
 | --- | --- |
 | **DR IRWAN**  <br>Level Head English Language  <br>[irwan\_shah@moe.edu.sg](mailto:irwan_shah@moe.edu.sg) | **MRS GIN CHAN**  <br>Subject Head Aesthetics  <br>[chua\_gim\_peng\_gin@moe.edu.sg](mailto:chua_gim_peng_gin@moe.edu.sg) |
-| **MISS LIM TIAN JING**  <br>Level Head Mother Tongue  <br>[lim\_tian\_jing@moe.edu.sg](mailto:lim_tian_jing@moe.edu.sg) | **MS CHUA QINYU**  <br>Subject Head ICT  <br>[chua\_qinyu@moe.edu.sg](mailto:chua_qinyu@moe.edu.sg) |
+| **MISS LIM TIAN JING**  <br>Level Head Mother Tongue  <br>[lim\_tian\_jing@moe.edu.sg](mailto:lim_tian_jing@moe.edu.sg) | **MR WANG CHOON KIAT**  <br>Subject Head CCA  <br>[wang_choon_kiat@moe.edu.sg](mailto:wang_choon_kiat@moe.edu.sg) |
 | **MS CLARA ONG**  <br>Subject Head National Education / Social Studies  <br>[ong\_fong\_yan\_clara@moe.edu.sg](mailto:ong_fong_yan_clara@moe.edu.sg) | |
 
 #### TEACHER LEADERS &amp; COORDINATORS
