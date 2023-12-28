@@ -174,18 +174,17 @@ variant: markdown
 
 | &nbsp; | &nbsp; | &nbsp; |
 | --- | --- | --- |
-| **MDM TEO TZE YUEN**  <br>[teo\_tze\_yuen@moe.edu.sg](mailto:teo_tze_yuen@moe.edu.sg) | **MS CHIEW PUI MEI**  <br>[chiew\_pui\_mei@moe.edu.sg](mailto:chiew_pui_mei@moe.edu.sg) | **MISS CHEUNG KA YAN**  <br>[cheung\_ka\_yan@moe.edu.sg](mailto:cheung_ka_yan@moe.edu.sg) |
-| **MS CHUA QINYU**  <br>[chua\_qinyu@moe.edu.sg](mailto:chua_qinyu@moe.edu.sg) | **MDM TAN EI LIN**  <br>[tan\_ei\_lin@moe.edu.sg](mailto:tan_ei_lin@moe.edu.sg) | **MDM TAN JOO YAN**  <br>[tan_joo_yan@moe.edu.sg](mailto:yue_zhuo@moe.edu.sg) |
-| **MISS LI HUIMIN**  <br>[li\_huimin@moe.edu.sg](mailto:li_huimin@moe.edu.sg) | **MISS GRACE SEAH**  <br>[seah\_pei\_ru\_grace@moe.edu.sg]() |**MS JOEY NG**  <br>[ng\_weini@moe.edu.sg](mailto:ng_weini@moe.edu.sg) |
-| **MISS LIM TIAN JING**  <br>[lim\_tian\_jing@moe.edu.sg](mailto:lim_tian_jing@moe.edu.sg) | **MDM TAN MEO CHER**  <br>[tan\_meo\_cher@moe.edu.sg](mailto:tan_meo_cher@moe.edu.sg) | **MDM GINA YEO**  <br>[yeo\_sim\_lian\_gina@moe.edu.sg](mailto:yeo_sim_lian_gina@moe.edu.sg) |
-| **MR TI TAT HUA**  <br>[ti\_tat\_hua@moe.edu.sg](mailto:ti_tat_hua@moe.edu.sg) | **MDM CHAN PEI LING**  <br>[chan\_pei\_ling@moe.edu.sg](mailto:chan_pei_ling@moe.edu.sg) | **MR NG PENG HWEE**  <br>[ng\_peng\_hwee@moe.edu.sg](mailto:ng_peng_hwee@moe.edu.sg) | 
-| **MR PEH KWANG ENG**  <br>[peh_kwang_eng@moe.edu.sg](mailto:peh_kwang_eng@moe.edu.sg) |**MR QUEK WU**  <br>[quek_wu@moe.edu.sg](mailto:quek_wu@moe.edu.sg) |**MDM YUE ZHUO**  <br>[yue_zhuo@moe.edu.sg](mailto:yue_zhuo@moe.edu.sg)  |
+| **MDM TEO TZE YUEN**  <br>[teo\_tze\_yuen@moe.edu.sg](mailto:teo_tze_yuen@moe.edu.sg) | **MDM YUE ZHUO**  <br>[yue_zhuo@moe.edu.sg](mailto:yue_zhuo@moe.edu.sg) | **MISS CHEUNG KA YAN**  <br>[cheung\_ka\_yan@moe.edu.sg](mailto:cheung_ka_yan@moe.edu.sg) |
+| **MDM CHAN PEI LING**  <br>[chan\_pei\_ling@moe.edu.sg](mailto:chan_pei_ling@moe.edu.sg) | **MDM TAN EI LIN**  <br>[tan\_ei\_lin@moe.edu.sg](mailto:tan_ei_lin@moe.edu.sg) | **MDM TAN JOO YAN**  <br>[tan_joo_yan@moe.edu.sg](mailto:yue_zhuo@moe.edu.sg) |
+| **MDM GINA YEO**  <br>[yeo\_sim\_lian\_gina@moe.edu.sg](mailto:yeo_sim_lian_gina@moe.edu.sg) | **MISS GRACE SEAH**  <br>[seah\_pei\_ru\_grace@moe.edu.sg]() |**MS JOEY NG**  <br>[ng\_weini@moe.edu.sg](mailto:ng_weini@moe.edu.sg) |
+| **MISS LIM TIAN JING**  <br>[lim\_tian\_jing@moe.edu.sg](mailto:lim_tian_jing@moe.edu.sg) | **MDM TAN MEO CHER**  <br>[tan\_meo\_cher@moe.edu.sg](mailto:tan_meo_cher@moe.edu.sg) |  **MR TI TAT HUA**  <br>[ti\_tat\_hua@moe.edu.sg](mailto:ti_tat_hua@moe.edu.sg)|
+| **MR PEH KWANG ENG**  <br>[peh_kwang_eng@moe.edu.sg](mailto:peh_kwang_eng@moe.edu.sg) |**MR QUEK WU**  <br>[quek_wu@moe.edu.sg](mailto:quek_wu@moe.edu.sg) |
 
 #### MOTHER TONGUE - MALAY LANGUAGE
 
 | &nbsp; | &nbsp; |
 | --- | --- |
-| **MDM MARTINI**  <br>[martini\_mahmood@moe.edu.sg](mailto:martini_mahmood@moe.edu.sg) | **MDM MARSIAH**  <br>[marsiah\_rohim@moe.edu.sg](mailto:marsiah_rohim@moe.edu.sg) |
+| **MDM MARTINI**  <br>[martini\_mahmood@moe.edu.sg](mailto:martini_mahmood@moe.edu.sg) | **MISS ASIYAH BINTE SHEIK MOHAMED ISMAIL**  <br>[asiyah_sheik_mohamed_ism@moe.edu.sg](mailto:asiyah_sheik_mohamed_ism@moe.edu.sg)|
 | **MISS NOOR HIDAYAH**  <br>[noor\_hidayah\_noordin@moe.edu.sg](mailto:noor_hidayah_noordin@moe.edu.sg) | **MDM ROZANA**  <br>[rozana\_zainuri@moe.edu.sg](mailto:rozana_zainuri@moe.edu.sg) |
 | **MR AIDIL**  <br>[muhammad\_aidil\_ishak@moe.edu.sg](mailto:muhammad_aidil_ishak@moe.edu.sg) | **MR MUKHLIS**  <br>[muhammad\_mukhlis\_dzulfitri@moe.edu.sg](mailto:muhammad_mukhlis_dzulfitri@moe.edu.sg) |
 | **MR MUHAMMAD DINIE**  <br>[muhammad\_dinie\_shaifullah@moe.edu.sg](mailto:muhammad_dinie_shaifullah@moe.edu.sg) | **MDM SITI AZIZAH**  <br>[siti_azizah_shaikh_abdullah@moe.edu.sg](mailto:siti_azizah_shaikh_abdullah@moe.edu.sg) | &nbsp; |
@@ -202,6 +201,7 @@ variant: markdown
 | --- | --- |
 | **MDM SHARON LEE**  <br>Art &amp; Craft  <br>[lee\_sing\_lan@moe.edu.sg](mailto:lee_sing_lan@moe.edu.sg) | **MISS SITI RAUDHAH**  <br>Art &amp; Craft  <br>[Siti\_Raudhah\_Imran@moe.edu.sg](mailto:Siti_Raudhah_Imran@moe.edu.sg) |
 | **MDM HARIATI**  <br>Art &amp; Craft  <br>[hariati\_abdul\_hamid@moe.edu.sg](mailto:hariati_abdul_hamid@moe.edu.sg) | **MDM CHIA HWEE HIAN** <br> Music  <br>[chia\_hwee\_hian@moe.edu.sg](mailto:chia_hwee_hian@moe.edu.sg) |
+|**MS ONG MING WEI RACHEL** <br> Music  <br>[ong_ming_wei@moe.edu.sg](mailto:ong_ming_wei@moe.edu.sg)| **MISS HO YONG YING**  <br>PE Teacher  <br>[ho_yong_ying@moe.edu.sg ](mailto:ho_yong_ying@moe.edu.sg ) |
 | **MS TAN PEI WEN**  <br>PE Teacher  <br>[tan\_pei\_wen\_b@moe.edu.sg](mailto:tan_pei_wen_b@moe.edu.sg) | **MR JAN JOEL**  <br>PE Teacher  <br>[jan\_joel\_jayanta@moe.edu.sg](mailto:jan_joel_jayanta@moe.edu.sg) |
 | **MR JUSTIN TAN**  <br>PE Teacher <br> [tan\_siow\_meng@moe.edu.sg](mailto:tan_siow_meng@moe.edu.sg) | **MR LAI WEE YEONG**  <br>PE Teacher  <br>[lai\_wee\_yeong@moe.edu.sg](mailto:lai_wee_yeong@moe.edu.sg) |
 | **MR MOHD ALI**  <br>PE Teacher  <br>[Mohamed\_Ali\_Mohamed\_Hanafiah@moe.edu.sg](mailto:Mohamed_Ali_Mohamed_Hanafiah@moe.edu.sg) | **MR MOHD HAZMIE**  <br>PE Teacher  <br>[mohammad_hazmie_jaafar@moe.edu.sg](mailto:mohammad_hazmie_jaafar@moe.edu.sg) |
@@ -211,8 +211,7 @@ variant: markdown
 
 | &nbsp; | &nbsp; |
 | --- | --- |
-| **MR NICK WONG**  <br>[wong\_ngian\_fai@moe.edu.sg](mailto:wong_ngian_fai@moe.edu.sg) | **MDM CHERYL TAY**  <br>[tay\_soong\_huang@moe.edu.sg](mailto:tay_soong_huang@moe.edu.sg) |
-| **MRS ESTHER**  <br>[ng\_may\_ling\_esther@moe.edu.sg](mailto:ng_may_ling_esther@moe.edu.sg)|  **MS EUNICE KANG**  <br>[kang_gek_noy_eunice@moe.edu.sg](mailto:kang_gek_noy_eunice@moe.edu.sg) |
+| **MDM CHERYL TAY**  <br>[tay\_soong\_huang@moe.edu.sg](mailto:tay_soong_huang@moe.edu.sg) |**MS EUNICE KANG**  <br>[kang_gek_noy_eunice@moe.edu.sg](mailto:kang_gek_noy_eunice@moe.edu.sg) |
 
 
 #### SEN OFFICER &amp; SCHOOL COUNSELLOR
@@ -236,7 +235,6 @@ variant: markdown
 | OPERATIONAL | &nbsp; |
 | --- | --- |
 | Operations Manager | **MR BERNARD CHIA** |
-| Operations Manager | **MR WALLACE NG** |
 | Operations Support Officer | **MDM TAN TIAN HONG** |
 | Operations Support Officer | **MDM ROSILAH** |
 | Operations Support Officer | **MR CHOW PAK WAH** |
@@ -249,7 +247,6 @@ variant: markdown
 
 | ICT | &nbsp; |
 | --- | --- |
-| ICT Manager | **MR KOH CHEE WEI** |
 | ICT Associate | **MR DE SILVA CEDRIC HENRY** |
 | Desktop Engineer | **MR SHAFIQ** |
 | Desktop Engineer | **MR SARA** |
