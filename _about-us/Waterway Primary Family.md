@@ -28,9 +28,9 @@ variant: markdown
 
 | &nbsp; | &nbsp; |
 | --- | --- |
-| **MRS SHRLINDA LEE**  <br>Year Head (P1)  <br>[see\_shu\_lan\_shrlinda@moe.edu.sg](mailto:see_shu_lan_shrlinda@moe.edu.sg) | **MRS MITCHELLE WONG**  <br>Assistant Year Head (P2)  <br>[mitchelle\_wong@moe.edu.sg](mailto:mitchelle_wong@moe.edu.sg) |
-| **MDM NAZREENA**  <br>Assistant Year Head (P4)  <br>[nazreena\_abdul\_rahman@moe.edu.sg](mailto:nazreena_abdul_rahman@moe.edu.sg) | **MR JASON YEW**  <br>Assistant Year Head (P5)  <br>[yew\_kwok\_ming@moe.edu.sg](mailto:yew_kwok_ming@moe.edu.sg) |
-| **MR WONG BENG YU**  <br>Year Head (P6)  <br>[wong\_beng\_yu@moe.edu.sg](mailto:wong_beng_yu@moe.edu.sg) ||
+| **MRS SHRLINDA LEE**  <br>Year Head (P1)  <br>[see\_shu\_lan\_shrlinda@moe.edu.sg](mailto:see_shu_lan_shrlinda@moe.edu.sg) | **MDM FOO WAN QING**  <br>Year Head (P2)  <br>[foo_wan_qing@moe.edu.sg](mailto:foo_wan_qing@moe.edu.sg) | 
+| **MISS KANG KAI JUN**   <br>Assistant Year Head (P3) <br> [kang\_kai\_jun@moe.edu.sg](mailto:kang_kai_jun@moe.edu.sg) | **MDM NAZREENA**  <br>Assistant Year Head (P4)  <br>[nazreena\_abdul\_rahman@moe.edu.sg](mailto:nazreena_abdul_rahman@moe.edu.sg) 
+| **MR AIDIL**   <br>Assistant Year Head (P5)  <br>[muhammad\_aidil\_ishak@moe.edu.sg](mailto:muhammad_aidil_ishak@moe.edu.sg)| **MRS MITCHELLE WONG**  <br>Assistant Year Head (P6)  <br>[mitchelle\_wong@moe.edu.sg](mailto:mitchelle_wong@moe.edu.sg) |
 
 #### LEVEL/SUBJECT HEAD
 
