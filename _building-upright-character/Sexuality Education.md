@@ -36,7 +36,7 @@ This means encouraging healthy, heterosexual marriages and stable nuclear family
 
 You may click&nbsp;[**here**](https://go.gov.sg/moe-sexuality-education)&nbsp;for more information on MOE Sexuality Education.&nbsp;
 
-##### Overview of Waterway Primary School’s Sexuality Education Programme for 2023
+##### Overview of Waterway Primary School’s Sexuality Education Programme for 2024
 
 4.  Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click&nbsp;[**here**](https://go.gov.sg/moe-sexuality-education-scope)&nbsp;for more information on the scope of Sexuality Education in the school curriculum. 
 <br>
@@ -145,7 +145,7 @@ the feelings of infatuation and learn to behave maturely towards each other.</td
 ##### Information for Parents
 
 8.  Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers.&nbsp;
-9.  Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable&nbsp;[**here**](https://go.gov.sg/wapsed2024). The completed opt-out form is to be submitted by 16/02/2024.  
+9.  Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable&nbsp;[**here**](https://go.gov.sg/wapssed2024). The completed opt-out form is to be submitted by 16/02/2024.  
       
     
 10.  Parents can contact the school at 6636 6880 or [waterway_ps@moe.edu.sg](waterway_ps@moe.edu.sg) for discussion or to seek clarification about the school’s sexuality education programme.
