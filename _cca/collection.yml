@@ -1,0 +1,25 @@
+collections:
+  cca:
+    output: true
+    order:
+      - Modular CCA/.keep
+      - Modular CCA/Modular CCA.md
+      - Modular CCA/Swimsafer Programme.md
+      - Modular CCA/Info Communication & Media.md
+      - Modular CCA/Coding & Robotics.md
+      - Modular CCA/Speech & Drama.md
+      - Modular CCA/Digital Art.md
+      - Modular CCA/Outdoor & Life Skill.md
+      - Interest CCA/.keep
+      - Interest CCA/Interest CCA.md
+      - Interest CCA/P3 CCA Experience.md
+      - Interest CCA/Basketball.md
+      - Interest CCA/Brass Band.md
+      - Interest CCA/Coding and Robotics, Info comm and Media (CRIM).md
+      - Interest CCA/Modern Dance.md
+      - Interest CCA/Football.md
+      - Interest CCA/Choir.md
+      - Interest CCA/Cub Scouts.md
+      - Interest CCA/International Chess.md
+      - Interest CCA/Art Club.md
+      - Interest CCA/Table Tennis.md

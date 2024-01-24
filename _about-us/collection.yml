@@ -1,0 +1,10 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - Principal's Message.md
+      - Our Story.md
+      - Mission, Vision, Values.md
+      - School Crest.md
+      - School Philosophy & Direction.md
+      - Waterway Primary Family.md

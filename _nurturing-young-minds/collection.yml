@@ -1,0 +1,16 @@
+collections:
+  nurturing-young-minds:
+    output: true
+    order:
+      - Nurturing Young Minds.md
+      - Language Arts/.keep
+      - Language Arts/Language Arts.md
+      - Language Arts/Orators@Waterway.md
+      - Language Arts/Literature.md
+      - Mathematics.md
+      - Science.md
+      - Mother Tongue Languages.md
+      - Coding and Programming.md
+      - Good Morning School.md
+      - Information & Communications Technology (ICT).md
+      - Student Leadership @ WAPS.md

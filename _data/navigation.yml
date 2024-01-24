@@ -1,0 +1,81 @@
+logo: /images/Images/logo.png
+links:
+  - title: About Us
+    url: /about-us/principals-message
+    sublinks:
+      - title: Principal's Message
+        url: /about-us/principals-message
+      - title: Our Story
+        url: /about-us/our-story
+      - title: Mission, Vision, Values
+        url: /about-us/mission-vision-values
+      - title: School Crest
+        url: /about-us/school-crest
+      - title: School Philosophy & Direction
+        url: /about-us/school-philosophy-n-direction
+      - title: Facilities
+        url: /about-us/facilities
+      - title: Waterway Primary Family
+        url: /about-us/waterway-primary-family
+  - title: Learning Experiences
+    url: /learning-experiences
+    sublinks:
+      - title: Nurturing Young Minds
+        url: /learning-experiences/nurturing-young-minds
+      - title: Building Upright Character
+        url: /learning-experiences/building-upright-character
+      - title: Celebrations
+        url: /learning-experiences/celebrations
+      - title: Our Students, Our Pride
+        url: /learning-experiences/our-students-our-pride-students-channel
+  - title: Distinctive Programmes
+    collection: distinctive-programmes
+  - title: CCA
+    collection: cca
+  - title: Parents
+    url: /parents/parents-support-group
+    sublinks:
+      - title: Parents Say....
+        url: https://waterwaypri.wixsite.com/wwps-openhouse/parents-say-1
+      - title: P6 Students & Parents Say
+        url: https://waterwaypri.wixsite.com/wwps-openhouse/2021-p6-cohort-students-parents-say
+      - title: Vendor Information
+        url: /parents/vendor-information
+      - title: Forms
+        url: /parents/forms
+      - title: Parents Support Group
+        url: /parents/parents-support-group
+      - title: Minister Wong's Media Visit
+        url: /parents/minister-wongs-media-visit
+      - title: "@parentwith.moesg"
+        url: https://www.instagram.com/parentingwith.moesg/
+      - title: Family Matters
+        url: /parents/family-matters
+      - title: Newsletter
+        url: /newsletter
+      - title: MoneySense Programme
+        url: /parents/moneysense/
+      - title: E-Open House 2023
+        url: https://waterwaypri.wixsite.com/wwps-openhouse
+      - title: Virtual Tour
+        url: https://app.lapentor.com/sphere/waterway-primary-school
+      - title: PAT & OYEA 2024 Nomination
+        url: /patoyea2024/
+      - title: 2024 P1 Orientation
+        url: /2024p1orientation
+      - title: 2024 P1 Booklist & Uniform
+        url: 2024bookuni
+  - title: STUDENTS
+    url: /permalink
+    sublinks:
+      - title: Student Learning Space (SLS)
+        url: https://vle.learning.moe.edu.sg
+      - title: OPAC (School Library)
+        url: https://schoolibrary.moe.edu.sg/waterwaypri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME
+  - title: Contact
+    url: /contact/visitor-information
+    sublinks:
+      - title: Visitor Information
+        url: /contact/visitor-information
+  - title: MK@Waterway
+    url: https://mkwaterway.wixsite.com/mkwy
