@@ -37,8 +37,8 @@ Email: [contact@shanghai-uniforms.com](contact@shanghai-uniforms.com)
 #### School Bus Transport Service
 
 **SinBus (18) Services**  
-Liaison Officer: **Mr Yusuf** <br>
-Handphone No: **9660 8804** <br>
+Liaison Officer: **Mr Yusof** <br>
+Handphone No: **8025 3471** <br>
 Email address:  [waterway18transport@outlook.com](waterway18transport@outlook.com)
 <br>
 * [School Bus Operator and Fare 2024](/files/info%20sheet%20on%20school%20bus%20services%20(2024)_new.pdf)<br>
