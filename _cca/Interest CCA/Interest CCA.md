@@ -3,6 +3,7 @@ title: Interest CCA
 permalink: /cca/interest-cca/
 description: ""
 third_nav_title: Interest CCA
+variant: markdown
 ---
 ![](/images/CCA/CCA_02.jpg)
 &gt;CCA
@@ -41,4 +42,4 @@ Uniformed Group. Interest CCA provides learning opportunities for students to de
 If you have any queries with regards to your child’s/ward’s Interest CCA, do contact the respective CCA teacher
 in-charge via email. 
 
-For general enquiries about CCA, you may contact Mrs Gin Chan at [chua_gim_peng_gin@moe.edu.sg](chua_gim_peng_gin@moe.edu.sg)
+For general enquiries about CCA, you may contact Mr Wang Choon Kiat at [wang_choon_kiat@moe.edu.sg](chua_gim_peng_gin@moe.edu.sg)
