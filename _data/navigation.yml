@@ -78,4 +78,13 @@ links:
       - title: Visitor Information
         url: /contact/visitor-information
   - title: MK@Waterway
+    url: /permalink
+    sublinks:
+      - title: Home
+        url: https://mkwaterway.wixsite.com/mkwy
+      - title: About
+        url: https://mkwaterway.wixsite.com/mkwy/about
+      - title: FAQ
+        url: https://mkwaterway.wixsite.com/mkwy/faq
+  - title: MK@Waterway
     url: https://mkwaterway.wixsite.com/mkwy
