@@ -103,7 +103,7 @@ for:</p>
 <p><strong>S</strong>marter &amp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Key Message</strong>
+<p><strong>Key Message</strong> 
 <br>I can train my brain to do it better.</p>
 </td>
 </tr>
