@@ -23,7 +23,7 @@ sections:
           description: ""
           url: /general-info
       title: FOR WORK, FOR LIFE, FOR FUTURE
-      subtitle: A Lifelong Learner, A Gracious Citizen
+      subtitle: A Culture of Excellence and Care in a Caring and Enabling Environment
       background: /images/Banner.gif
       variant: center
       size: md
