@@ -1029,7 +1029,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>MDM GIN CHUA</strong> 
+<p><strong>MRS GIN CHAN</strong> 
 <br><a href="mailto:chua_gim_peng_gin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_gim_peng_gin@moe.edu.sg</a>
 </p>
 </td>
