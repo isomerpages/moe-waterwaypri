@@ -485,7 +485,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>MISS NG SOH HUEY</strong> 
+<p><strong>Ms Su Wen Hui</strong> 
+<br><a href="mailto:su_wenhui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">su_wenhui@moe.edu.sg</a> 
 <br>
 </p>
 </td>
@@ -544,13 +545,13 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>MDM FOO WAN QING</strong> 
-<br><a href="mailto:rajeswary_ramakrishna@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">foo_wan_qing@moe.edu.sg</a>
+<p><strong>Ms Chee Elynne</strong> 
+<br><a href="mailto:Chee_elynne@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Chee_elynne@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>MDM PATRICIA LE'FORT</strong> 
-<br><a href="mailto:patricia_mary_do_lefort@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">patricia_mary_do_lefort@moe.edu.sg</a>
+<p><strong>MDM FOO WAN QING</strong> 
+<br><a href="mailto:rajeswary_ramakrishna@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">foo_wan_qing@moe.edu.sg</a>
 </p>
 </td>
 </tr>
