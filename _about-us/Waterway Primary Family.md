@@ -284,7 +284,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Miss Hema Devi D/O Utrakumaran</strong> 
+<p><strong>MS HEMA DEVI D/O UTRAKUMARAN</strong>
 <br><a href="mailto:Hema_Devi_Utrakumaran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Hema_Devi_Utrakumaran@moe.edu.sg</a>
 </p>
 </td>
@@ -485,7 +485,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Su Wen Hui</strong> 
+<p><strong>MS SU WEN HUI</strong> 
 <br><a href="mailto:su_wenhui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">su_wenhui@moe.edu.sg</a> 
 <br>
 </p>
@@ -545,7 +545,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Chee Elynne</strong> 
+<p><strong>MS CHEE ELYNNE</strong> 
 <br><a href="mailto:Chee_elynne@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Chee_elynne@moe.edu.sg</a>
 </p>
 </td>
@@ -651,7 +651,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>MDM CHERYL TAY</strong>
+<p><strong>MDM CHERYL TAY</strong> 
 <br><a href="mailto:tay_soong_huang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tay_soong_huang@moe.edu.sg</a>
 </p>
 </td>
@@ -799,7 +799,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>MDM MELISSA CHAN</strong>
+<p><strong>MDM MELISSA CHAN</strong> 
 <br><a href="heng_may_may_melissa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">heng_may_may_melissa@moe.edu.sg</a>
 </p>
 </td>
@@ -869,7 +869,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>MR JOHN CHAN</strong>
+<p><strong>MR JOHN CHAN</strong> 
 <br><a href="john_chan_hoe_chye@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">john_chan_hoe_chye@moe.edu.sg</a>
 </p>
 </td>
@@ -970,7 +970,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>MISS SU WEN HUI</strong>
+<p><strong>MISS SU WEN HUI</strong> 
 <br><a href="su_wenhui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">su_wenhui@moe.edu.sg</a>
 </p>
 </td>
@@ -1284,7 +1284,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>MR TAN WEI QIANG</strong>
+<p><strong>MR TAN WEI QIANG</strong> 
 <br><a href="mailto:tan_wei_qiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_wei_qiang@moe.edu.sg</a>
 </p>
 </td>
