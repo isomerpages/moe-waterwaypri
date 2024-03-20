@@ -348,7 +348,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>MISS MAHTANI JULIANA DEEPAK</strong>
+<p><strong>MISS MAHTANI JULIANA DEEPAK</strong> 
 <br><a href="mailto:Mahtani_Juliana_Deepak@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mahtani_Juliana_Deepak@moe.edu.sg</a>
 </p>
 </td>
@@ -603,8 +603,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>MELISSA TEO</strong>
-<br><a href="mailto:tan_juay_cheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_juay_cheng@moe.edu.sg</a>
+<p><strong>MS MELISSA TEO</strong> 
+<br><a href="mailto:teo_juay_cheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_juay_cheng@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -630,7 +630,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>MDM SINHA SHILPA</strong>
+<p><strong>MDM SINHA SHILPA</strong> 
 <br><a href="mailto:sinha_shilpa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sinha_shilpa@moe.edu.sg</a>
 </p>
 </td>
@@ -683,7 +683,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>MR WANG CHOON KIAT</strong>
+<p><strong>MR WANG CHOON KIAT</strong> 
 <br><a href="wang_choon_kiat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wang_choon_kiat@moe.edu.sg</a>
 </p>
 </td>
@@ -821,7 +821,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>MRS RAEBURN</strong>
+<p><strong>MRS RAEBURN</strong> 
 <br><a href="mailto:mohammed_imran_faizal@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">raeburn_sim_chey_hoong@moe.edu.sg</a>
 </p>
 </td>
@@ -837,7 +837,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>MR RAIHAN SUDIRMAN</strong>
+<p><strong>MR RAIHAN SUDIRMAN</strong> 
 <br><a href="mailto:muhamad_raihan_sudirman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhamad_raihan_sudirman@moe.edu.sg</a>
 </p>
 </td>
