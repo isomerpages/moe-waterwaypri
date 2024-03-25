@@ -720,8 +720,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>MR CHRISTOPHER SHAU</strong> 
-<br><a href="mailto:christopher_shau@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">christopher_shau@moe.edu.sg</a>
+<p><strong>MR MUHD MUKHLIS</strong>
+<br><a href="mailto:muhammad_mukhlis_dzulfitri@moe.edusg" rel="noopener noreferrer nofollow" target="_blank">muhammad_mukhlis_dzulfitri@moe.edu.sg</a>
 </p>
 </td>
 </tr>
