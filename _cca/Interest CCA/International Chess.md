@@ -3,20 +3,31 @@ title: International Chess
 permalink: /cca/interest-cca/international-chess/
 description: ""
 third_nav_title: Interest CCA
+variant: markdown
 ---
 >![](/images/CCA/CCA_02.jpg)
 >CCA
 
 ## International Chess
 
-The International Chess Club in Waterway Primary School started in 2020. With the sessions conducted by a professional chess trainer, chess enthusiasts are taught how to play the game well by picking up strategies and new moves during the training sessions. In addition, through the rich and active discussions with the trainer, they also improve their skills of chess openings, attacking or defending tactics, end-game strategies etc. Members get opportunities to spar with each other in mini tournaments held within the club, applying and putting what they have learnt into practice.
+The International Chess Club is a co-curricular activity where students learn and develop their skills in playing chess. It provides an opportunity for students to enhance their strategic thinking, analytical abilities, and engage in friendly competition through the game of chess.
+
+The Chess Club aligns with the school's objectives of nurturing higher-order thinking skills, analytical abilities, and intellectual growth through extracurricular activities.
 
 ![](/images/CCA/Int%20Chess%201.jpg)
 
-The club aims to develop and hone higher-order thinking and analytical skills in students. With more experiences in playing the game, chess players will possess a good memory to recall and analyse their opponent’s past and current moves. Having evaluated the actions and consequences, they then anticipate the opponent’s next move before making theirs.  
+Participation in the Chess Club helps students develop skills such as:
+- Strategic thinking and problem-solving
+- Memory and recall
+- Anticipation and planning
+- Concentration and focus
+- Sportsmanship and respect
 
-Through this CCA, we want to build self-confidence and instill the values of discipline, respect, integrity and resilience in our members. With these qualities, we believe that they can strive for excellence and challenge themselves in any difficult situation or competition.
+The activity enhances academic learning by improving logical reasoning, decision-making, and critical thinking abilities, which are valuable across various subjects.
 
+Being part of the Chess Club fosters personal growth and character development by instilling qualities such as discipline, respect, integrity, resilience, and self-confidence, which align with the school's values, RISE. In addition, the Chess Club encourages its senior members to take on leadership roles, mentoring and guiding the younger members, fostering a supportive and collaborative learning environment.
+
+The Chess Club conducts weekly training sessions facilitated by a professional chess trainer. During these sessions, members learn various strategies, openings, tactics, and end-game techniques. Active discussions and analyses of chess positions take place, allowing participants to deepen their understanding of the game. Additionally, mini tournaments are organized within the club, providing opportunities for members to apply their newly acquired skills in practice matches.
 
 ![](/images/CCA/Int%20Chess%202.jpg)
 
@@ -27,5 +38,5 @@ Through this CCA, we want to build self-confidence and instill the values of dis
 ![](/images/CCA/Int%20Chess%205.jpg)
 
 
-For the very first time, the Chess Club sent two teams, to represent Waterway Primary School in the National School Team Championship 2022 in September. The two teams were made up of selected Primary 4 and Primary 5 students who have shown qualities such as resilience and self-confidence during the CCA sessions. 
-The Girls’ Team (Under 11) managed to clinch the 2nd Position in the East Zone.
+In September 2023, we sent two groups – Boys’ Team(U12 Open) and Girls’ Team (U12 Girls) - to represent the school in the 74th National Teams Championship. We are proud to announce that the Girls’ team had clinched 3rd place in the East Zone category.
+
