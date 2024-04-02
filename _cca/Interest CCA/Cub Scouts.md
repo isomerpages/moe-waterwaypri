@@ -57,7 +57,6 @@ Our Cub Scouts participated in the North Area End-of-Year Camp, “Camp Jolly Ro
 
 ### Frank Cooper Sands Award
 
-![](/images/CCA/hike_2.jpg)
+![](/images/CCA/Cub_Scouts/picture6.jpg)
 
 We are honoured to receive the Gold Award for Frank Cooper Sands Award. This prestigious award is given to the unit which demonstrates excellence in realising the scouting mission and upholding the scout promise and law.
-
