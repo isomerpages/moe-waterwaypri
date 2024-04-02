@@ -13,8 +13,7 @@ variant: markdown
 
 The mission of Scouting is to contribute to the education of young people, through a value system based on the Scout Promise and Law. This supports the vision of building a better world where people are self-fulfilled as individuals and play a constructive role in society.  
 
-![](/images/CCA/Cub%20Scouts%201.jpg)
-
+![](/images/CCA/Cub%20Scouts/Picture1.png)
 
 At Waterway Primary School, guided by our school values of Responsibility, Integrity, Self – Discipline and Empathy, we aim to infuse fun into the scouting sessions while imparting important skills and knowledge. Self-developmental activities are well-entrenched components of the scouting programme to encourage the element of “Fun & Discovery” amongst the Cubs.
 
