@@ -11,7 +11,7 @@ variant: markdown
 
 ## Choir
 
-![](/images/CCA/Choir%201.jpg)
+![](/images/CCA/Choir/Final_rehearsal_before_their_performance.jpg)
 
 Waterway Primary School Choir was established in January 2019 as a platform to promote healthy vocal awareness and the joy in choral singing amongst our students.  
 
