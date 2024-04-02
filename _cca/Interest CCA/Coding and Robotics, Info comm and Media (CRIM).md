@@ -54,3 +54,7 @@ Info communication and Media – Minecraft Education; Thunkable and Python codin
 
 **Special events:** <br>
 Competition: First Lego League; National Primary Games Creation and Coding Competition; National Infocomm League; World Robo Olympiad Singapore
+
+![](/images/CCA/CRIM/Waterway_Primary_CRIM_PNG_FORMAT.png)
+
+
