@@ -17,28 +17,7 @@ Waterway Primary School Choir was established in January 2019 as a platform to p
 
   
 
-In Choir, the students are exposed to a variety of languages, cultures, rhythmic patterns and music around the world through a variety of song repertoire. The vocal training activities are conducted in a creative way to motivate the students to:
-
-  
-
-\-&nbsp;&nbsp; &nbsp;practise proper breathing techniques
-
-  
-
-\-&nbsp;&nbsp; &nbsp;use the larynx efficiently
-
-  
-
-\-&nbsp;&nbsp; &nbsp;engage in proper body posture
-
-  
-
-\-&nbsp;&nbsp; &nbsp;develop self-confidence for performance
-
-  
-
-\-&nbsp;&nbsp; &nbsp;strengthen pitching and do simple note-reading
-
+Students are taught various singing techniques and are exposed to a wide range of songs. They are also provided with opportunities to develop the school values of responsibility and self-discipline as they balance schoolwork and regular choir practices, learn new skills, languages and songs. They are also required to display the values of empathy and integrity where they need to work together as a team and help one another to improve in their vocal techniques.
 
 <img src="/images/CCA/Choir%202.jpg" style="width:70%">
 
@@ -46,18 +25,11 @@ In Choir, the students are exposed to a variety of languages, cultures, rhythmic
 
 <img src="/images/CCA/Choir%204.jpg" style="width:70%">
 
-
-
-
 As junior choristers, the students will have opportunities to develop leadership skills through guiding new choir members and leading vocal warm up and sectional practices (soprano and alto).
-
-
-
 
 <img src="/images/CCA/Choir%205.jpg" style="width:85%">
 		 
 As senior choristers, the students will work alongside with their peers and teachers to manage administrative and logistical processes for rehearsals and performances.
-
 
 **Regular Activities:** <br>
 In Choir, the students are exposed to a variety of languages, cultures, rhythmic patterns and music around the world through a variety of song repertoire. The vocal training activities are conducted in a creative way to motivate the students to: <br>
