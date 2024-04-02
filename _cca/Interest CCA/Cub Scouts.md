@@ -49,4 +49,15 @@ Our Cub Scouts brought their contributions a step forward and fostered a stronge
 
 ![](/images/CCA/hike_1.jpg)
 
+### Camping
+
+Our Cub Scouts participated in the North Area End-of-Year Camp, “Camp Jolly Roger” organized by the Singapore Scouts Association. As the name suggests, the theme of the camp is to build and develop a relationship between a diverse group of people through some fun and collaborative activities. Hence strengthening their unity. Students honed their core Scouting Skills like outdoor cooking and knotting and develop core socioemotional competencies like leadership and teamwork.
+
 ![](/images/CCA/hike_2.jpg)
+
+### Frank Cooper Sands Award
+
+![](/images/CCA/hike_2.jpg)
+
+We are honoured to receive the Gold Award for Frank Cooper Sands Award. This prestigious award is given to the unit which demonstrates excellence in realising the scouting mission and upholding the scout promise and law.
+
