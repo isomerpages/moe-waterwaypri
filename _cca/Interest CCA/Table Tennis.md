@@ -15,11 +15,13 @@ The Table Tennis Co-Curricular Activity (CCA) at our school is distinguished by 
 
 Throughout the routine CCA sessions, members actively partake in structured practice play aimed at refining their dexterity, rapid reflexes, speed, power, and agility. These meticulously designed drills serve to cultivate both physical and mental development, fostering an environment where members are encouraged to exceed their personal limits. 
 
-Within the Table Tennis CCA, dedication and enthusiasm for the sport are instilled in our members, contributing to the cultivation of essential values such as discipline, teamwork, and sportsmanship. 
-
 <img src="/images/CCA/Table%20Tennis%201.jpg" style="width:75%">
 
+Within the Table Tennis CCA, dedication and enthusiasm for the sport are instilled in our members, contributing to the cultivation of essential values such as discipline, teamwork, and sportsmanship. 
+
 The primary objective of our Table Tennis Co-Curricular Activity (CCA) is to seamlessly integrate holistic education through the avenue of sports. Our focus is on fostering a comprehensive development approach that encompasses skill enhancement, character building, and the cultivation of qualities essential for students to adeptly navigate and thrive in an ever-evolving world.
+
+
 
 Within this framework, students are afforded a nurturing and supportive learning environment, facilitating their transformation into confident and proactive contributors to both their immediate community and the broader society.
 
@@ -66,7 +68,5 @@ Taking care of table tennis equipment, including regular checks on paddles, ball
 •	Matthias Ang (Captain) <br>
 •	Victoria Lau Kai Xi (Vice Captain) <br>
 •	Kaeyen Yeo Jia He (Vice Captain)
-
-
 
 
