@@ -20,20 +20,20 @@ Our students are encouraged to express themselves through meaningful art making,
 
 In Art Club, our students also develop a deeper appreciation and understanding of various artistic influences from around the world through exposure to different art styles, trends, techniques, and cultures.
 
-**Regular Activities:** <br>
+**Regular Activities:**<br>
 •	Drawing - Students practice their observational drawing skills and experiment with different drawing techniques. <br>
 •	Painting – Students explore various painting mediums such as acrylics, watercolours, or mixed media. <br>
 •	Sculpture - Sculptural activities using clay, papier mache, wire, found objects, or other sculpting materials. These activities may involve sculpting figurative or abstract forms or creating relief sculptures. <br>
 •	Collage and mixed-media - Students combine various materials and techniques to create collage, assemblage, or experiment with different art materials such as found objects, textiles, or paper.
 
 **Special Events:** <br>
-•	Created posters on the theme of ‘Sustainability’ for Punggol 21 CC (2021 &amp; 2022). These posters were displayed on the notice boards of a selected block of flats around the Punggol neighbourhood.
+Created posters on the theme of ‘Sustainability’ for Punggol 21 CC (2021 &amp; 2022). These posters were displayed on the notice boards of a selected block of flats around the Punggol neighbourhood.
 
 **Past Achievements:** <br>
 •	Participated in SYF Art Exhibition 2021 – Certificate of Recognition <br>
 •	Participated in SYF Art Exhibition 2023 – Certificate of Recognition
 
-**Student Leaders:** <br>
+**Student Leaders**: <br>
 •	Suveshna 6H (Chairman) <br>
 •	Emel 5C (Vice-Chairman)
 
