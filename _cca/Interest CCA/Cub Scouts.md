@@ -11,11 +11,9 @@ variant: markdown
 
 ## Cub Scouts
 
-![](/images/CCA/Cub%20Scouts%201.jpg)
-
-The Cub Scouts Uniformed Group officially started in 2020. The members of the club meet each session to learn more about the scouting mission and participate in the many activities.  
-
 The mission of Scouting is to contribute to the education of young people, through a value system based on the Scout Promise and Law. This supports the vision of building a better world where people are self-fulfilled as individuals and play a constructive role in society.  
+
+![](/images/CCA/Cub%20Scouts%201.jpg) 
 
 At Waterway Primary School, guided by our school values of Responsibility, Integrity, Self – Discipline and Empathy, we aim to infuse fun into the scouting sessions while imparting important skills and knowledge. Self-developmental activities are well-entrenched components of the scouting programme to encourage the element of “Fun & Discovery” amongst the Cubs.
 
@@ -44,11 +42,10 @@ Each progress badge comprises tests for Citizenship, Leadership and Responsibili
 
 The highest award in this section is the Akela Award, where a Cub Scout must hold the Gold Arrow and pass specific proficiency badges, show general knowledge of scouting and successfully complete an interview with the District Commissioner.
 
-### North Area Founder’s Day Hike
+### Hiking
 
 
-In commemoration of Founder’s Day, the Singapore Scouts Association has organised a Founder’s Day Celebration Hike.
-Our Cub Scouts took part in the hike, which they walked in the neighbourhood with different scouts from the area, strengthening the unique fellowship of Scouting.
+Our Cub Scouts brought their contributions a step forward and fostered a stronger sense of community by participating in the North Area’s Founders’ Day Hike in the neighbourhood, organized by the Singapore Scouts Association and met other scouts from the area, strengthening the unique fellowship of scouting from the experience. 
 
 ![](/images/CCA/hike_1.jpg)
 
