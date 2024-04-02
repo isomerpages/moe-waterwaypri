@@ -10,7 +10,7 @@ variant: markdown
 
 ## Basketball
 
-![](/images/CCA/Basketball/Jersey_Black.jpg)
+<img src="/images/CCA/Basketball/Jersey_Black.jpg" style="width:60%;">
 
 Basketball Interest CCA for Primary 3 to Primary 6 students provides them with an enriching experience in sports and exposes them to the game of basketball. Students are taught the rules of basketball and will develop basic basketball skills so that they are equipped to play the game. They will also enjoy the health benefits of being active through sports. 
 
