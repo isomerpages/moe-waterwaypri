@@ -57,11 +57,18 @@ In Waterway Primary, Student Leadership Development permeates across all student
 
 The tiered approach is aligned to the guiding principle of inclusivity and the belief that every student can be a leader. Hence, intentional development of our student leaders will be carried out to achieve the desired student outcomes. The school aims to develop leadership qualities for all students in a tiered approach for all levels through CCE-FTGP lessons, MCCA modules, co-curriculum experiences, and leadership appointments.
 
-
+![](/images/Nurturing%20Young%20Minds/Student_Leadership_Tri_Chart.png)
 
 | Tiers | Tiers	Student Leader Groups	Roles &amp; Responsibility | Roles &amp; Responsibility |
 | -------- | -------- | -------- |
-| Tier 4     | **Head Prefect <br>Vice Head Prefects Prefects <br>Mentors (Former Head &amp; Vice Head Prefects)<br> Prefects Level Heads** | •	Plan and Co-ordinate school events, activities, and programmes.<br>•	Planning and mentor duties.<br>•	Advocate of the positive school culture.     |
-| Tier 3     | **Prefects:**<br>•	Primary 4 to Primary 6 Prefects<br>Junior Prefects<br>•	Primary 3 &amp; Primary 4 Junior Prefects | •	Support school events &amp; programmes such as recess activities, school events &amp; school celebrations.<br>•	Maintain safety and discipline of the school through duties such as morning duty and recess duty.<br>•	Advocate of the positive school culture.      |
-| Tier 2     | **Class Leaders:**<br>•	Class Monitor<br>•	Assistant Class Monitor<br>•	Group Leaders<br>•	Line Leaders<br>•	Green Leaders<br>•	Class Library Leaders<br>**Peer Support Leaders<br>CCA Leaders**| •	Responsible for routine tasks at class, CCA &amp; subject specific level.<br>•	Responsible for maintaining &amp; ensuring good order in the class and during CCA<br>•	Promote positive culture in class and CCA<br>•	Support teachers to plan duty roster in class and CCA |
+| Tier 4     | **• Head Prefect <br>• Vice Head Prefects Prefects <br>• Mentors (Former Head &amp; Vice Head Prefects)<br>• Head PSL <br>• Vice Heads PSL <br>• Head of Events &amp; Planning <br> • Head of Publication** | •	Plan and Co-ordinate school events, activities, and programmes.<br>• Leading student-initiated projects and events.<br>•	Planning and mentor duties.<br>•	Advocate of the positive school culture.     |
+| Tier 3     | **• Prefects<br>• Junior Prefects<br>• Peer Support Leaders (PSL)<br>• Junior PSL<br>• CCA Leaders<br>• NE Ambassadors<br>• Eco Ambassadors<br>• Music Ambassadors<br>** | •	Support school events &amp; programmes such as recess activities, school events, school celebrations and CCAs.<br>•	Maintain safety, discipline and wellbeing of the school through different roles and duties.<br>•	Advocate of the positive school culture.      |
+| Tier 2     | **Class Leaders:**<br>•	Class Monitor<br>•	Assistant Class Monitor<br>•	English Champion<br>•	Math Champion<br>•	Eco Champion (P1 &amp; P2)<br>•	Science Champion (P3 to P6)<br>•	Mother Tongue Champion<br>•	PE Champion<br>•	Aesthetic Champion| •	Responsible for routine tasks at class &amp; subject specific level.<br>•	Responsible for maintaining &amp; ensuring orderliness in the class<br>•	Promote positive culture and environment in class<br>•	Support teachers to plan duty roster and keep notice boards updated in class |
 | Tier 1     | **All Waterway Primary Students**    | Students uphold the School Values (RISE) at their personal best.    |
+
+
+
+
+
+
+
