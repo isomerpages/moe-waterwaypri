@@ -15,16 +15,20 @@ The Science department plays a pivotal role in nurturing young minds, fostering 
 
 Our dedicated team of educators is committed to providing a stimulating and engaging learning environment where curiosity knows no bounds. Science is not just a subject; it's a gateway to understanding the fascinating phenomena that shape our universe. From the tiniest particles to the vastness of outer space, we embark on an exciting journey of discovery with our students.
 
-![](/images/Nurturing%20Young%20Minds/Science/P1_Mass_Walk_1.jpg)
+![](/images/Nurturing%20Young%20Minds/Science/E2K_Science1.jpg)
 
 Our mission is to instill a lifelong love for learning and inquiry, laying the foundation for critical thinking and problem-solving skills that extend far beyond the classroom. We believe that every child is a natural scientist, eager to explore, question, and make sense of the world around them.
 
 We go beyond textbooks, encouraging hands-on experiments, interactive projects, and real-world applications. We strive to create an atmosphere where students feel empowered to ask "why" and "how" as they embark on the adventure of scientific exploration.
 
+![](/images/Nurturing%20Young%20Minds/Science/Science_Centre_LJ23.jpg)
+
 **Department Goals and how they help achieve 21 CC:**
 Outline the key goals and objectives for the academic year or term.
 
 We aim to inspire a love for learning by nurturing the innate curiosity within each student. We strive to create an environment where science becomes a gateway to endless possibilities, encouraging students to question, explore, and analyze the world around them. Through engaging experiences and interactive learning, we aim to instill a lifelong commitment to scientific inquiry and critical thinking.
+
+![](/images/Nurturing%20Young%20Minds/Science/Science_Play.jpg)
 
 **Goals:** <br>
 1.	Cultivate Curiosity: We are dedicated to awakening and sustaining the natural curiosity present in every student. Through intriguing experiments, hands-on activities, and thought-provoking questions, we aim to ignite a genuine interest in the wonders of science. <br>
@@ -33,7 +37,7 @@ We aim to inspire a love for learning by nurturing the innate curiosity within e
 4.	Encourage Exploration: We strive to create an environment that fosters exploration and experimentation. Students are provided with opportunities to explore various scientific concepts, conduct experiments, and apply their knowledge to real-world scenarios. <br>
 5.	Inspire a Lifelong Love for Science: Our ultimate goal is to inspire a lifelong love for science. By providing engaging and meaningful learning experiences, we aim to create a foundation that goes beyond academic achievement, instilling a genuine passion for the scientific process and discovery.
 
-![](/images/Nurturing%20Young%20Minds/Science/P1_Mass_Walk_2.jpg)
+![](/images/Nurturing%20Young%20Minds/Science/Science_Centre_LJ.jpg)
 
 We aim to empower students not only with scientific knowledge but also with the skills and mindset needed to approach the world with curiosity, inquiry, and critical thinking—qualities essential for success in learning.
 
@@ -75,6 +79,8 @@ Tay Hsiao Wen Christine<br>
 Gan Ai Ling Irene<br>
 Wang Choon Kiat<br>
 Ong Shi Min Celine
+
+![](/images/Nurturing%20Young%20Minds/Science/Sungei_Buloh_Wetlands_LJ1.jpg)
 
 **Student Achievements:** <br>
 Share noteworthy student achievements and success stories.
