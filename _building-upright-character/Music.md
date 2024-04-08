@@ -2,32 +2,29 @@
 title: Music
 permalink: /learning-experiences/building-upright-character/music/
 description: ""
+variant: markdown
 ---
 &gt;![](/images/Learning%20Experiences/learning-experiences_banner.jpg)
 &gt;LEARNING EXPERIENCES
 
 ## Music
 
-**Aim: Enjoyment and appreciation for all, talent and interest development for some**
+The Music department believes that every child possesses innate musical qualities to be harnessed and developed. These aural and expressive abilities empower our students to appreciate and participate in musical experiences that enhance and enrich themselves and about the world. 
 
-Every child possesses innate musical qualities awaiting to be harnessed and developed. These aural and expressive abilities and sensibilities empower the child to appreciate and participate in musical experiences that enhance the child’s life and enrich their understanding of themselves and the world.  
+Our programs are crafted to provide our students with experiences to acquire and apply musical skills, knowledge and understanding through listening, creating and performing. It is an enjoyment and appreciation for all, and talent and interest development for some.
  
-The Music Programme in Waterway Primary provides experiences to acquire and apply musical skills, knowledge and understanding through listening, creating and performing. Our students begin with singing, music and movement in their earlier years to picking up instrumental playing skills on the woodwind, string and mallets, in both individual and group settings.
+We aim to develop in our students an awareness of and appreciation of music locally and globally by engaging with songs. They learn musical elements and concepts through the 3Es – Experience, Explore and Experiment. These active hands-on experiences hone their musical communication skills, creativity, critical thinking and collaboration among peers.
  
-Students who are passionate, have keen interest or talented in Music will be provided with other platforms for development such as Singapore Youth Festivals Arts Presentation (SYF AP), internal and external music competitions and music-making showcases.
+Music @ Waterway Primary begins with singing and movement in the earlier years to picking up instrument-playing skills on the recorder, ukulele and xylophone, as well as creating music. Students who are passionate and have keen interest or talented in Music will be provided with other platforms for development such as internal (S!NG@WAP) / external music competitions or performances (Singapore Youth Festival). 
 
-Our students’ learning of Music @ Waterway Primary begins with singing and movement in the earlier years to picking up instrument playing skills on the recorder, ukulele and keyboard before consolidating their 6 years of learning by collaborating with friends to put up a performance in ‘The Music Showcase’ before their graduation.&nbsp;
+Our annual WAP Centrestage provides a platform for our talented budding musicians/ artistes to showcase their performance in terms of singing, dancing and instrumental playing. These allows the whole school to share and celebrate the music achievements together as a big community.
+
+We empower our students to make well-informed music choices through the activities in our programmes (eg: P2 Performing Arts (PA) CCA Module, Project Local Composers) so that they can become active contributors through music as well.
+
 
  
 
-Here at Waterway Primary, we aim to develop in our students;
-
-1. An awareness of and appreciation for music locally and globally
-2. The ability for creative expression through music
-
-  
-
-Students will learn musical elements and concepts through the 3Es - Experience, Explore and Experiment during their lessons. They participate actively in hands-on activities, hone their listening skills and unleash their creativity in improvising and composing their own music, in both individual and group settings. There are also opportunities for students to perform and hence, build their confidence to showcase their musicality in front of an audience.
+Here at Waterway Primary, we aim to develop in our students: <br>1. An awareness of and appreciation for music locally and globally<br>2. The ability for creative expression through music
 
 ![](/images/Learning%20Experiences/Music%201.jpg)
 
