@@ -13,6 +13,8 @@ The Information and Communication Technologies (ICT) Committee is a team of educ
 
 Here at Waterway Primary School, we aim to create an ICT pervasive learning environment where responsible ICT-savvy learners thrive. -	A part of our vision for the school is to see **Digitally Savvy Global Citizens of Tomorrow, Today.** 
 
+![](/images/Nurturing%20Young%20Minds/ICT/Katherine__14_July__1.jpg)
+
 This is in line with MOE’s 21st CC outcomes which include Responsible Decision-Making and developing Critcal, Adaptive and Inventive Thinking. Here at Waterway Primary School, we aim to: 
 
 - **Foster Digital Literacy**: We strive to develop students' digital literacy skills, ensuring that they can navigate technology effectively and responsibly.
@@ -25,20 +27,9 @@ This is in line with MOE’s 21st CC outcomes which include Responsible Decision
 
 -	**Collaborate with Other Departments**: Collaboration is at the heart of our approach. We work closely with other school departments to integrate technology effectively into various subjects, enhancing the overall educational experience.
 
+![](/images/Nurturing%20Young%20Minds/ICT/Reyes__14_July__1.jpg)
 **Curriculum and/or Programmes:** <br>
 Students in Primary 1 and 2 go through ICT lessons to learn the basics of Word, PowerPoint, SLS and other tools that teachers use to aid in teaching and learning.
 
 **Future plans:** <br>
 In 2024, the ICT Committee plans to embark on Safer Internet Day which aims to create awareness for a safer and a better internet, where children and young people are empowered to use digital technology responsibly, respectfully, critically and creatively.
-
-
-
-
-
-
-
-
-
-
-
-
