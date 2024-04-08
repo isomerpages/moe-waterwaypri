@@ -48,6 +48,7 @@ Rakan Bahasa is an initiative by the Malay Language Council, Singapore (MLCS) to
 | Name | Designation | 
 | -------- | -------- | 
 | Mrs Gina Ow   | HOD MTL/ CL Teacher     | 
+| Mdm Neo Chai Lee    | 	HOD CCE/ CL Teacher   | 
 | Text     | Text     | 
 | Text     | Text     | 
 | Text     | Text     | 
@@ -65,12 +66,7 @@ Rakan Bahasa is an initiative by the Malay Language Council, Singapore (MLCS) to
 | Text     | Text     | 
 | Text     | Text     | 
 | Text     | Text     | 
-| Text     | Text     | 
-| Text     | Text     | 
-
-Name	Designation
 	
-Mdm Neo Chai Lee	HOD CCE/ CL Teacher
 Mr Lim Tick Kit	HOD ICT/ CL Teacher
 Ms Grace Seah	Senior Teacher CL
 Mdm Tan Meo Cher 	CL Teacher
@@ -88,7 +84,3 @@ Mdm Asiyah Binte Sheik Mohamed Ismail	ML Teacher
 Mdm Noor Hidayah Binte Noordin	ML Teacher
 Mdm Rajeswary D/O Ramakrishna	TL Teacher
 Mdm Shamini D/O Subramaniam	TL Teacher
-
-
-
-
