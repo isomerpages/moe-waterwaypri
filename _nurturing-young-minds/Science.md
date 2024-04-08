@@ -79,6 +79,8 @@ Innovative Science Projects:
 
 Our Science E2K students participated in the Young Sustainability Champion Programme presented by Temasek Foundation and organised by Science Centre Singapore. They collaborated with other schools on innovative science projects, including a solar panel cleaning system. These projects not only demonstrated scientific knowledge but also a genuine concern for real-world issues.
 
+![](/images/Nurturing%20Young%20Minds/Science.png)
+
 **Resources and Facilities:** <br>
 Describe the resources, materials, and facilities available for department activities.
 
@@ -89,10 +91,3 @@ Discuss opportunities for parental involvement and collaboration with the depart
 Highlight upcoming plans and initiatives to improve the department's offerings.
 
 This streamlined format should provide a concise and informative overview of the department's activities and plans.
-
-
-
-
-
-
-
