@@ -27,7 +27,8 @@ This is in line with MOE’s 21st CC outcomes which include Responsible Decision
 
 -	**Collaborate with Other Departments**: Collaboration is at the heart of our approach. We work closely with other school departments to integrate technology effectively into various subjects, enhancing the overall educational experience.
 
-![](/images/Nurturing%20Young%20Minds/ICT/Reyes__14_July__1.jpg)
+![](/images/Nurturing%20Young%20Minds/ICT/Tree.png)
+
 **Curriculum and/or Programmes:** <br>
 Students in Primary 1 and 2 go through ICT lessons to learn the basics of Word, PowerPoint, SLS and other tools that teachers use to aid in teaching and learning.
 
