@@ -49,38 +49,39 @@ Rakan Bahasa is an initiative by the Malay Language Council, Singapore (MLCS) to
 | -------- | -------- | 
 | Mrs Gina Ow   | HOD MTL/ CL Teacher     | 
 | Mdm Neo Chai Lee    | 	HOD CCE/ CL Teacher   | 
-| Text     | Text     | 
-| Text     | Text     | 
-| Text     | Text     | 
-| Text     | Text     | 
-| Text     | Text     | 
-| Text     | Text     | 
-| Text     | Text     | 
-| Text     | Text     | 
-| Text     | Text     | 
-| Text     | Text     | 
-| Text     | Text     | 
-| Text     | Text     | 
-| Text     | Text     | 
-| Text     | Text     | 
-| Text     | Text     | 
-| Text     | Text     | 
-| Text     | Text     | 
+| Mr Lim Tick Kit    |HOD ICT/ CL Teacher    | 
+| Ms Grace Seah   | Senior Teacher CL     | 
+| Mdm Tan Meo Cher    | CL Teacher     | 
+| Mr Ti Tat Hua    | CL Teacher     | 
+| Mdm Gina Yeo    | CL Teacher   | 
+| Mdm Chan Peiling    | CL Teacher    | 
+| Mrs Yuen Ka Yan    | CL Teacher      | 
+| Ms Geraldine Ng Soh Huey   | CL Teacher    | 
+| Ms Su Wen Hui    | CL Teacher   | 
+| Mdm Martini Bte Mahmood    | ML Teacher     | 
+| Mr Muhammad Aidil Bin Ishak   | ML Teacher    | 
+| Mr Muhammad Mukhlis Dzulfitri Bin Dzulkifli    | ML Teacher    | 
+| Mr Muhammad Dinie Shaifullah Bin Y     | ML Teacher    | 
+| Mdm Asiyah Binte Sheik Mohamed Ismail    | ML Teacher    | 
+| Mdm Noor Hidayah Binte Noordin   | ML Teacher      | 
+| Mdm Rajeswary D/O Ramakrishna    | TL Teacher   | 
+| Mdm Shamini D/O Subramaniam   | TL Teacher    | 
+
+##### Parent Involvement 
+
+The MTL Reading Programme – Story Telling for the lower primary, was anchored by our parent volunteers. This was piloted in 2023 with a small group of parent volunteers for the Chinese language Story Telling sessions. 
+
+Moving forward, we would like to extend the Story Telling sessions to include the Malay and Tamil languages. We would like to seek partnership and collaboration with parents who are able to render their service to the school for this programme, to tell stories in the respective Mother Tongue languages to the lower primary students. 
+
+ 	
 	
-Mr Lim Tick Kit	HOD ICT/ CL Teacher
-Ms Grace Seah	Senior Teacher CL
-Mdm Tan Meo Cher 	CL Teacher
-Mr Ti Tat Hua	CL Teacher
-Mdm Gina Yeo	CL Teacher
-Mdm Chan Peiling	CL Teacher
-Mrs Yuen Ka Yan 	CL Teacher
-Ms Geraldine Ng Soh Huey	CL Teacher
-Ms Su Wen Hui	CL Teacher
-Mdm Martini Bte Mahmood 	ML Teacher
-Mr Muhammad Aidil Bin Ishak	ML Teacher
-Mr Muhammad Mukhlis Dzulfitri Bin Dzulkifli	ML Teacher
-Mr Muhammad Dinie Shaifullah Bin Y	ML Teacher
-Mdm Asiyah Binte Sheik Mohamed Ismail	ML Teacher
-Mdm Noor Hidayah Binte Noordin	ML Teacher
-Mdm Rajeswary D/O Ramakrishna	TL Teacher
-Mdm Shamini D/O Subramaniam	TL Teacher
+
+
+
+
+
+
+
+
+
+
