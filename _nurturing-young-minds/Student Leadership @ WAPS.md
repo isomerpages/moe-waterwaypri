@@ -6,11 +6,17 @@ variant: markdown
 ---
 ##### Overview
 
+![](/images/Nurturing%20Young%20Minds/Student%20Leadership/Investiture.jpg)
+
 In Waterway Primary School, we believe that ‘**Every Waterway Student is a Leader**’. With that, the committee aims to develop student leaders through school wide programmes and specific skills training at every level towards a holistic and balanced participation. All students in Waterway Primary School have an opportunity to get basic leadership skills and grow as a leader. The committee has also designed tiered programmes to develop our students to be leaders of tomorrow, who will serve with conviction and dedication. 
+
+![](/images/Nurturing%20Young%20Minds/Student%20Leadership/Senior_Prefects_Workshop_2.jpg)
 
 Learning and developing good leadership skills in a caring and enabling environment as a student leader would serve our students well when they leave our learning environment and step into the society. With our motto, “**To Learn, To Lead, To Serve**”, we hope that our students will be able to progress in their leadership journey and contribute to the class, school and community with their leadership skills.
 
 In our school, we also adopt the ‘**The Five Practices of Exemplary Leadership**’ (Adapted from Kouzes &amp; Posner’s Leadership Challenge Model) as the focus for our student leadership development.
+
+![](/images/Nurturing%20Young%20Minds/Student%20Leadership/Head_Prefect_Election_2.jpg)
 
 Empowered with the different leadership roles, all students are committed to (**MICEE**) :
 
@@ -65,10 +71,3 @@ The tiered approach is aligned to the guiding principle of inclusivity and the b
 | Tier 3     | **• Prefects<br>• Junior Prefects<br>• Peer Support Leaders (PSL)<br>• Junior PSL<br>• CCA Leaders<br>• NE Ambassadors<br>• Eco Ambassadors<br>• Music Ambassadors<br>** | •	Support school events &amp; programmes such as recess activities, school events, school celebrations and CCAs.<br>•	Maintain safety, discipline and wellbeing of the school through different roles and duties.<br>•	Advocate of the positive school culture.      |
 | Tier 2     | **Class Leaders:**<br>•	Class Monitor<br>•	Assistant Class Monitor<br>•	English Champion<br>•	Math Champion<br>•	Eco Champion (P1 &amp; P2)<br>•	Science Champion (P3 to P6)<br>•	Mother Tongue Champion<br>•	PE Champion<br>•	Aesthetic Champion| •	Responsible for routine tasks at class &amp; subject specific level.<br>•	Responsible for maintaining &amp; ensuring orderliness in the class<br>•	Promote positive culture and environment in class<br>•	Support teachers to plan duty roster and keep notice boards updated in class |
 | Tier 1     | **All Waterway Primary Students**    | Students uphold the School Values (RISE) at their personal best.    |
-
-
-
-
-
-
-
