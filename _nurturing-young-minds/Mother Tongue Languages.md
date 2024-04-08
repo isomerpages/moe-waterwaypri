@@ -71,17 +71,4 @@ Rakan Bahasa is an initiative by the Malay Language Council, Singapore (MLCS) to
 
 The MTL Reading Programme – Story Telling for the lower primary, was anchored by our parent volunteers. This was piloted in 2023 with a small group of parent volunteers for the Chinese language Story Telling sessions. 
 
-Moving forward, we would like to extend the Story Telling sessions to include the Malay and Tamil languages. We would like to seek partnership and collaboration with parents who are able to render their service to the school for this programme, to tell stories in the respective Mother Tongue languages to the lower primary students. 
-
- 	
-	
-
-
-
-
-
-
-
-
-
-
+Moving forward, we would like to extend the Story Telling sessions to include the Malay and Tamil languages. We would like to seek partnership and collaboration with parents who are able to render their service to the school for this programme, to tell stories in the respective Mother Tongue languages to the lower primary students.
