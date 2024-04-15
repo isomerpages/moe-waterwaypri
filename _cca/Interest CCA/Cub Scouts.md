@@ -3,18 +3,17 @@ title: Cub Scouts
 permalink: /cca/interest-cca/cub-scouts/
 description: ""
 third_nav_title: Interest CCA
+variant: markdown
 ---
->![](/images/CCA/CCA_02.jpg)
->CCA
+&gt;![](/images/CCA/CCA_02.jpg)
+&gt;CCA
 
 
 ## Cub Scouts
 
-![](/images/CCA/Cub%20Scouts%201.jpg)
-
-The Cub Scouts Uniformed Group officially started in 2020. The members of the club meet each session to learn more about the scouting mission and participate in the many activities.  
-
 The mission of Scouting is to contribute to the education of young people, through a value system based on the Scout Promise and Law. This supports the vision of building a better world where people are self-fulfilled as individuals and play a constructive role in society.  
+
+![](/images/CCA/Cub%20Scouts/Picture1.png)
 
 At Waterway Primary School, guided by our school values of Responsibility, Integrity, Self – Discipline and Empathy, we aim to infuse fun into the scouting sessions while imparting important skills and knowledge. Self-developmental activities are well-entrenched components of the scouting programme to encourage the element of “Fun & Discovery” amongst the Cubs.
 
@@ -22,8 +21,7 @@ At Waterway Primary School, guided by our school values of Responsibility, Integ
 
 We aim to provide a group environment, which is intellectually stimulating and directed towards satisfying the child’s basic needs to face and overcome challenges. Through the CCA, we strive to imbue integrity as one key foundation of character in the students as well as develop them to become independent, confident, responsible and empathetic individuals.
 
-![](/images/CCA/Cub%20Scouts%203.jpg)
-
+![](/images/CCA/Cub%20Scouts/Picture2.jpg)
 
 ### Progress Awards
 
@@ -43,14 +41,23 @@ Each progress badge comprises tests for Citizenship, Leadership and Responsibili
 
 The highest award in this section is the Akela Award, where a Cub Scout must hold the Gold Arrow and pass specific proficiency badges, show general knowledge of scouting and successfully complete an interview with the District Commissioner.
 
-  
+![](/images/CCA/Cub%20Scouts/Picture3.jpg)
 
-### North Area Founder’s Day Hike
-
-
-In commemoration of Founder’s Day, the Singapore Scouts Association has organised a Founder’s Day Celebration Hike.
-Our Cub Scouts took part in the hike, which they walked in the neighbourhood with different scouts from the area, strengthening the unique fellowship of Scouting.
+### Hiking
 
 ![](/images/CCA/hike_1.jpg)
 
-![](/images/CCA/hike_2.jpg)
+Our Cub Scouts brought their contributions a step forward and fostered a stronger sense of community by participating in the North Area’s Founders’ Day Hike in the neighbourhood, organized by the Singapore Scouts Association and met other scouts from the area, strengthening the unique fellowship of scouting from the experience. 
+
+### Camping
+
+![](/images/CCA/Cub%20Scouts/Picture5.jpg)
+
+Our Cub Scouts participated in the North Area End-of-Year Camp, “Camp Jolly Roger” organized by the Singapore Scouts Association. As the name suggests, the theme of the camp is to build and develop a relationship between a diverse group of people through some fun and collaborative activities. Hence strengthening their unity. Students honed their core Scouting Skills like outdoor cooking and knotting and develop core socio emotional competencies like leadership and teamwork.
+
+### Frank Cooper Sands Award
+
+![](/images/CCA/Cub%20Scouts/Picture6.jpg)
+
+
+We are honoured to receive the Gold Award for Frank Cooper Sands Award. This prestigious award is given to the unit which demonstrates excellence in realising the scouting mission and upholding the scout promise and law.
