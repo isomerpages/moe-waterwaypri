@@ -332,7 +332,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>MRS JANE CHEONG</strong> 
+<p><strong>MRS JANE TEO</strong> 
 <br><a href="mailto:cheong_fong_teng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cheong_fong_teng@moe.edu.sg</a>
 </p>
 </td>
@@ -720,7 +720,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>MR MUHD MUKHLIS</strong>
+<p><strong>MR MUHD MUKHLIS</strong> 
 <br><a href="mailto:muhammad_mukhlis_dzulfitri@moe.edusg" rel="noopener noreferrer nofollow" target="_blank">muhammad_mukhlis_dzulfitri@moe.edu.sg</a>
 </p>
 </td>
