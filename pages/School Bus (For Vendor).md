@@ -18,7 +18,7 @@ To apply, please refer to the Service Requirements and Application Procedure bel
 * Address: [70 Punggol Drive Singapore 828802](https://share.onemap.sg/mmWGGv)
 * Contact No: **6636 6880**
 * Email: [waterway\_ps@moe.edu.sg](mailto:waterway_ps@moe.edu.sg)
-* Contact Person: **Joan Hoo**
+* Contact Person: **Lee Koon**
 
 **How to get there?**<br>
 * **Nearest LRT Station:**&nbsp;PE5 Kadaloor Station  
