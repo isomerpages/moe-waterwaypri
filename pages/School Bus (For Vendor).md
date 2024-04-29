@@ -9,7 +9,7 @@ variant: markdown
 To apply, please refer to the Service Requirements and Application Procedure below.
 
 **Service Requirements** <br>
-1.[Call For Proposal](/files/ATTACHMENT_1_Call_for_ProposalsVersion_June_2023Published.pdf) <br>
+1.[Call for Proposal](/files/ATTACHMENT_1_Call_for_Proposals__Version_June_2023__Published.pdf) <br>
 2.[Agreement for Appointment of School Bus Operator](/files/ATTACHMENT_3_Agreement_for_Appointment_of_School_Bus_Operator__Version_June_2023__Published.pdf)
 
 **Service Requirements** <br>
@@ -18,7 +18,7 @@ To apply, please refer to the Service Requirements and Application Procedure bel
 * Address: [70 Punggol Drive Singapore 828802](https://share.onemap.sg/mmWGGv)
 * Contact No: **6636 6880**
 * Email: [waterway\_ps@moe.edu.sg](mailto:waterway_ps@moe.edu.sg)
-* Contact Person: **Joan Hoo Yinjia**
+* Contact Person: **Joan Hoo**
 
 **How to get there?**<br>
 * **Nearest LRT Station:**&nbsp;PE5 Kadaloor Station  
