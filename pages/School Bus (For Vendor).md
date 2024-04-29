@@ -23,9 +23,3 @@ To apply, please refer to the Service Requirements and Application Procedure bel
 **How to get there?**<br>
 * **Nearest LRT Station:**&nbsp;PE5 Kadaloor Station  
 * **Bus services:**&nbsp;50, 381
-
-
-
-
-
-
