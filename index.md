@@ -24,8 +24,8 @@ sections:
           url: /general-info
       title: FOR WORK, FOR LIFE, FOR FUTURE
       subtitle: A Culture of Excellence and Care in a Caring and Enabling Environment
-      background: /images/Banner.gif
-      variant: center
+      background: /images/Banner2.gif
+      variant: image
       size: md
       alignment: left
 ---
