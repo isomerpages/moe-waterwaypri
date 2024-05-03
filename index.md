@@ -24,8 +24,13 @@ sections:
           url: /general-info
       title: FOR WORK, FOR LIFE, FOR FUTURE
       subtitle: A Culture of Excellence and Care in a Caring and Enabling Environment
-      background: /images/Openhouse_Banner_3.jpg
-      variant: image
+      background: /images/Banner.gif
+      variant: center
       size: md
       alignment: left
+  - infopic:
+      id: infopic
+      button: waterway openhouse 2024
+      url: https://form.gov.sg/65de889f4d8b1c6ce26efa7f
+      image: /images/Openhouse_Banner_3.jpg
 ---
