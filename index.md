@@ -28,8 +28,4 @@ sections:
       variant: center
       size: md
       alignment: left
-  - infopic:
-      id: infopic
-      image: /images/OpenHouse.jpg
-      alt: Openhouse 2024
 ---
