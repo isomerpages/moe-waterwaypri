@@ -32,6 +32,6 @@ sections:
       id: infopic
       button: Waterway Open House 2024
       url: https://form.gov.sg/65de889f4d8b1c6ce26efa7f
-      image: /images/OpenHouse1.jpg
+      image: /images/OpenHouse.jpg
       alt: Waterway Open House 2024
 ---
