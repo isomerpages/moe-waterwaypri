@@ -28,4 +28,7 @@ sections:
       variant: center
       size: md
       alignment: left
+  - infopic:
+      id: infopic
+      image: /images/Openhouse_Banner_2.jpg
 ---
