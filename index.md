@@ -30,7 +30,6 @@ sections:
       alignment: left
   - infopic:
       id: infopic
-      button: waterway openhouse 2024
       url: https://form.gov.sg/65de889f4d8b1c6ce26efa7f
       image: /images/Openhouse_Banner_3.jpg
       alt: Openhouse 2024
