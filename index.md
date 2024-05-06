@@ -23,16 +23,18 @@ sections:
           description: ""
           url: /general-info
       title: FOR WORK, FOR LIFE, FOR FUTURE
-      subtitle: A Culture of Excellence and Care in a Caring and Enabling Environment
-      background: /images/Open_House_Banner.jpg
-      variant: image
+      subtitle: A Culture of Care and Excellence in a Caring and Enabling Environment
+      background: /images/Banner.gif
+      variant: center
       size: md
       alignment: left
   - infopic:
-      title: Infopic
-      subtitle: Add an image and text
       id: infopic
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
+      description: |-
+        25 May 2024, Saturday
+        8.30am to 12.30pm
+      button: Waterway Pri Open House 2024
+      alt: Waterway Pri Open House 2024
+      url: https://form.gov.sg/65de889f4d8b1c6ce26efa7f
+      image: /images/Open_House_Banner.jpg
 ---
