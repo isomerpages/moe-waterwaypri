@@ -24,16 +24,8 @@ sections:
           url: /general-info
       title: FOR WORK, FOR LIFE, FOR FUTURE
       subtitle: A Culture of Excellence and Care in a Caring and Enabling Environment
-      background: /images/Banner.gif
-      variant: center
+      background: /images/Open_House_Banner.jpg
+      variant: image
       size: md
       alignment: left
-  - infopic:
-      id: infopic
-      button: Waterway Open House 2024
-      url: https://form.gov.sg/65de889f4d8b1c6ce26efa7f
-      image: /images/OpenHouse.jpg
-      alt: Waterway Open House 2024
-      subtitle: 25 May 2024, Saturday
-      description: 8.30am to 12.30pm
 ---
