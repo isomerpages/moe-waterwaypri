@@ -2,6 +2,7 @@ collections:
   waterway-learning-experiences:
     output: true
     order:
+      - Overseas Immersion Programme.md
       - Enrichment and Academic Support.md
       - Information & Communications Technology.md
       - Music.md
