@@ -2,6 +2,7 @@ collections:
   waterway-learning-experiences:
     output: true
     order:
+      - Physical Education (PE).md
       - English.md
       - Math.md
       - Science.md
