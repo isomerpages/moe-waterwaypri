@@ -55,10 +55,27 @@ links:
       - title: Our Students, Our Pride
         url: /learning-experiences/our-students-our-pride-students-channel
   - title: Distinctive Programmes
-    collection: distinctive-programmes
+    url: /permalink
+    sublinks:
+      - title: Applied Learning Programme
+        url: /permalink
+      - title: "Lifelong Learning Programme "
+        url: /permalink
+      - title: "Character & Citizenship Edu "
+        url: /permalink
+      - title: Growth & Benefit Mindset
+        url: /permalink
+      - title: Orators@Waterway
+        url: /permalink
+      - title: Computational Thinking
+        url: /permalink
+      - title: Good Morning School
+        url: /permalink
+      - title: Flipped Class My Class @ Home
+        url: /permalink
   - title: CCA
     collection: cca
-  - title: Parents
+  - title: Our Students, Our Pride
     url: /parents/parents-support-group
     sublinks:
       - title: Parents Say....
@@ -91,26 +108,17 @@ links:
         url: /2024p1orientation
       - title: 2024 P1 Booklist & Uniform
         url: 2024bookuni
-  - title: STUDENTS
+  - title: Our Partners
     url: /permalink
     sublinks:
       - title: Student Learning Space (SLS)
         url: https://vle.learning.moe.edu.sg
       - title: OPAC (School Library)
         url: https://schoolibrary.moe.edu.sg/waterwaypri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME
-  - title: Contact
+  - title: Useful Information & Contact
     url: /contact/visitor-information
     sublinks:
       - title: Visitor Information
         url: /contact/visitor-information
-  - title: MK@Waterway
-    url: /permalink
-    sublinks:
-      - title: Home
-        url: https://mkwaterway.wixsite.com/mkwy
-      - title: About
-        url: https://mkwaterway.wixsite.com/mkwy/about
-      - title: FAQ
-        url: https://mkwaterway.wixsite.com/mkwy/faq
   - title: School Bus (For Vendor)
     url: /schoolbusadvert/
