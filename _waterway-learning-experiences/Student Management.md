@@ -22,12 +22,12 @@ addressing inappropriate behaviour. Teachers will guide students to reflect
 on their actions and to restore the relationships that they have damaged.
 We believe in guiding our students to take ownership of their mistakes
 and we will empower them correct their wrongdoings.</p>
-<p><strong>Developing 21CC</strong>
+<p><strong>Developing 21CC</strong> 
 <br>Through our programmes, students will develop <strong><em>Social-Emotional Competencies</em></strong> -
 Self-Awareness, Self-Management, Relationship Management, Responsible Decision-Making
 and Social Awareness.&nbsp;&nbsp;</p>
 <p><strong>Key Programmes</strong>:
-<br><u>Peer Support Leaders (PSL) Programme</u>
+<br><u>Peer Support Leaders (PSL) Programme</u> 
 <br>At the P4 level, students will be identified by their teachers to go through
 training to be Peer Support Leaders (PSLs). PSLs are student leaders who
 play the important role of championing PSR in our school. They participate
