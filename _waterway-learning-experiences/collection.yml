@@ -2,16 +2,16 @@ collections:
   waterway-learning-experiences:
     output: true
     order:
-      - Student Management.md
-      - Eco Stewardship.md
-      - Overseas Immersion Programme.md
-      - Enrichment and Academic Support.md
-      - Information & Communications Technology.md
-      - Music.md
-      - Art.md
       - English.md
       - Math.md
       - Science.md
       - Mother Tongue.md
       - Social Studies.md
       - Physical Education (PE).md
+      - Art.md
+      - Music.md
+      - Information & Communications Technology.md
+      - Enrichment and Academic Support.md
+      - Overseas Immersion Programme.md
+      - Eco Stewardship.md
+      - Student Management.md
