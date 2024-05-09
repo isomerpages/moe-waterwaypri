@@ -2,4 +2,5 @@ collections:
   waterway-learning-experiences:
     output: true
     order:
+      - Math.md
       - English.md
