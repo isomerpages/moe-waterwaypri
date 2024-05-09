@@ -2,8 +2,8 @@ collections:
   waterway-learning-experiences:
     output: true
     order:
-      - Social Studies.md
       - English.md
       - Math.md
       - Science.md
       - Mother Tongue.md
+      - Social Studies.md
