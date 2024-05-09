@@ -2,7 +2,7 @@ collections:
   waterway-learning-experiences:
     output: true
     order:
-      - Mother Tongue.md
-      - Science.md
       - English.md
       - Math.md
+      - Science.md
+      - Mother Tongue.md
