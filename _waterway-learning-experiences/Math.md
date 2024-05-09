@@ -106,7 +106,7 @@ program for Mathematics. It challenges the thought processes of the students
 and make them come up with logical and creative solutions.</p>
 <p>Students are also able to sign up for STEM enrichment programs after school.</p>
 <p></p>
-<p><strong><u>Assessment</u></strong>
+<p><strong><u>Assessment</u></strong> 
 <br>The following are various modes of assessments in Waterway Primary School.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Bite-sized Topical Reviews</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Performance Tasks</p>
