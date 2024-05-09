@@ -17,9 +17,35 @@ links:
         url: /about-us/facilities
       - title: Waterway Primary Family
         url: /about-us/waterway-primary-family
-  - title: Learning Experiences
+  - title: Waterway Learning Experiences
     url: /learning-experiences
     sublinks:
+      - title: English
+        url: /permalink
+      - title: Math
+        url: /permalink
+      - title: Science
+        url: /permalink
+      - title: Mother Tongue
+        url: /permalink
+      - title: Social Studies
+        url: /permalink
+      - title: Physical Education (PE)
+        url: /permalink
+      - title: Art
+        url: /permalink
+      - title: Music
+        url: /permalink
+      - title: ICT
+        url: /permalink
+      - title: Enrichment & Academic Support
+        url: /permalink
+      - title: Overseas Immersion Programme
+        url: /permalink
+      - title: Eco-Stewardship
+        url: /permalink
+      - title: Student Management
+        url: /permalink
       - title: Nurturing Young Minds
         url: /learning-experiences/nurturing-young-minds
       - title: Building Upright Character
