@@ -2,6 +2,7 @@ collections:
   waterway-learning-experiences:
     output: true
     order:
+      - Student Management.md
       - Eco Stewardship.md
       - Overseas Immersion Programme.md
       - Enrichment and Academic Support.md
