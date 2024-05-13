@@ -5,14 +5,18 @@ variant: tiptap
 description: ""
 ---
 <p>WAPS Student Management Framework</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Waterway Learning Experience/Student Management/Picture52.jpg">
+</div>
 <p>The Student Management (SM) Committee aims to create a safe, caring and
 enabling school environment so that WAP students will be able to think
 positively, feel supported and embrace their future with optimism. The
 committee focuses on promoting Positive Discipline, Student Wellbeing and
 Peer Support Relationships (PSR).&nbsp;</p>
 <p><strong>Department Goals and how they help achieve 21 CC</strong>:</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Waterway Learning Experience/Student Management/Picture53.jpg">
+</div>
 <p>We believe in taking a positive and proactive approach to promote discipline
 and wellbeing. Through the CCE curriculum, classroom lessons and school
 experiences, we teach and demonstrate positive values to our students and
@@ -21,7 +25,12 @@ provide students with opportunities to establish strong <strong><em>PSR</em></st
 addressing inappropriate behaviour. Teachers will guide students to reflect
 on their actions and to restore the relationships that they have damaged.
 We believe in guiding our students to take ownership of their mistakes
-and we will empower them correct their wrongdoings.</p>
+and we will empower them correct their wrongdoings.
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Waterway Learning Experience/Student Management/Students_making_anti_bullying_pledge.jpg">
+</div>
 <p><strong>Developing 21CC</strong> 
 <br>Through our programmes, students will develop <strong><em>Social-Emotional Competencies</em></strong> -
 Self-Awareness, Self-Management, Relationship Management, Responsible Decision-Making
@@ -43,7 +52,9 @@ Primary.</p>
 sports and workshops on social emotional learning. The diverse range of
 programmes also aim to expose students to varied experiences, develop their
 physical &amp; mental wellbeing and build their confidence.</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Waterway Learning Experience/Student Management/P1___P2_Class_Kindness_Activity.jpg">
+</div>
 <p></p>
 <p></p>
 <p></p>
