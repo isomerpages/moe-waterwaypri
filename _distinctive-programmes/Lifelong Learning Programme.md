@@ -11,6 +11,9 @@ to imbue students with critical thinking and oratorical skills, emphasising
 the interconnectedness of thought and language as foundational elements
 in shaping leadership competencies.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Distinctive Programmes/LLP/Picture57.jpg">
+</div>
 <p>In the journey towards Thought Leadership, situated at the pinnacle of
 the Student Leadership Framework, EVoCL adopts a spiral approach, progressively
 guiding students through various levels of leadership development. The
