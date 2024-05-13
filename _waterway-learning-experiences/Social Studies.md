@@ -12,7 +12,12 @@ world they live in.</p>
 <h4>Vision</h4>
 <p>A school of students deeply engaged in growing knowledge, developing skills
 and learning values through examining issues that are of concern to our
-society and the world in which we live.</p>
+society and the world in which we live.
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Waterway Learning Experience/Social Studies/Picture8.jpg">
+</div>
 <p>Our Social Studies programmes follows the thematic approach of the Social
 Studies Primary Syllabus and separated into three broad clusters as described
 below:</p>
@@ -35,7 +40,18 @@ and resourcefulness of its leaders and people.</p>
 <p>Students will learn about Singapore as a nation and the contributions
 of different people to its development. They will also develop an understanding
 of Southeast Asia, Singapore’s connections with the region as well as legacies
-of civilizations in the world that can still be seen today.</p>
+of civilizations in the world that can still be seen today.
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Waterway Learning Experience/Social Studies/Picture9.jpg">
+</div>
 <p>Some activities to engage students in Social Studies</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Waterway Learning Experience/Social Studies/Picture10.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Waterway Learning Experience/Social Studies/Picture13.jpg">
+</div>
 <p></p>
