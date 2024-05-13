@@ -47,11 +47,13 @@ of civilizations in the world that can still be seen today.
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Waterway Learning Experience/Social Studies/Picture9.jpg">
 </div>
 <p>Some activities to engage students in Social Studies</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Waterway Learning Experience/Social Studies/Picture10.jpg">
 </div>
+<p>P5 students playing congkak as part of learning about games commonly played
+in Southeast Asia.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Waterway Learning Experience/Social Studies/Picture13.jpg">
 </div>
+<p>P3 students upcycling an old t-shirt into a reusable bag.</p>
 <p></p>
