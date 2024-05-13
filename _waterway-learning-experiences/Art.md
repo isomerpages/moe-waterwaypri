@@ -9,15 +9,23 @@ description: ""
 form of expression and serves as a valuable historical record. In Waterway
 Primary School, we want our students to enjoy Art, be able to communicate
 visually and make meaning through connecting with culture and society.</p>
-<p>&nbsp;<strong>Department/Committee Goals and how they help achieve 21 CC</strong>
+<p>&nbsp;<strong>Department/Committee Goals and how they help achieve 21 CC</strong> 
 <br>The objectives of the syllabus are achieved through the Primary Art Syllabus
 Framework in <u>Figure 1.</u>
 </p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Waterway Learning Experience/Art/Picture21.jpg">
+</div>
 <p>Figure 1: Primary Art Syllabus Framework</p>
 <p>The three key learning domains in the framework (<strong>See, Express and Appreciate</strong>)
 guides us in crafting the goals and objectives we want our students to
-achieve by the end of each academic year.</p>
+achieve by the end of each academic year.
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Waterway Learning Experience/Art/Picture15.jpg">
+</div>
 <p>&nbsp;<strong>Curriculum and/or Programmes</strong>:
 <br>At Waterway Primary School, we introduce our students to a variety of
 art forms and mediums (refer to <u>Table 1</u>) over the course of six years.
@@ -28,7 +36,12 @@ in group settings and guide them in Art discussion to help them develop
 visual literacy and appreciation for Art. Contemporary issues like fast
 fashion and food waste are incorporated into lessons to help students develop
 global awareness. We want to create rich learning experiences for our students
-that will enable them to be active artists and informed audiences.&nbsp;</p>
+that will enable them to be active artists and informed audiences.&nbsp;
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Waterway Learning Experience/Art/Picture19.jpg">
+</div>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -89,16 +102,20 @@ that will enable them to be active artists and informed audiences.&nbsp;</p>
 </tbody>
 </table>
 <p>Table 1: Art forms and mediums covered in the curriculum</p>
-<p>&nbsp;</p>
-<p>Showcase of Artworks</p>
-<p>At the start of every academic year, all students will visit the Learning
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Waterway Learning Experience/Art/Picture18.jpg">
+</div>
+<p><strong>Showcase of Artworks</strong>
+<br>At the start of every academic year, all students will visit the Learning
 Gallery in school to view the artworks done by their schoolmates and engage
 in meaningful conversation facilitated by the art teachers. The Learning
 Gallery is an alternative platform for students to communicate and express
 their views to a wider audience.</p>
 <p>Besides the Learning Gallery, selected artworks done by students will
 also be displayed in the Principal's office and school compound. &nbsp;</p>
-<p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Waterway Learning Experience/Art/Picture20.jpg">
+</div>
 <p></p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
