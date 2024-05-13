@@ -8,8 +8,8 @@ description: ""
 <br>The PE department seeks to develop physically competent and confident
 individuals. Through our curriculum and meaningful learning experiences,
 we aim to help students realise the importance of safe participation in
-physical activities, and the joy of maintaining an active and healthy lifestyle.</p>
-<p>
+physical activities, and the joy of maintaining an active and healthy lifestyle.
+<br>
 <br><strong>Department Goals:</strong> 
 <br>Our PE education focuses on three learning areas, namely, Physical Activity,
 Outdoor Education, and Physical Health and Safety.&nbsp; With a strong
@@ -18,17 +18,22 @@ opportunities to participate in physical activities and cooperate with
 their peers to reinforce learning. In addition, our lessons are crafted
 with purposeful assessment and pedagogy in hope to help students develop
 the essential competencies to succeed in our fast-changing world.</p>
-<p>
-<br><strong>Physical Education Curriculum Framework</strong>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Waterway Learning Experience/Physical Education/Picture14.jpg">
+</div>
+<p><strong>Physical Education Curriculum Framework</strong>
 </p>
-<p>
-<br><strong>Curriculum and Programmes:</strong> 
+<p><strong>Curriculum and Programmes:</strong> 
 <br>Students in Primary School will learn five content areas, mainly, Athletics,
 Dance, Games and Sports, Gymnastics, and Swimming. Through these content
 areas, students are taught fundamental movement skills, movement concepts,
 along with the transference of these skills and concepts across the various
 content areas.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Waterway Learning Experience/Physical Education/P1_Mass_Walk_1.jpg">
+</div>
 <p><strong>P1 Mass Walk</strong> 
 <br>The Mass Walk is held at Punggol Waterway Park adjacent to Waterway Primary
 School. The walks are held weekly during one teaching term, and it aims
@@ -39,6 +44,9 @@ and develop appreciation for flora and fauna.</p>
 <br>The Swimsafer Programme is part of the PE curriculum where students will
 learn about water safety, personal water survival and swimming strokes.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Waterway Learning Experience/Physical Education/P3P4_Carnival_4.jpg">
+</div>
 <p><strong>P3 Sports MCCA</strong> 
 <br>P3 Sports MCCA (Tchoukball) provides students with exposure to team sports
 and the opportunity to develop interpersonal skills, school values of Responsibility,
@@ -50,6 +58,9 @@ their friends at various game stations. These stations put the different
 skills that they have learnt and mastered during PE lessons (such as fundamental
 movement and manipulative motor skills) to a good test!</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Waterway Learning Experience/Physical Education/P3P4_Carnival_2.jpg">
+</div>
 <p><strong>P5 Camp</strong> 
 <br>P5 Camp is part of MOE’s National Outdoor Adventure Education Master Plan.&nbsp;
 The 3 Days 2 Nights camp is put in place to strengthen the holistic development
@@ -62,6 +73,9 @@ with an enriching experience in problem solving and managing relationships.
 Students engage in authentic learning experiences using collaborative skills,
 creativity and reflective thinking.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Waterway Learning Experience/Physical Education/P3P4_Carnival_3.jpg">
+</div>
 <p><strong>P6 Games Day</strong> 
 <br>Lastly, we engage our P6 students in an exciting territorial-invasion
 team sport post-PSLE. This event encapsulates the curriculum objectives
