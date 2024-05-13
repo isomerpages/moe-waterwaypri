@@ -5,21 +5,25 @@ variant: tiptap
 description: ""
 ---
 <p><strong>Introduction</strong>
-</p>
-<p>At Waterway Primary School, our Mother Tongue Language (MTL) Department
+<br>At Waterway Primary School, our Mother Tongue Language (MTL) Department
 aims to cultivate a vibrant and inclusive environment where every student
 embraces and excels in their mother tongue.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Waterway Learning Experience/Mother Tongue/P3_CPES_1.jpg">
+</div>
 <p><strong>MTL Department Key Goals</strong>
-</p>
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp; To provide a nurturing and engaging platform
+<br>1.&nbsp;&nbsp;&nbsp;&nbsp; To provide a nurturing and engaging platform
 for students to develop proficiency in their mother tongue, empowering
-them with the language skills necessary for confident expression and collaboration.</p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp; To cultivate a positive attitude towards learning,
-fostering qualities of diligence curiosity and joy in acquiring knowledge.</p>
-<p>3.&nbsp;&nbsp;&nbsp;&nbsp; To instill a sense of pride and connection
+them with the language skills necessary for confident expression and collaboration.
+<br>2.&nbsp;&nbsp;&nbsp;&nbsp; To cultivate a positive attitude towards learning,
+fostering qualities of diligence curiosity and joy in acquiring knowledge.
+<br>3.&nbsp;&nbsp;&nbsp;&nbsp; To instill a sense of pride and connection
 to the cultural roots in all students.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Waterway Learning Experience/Mother Tongue/P4_Cultural_Camp.jpg">
+</div>
 <p>Through age-appropriate pedagogical approaches, collaborative partnership
 with stakeholders, and continuous professional development for our teachers,
 we strive to create an atmosphere where students not only learn their mother
@@ -28,6 +32,9 @@ of one's mother tongue forms the basis for effective communication and
 collaboration, promoting an attitude of openness and respect for linguistic
 diversity, ready to thrive in a globalized society.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Waterway Learning Experience/Mother Tongue/MTL_Fortnight_1.jpg">
+</div>
 <p><strong>MTL Department Vision</strong>
 </p>
 <p>Empowering linguistic mastery and fostering cultural respect for students
@@ -41,6 +48,9 @@ of their mother tongue language, excel in communication and collaboration,
 while fostering a deep respect for the cultural diversity of our interconnected
 world.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Waterway Learning Experience/Mother Tongue/P3_CPES_2.jpg">
+</div>
 <p><strong>MTL Department Programmes</strong>
 </p>
 <p></p>
@@ -86,6 +96,9 @@ fulfilling roles as reporters, guides or greeters. Students may also assist
 in facilitating Duta Bahasa talks or in organising Malay-based events for
 their peers, with support from the teachers.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Waterway Learning Experience/Mother Tongue/Rakan_Bahasa_2.jpg">
+</div>
 <p><strong>MTL Department Teaching Staff</strong>
 </p>
 <p></p>
@@ -260,9 +273,11 @@ their peers, with support from the teachers.</p>
 </tbody>
 </table>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Waterway Learning Experience/Mother Tongue/Reading_Programme_2.jpg">
+</div>
 <p><strong>Parent Involvement</strong>
-</p>
-<p>The MTL Reading Programme – Story Telling for the lower primary, was anchored
+<br>The MTL Reading Programme – Story Telling for the lower primary, was anchored
 by our parent volunteers. This was piloted in 2023 with a small group of
 parent volunteers for the Chinese language Story Telling sessions. Moving
 forward, we would like to extend the Story Telling sessions to include
