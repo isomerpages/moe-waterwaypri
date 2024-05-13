@@ -2,6 +2,7 @@ collections:
   distinctive-programmes:
     output: true
     order:
+      - Lifelong Learning Programme.md
       - Applied Learning Programme.md
       - Orators@Waterway.md
       - Growth and Benefit Mindset.md
