@@ -4,18 +4,21 @@ permalink: /character-citizenship-education/
 variant: tiptap
 description: ""
 ---
-<p><strong>Character and Citizenship Education (CCE) and National Education / Social Studies (NE/SS) Department</strong>
-</p>
+<h4><strong>Character and Citizenship Education (CCE) and National Education / Social Studies (NE/SS) Department</strong></h4>
 <p><strong>The Character and Citizenship Education (CCE) aims to develop in our students: &nbsp;</strong>
 </p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Distinctive Programmes/CCE/Picture58.jpg">
+</div>
 <p>Our CCE programmes are anchored on our School Values of Responsibility,
 Integrity, Self-discipline and Empathy (RISE), Social Emotional Competencies
 and the 3 Big Ideas of CCE, <em>Identity, Relationships </em>and<em> Choices</em>.
 We aim to develop our students to be gracious citizens – confident, well
 mannered and kind.</p>
 <p>The CCE programmes adopt a “Head-Heart- Hands” approach.</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Distinctive Programmes/CCE/Picture59.jpg">
+</div>
 <p><strong>Head</strong>&nbsp;– Through the various curricula - CCE (Form
 Teachers Guidance Period), CCE (Mother Tongue Languages), Social Studies
 and Growth and Benefit Mindset Modular CCA , students learn values, social
@@ -45,7 +48,7 @@ be heard, and to play an active role in what and how they learn, hence
 providing opportunities for them to develop agency or self-directedness,
 responsibility and ownership of their learning.<strong>&nbsp;</strong>
 </p>
-<p><strong>Partnership with parents</strong>
+<p><strong>Partnership with parents</strong> 
 <br>Parents are the first care-givers in developing good character of their
 children. The development of character and citizenship dispositions in
 our students is influenced by what happens in school, in the family and
@@ -57,6 +60,13 @@ development. These activities, such as “Family Chat Time!” and “Family
 Activities” also enable parents to partner with schools in this meaningful
 journey of supporting your child/ward in his/her learning of social-emotional
 competencies and values.</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Distinctive Programmes/CCE/Picture60.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Distinctive Programmes/CCE/Picture61.jpg">
+</div>
 <p>&nbsp;</p>
+<p></p>
+<p></p>
 <p></p>
