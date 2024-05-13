@@ -4,9 +4,9 @@ permalink: /math/
 variant: tiptap
 description: ""
 ---
-<p><strong><u>Department Vision</u></strong>
+<p><strong><u>Department Vision</u></strong> 
 <br>To develop confident and competent Mathematics problem solvers.</p>
-<p><strong><u>Curriculum</u></strong>
+<p><strong><u>Curriculum</u></strong> 
 <br>The curriculum of Mathematics in Waterway Primary School follows the Primary
 Mathematics Syllabus of MOE, Singapore.</p>
 <p>We aim to nurture our students to:
@@ -21,7 +21,7 @@ in mathematics.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Waterway Learning Experience/Math/Picture1.jpg">
 </div>
-<p><strong><u>Teaching and Learning</u></strong>
+<p><strong><u>Teaching and Learning</u></strong> 
 <br>The teaching framework of our department takes the approach of engaging,
 exploring and enriching students’ learning of Mathematics.</p>
 <p>These are some of our programmes at Waterway Primary School.</p>
@@ -81,7 +81,7 @@ exploring and enriching students’ learning of Mathematics.</p>
 </tr>
 </tbody>
 </table>
-<p><strong><em>Joy of Learning</em></strong>
+<p><strong><em>Joy of Learning</em></strong> 
 <br>Fostering interest and confidence in Mathematics stems from the love of
 learning and when they are able to make connections with their everyday
 experiences. We make use of CPA (Concrete-Pictorial-Abstract) approach
@@ -97,7 +97,7 @@ in different contexts.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Waterway Learning Experience/Math/Picture3.jpg">
 </div>
-<p><strong><em>Differentiated Learning</em></strong>
+<p><strong><em>Differentiated Learning</em></strong> 
 <br>echnology is used to enhance the learning experiences of students. Flipped
 learning is used in some lessons to encourage students’ agency and to pique
 their curiosity. Their learning at home is consolidated in class with various
@@ -107,7 +107,7 @@ products made collaboratively with their peers to exhibit their learning.
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Waterway Learning Experience/Math/Picture6.jpg">
 </div>
-<p><strong><em>Extending their learning</em></strong>
+<p><strong><em>Extending their learning</em></strong> 
 <br>To extend the learning of students who have a good foundation in mathematics,
 a small group of students are selected to attend the E2K (Excellence 2000)
 program for Mathematics. It challenges the thought processes of the students
