@@ -51,7 +51,7 @@ and critical thinking.
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Waterway Learning Experience/Science/Sungei_Buloh_Wetlands_LJ1.jpg">
 </div>
-<p><strong>Goals:</strong>
+<p><strong>Goals:</strong> 
 <br><strong>Cultivate Curiosity:</strong> We are dedicated to awakening and
 sustaining the natural curiosity present in every student. Through intriguing
 experiments, hands-on activities, and thought-provoking questions, we aim
@@ -188,9 +188,7 @@ and ask questions</p>
 </tr>
 </tbody>
 </table>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>Student Achievements:</strong>
+<p><strong>&nbsp;Student Achievements:</strong> 
 <br>Share noteworthy student achievements and success stories.</p>
 <p>Innovative Science Projects:
 <br>Our Science E2K students participated in the Young Sustainability Champion
@@ -198,16 +196,16 @@ Programme presented by Temasek Foundation and organised by Science Centre
 Singapore. They collaborated with other schools on innovative science projects,
 including a solar panel cleaning system. These projects not only demonstrated
 scientific knowledge but also a genuine concern for real-world issues.</p>
-<p><strong>Resources and Facilities:</strong>
+<p><strong>Resources and Facilities:</strong> 
 <br>Describe the resources, materials, and facilities available for department
 activities.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Waterway Learning Experience/Science/Picture7.jpg">
 </div>
-<p><strong>Parent Involvement (if any):</strong>
+<p><strong>Parent Involvement (if any):</strong> 
 <br>Discuss opportunities for parental involvement and collaboration with
 the department.</p>
-<p>&nbsp;<strong>Future Plans:</strong>
+<p>&nbsp;<strong>Future Plans:</strong> 
 <br>Highlight upcoming plans and initiatives to improve the department's offerings.</p>
 <p></p>
 <p>This streamlined format should provide a concise and informative overview
