@@ -4,7 +4,7 @@ permalink: /lifelong-learning-programme/
 variant: tiptap
 description: ""
 ---
-<p>The <strong>Empowering Voices, Cultivating Leaders (EVoCL)</strong> programme
+<p><strong>Empowering Voices, Cultivating Leaders (EVoCL)</strong> programme
 is a 6-year Learning for Life Programme. In accordance with the objectives
 of the Student Leadership Development Committee, this initiative strives
 to imbue students with critical thinking and oratorical skills, emphasising
