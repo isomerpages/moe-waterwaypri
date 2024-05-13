@@ -6,11 +6,17 @@ description: ""
 ---
 <p>The English Department @ WAPS</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Waterway Learning Experience/English/reader_response_evoked.jpg">
+</div>
 <p></p>
 <p>The teachers of the English Department are committed to our vision, which
 is the strengthening of our students' linguistic aptitude and the empowerment
 of individuals to be committed and lifelong learners of the language.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Waterway Learning Experience/English/student_group_photo.jpg">
+</div>
 <p>At the core of the pedagogical framework resides the STELLAR programme—
 designed to instil a fervour for language and literature. Epitomizing our
 dedication is the Literature Programme, finely tailored for Primary 4 and
@@ -24,6 +30,9 @@ Debate, for Primary 5 and 6 students. Tailored for selected students, these
 initiatives foster collaborative discussions and refine the art of persuasive
 communication and critical reasoning.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Waterway Learning Experience/English/author_sharing.jpg">
+</div>
 <p>To celebrate students’ effort in writing, we also hold Writers' Fest -
 an event meticulously crafted to celebrate students’ finest written works.
 This literary extravaganza is a testament to the creative prowess of our
@@ -39,6 +48,9 @@ more than an event; it is a celebration of creativity, fostering a community
 that recognizes and nurtures the burgeoning talents within our student
 body.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Waterway Learning Experience/English/language_games_on_iPads__2_.jpg">
+</div>
 <p>In addition to our academic endeavours, the English Department is proud
 to offer a lively array of recess activities designed to infuse a sense
 of joy and enthusiasm for language among our students. These engaging sessions
@@ -53,6 +65,9 @@ part of every student's daily experience. It is not just about learning;
 it is about creating lasting memories and a genuine love for the beauty
 of language.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Waterway Learning Experience/English/sale_of_books.jpg">
+</div>
 <p>We are also excited in anticipation of our milestone in 2024, with the
 launch of our literacy programme for lower primary students to establish
 a sturdy foundation in language skills, ensuring each student is equipped
