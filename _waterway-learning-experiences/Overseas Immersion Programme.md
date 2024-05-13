@@ -5,6 +5,7 @@ variant: tiptap
 description: ""
 ---
 <p><strong>Developing 21st Century Competencies through Waterway Primary School’s &nbsp;Overseas Immersion Programme</strong>
+<br>
 <br>Waterway Primary School believes in evolving our school learning experiences
 to meet the demands of a rapidly changing world, to help our students learn
 and apply their learning in authentic contexts. The Overseas Immersion
@@ -14,6 +15,7 @@ ASEAN awareness, nurturing eco-sustainability and providing the platform
 to exchange knowledge on Maker &nbsp;Education with foreign counterparts.</p>
 <p>In 2024, our Primary 5 students will be travelling to Penang from 14 to
 16 May, visiting cultural sites, museums and farms.
+<br>
 <br>As part of the school immersion experience, we will be partnering Kuang
 Hua Primary School, Sungai Limeng at Penang. Our students will engage with
 their overseas peers via an online interaction session in April before
@@ -92,6 +94,8 @@ students from different levels and to different countries over the next
 few years. The programme will serve as a transformative culmination of
 Maker Education, deepening students' cultural understanding, promoting
 ASEAN awareness, and nurturing eco-sustainability.</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Waterway Learning Experience/OIP/Picture51.png">
+</div>
 <p></p>
 <p></p>
