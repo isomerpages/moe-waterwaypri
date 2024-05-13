@@ -190,7 +190,7 @@ and ask questions</p>
 </table>
 <p><strong>&nbsp;Student Achievements:</strong> 
 <br>Share noteworthy student achievements and success stories.</p>
-<p>Innovative Science Projects:
+<p><strong>Innovative Science Projects: </strong>
 <br>Our Science E2K students participated in the Young Sustainability Champion
 Programme presented by Temasek Foundation and organised by Science Centre
 Singapore. They collaborated with other schools on innovative science projects,
