@@ -36,7 +36,7 @@ the adventure of scientific exploration.
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Waterway Learning Experience/Science/Science_Centre_LJ.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Waterway Learning Experience/Science/Science_Centre_LJ.jpg">
 </div>
 <p><strong>Department Goals and how they help achieve 21 CC</strong>:
 <br>Outline the key goals and objectives for the academic year or term.</p>
@@ -49,7 +49,7 @@ and critical thinking.
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Waterway Learning Experience/Science/Sungei_Buloh_Wetlands_LJ1.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Waterway Learning Experience/Science/Sungei_Buloh_Wetlands_LJ1.jpg">
 </div>
 <p><strong>Goals:</strong> 
 <br><strong>Cultivate Curiosity:</strong> We are dedicated to awakening and
@@ -77,7 +77,7 @@ discovery.
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Waterway Learning Experience/Science/Science_Play.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Waterway Learning Experience/Science/Science_Play.jpg">
 </div>
 <p>We aim to empower students not only with scientific knowledge but also
 with the skills and mindset needed to approach the world with curiosity,
