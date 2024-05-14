@@ -20,7 +20,7 @@ with purposeful assessment and pedagogy in hope to help students develop
 the essential competencies to succeed in our fast-changing world.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Waterway Learning Experience/Physical Education/Picture14.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Waterway Learning Experience/Physical Education/Picture14.jpg">
 </div>
 <p><strong>Physical Education Curriculum Framework</strong>
 </p>
@@ -32,7 +32,7 @@ along with the transference of these skills and concepts across the various
 content areas.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Waterway Learning Experience/Physical Education/P1_Mass_Walk_1.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Waterway Learning Experience/Physical Education/P1_Mass_Walk_1.jpg">
 </div>
 <p><strong>P1 Mass Walk</strong> 
 <br>The Mass Walk is held at Punggol Waterway Park adjacent to Waterway Primary
