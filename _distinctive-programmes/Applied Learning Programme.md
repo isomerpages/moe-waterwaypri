@@ -33,7 +33,7 @@ skills (21<sup>st</sup> CC)
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Distinctive Programmes/ALP/Picture55.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Distinctive Programmes/ALP/Picture55.jpg">
 </div>
 <p>The lighthouse, an icon of Waterway Primary School, represents a student
 from Waterway Primary School who has ideas. We want to equip our students
