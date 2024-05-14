@@ -6,7 +6,7 @@ description: ""
 ---
 <p>WAPS Student Management Framework</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Waterway Learning Experience/Student Management/Picture52.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Waterway Learning Experience/Student Management/Picture52.jpg">
 </div>
 <p>The Student Management (SM) Committee aims to create a safe, caring and
 enabling school environment so that WAP students will be able to think
@@ -15,7 +15,7 @@ committee focuses on promoting Positive Discipline, Student Wellbeing and
 Peer Support Relationships (PSR).&nbsp;</p>
 <p><strong>Department Goals and how they help achieve 21 CC</strong>:</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Waterway Learning Experience/Student Management/Picture53.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Waterway Learning Experience/Student Management/Picture53.jpg">
 </div>
 <p>We believe in taking a positive and proactive approach to promote discipline
 and wellbeing. Through the CCE curriculum, classroom lessons and school
@@ -53,7 +53,7 @@ sports and workshops on social emotional learning. The diverse range of
 programmes also aim to expose students to varied experiences, develop their
 physical &amp; mental wellbeing and build their confidence.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Waterway Learning Experience/Student Management/P1___P2_Class_Kindness_Activity.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Waterway Learning Experience/Student Management/P1___P2_Class_Kindness_Activity.jpg">
 </div>
 <p></p>
 <p></p>
