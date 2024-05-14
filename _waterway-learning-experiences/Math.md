@@ -19,7 +19,7 @@ problem solving; and
 in mathematics.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Waterway Learning Experience/Math/Picture1.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Waterway Learning Experience/Math/Picture1.jpg">
 </div>
 <p><strong><u>Teaching and Learning</u></strong> 
 <br>The teaching framework of our department takes the approach of engaging,
@@ -88,14 +88,14 @@ experiences. We make use of CPA (Concrete-Pictorial-Abstract) approach
 to bring learning alive.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Waterway Learning Experience/Math/Picture2.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Waterway Learning Experience/Math/Picture2.jpg">
 </div>
 <p>Various recess activities are lined up for students from P1 to P6. Not
 only does it bring fun, it also enables students to apply their learning
 in different contexts.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Waterway Learning Experience/Math/Picture3.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Waterway Learning Experience/Math/Picture3.jpg">
 </div>
 <p><strong><em><u>Differentiated Learning</u></em></strong><u> </u>
 <br>echnology is used to enhance the learning experiences of students. Flipped
@@ -105,7 +105,7 @@ products made collaboratively with their peers to exhibit their learning.
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Waterway Learning Experience/Math/Picture6.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Waterway Learning Experience/Math/Picture6.jpg">
 </div>
 <p><strong><em><u>Extending their learning</u></em></strong> 
 <br>To extend the learning of students who have a good foundation in mathematics,
