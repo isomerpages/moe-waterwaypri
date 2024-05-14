@@ -81,7 +81,7 @@ exploring and enriching students’ learning of Mathematics.</p>
 </tr>
 </tbody>
 </table>
-<p><strong><em>Joy of Learning</em></strong> 
+<p><strong><em><u>Joy of Learning</u></em></strong><u> </u>
 <br>Fostering interest and confidence in Mathematics stems from the love of
 learning and when they are able to make connections with their everyday
 experiences. We make use of CPA (Concrete-Pictorial-Abstract) approach
@@ -97,7 +97,7 @@ in different contexts.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Waterway Learning Experience/Math/Picture3.jpg">
 </div>
-<p><strong><em>Differentiated Learning</em></strong> 
+<p><strong><em><u>Differentiated Learning</u></em></strong><u> </u>
 <br>echnology is used to enhance the learning experiences of students. Flipped
 learning is used in some lessons to encourage students’ agency and to pique
 their curiosity. Their learning at home is consolidated in class with various
@@ -107,7 +107,7 @@ products made collaboratively with their peers to exhibit their learning.
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Waterway Learning Experience/Math/Picture6.jpg">
 </div>
-<p><strong><em>Extending their learning</em></strong> 
+<p><strong><em><u>Extending their learning</u></em></strong> 
 <br>To extend the learning of students who have a good foundation in mathematics,
 a small group of students are selected to attend the E2K (Excellence 2000)
 program for Mathematics. It challenges the thought processes of the students
