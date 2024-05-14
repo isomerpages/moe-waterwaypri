@@ -16,7 +16,7 @@ society and the world in which we live.
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Waterway Learning Experience/Social Studies/Picture8.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Waterway Learning Experience/Social Studies/Picture8.jpg">
 </div>
 <p>Our Social Studies programmes follows the thematic approach of the Social
 Studies Primary Syllabus and separated into three broad clusters as described
@@ -44,16 +44,16 @@ of civilizations in the world that can still be seen today.
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Waterway Learning Experience/Social Studies/Picture9.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Waterway Learning Experience/Social Studies/Picture9.jpg">
 </div>
 <p>Some activities to engage students in Social Studies</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Waterway Learning Experience/Social Studies/Picture10.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Waterway Learning Experience/Social Studies/Picture10.jpg">
 </div>
 <p>P5 students playing congkak as part of learning about games commonly played
 in Southeast Asia.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Waterway Learning Experience/Social Studies/Picture13.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Waterway Learning Experience/Social Studies/Picture13.jpg">
 </div>
 <p>P3 students upcycling an old t-shirt into a reusable bag.</p>
 <p></p>
