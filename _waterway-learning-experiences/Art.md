@@ -15,7 +15,7 @@ Framework in <u>Figure 1.</u>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Waterway Learning Experience/Art/Picture21.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Waterway Learning Experience/Art/Picture21.jpg">
 </div>
 <p>Figure 1: Primary Art Syllabus Framework</p>
 <p>The three key learning domains in the framework (<strong>See, Express and Appreciate</strong>)
@@ -24,7 +24,7 @@ achieve by the end of each academic year.
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Waterway Learning Experience/Art/Picture15.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Waterway Learning Experience/Art/Picture15.jpg">
 </div>
 <p>&nbsp;<strong>Curriculum and/or Programmes</strong>:
 <br>At Waterway Primary School, we introduce our students to a variety of
@@ -40,7 +40,7 @@ that will enable them to be active artists and informed audiences.&nbsp;
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Waterway Learning Experience/Art/Picture19.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Waterway Learning Experience/Art/Picture19.jpg">
 </div>
 <table style="minWidth: 50px">
 <colgroup>
@@ -103,9 +103,9 @@ that will enable them to be active artists and informed audiences.&nbsp;
 </table>
 <p>Table 1: Art forms and mediums covered in the curriculum</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Waterway Learning Experience/Art/Picture18.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Waterway Learning Experience/Art/Picture18.jpg">
 </div>
-<p><strong>Showcase of Artworks</strong>
+<p><strong>Showcase of Artworks</strong> 
 <br>At the start of every academic year, all students will visit the Learning
 Gallery in school to view the artworks done by their schoolmates and engage
 in meaningful conversation facilitated by the art teachers. The Learning
@@ -114,7 +114,7 @@ their views to a wider audience.</p>
 <p>Besides the Learning Gallery, selected artworks done by students will
 also be displayed in the Principal's office and school compound. &nbsp;</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Waterway Learning Experience/Art/Picture20.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Waterway Learning Experience/Art/Picture20.jpg">
 </div>
 <p></p>
 <p>&nbsp;</p>
