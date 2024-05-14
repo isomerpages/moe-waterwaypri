@@ -9,7 +9,7 @@ the primary school.
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Waterway Learning Experience/Science/E2K_Science1.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Waterway Learning Experience/Science/E2K_Science1.jpg">
 </div>
 <p>The Science department plays a pivotal role in nurturing young minds,
 fostering a love for exploration, and cultivating a deep appreciation for
@@ -23,7 +23,7 @@ students.
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Waterway Learning Experience/Science/Science_Centre_LJ23.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Waterway Learning Experience/Science/Science_Centre_LJ23.jpg">
 </div>
 <p>Our mission is to instill a lifelong love for learning and inquiry, laying
 the foundation for critical thinking and problem-solving skills that extend
@@ -36,7 +36,7 @@ the adventure of scientific exploration.
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Waterway Learning Experience/Science/Science_Centre_LJ.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Waterway Learning Experience/Science/Science_Centre_LJ.jpg">
 </div>
 <p><strong>Department Goals and how they help achieve 21 CC</strong>:
 <br>Outline the key goals and objectives for the academic year or term.</p>
