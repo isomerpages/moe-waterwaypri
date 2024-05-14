@@ -7,7 +7,7 @@ description: ""
 <p><strong>Eco Stewardship @ WAPS: <em>Protecting Waterways, Celebrating Biodiversity</em></strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Waterway Learning Experience/Eco Stewardship/Students_engaged_in_learning_about_biodiversity_in_school.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Waterway Learning Experience/Eco Stewardship/Students_engaged_in_learning_about_biodiversity_in_school.jpg">
 </div>
 <p><strong>Mission</strong> 
 <br>To develop WAPS staff and students to
@@ -21,7 +21,7 @@ the following objectives:
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Waterway Learning Experience/Eco Stewardship/Students_recycling_at_WAPS.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Waterway Learning Experience/Eco Stewardship/Students_recycling_at_WAPS.png">
 </div>
 <p><u>Knowledge</u> 
 <br>1.&nbsp;&nbsp;&nbsp;&nbsp; Recognize&nbsp;how humans rely on the environment
@@ -46,7 +46,7 @@ living in the community
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Waterway Learning Experience/Eco Stewardship/P1_students_learning_about_biodiversity_through_a_picture_book.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Waterway Learning Experience/Eco Stewardship/P1_students_learning_about_biodiversity_through_a_picture_book.jpg">
 </div>
 <p><strong>Theme &amp; Approach</strong> 
 <br>The mission will be achieved through awareness building, providing platforms
@@ -77,7 +77,7 @@ learning partnership opportunities
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Waterway Learning Experience/Eco Stewardship/P6_LJ_to_Lorong_Halus.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Waterway Learning Experience/Eco Stewardship/P6_LJ_to_Lorong_Halus.jpg">
 </div>
 <p>The programme adopts a 3-tiered approach to raise awareness, encourage
 actions and advocacy.
