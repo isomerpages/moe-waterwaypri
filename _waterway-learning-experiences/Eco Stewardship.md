@@ -4,8 +4,7 @@ permalink: /eco-stewardship/
 variant: tiptap
 description: ""
 ---
-<p><strong>Eco Stewardship @ WAPS: <em>Protecting Waterways, Celebrating Biodiversity</em></strong>
-</p>
+<h4><strong>Eco Stewardship @ WAPS: <em>Protecting Waterways, Celebrating Biodiversity</em></strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Waterway Learning Experience/Eco Stewardship/Students_engaged_in_learning_about_biodiversity_in_school.jpg">
 </div>
