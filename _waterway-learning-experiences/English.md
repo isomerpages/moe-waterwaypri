@@ -4,8 +4,7 @@ permalink: /english/
 variant: tiptap
 description: ""
 ---
-<p>The English Department @ WAPS</p>
-<p></p>
+<h4>The English Department @ WAPS</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Waterway Learning Experience/English/reader_response_evoked.jpg">
 </div>
