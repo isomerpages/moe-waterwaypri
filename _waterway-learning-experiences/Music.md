@@ -6,7 +6,7 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Waterway Learning Experience/Music/Fun_with_Music_and_Movement.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Waterway Learning Experience/Music/Fun_with_Music_and_Movement.jpg">
 </div>
 <p><strong>Introduction</strong>:
 <br>The Music department believes that every child possesses innate musical
@@ -27,7 +27,7 @@ critical thinking and collaboration among peers.
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Waterway Learning Experience/Music/Strum___Sing_with_Ukulele.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Waterway Learning Experience/Music/Strum___Sing_with_Ukulele.jpg">
 </div>
 <p>&nbsp;<strong>Curriculum and/or Programmes</strong>:
 <br>Music @ Waterway Primary begins with singing and movement in the earlier
@@ -43,7 +43,7 @@ and celebrate the music achievements together as a big community.&nbsp;
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Waterway Learning Experience/Music/Active_contributors_through_Music.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Waterway Learning Experience/Music/Active_contributors_through_Music.jpg">
 </div>
 <p>We empower our students to make well-informed music choices through the
 activities in our programmes (eg: P2 Performing Arts (PA) CCA Module, Project
