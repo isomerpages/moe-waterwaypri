@@ -50,8 +50,6 @@ links:
         url: /learning-experiences/nurturing-young-minds
       - title: Building Upright Character
         url: /learning-experiences/building-upright-character
-      - title: Celebrations
-        url: /learning-experiences/celebrations
       - title: Our Students, Our Pride
         url: /learning-experiences/our-students-our-pride-students-channel
   - title: Distinctive Programmes
@@ -76,6 +74,15 @@ links:
   - title: CCA
     collection: cca
   - title: Our Students, Our Pride
+    url: /learning-experiences/our-students-
+    sublinks:
+      - title: Celebrations
+        url: /learning-experiences/celebrations
+      - title: Student Learning Space (SLS)
+        url: https://vle.learning.moe.edu.sg
+      - title: OPAC (School Library)
+        url: https://schoolibrary.moe.edu.sg/waterwaypri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME
+  - title: Our Partners
     url: /learning-experiences/our-students-our-pride/
     sublinks:
       - title: Parents Say....
@@ -108,17 +115,8 @@ links:
         url: /2024p1orientation
       - title: 2024 P1 Booklist & Uniform
         url: 2024bookuni
-  - title: Our Partners
-    url: /permalink
-    sublinks:
-      - title: Student Learning Space (SLS)
-        url: https://vle.learning.moe.edu.sg
-      - title: OPAC (School Library)
-        url: https://schoolibrary.moe.edu.sg/waterwaypri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME
   - title: Useful Information & Contact
     url: /contact/visitor-information
     sublinks:
       - title: Visitor Information
         url: /contact/visitor-information
-  - title: School Bus (For Vendor)
-    url: /schoolbusadvert/
