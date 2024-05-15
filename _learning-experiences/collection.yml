@@ -1,5 +1,5 @@
 collections:
-  waterway-learning-experiences:
+  learning-experiences:
     output: true
     order:
       - Learning Experiences.md
