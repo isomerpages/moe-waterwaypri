@@ -2,6 +2,7 @@ collections:
   waterway-learning-experiences:
     output: true
     order:
+      - Learning Experiences.md
       - English.md
       - Math.md
       - Science.md
