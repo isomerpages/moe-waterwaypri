@@ -9,7 +9,7 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning%20Experiences/learning-experiences_banner.jpg">
 </div>
 <p>&gt;LEARNING EXPERIENCES</p>
-<h2>Our Students, Our Pride</h2>
+<h2>Celebrations</h2>
 <h3>NATIONAL PRIMARY GAMES CREATION AND CODING COMPETITION 2019</h3>
 <p>On 4 September 2019, 10 of our P4 students, led by Ms Goh Qian Yi and
 Mr Neo Jun Wei, represented Waterway Primary School to participate in the
