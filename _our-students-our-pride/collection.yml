@@ -1,4 +1,5 @@
 collections:
   our-students-our-pride:
     output: true
-    order: []
+    order:
+      - Celebrations.md
