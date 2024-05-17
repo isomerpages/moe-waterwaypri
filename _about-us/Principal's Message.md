@@ -2,28 +2,22 @@
 title: Principal's Message
 permalink: /about-us/principals-message/
 description: ""
+variant: markdown
 ---
-> ![](/images/Images/about-us_02.jpg)
-> About Us 
+&gt; ![](/images/Images/about-us_02.jpg)
+&gt; About Us 
 
 ## Principal's Message
 
+At Waterway Primary, our  focus for 2024 is to encourage our students to take greater ownership of their learning and to develop important future-centric skillsets. To this end, I am excited to share with you that we have refreshed our Applied Learning Program (ALP) as well as our Lifelong Learning Program (LLP). 
 
-Dear Parents/Guardians 
+Our ALP will be focused on fostering innovation, student agency and creativity through Maker Education and our LLP will bring together our Orators program and the Student Leadership Program to allow our students to develop to be thought leaders. Together with our focus on Growth and Benefit Mindset as well as our wide variety of programs, we will live out our Mission to provide a vibrant environment that nurtures young minds and builds upright character.
 
-I would like to take this opportunity to wish you all a very Happy New Year and to also introduce myself. I am Mr Wilbur Wong and I have been appointed by the Ministry of Education to take over the principalship from Mrs Wee with effect from January 2023. 
+Our Vision is to develop each child to be “A lifelong learner and a gracious citizen”.  We will continue to develop in our students’ future-centric competencies and strengthen their grasp of a ‘Growth and Benefit Mindset’. We will continue to place emphasis on inculcating our school’s core values of Responsibility, Integrity, Self-discipline and Empathy (RISE) so that our students can remain anchored and learn to serve others.
 
-Waterway Primary opened her doors in 2016 with 5 primary one classes and since then, we have grown from strength to strength and over the years, our family has grown and we have put in place many innovative and exciting programmes, all with the intention of providing a rich, vibrant and holistic learning experience for our students. Much of the credit for our success must go to Mrs Wee, who is the pioneering principal. Thanks to her foresight, passion and beliefs, staff and students of Waterway Primary are able to reap the fruits of her labour. As Mrs Wee moves on to the next phase of her life, we would like to thank her for her efforts and to wish her well in all her future endeavours. She will always be a treasured family member of Waterway Primary School. 
+I will like to take this opportunity to also thank parents for your unwavering support for Waterway Primary. Your commitment to working closely with the teachers to enrich your child’s educational journey is commendable and very much appreciated. I look forward to strengthening our spirit of close partnership in 2024.
 
-It is with great excitement that I take on the principalship of the school. Our vision, ‘**A Lifelong Learner, A Gracious Citizen**’ resonates deeply with me and remains relevant to the ever-changing world around us. Our children will grow up in a world that is complex and uncertain, where skillsets may change but they will need to develop mindsets that will take them through this ambiguity. We will continue to develop in our students’ future-centric competencies and strengthen their grasp of a ‘Growth and Benefit Mindset’. We will continue to place emphasis on inculcating our school’s core values of **Responsibility, Integrity, Self-discipline and Empathy (RISE)** so that we can remain anchored and learn to serve others. 
-
-For us to achieve this, we will want to work closely with you, so that together we can help each child learn and grow in a safe and supportive environment. Over the course of this year, I will find more opportunities to meet up with you to share more about our approaches and programs and to seek your feedback. I look forward to meeting up with you in the year ahead.
-
-We look forward to your continued support in 2023. Please do not hesitate to contact us or your child’s teachers if you need any advice, information, or clarification. 
-
-Best wishes for you and your family in the new year. 
-
-Yours sincerely 
-
-Mr Wilbur Wong<br> 
+Mr Wilbur Wong<br>
 Principal
+
+
