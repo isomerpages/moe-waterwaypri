@@ -2,8 +2,8 @@ collections:
   distinctive-programmes:
     output: true
     order:
-      - Orators@Waterway.md
+      - Character & Citizenship Education.md
+      - Lifelong Learning Programme.md
+      - Applied Learning Programme.md
       - Growth and Benefit Mindset.md
-      - Computational Thinking.md
       - Good Morning School.md
-      - Flipped Classroom My Classroom at Home.md

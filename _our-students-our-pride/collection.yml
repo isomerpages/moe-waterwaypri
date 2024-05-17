@@ -1,0 +1,6 @@
+collections:
+  our-students-our-pride:
+    output: true
+    order:
+      - Our Students, Our Pride Students.md
+      - Celebrations.md

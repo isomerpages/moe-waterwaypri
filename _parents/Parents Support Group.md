@@ -23,47 +23,43 @@ A Parent Support Group based on trust, passion and professionalism, guided by th
 Come join us as a Parent Volunteer and be a part of Waterway Primary School family! [Register Here](https://form.gov.sg/652e5a9a23d6530012fa850b)
 
 
-### PSG EXCO 2023
+### PSG EXCO 2024
 <table>
 <thead>
-  <tr>
-    <th></th>
-    <th></th>
-  </tr>
 </thead>
 <tbody>
   <tr>
-    <td>Mr Daniel Seah</td>
-    <td>Chairperson, Dads For Life Champion &amp; P6 Level Rep</td>
+    <td>Chen Wei Lin</td>
   </tr>
   <tr>
-    <td>Mdm Sylvie Chua</td>
-    <td>Vice-Chairperson &amp; P3 Level Rep</td>
+    <td>Mariam</td>
   </tr>
   <tr>
-    <td>Mdm Iris Ng</td>
-    <td>Honorar Secretary, P4 Level Rep &amp; Project Coordinator</td>
+    <td>Ng Swee Hoon</td>
   </tr>
   <tr>
-    <td>Mr Luc Schultz Tan</td>
-    <td> P1 Level Rep &amp; Project Coordinator</td>
+    <td>Ting Su Ling</td>
   </tr>
 	  <tr>
-    <td>Mdm Cindy Lim</td>
-    <td> P1 Level Rep &amp; Project Coordinator</td>
+    <td>Junna Seah</td>
   </tr>
   <tr>
-    <td>Mdm Lo Pin Ju</td>
-    <td> P2 Level Rep &amp; Project Coordinator</td>
+    <td>Jasmine Neo</td>
   </tr>
 	<tr>
-    <td>Mrs Mahrukh R. Karim</td>
-    <td> P5 Level Rep &amp; Project Coordinator</td>
+    <td>Suzanne Sim</td>
   </tr>
-  
   <tr>
-    <td>Mr Pok Teck Choon</td>
-    <td>Project Coordinator</td>
+    <td>Rita Rawat</td>
+  </tr>
+	  <tr>
+    <td>Sylvie Chua</td>
+  </tr>
+	  <tr>
+    <td>Iris Ng</td>
+  </tr>
+	  <tr>
+    <td>Niclas Chang</td>
   </tr>
 </tbody>
 </table>

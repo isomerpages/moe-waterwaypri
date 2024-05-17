@@ -8,7 +8,11 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="Staff Photo" src="/images/waterway%20ps%20-%20staff%20(fun)-8r.jpg">
 </div>
 <h4>SCHOOL LEADERS</h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -49,7 +53,11 @@ variant: tiptap
 </tbody>
 </table>
 <h4>HEAD OF DEPARTMENT</h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -107,7 +115,11 @@ variant: tiptap
 </tbody>
 </table>
 <h4>YEAR HEAD &amp; ASSISTANT YEAR HEAD</h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -154,7 +166,11 @@ variant: tiptap
 </tbody>
 </table>
 <h4>LEVEL/SUBJECT HEAD</h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -215,7 +231,11 @@ variant: tiptap
 </tbody>
 </table>
 <h4>TEACHER LEADERS &amp; COORDINATORS</h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -276,7 +296,12 @@ variant: tiptap
 </tbody>
 </table>
 <h4>PRIMARY 1 TEACHERS</h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -425,7 +450,12 @@ variant: tiptap
 </tbody>
 </table>
 <h4>PRIMARY 2 TEACHERS</h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -574,7 +604,12 @@ variant: tiptap
 </tbody>
 </table>
 <h4>PRIMARY 3 TEACHERS</h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -691,7 +726,12 @@ variant: tiptap
 </tbody>
 </table>
 <h4>PRIMARY 4 TEACHERS</h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -808,7 +848,12 @@ variant: tiptap
 </tbody>
 </table>
 <h4>PRIMARY 5 TEACHERS</h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -822,7 +867,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>MRS RAEBURN</strong> 
-<br><a href="mailto:mohammed_imran_faizal@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">raeburn_sim_chey_hoong@moe.edu.sg</a>
+<br><a href="mailto:raeburn-sim_chey_hoong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">raeburn_sim_chey_hoong@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -926,7 +971,12 @@ variant: tiptap
 </tbody>
 </table>
 <h4>PRIMARY 6 TEACHERS</h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -1059,7 +1109,12 @@ variant: tiptap
 </tbody>
 </table>
 <h4>MOTHER TONGUE - CHINESE LANGUAGE</h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -1113,7 +1168,11 @@ variant: tiptap
 </tbody>
 </table>
 <h4>MOTHER TONGUE - MALAY LANGUAGE</h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -1166,7 +1225,11 @@ variant: tiptap
 </tbody>
 </table>
 <h4>MOTHER TONGUE - TAMIL LANGUAGE</h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -1183,7 +1246,11 @@ variant: tiptap
 </tbody>
 </table>
 <h4>PAM (PHYSICAL EDUCATION, ART &amp; MUSIC)</h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -1296,7 +1363,11 @@ variant: tiptap
 </tbody>
 </table>
 <h4>ENGLISH MEDIUM TEACHING</h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -1313,7 +1384,11 @@ variant: tiptap
 </tbody>
 </table>
 <h4>SEN OFFICER &amp; SCHOOL COUNSELLOR</h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -1343,7 +1418,11 @@ variant: tiptap
 </tbody>
 </table>
 <h4>ADMINISTRATIVE &amp; SUPPORT STAFF</h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -1409,7 +1488,11 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -1502,7 +1585,11 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">

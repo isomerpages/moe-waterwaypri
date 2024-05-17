@@ -20,71 +20,103 @@ links:
   - title: Learning Experiences
     url: /learning-experiences
     sublinks:
+      - title: English
+        url: /english/
+      - title: Math
+        url: /math/
+      - title: Science
+        url: /science/
+      - title: Mother Tongue
+        url: /mother-tongue/
+      - title: Social Studies
+        url: /social-studies/
+      - title: Physical Education (PE)
+        url: /physical-education-pe/
+      - title: Art
+        url: /art/
+      - title: Music
+        url: /music/
+      - title: ICT
+        url: /information-communications-technology/
+      - title: Enrichment & Academic Support
+        url: /enrichment-and-academic-support/
+      - title: Overseas Immersion Programme
+        url: /overseas-immersion-programme/
+      - title: Eco-Stewardship
+        url: /eco-stewardship/
+      - title: Student Management
+        url: /student-management/
       - title: Nurturing Young Minds
         url: /learning-experiences/nurturing-young-minds
       - title: Building Upright Character
         url: /learning-experiences/building-upright-character
-      - title: Celebrations
-        url: /learning-experiences/celebrations
-      - title: Our Students, Our Pride
-        url: /learning-experiences/our-students-our-pride-students-channel
   - title: Distinctive Programmes
-    collection: distinctive-programmes
+    url: /distinctive-programmes/
+    sublinks:
+      - title: Applied Learning Programme
+        url: /applied-learning-programme/
+      - title: Lifelong Learning Programme
+        url: /lifelong-learning-programme/
+      - title: Character & Citizenship Ed
+        url: /character-citizenship-education/
+      - title: Growth & Benefit Mindset
+        url: /distinctive-programmes/growth-and-benefit-mindset/
+      - title: Orators@Waterway
+        url: /distinctive-programmes/orators-at-waterway/
+      - title: Computational Thinking
+        url: /distinctive-programmes/computational-thinking/
+      - title: Good Morning School
+        url: /distinctive-programmes/good-morning-school/
+      - title: Flipped Class My Class @ Home
+        url: /permalink
   - title: CCA
     collection: cca
-  - title: Parents
-    url: /parents/parents-support-group
+  - title: Our Students, Our Pride
+    url: /learning-experiences/our-students-our-pride-students/
+    sublinks:
+      - title: Celebrations
+        url: /learning-experiences/celebrations
+  - title: Our Partners
+    url: /learning-experiences/our-students-our-pride/
     sublinks:
       - title: Parents Say....
         url: https://waterwaypri.wixsite.com/wwps-openhouse/parents-say-1
       - title: P6 Students & Parents Say
         url: https://waterwaypri.wixsite.com/wwps-openhouse/2021-p6-cohort-students-parents-say
-      - title: Vendor Information
-        url: /parents/vendor-information
-      - title: Forms
-        url: /parents/forms
       - title: Parents Support Group
         url: /parents/parents-support-group
       - title: Minister Wong's Media Visit
         url: /parents/minister-wongs-media-visit
-      - title: "@parentwith.moesg"
-        url: https://www.instagram.com/parentingwith.moesg/
       - title: Family Matters
         url: /parents/family-matters
       - title: Newsletter
         url: /newsletter
       - title: MoneySense Programme
         url: /parents/moneysense/
-      - title: E-Open House 2023
-        url: https://waterwaypri.wixsite.com/wwps-openhouse
       - title: Virtual Tour
         url: https://app.lapentor.com/sphere/waterway-primary-school
-      - title: PAT & OYEA 2024 Nomination
-        url: /patoyea2024/
-      - title: 2024 P1 Orientation
-        url: /2024p1orientation
-      - title: 2024 P1 Booklist & Uniform
-        url: 2024bookuni
-  - title: STUDENTS
-    url: /permalink
+  - title: Useful Information & Contact
+    url: /contact/visitor-information
     sublinks:
       - title: Student Learning Space (SLS)
         url: https://vle.learning.moe.edu.sg
       - title: OPAC (School Library)
         url: https://schoolibrary.moe.edu.sg/waterwaypri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME
-  - title: Contact
-    url: /contact/visitor-information
-    sublinks:
       - title: Visitor Information
         url: /contact/visitor-information
-  - title: MK@Waterway
-    url: /permalink
-    sublinks:
-      - title: Home
+      - title: Vendor Information
+        url: /parents/vendor-information
+      - title: Forms
+        url: /parents/forms
+      - title: "@parentwith.moe.sg"
+        url: https://www.instagram.com/parentingwith.moesg/
+      - title: E-Open House 2023
+        url: https://waterwaypri.wixsite.com/wwps-openhouse
+      - title: PAT & OYEA 2024 Nomination
+        url: /patoyea2024/
+      - title: MK@Waterway
         url: https://mkwaterway.wixsite.com/mkwy
-      - title: About
-        url: https://mkwaterway.wixsite.com/mkwy/about
-      - title: FAQ
-        url: https://mkwaterway.wixsite.com/mkwy/faq
-  - title: School Bus (For Vendor)
-    url: /schoolbusadvert/
+      - title: Facebook
+        url: https://www.facebook.com/pages/Waterway-Primary-School/1476310932684807
+      - title: Instagram
+        url: https://www.instagram.com/waterway_primary?igsh=MWttdncya2pieTYzNw==
