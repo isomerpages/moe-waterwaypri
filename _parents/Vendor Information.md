@@ -41,8 +41,9 @@ Liaison Officer: **Mdm Angel Siti Norbaya binte Abu Bakar** <br>
 Handphone No: **8149 1427** <br>
 Email address:  [waterway2024tpt@outlook.com](waterway2024tpt@outlook.com)
 <br>
-* [School Bus Operator and Fare 2024](/files/info%20sheet%20on%20school%20bus%20services%20(2024)_new.pdf)<br>
-* [2024 School Bus Request Form](/files/waps%20school%20bus%20request%20form%20for%202024.pdf)
+* [School Bus Operator and Fare 2024](/files/info_sheet_on_school_bus_services__2024__new__1_.pdf)
+<br>
+* [2024 School Bus Request Form](/files/info_sheet_on_school_bus_services__2024__new__1_.pdf)
 
 #### Student Care Centre
 
