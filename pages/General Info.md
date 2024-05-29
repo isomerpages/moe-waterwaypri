@@ -2,6 +2,7 @@
 title: General Info
 permalink: /general-info/
 description: ""
+variant: markdown
 ---
 ![](/images/Images/contact_02.jpg)
 **GENERAL INFORMATION**
@@ -46,9 +47,9 @@ description: ""
   </tr>
   <tr>
     <td>School Bus Transport Service<br></td>
-    <td><b>Sin Bus Transport Services</b><br>
-Tel: 90080055 / 8686 1638 (Mr Eric Ng)<br>
-Email: <a href="mailto:ericng.sin@gmail.com" target="_blank" rel="noopener noreferrer">ericng.sin@gmail.com
+    <td><b>Bedok Transport Pte. Ltd.</b><br>
+Tel: 8149 1427 (Mdm Angel Siti Norbaya)<br>
+Email: <a href="waterway2024tpt@outlook.com" target="_blank" rel="noopener noreferrer">waterway2024tpt@outlook.com
 <br></a></td>
   </tr>
   <tr>
