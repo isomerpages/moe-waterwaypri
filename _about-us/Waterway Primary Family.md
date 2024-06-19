@@ -283,7 +283,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>MRS SERENE NG</strong> 
 <br>Senior Teacher Lower Primary
-<br><a href="neo_po_tin_serene@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">neo_po_tin_serene@schools.gov.sg</a>
+<br><a href="neo_po_tin_serene@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">neo_po_tin_serene@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
