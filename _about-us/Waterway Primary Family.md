@@ -204,13 +204,13 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>MR MUHD MUKHLIS</strong> 
 <br>Subject Head Student Leadership (INT)
-<br><a href="muhammad_mukhlis_dzulfitri@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_mukhlis_dzulfitri@schools.gov.sg</a>
+<br><a href="muhammad_mukhlis_dzulfitri@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_mukhlis_dzulfitri@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>MR JASON YEW</strong> 
 <br>Subject Head I&amp;E
-<br><a href="yew_kwok_ming@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yew_kwok_ming@schools.gov.sg</a>
+<br><a href="yew_kwok_ming@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yew_kwok_ming@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -283,7 +283,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>MRS SERENE NG</strong> 
 <br>Senior Teacher Lower Primary
-<br><a href="neo_po_tin_serene@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">neo_po_tin_serene@schools.gov.sg</a>
+<br><a href="neo_po_tin_serene@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">neo_po_tin_serene@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
