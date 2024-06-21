@@ -223,7 +223,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>MS CLARA ONG</strong> 
-<br>Subject Head National Education / Social Studies
+<br>Subject Head Character &amp; Citizenship Education (CCE)
 <br><a href="mailto:ong_fong_yan_clara@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_fong_yan_clara@moe.edu.sg</a>
 </p>
 </td>
