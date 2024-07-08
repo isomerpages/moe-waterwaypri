@@ -1353,7 +1353,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>MR TAN WEI QIANG</strong> 
-<br><a href="mailto:tan_wei_qiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_wei_qiang@moe.edu.sg</a>
+<br><a href="mailto:tan_weiqiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_weiqiang@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
