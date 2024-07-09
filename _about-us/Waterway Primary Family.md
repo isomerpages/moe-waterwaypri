@@ -564,9 +564,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>MR JUSTIN TAN</strong> 
-<br><a href="mailto:tan_siow_meng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_siow_meng@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -1310,9 +1308,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>MR JUSTIN TAN</strong> 
-<br>PE Teacher
-<br><a href="mailto:tan_siow_meng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_siow_meng@moe.edu.sg</a>
+<p><strong>MR TAN WEI QIANG</strong> 
+<br><a href="mailto:tan_weiqiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_weiqiang@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1348,16 +1345,6 @@ variant: tiptap
 <br>PE Teacher
 <br><a href="mailto:Jodel_Chow_Zuliang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jodel_chow_zuliang@moe.edu.sg</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>MR TAN WEI QIANG</strong> 
-<br><a href="mailto:tan_weiqiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_weiqiang@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
