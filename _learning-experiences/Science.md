@@ -4,9 +4,7 @@ permalink: /science/
 variant: tiptap
 description: ""
 ---
-<p>Science Department
-<br>
-</p>
+<h4>Science Department <br></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Waterway Learning Experience/Science/E2K_Science1.jpg">
 </div>
@@ -186,7 +184,7 @@ Programme presented by Temasek Foundation and organised by Science Centre
 Singapore. They collaborated with other schools on innovative science projects,
 including a solar panel cleaning system. These projects not only demonstrated
 scientific knowledge but also a genuine concern for real-world issues.</p>
-<p><strong>Resources and Facilities:</strong> 
+<p><strong>Resources and Facilities:</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Waterway Learning Experience/Science/Picture7.jpg">
