@@ -4,10 +4,7 @@ permalink: /science/
 variant: tiptap
 description: ""
 ---
-<p>A brief introduction to the department's role and significance within
-the primary school.
-<br>
-</p>
+<h4>Science Department <br></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Waterway Learning Experience/Science/E2K_Science1.jpg">
 </div>
@@ -38,8 +35,6 @@ the adventure of scientific exploration.
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Waterway Learning Experience/Science/Science_Centre_LJ.jpg">
 </div>
-<p><strong>Department Goals and how they help achieve 21 CC</strong>:
-<br>Outline the key goals and objectives for the academic year or term.</p>
 <p>We aim to inspire a love for learning by nurturing the innate curiosity
 within each student. We strive to create an environment where science becomes
 a gateway to endless possibilities, encouraging students to question, explore,
@@ -82,8 +77,6 @@ discovery.
 <p>We aim to empower students not only with scientific knowledge but also
 with the skills and mindset needed to approach the world with curiosity,
 inquiry, and critical thinking—qualities essential for success in learning.</p>
-<p><strong>Curriculum and Programmes</strong>:
-<br>Explain the department's curriculum and unique teaching approaches.</p>
 <p>Our 3Es framework of Enthuse, Explore, Experience anchors on inquiry-based
 approach in teaching.</p>
 <table style="minWidth: 50px">
@@ -122,8 +115,6 @@ and ask questions</p>
 </tr>
 </tbody>
 </table>
-<p><strong>&nbsp;Teaching Staff</strong>:
-<br>Introduce the department's qualified teaching staff.</p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -131,85 +122,74 @@ and ask questions</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Science</strong>
+<p><strong>The Science Team</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lim Yan Ru (HOD)</p>
+<p>Mrs Wong Yan Ru (HOD)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Raeburn- Sim Chey Hoong (LT)</p>
+<p>Mrs Raeburn- Sim Chey Hoong (LT)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Wong-Lee Jie Yin Mitchelle</p>
-<p>(YH)</p>
+<p>Mrs Wong-Lee Jie Yin Mitchelle</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Yew Kwok Ming Jason</p>
+<p>Mr Yew Kwok Ming Jason</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Shermin Chia Shi Min</p>
+<p>Ms Shermin Chia Shi Min</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tan Sihui, Priscilla</p>
+<p>Ms Tan Sihui, Priscilla</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tay Hsiao Wen Christine</p>
+<p>Ms Tay Hsiao Wen Christine</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Gan Ai Ling Irene</p>
+<p>Mdm Gan Ai Ling Irene</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Wang Choon Kiat</p>
+<p>Mr Wang Choon Kiat</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ong Shi Min Celine</p>
+<p>Ms Ong Shi Min Celine</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p><strong>&nbsp;Student Achievements:</strong> 
-<br>Share noteworthy student achievements and success stories.</p>
 <p><strong>Innovative Science Projects: </strong>
 <br>Our Science E2K students participated in the Young Sustainability Champion
 Programme presented by Temasek Foundation and organised by Science Centre
 Singapore. They collaborated with other schools on innovative science projects,
 including a solar panel cleaning system. These projects not only demonstrated
 scientific knowledge but also a genuine concern for real-world issues.</p>
-<p><strong>Resources and Facilities:</strong> 
-<br>Describe the resources, materials, and facilities available for department
-activities.</p>
+<p><strong>Resources and Facilities:</strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Waterway Learning Experience/Science/Picture7.jpg">
 </div>
-<p><strong>Parent Involvement (if any):</strong> 
-<br>Discuss opportunities for parental involvement and collaboration with
-the department.</p>
-<p>&nbsp;<strong>Future Plans:</strong> 
-<br>Highlight upcoming plans and initiatives to improve the department's offerings.</p>
-<p></p>
-<p>This streamlined format should provide a concise and informative overview
-of the department's activities and plans.</p>
+<p>.</p>
 <p></p>
 <p></p>
 <p></p>
