@@ -28,4 +28,10 @@ sections:
       variant: center
       size: md
       alignment: left
+  - infopic:
+      id: infopic
+      image: /images/Page_1__static_pic_version_.png
+  - infopic:
+      id: infopic
+      image: /images/Page_2__FAQs_.png
 ---
