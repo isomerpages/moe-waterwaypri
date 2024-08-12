@@ -32,8 +32,10 @@ sections:
       id: infopic
       image: /images/Page_1__static_pic_version_.png
       alt: WAPS Alumni 1
+      title: WELCOME BACK WAPS ALUMNI !
   - infopic:
       id: infopic
       image: /images/Page_2__FAQs_.png
       alt: WAPS Alumni 2
+      title: FAQ ?
 ---
