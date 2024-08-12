@@ -31,7 +31,9 @@ sections:
   - infopic:
       id: infopic
       image: /images/Page_1__static_pic_version_.png
+      alt: WAPS Alumni 1
   - infopic:
       id: infopic
       image: /images/Page_2__FAQs_.png
+      alt: WAPS Alumni 2
 ---
