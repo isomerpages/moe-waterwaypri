@@ -33,9 +33,12 @@ sections:
       image: /images/Page_1__static_pic_version_.png
       alt: WAPS Alumni 1
       title: WELCOME BACK WAPS ALUMNI !
+      description: “You may also access the following URL to register your visit:"
+      url: https://docs.google.com/forms/d/e/1FAIpQLSeY147Rw_JpAaBn7mDHH0HX8QR8zfI20dY47SGLlsg94P9cdg/viewform”
+      button: Registration
   - infopic:
       id: infopic
       image: /images/Page_2__FAQs_.png
       alt: WAPS Alumni 2
-      title: FAQ ?
+      title: Frequently Asked Question
 ---
