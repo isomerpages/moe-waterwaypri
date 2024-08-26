@@ -1430,7 +1430,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Administration Executive</p>
+<p>Administrative Executive</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>MISS PHUA LEE KOON</strong>
@@ -1439,7 +1439,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Administration Executive (MK)</p>
+<p>Administrative Executive (MK)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>MDM NURANNISA</strong>
@@ -1448,7 +1448,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Administration Executive (MK)</p>
+<p>Administrative Executive (MK)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>MDM SOPIAH</strong>
@@ -1600,7 +1600,7 @@ variant: tiptap
 <p>Desktop Engineer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>MR SHAFIQ</strong>
+<p><strong>MR IQBAL</strong>
 </p>
 </td>
 </tr>
@@ -1609,7 +1609,7 @@ variant: tiptap
 <p>Desktop Engineer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>MR SARA</strong>
+<p><strong>MR GABRIEL</strong>
 </p>
 </td>
 </tr>
