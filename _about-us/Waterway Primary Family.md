@@ -1421,7 +1421,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Administration Manager</p>
+<p>Administrative Manager</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>MRS JOAN CHUA</strong>
