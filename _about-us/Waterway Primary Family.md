@@ -1380,7 +1380,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>MISS ROFIDAH SAMAH</strong> 
-<br>Senior SEN Officer
+<br>Lead SEN Officer
 <br><a href="mailto:rofidah_samah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rofidah_samah@moe.edu.sg</a>
 </p>
 </td>
@@ -1393,13 +1393,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>MISS NEEMIKA RAI</strong> 
-<br>School Counsellor
-<br><a href="mailto:neemika_rai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">neemika_rai@moe.edu.sg</a>
+<p><strong>MISS DIYANA</strong>
+<br>SEN Officer
+<br><a href="mailto:diyana_mohamed_fauzi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">diyana_mohamed_fauzi@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>&nbsp;<strong>MISS NEEMIKA RAI</strong> 
+<br>School Counsellor
+<br><a href="mailto:neemika_rai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">neemika_rai@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
