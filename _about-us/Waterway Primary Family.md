@@ -1380,7 +1380,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>MISS ROFIDAH SAMAH</strong> 
-<br>Senior SEN Officer
+<br>Lead SEN Officer
 <br><a href="mailto:rofidah_samah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rofidah_samah@moe.edu.sg</a>
 </p>
 </td>
@@ -1393,13 +1393,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>MISS NEEMIKA RAI</strong> 
-<br>School Counsellor
-<br><a href="mailto:neemika_rai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">neemika_rai@moe.edu.sg</a>
+<p><strong>MISS DIYANA</strong>
+<br>SEN Officer
+<br><a href="mailto:diyana_mohamed_fauzi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">diyana_mohamed_fauzi@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>&nbsp;<strong>MISS NEEMIKA RAI</strong> 
+<br>School Counsellor
+<br><a href="mailto:neemika_rai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">neemika_rai@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
@@ -1421,7 +1424,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Administration Manager</p>
+<p>Administrative Manager</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>MRS JOAN CHUA</strong>
@@ -1430,7 +1433,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Administration Executive</p>
+<p>Administrative Executive</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>MISS PHUA LEE KOON</strong>
@@ -1439,7 +1442,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Administration Executive (MK)</p>
+<p>Administrative Executive (MK)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>MDM NURANNISA</strong>
@@ -1448,7 +1451,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Administration Executive (MK)</p>
+<p>Administrative Executive (MK)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>MDM SOPIAH</strong>
@@ -1600,7 +1603,7 @@ variant: tiptap
 <p>Desktop Engineer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>MR SHAFIQ</strong>
+<p><strong>MR IQBAL</strong>
 </p>
 </td>
 </tr>
@@ -1609,7 +1612,7 @@ variant: tiptap
 <p>Desktop Engineer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>MR SARA</strong>
+<p><strong>MR GABRIEL</strong>
 </p>
 </td>
 </tr>
