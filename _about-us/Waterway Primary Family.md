@@ -528,8 +528,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>MISS HIDAYAH</strong>
-<br><a href="mailto:nur_hidayah_shopieoodin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_hidayah_shopieoodin</a>
-<a href="mailto:nur_hidayah_shopieoodin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">@moe.edu.sg</a>
+<br><a href="nur_hidayah_shopieoodin@moe.edu.sg" rel="noopener nofollow" target="_blank">nur_hidayah_shopieoodin@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
