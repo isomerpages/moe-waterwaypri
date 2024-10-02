@@ -38,10 +38,10 @@ Email: [contact@shanghai-uniforms.com](contact@shanghai-uniforms.com)
 
 **Bedok Transport Pte. Ltd.**  
 Liaison Officer: **Mdm Angel Siti Norbaya binte Abu Bakar** <br>
-Handphone No: **8149 1427** <br>
-Email address:  [waterway2024tpt@outlook.com](waterway2024tpt@outlook.com)
+Handphone No: **8129 1472** <br>
+Email address:  [waterway2024tpt@gmail.com](waterway2024tpt@gmail.com)
 <br>
-* [School Bus Operator and Fare 2024/2025](/files/Infosheet_for_Parents_on_School_Bus_Services_27_May_2024.pdf)
+* [School Bus Operator and Fare 2024/2025](/files/Updated__Request_for_2025_School_Bus_Services___Bus_Vendor_Terms___Conditions.pdf)
 <br>
 * [2024/2025 School Bus Request Form](/files/Request_for_School_Bus_Services_27_May_2024.pdf)
 
