@@ -14,8 +14,8 @@ sections:
           description: ""
           url: /quicklinks/
         - title: NOMINATION
-          description: PAT & OYEA 2024
-          url: /patoyea2024
+          description: PAT & OYEA 2025
+          url: /patoyea2025
         - title: MONEYSENSE PROGRAMME
           description: Financial Literacy Programme
           url: /parents/moneysense/
