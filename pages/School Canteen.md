@@ -51,20 +51,21 @@ description: ""
 <br>1. Download and complete the application form. You may also obtain hardcopy
 application form from the General Office.</p>
 <p>2. Submit the following documents to the General Office or email to
-<a rel="noopener noreferrer nofollow" target="_blank">waterway_ps@moe.edu.sg</a>, attention to Mr Andrew Sim
+<a href="mailto:waterway_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">waterway_ps@moe.edu.sg</a>, attention to Mr Andrew Sim
 <br>a. Completed application form
 <br>b. Proposed menu and price list of all items to be sold
 <br>c. Photocopy of relevant certificates of applicant and stall assistant(s)
 such as Basic Food Hygiene Course certificate etc
 <br>d. Photocopy of the NRIC (front &amp; back)
 <br>e. Records of past catering or canteen experiences if any</p>
-<p></p>
+<p><a href="" rel="noopener nofollow" target="_blank">Application Form</a>
+</p>
 <p>Shortlisted applicants will be notified for an interview and food sampling
 at the school (at the applicant’s own expense).
 <br>
 <br>Address: 70 Punggol Drive Singapore 828802
 <br>Contact No: 66366880
-<br>Email: <a rel="noopener noreferrer nofollow" target="_blank">waterway_ps@moe.edu.sg</a>
+<br>Email: <a href="mailto:waterway_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">waterway_ps@moe.edu.sg</a>
 <br>Contact Person: Mr. Andrew Sim</p>
 <p></p>
 <p><strong>How to get there?</strong>
@@ -80,7 +81,7 @@ Permanent Residents aged 21 years old and above.
 by the Health Promotion Board.
 <br>
 <br>All food sold must comply with the Healthy Meals in Schools Program (HMSP)
-guidelines: <a rel="noopener noreferrer nofollow" target="_blank">https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme</a>
+guidelines: <a href="https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme" rel="noopener noreferrer nofollow" target="_blank">https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme</a>
 <br>
 <br>Able to provide good service and quality food with prices to be determined
 in consultation with the school.
