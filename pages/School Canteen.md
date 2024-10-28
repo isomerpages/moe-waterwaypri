@@ -57,8 +57,8 @@ application form from the General Office.</p>
 <br>c. Photocopy of relevant certificates of applicant and stall assistant(s)
 such as Basic Food Hygiene Course certificate etc
 <br>d. Photocopy of the NRIC (front &amp; back)
-<br>e. Records of past catering or canteen experiences if any</p>
-<p><a href="" rel="noopener nofollow" target="_blank">Application Form</a>
+<br>e. Records of past catering or canteen experiences if any
+<br><a href="/files/appexistingsch.pdf" rel="noopener nofollow" target="_blank">Application Form</a>
 </p>
 <p>Shortlisted applicants will be notified for an interview and food sampling
 at the school (at the applicant’s own expense).
