@@ -91,7 +91,7 @@ family! <a href="https://form.gov.sg/652e5a9a23d6530012fa850b" rel="noopener nor
 <p>Parent Volunteer Registration Form: <a href="https://form.gov.sg/671f21f6db4e9bb1479ca7c2" rel="noopener noreferrer nofollow" target="_blank">Registration Form</a>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/678b6039_b77d_4646_bef5_4f457e910722.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/678b6039_b77d_4646_bef5_4f457e910722.jpg">
 </div>
 <h3>Our Parent Volunteers in Action!</h3>
 <div class="isomer-image-wrapper">
