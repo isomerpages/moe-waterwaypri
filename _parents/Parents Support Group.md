@@ -64,6 +64,8 @@ Come join us as a Parent Volunteer and be a part of Waterway Primary School fami
 </tbody>
 </table>
 
+Parent Volunteer Registration Form: [Registration Form](https://form.gov.sg/671f21f6db4e9bb1479ca7c2)
+
 ### Our Parent Volunteers in Action!
 ![](/images/Parents/psg_action.png)
 
@@ -73,3 +75,8 @@ Come join us as a Parent Volunteer and be a part of Waterway Primary School fami
 <br>•	COMPASS - [https://www.moe.gov.sg/compass/](https://www.moe.gov.sg/compass/)
 <br>•	Resources from Schoolbag - [https://www.schoolbag.edu.sg/features/parent-partnership](https://www.schoolbag.edu.sg/features/parent-partnership)
 <br>•	Dads for life – [https://dadsforlife.sg/](https://dadsforlife.sg/)
+
+
+
+
+
