@@ -2,6 +2,7 @@ collections:
   mk-waterway:
     output: true
     order:
+      - Collaborations.md
       - What Our Parents Say.md
       - Our Early Year Centre (EYC) Partners.md
       - Our Learning Environment.md
