@@ -19,10 +19,8 @@ in learning languages.</p>
 Malay or Tamil language).
 <br>• Communicate with confidence.
 <br>• Learn about local customs and traditions.</p>
-<table style="minWidth: 100px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
-<col>
 <col>
 <col>
 </colgroup>
@@ -38,6 +36,8 @@ Malay or Tamil language).
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/EL_2.jpg">
 </div>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/EL_3.jpg">
@@ -65,10 +65,8 @@ for language learning in later years.</p>
 We encourage children of Chinese, Malay and Indian ethnic race to take
 their own MTLs.</p>
 <p>Chinese Language</p>
-<table style="minWidth: 100px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
-<col>
 <col>
 <col>
 </colgroup>
@@ -84,6 +82,8 @@ their own MTLs.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/CL_2.jpg">
 </div>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/CL_3.jpg">
@@ -98,10 +98,8 @@ their own MTLs.</p>
 </tbody>
 </table>
 <p>Malay Language</p>
-<table style="minWidth: 100px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
-<col>
 <col>
 <col>
 </colgroup>
@@ -117,6 +115,8 @@ their own MTLs.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/ML_2.jpg">
 </div>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/ML_3.jpg">
@@ -131,10 +131,8 @@ their own MTLs.</p>
 </tbody>
 </table>
 <p>Tamil Language</p>
-<table style="minWidth: 100px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
-<col>
 <col>
 <col>
 </colgroup>
@@ -150,6 +148,8 @@ their own MTLs.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/TL_2.jpg">
 </div>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/TL_3.jpg">
