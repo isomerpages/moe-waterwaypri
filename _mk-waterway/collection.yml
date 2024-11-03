@@ -2,7 +2,6 @@ collections:
   mk-waterway:
     output: true
     order:
-      - Open House.md
       - MOE Kindergarten @ Waterway.md
       - Our Team.md
       - Kindergarten Care (Kcare).md
@@ -16,3 +15,4 @@ collections:
       - What Our Parents Say.md
       - Collaborations.md
       - Fees.md
+      - Open House.md
