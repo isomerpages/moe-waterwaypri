@@ -2,11 +2,11 @@ collections:
   mk-waterway:
     output: true
     order:
-      - Our Curriculum & Programs/Our Curriculum & Programs.md
-      - Our Curriculum & Programs/.keep
       - MOE Kindergarten @ Waterway.md
       - Our Team.md
       - Kindergarten Care (Kcare).md
+      - Our Curriculum & Programs/.keep
+      - Our Curriculum & Programs/Our Curriculum & Programs.md
       - Our Learning Environment.md
       - Our Early Year Centre (EYC) Partners.md
       - What Our Parents Say.md
