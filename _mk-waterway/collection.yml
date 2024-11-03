@@ -1,4 +1,5 @@
 collections:
   mk-waterway:
     output: true
-    order: []
+    order:
+      - MOE Kindergarten @ Waterway.md
