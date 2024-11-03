@@ -67,7 +67,7 @@ five learning areas through an integrated approach:</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/MK/Health__Safety_and_Motor_Skills_Development_2.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/MK/Health__Safety_and_Motor_Skills_Development_2.jpg">
 </div>
 </td>
 </tr>
