@@ -1,0 +1,4 @@
+collections:
+  mk-waterway:
+    output: true
+    order: []
