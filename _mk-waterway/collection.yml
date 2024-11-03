@@ -2,4 +2,5 @@ collections:
   mk-waterway:
     output: true
     order:
+      - Our Team.md
       - MOE Kindergarten @ Waterway.md
