@@ -25,6 +25,42 @@ via the EYC registration form during the MK Registration Exercise.&nbsp;</p>
 <p>Visit&nbsp;<a href="https://www.moe.gov.sg/preschool/moe-kindergarten/mk-eyc" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.moe.gov.sg/preschool/moe-kindergarten/mk-eyc</u></a>&nbsp;for
 more information of this partnership.
 <br>
+</p>
+<p><strong>EYC Collaboration – Learning Journey</strong>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p>
 <br>
 <br>
 <br>
