@@ -4,14 +4,14 @@ permalink: /moe-kindergarten-waterway/
 variant: tiptap
 description: ""
 ---
-<p><strong>About MOE Kindergarten @ Waterway (MK@WY)</strong>
-<br>MK aims to provide quality and affordable Kindergarten 1 (K1) and Kindergarten
-2 (K2) education to Singapore Citizens (SC) and Permanent Residents (PR).</p>
-<p>We offer 4-hour K1 and K2 programs. You can choose from the following
+<h4><strong>About MOE Kindergarten @ Waterway (MK@WY)</strong></h4>
+<p>MK aims to provide quality and affordable Kindergarten 1 (K1) and Kindergarten
+2 (K2) education to Singapore Citizens (SC) and Permanent Residents (PR).
+<br>
+<br>We offer 4-hour K1 and K2 programs. You can choose from the following
 options:
 <br>•Morning session (8am to 12pm)
 <br>•Afternoon session (1pm to 5pm)</p>
-<p></p>
 <p><strong>Our Vision</strong>
 <br>A Strong Start for Every Child.</p>
 <p></p>
