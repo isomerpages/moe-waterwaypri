@@ -12,7 +12,8 @@ description: ""
 no additional out-of-pocket expenses for complementary programmes such
 as field trips.</p>
 <p></p>
-<p>GIRO Application Form (For CDA &amp; Non-CDA account): (insert GIRO form)</p>
+<p>GIRO Application Form (For CDA &amp; Non-CDA account): <a href="/files/MK Waterway/ii__Interbank_GIRO_Form__1_.pdf" rel="noopener nofollow" target="_blank">GIRO Application Form</a>
+</p>
 <p></p>
 <p><strong>Financial assistance</strong>
 <br>If your child is a Singapore Citizen, they may qualify for financial assistance
