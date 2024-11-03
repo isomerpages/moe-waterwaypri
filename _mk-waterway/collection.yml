@@ -2,6 +2,7 @@ collections:
   mk-waterway:
     output: true
     order:
+      - Our Curriculum & Programs/.keep
       - MOE Kindergarten @ Waterway.md
       - Our Team.md
       - Kindergarten Care (Kcare).md
