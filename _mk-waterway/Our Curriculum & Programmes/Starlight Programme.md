@@ -19,6 +19,38 @@ in learning languages.</p>
 Malay or Tamil language).
 <br>• Communicate with confidence.
 <br>• Learn about local customs and traditions.</p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/EL_1.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/EL_2.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/EL_3.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/EL_4.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <p>MTL and bilingualism</p>
 <p>Bilingualism is a cornerstone of Singapore’s education system. Learning
 our MTL gives us direct access to our cultural heritage, and can help us
