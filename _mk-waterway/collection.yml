@@ -2,6 +2,7 @@ collections:
   mk-waterway:
     output: true
     order:
+      - Open House.md
       - MOE Kindergarten @ Waterway.md
       - Our Team.md
       - Kindergarten Care (Kcare).md
