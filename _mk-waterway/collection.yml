@@ -2,6 +2,7 @@ collections:
   mk-waterway:
     output: true
     order:
+      - Our Early Year Centre (EYC) Partners.md
       - Our Learning Environment.md
       - Our Curriculum & Programs.md
       - Kindergarten Care (Kcare).md
