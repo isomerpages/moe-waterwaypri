@@ -2,12 +2,12 @@ collections:
   mk-waterway:
     output: true
     order:
-      - Fees.md
-      - Collaborations.md
-      - What Our Parents Say.md
-      - Our Early Year Centre (EYC) Partners.md
-      - Our Learning Environment.md
-      - Our Curriculum & Programs.md
-      - Kindergarten Care (Kcare).md
       - MOE Kindergarten @ Waterway.md
       - Our Team.md
+      - Kindergarten Care (Kcare).md
+      - Our Curriculum & Programs.md
+      - Our Learning Environment.md
+      - Our Early Year Centre (EYC) Partners.md
+      - What Our Parents Say.md
+      - Collaborations.md
+      - Fees.md
