@@ -4,8 +4,8 @@ permalink: /contact/visitor-information/
 description: ""
 variant: markdown
 ---
-&gt;![](/images/Images/contact_02.jpg)
-&gt;CONTACT
+![](/images/Images/contact_02.jpg)
+
 
 
 
@@ -62,5 +62,3 @@ variant: markdown
 | Monday to Friday during Term Time after school hours    | **2.00 p.m. – 3.00 p.m.**     | 
 |(Closed between **12.00 noon** and **1.00 p.m.**)| |
 |Closed on Saturdays, Sundays and Public Holidays | |
-
-
