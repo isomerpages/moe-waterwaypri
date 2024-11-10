@@ -6,9 +6,6 @@ variant: markdown
 ---
 ![](/images/Images/contact_02.jpg)
 
-
-
-
 ## Visitor Information
 
 <iframe loading="lazy" allowfullscreen="" style="border:0;" height="450" width="600" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1994.3141919050893!2d103.9162368887548!3d1.3993738810578347!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da3dfe5d905a39%3A0xcbd95476d53bba!2sWaterway%20Primary%20School!5e0!3m2!1sen!2ssg!4v1673490702032!5m2!1sen!2ssg"></iframe>
