@@ -2,6 +2,7 @@
 title: Visitor Information
 permalink: /contact/visitor-information/
 description: ""
+variant: markdown
 ---
 &gt;![](/images/Images/contact_02.jpg)
 &gt;CONTACT
@@ -22,7 +23,7 @@ description: ""
 
 |  |  |
 | -------- | -------- |
-| Monday to Friday during Term Time/School Holidays     | **7.00 a.m. - 5.30 p.m.**     | 
+| Monday to Friday during Term Time/School Holidays     | **8.00 a.m. - 5.00 p.m.**     | 
 |Closed on Saturdays, Sundays and Public Holidays | |
 |Payment of school fees to be made before **3.00 p.m.**||
 
@@ -61,3 +62,5 @@ description: ""
 | Monday to Friday during Term Time after school hours    | **2.00 p.m. – 3.00 p.m.**     | 
 |(Closed between **12.00 noon** and **1.00 p.m.**)| |
 |Closed on Saturdays, Sundays and Public Holidays | |
+
+
