@@ -23,10 +23,49 @@ allow children to:
 <br>• Experience the joy of self-motivated learning.
 <br>• Build their confidence.
 <br>• Strengthen their learning dispositions or positive behaviours and attitudes
-towards learning.
-<br>
-<br>
-</p>
+towards learning.</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/CL_WOW___Chinese_Calligraphy.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/EL_WoW_Project___Space.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/EL_WoW_Project___Thailand.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/ML_WOW___Hamster.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/TL_WOW___Sweet_pongal.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <p>
 <br>
 </p>
