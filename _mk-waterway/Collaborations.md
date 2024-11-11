@@ -126,7 +126,6 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/PSG_5.jpg">
 </div>
@@ -142,5 +141,4 @@ description: ""
 <p></p>
 <p><strong>Can refer here: <a href="https://www.punggolviewpri.moe.edu.sg/mk-at-punggol-view/collaborations/families/" rel="noopener noreferrer nofollow" target="_blank">https://www.punggolviewpri.moe.edu.sg/mk-at-punggol-view/collaborations/families/</a></strong>
 </p>
-<p></p>
 <p></p>
