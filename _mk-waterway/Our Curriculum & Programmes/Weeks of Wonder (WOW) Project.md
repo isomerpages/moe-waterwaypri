@@ -31,29 +31,36 @@ towards learning.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
+<p>English Language WoW – Space</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/CL_WOW___Chinese_Calligraphy.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/EL_WoW_Project___Space.jpg">
 </div>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Mother Tongue Language WoW (Chinese Language) – Chinese Calligraphy</strong>
+</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/EL_WoW_Project___Space.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/CL_WOW___Chinese_Calligraphy.jpg">
 </div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/EL_WoW_Project___Thailand.jpg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<p><strong>Mother Tongue Language WoW (Malay Language) – Hamster</strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/ML_WOW___Hamster.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mother Tongue Language WoW (Tamil Language) – Sweet Pongal</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/EL_WoW_Project___Thailand.jpg">
 </div>
 </td>
 </tr>
