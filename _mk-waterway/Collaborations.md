@@ -5,7 +5,18 @@ variant: tiptap
 description: ""
 ---
 <p><strong>Collaborations with Families (LIFE@MK)</strong>
-</p>
+<br>Families play an important role in nurturing children’s holistic development.
+We routinely involve families in children’s learning through our series
+of workshops and sharing sessions under the Leading and Inspiring Families
+of Early Learners @ MOE Kindergarten (<strong>LIFE@MK</strong>) programme.</p>
+<p></p>
+<p>Our MK educators will share:
+<br>•What your child learns at MK.
+<br>•Educational approaches that are appropriate for your child’s development.
+<br>•Practical tips to help you nurture your child's holistic development
+at home.&nbsp;
+<br>•Information on specific topics, such as supporting your child’s transition
+to primary school.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -49,7 +60,15 @@ description: ""
 </tbody>
 </table>
 <p><strong>With Primary school (K2-P1 Transition Programme)</strong>
-</p>
+<br>To prepare for their transition to primary school, the K2 children participated
+in a series of hands-on activities designed to help them feel confident
+and familiar with their soon-to-be environment. They interviewed primary
+school teachers and visited key places around the school, such as the canteen,
+library, and bookshop. They even got to experience a day in the life of
+a Primary One student by taking part in the morning assembly, flag-raising
+ceremony, recess, and lessons! Throughout the programmes, they radiated
+smiles and laughter, excitedly awaiting to kickstart their journey in this
+important new chapter!</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -93,7 +112,17 @@ description: ""
 </tbody>
 </table>
 <p><strong>With Parent Support Group (PSG)</strong>
-</p>
+<br>At MK@Waterway, we believe that strong home-school partnerships are essential
+for fostering children's success during their early years. When families
+and educators work together, we can create a supportive and vibrant learning
+community that nurtures every child’s potential.</p>
+<p>Our Parent Support Group’s Parent Volunteers play a crucial role in this
+partnership by contributing their time, knowledge, and unique perspectives.
+They actively participated in various Learning Journeys organized by the
+school, supporting the children’s learning beyond the walls of the classroom.
+Additionally, Parent Volunteers also helped to facilitate events such as
+Racial Harmony Day, helping to engage the children and enrich their learning
+experiences. We sincerely appreciate their consistent and steadfast support.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
