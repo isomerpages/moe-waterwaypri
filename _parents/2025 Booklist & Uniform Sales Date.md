@@ -28,12 +28,19 @@ Shanghai School Uniforms website: [https://shanghai-uniforms.com ](https://shang
 
 [P5 Booklist](/files/2025%20Booklist/Booklist_2025_Waterway_P5.pdf)<br>
 [P5 Foundation Booklist](/files/2025%20Booklist/Booklist_2025_Waterway_P5_Foundation.pdf)<br>
-[P5 FMT Booklist](/files/2025%20Booklist/Booklist_2025_Waterway_P5__3S1FMT_.pdf)<br>
-[P5 FMA Booklist](/files/2025%20Booklist/Booklist_2025_Waterway_P5__3S1FMA_.pdf)
+[P5 3S1FMT Booklist](/files/2025%20Booklist/Booklist_2025_Waterway_P5__3S1FMT_.pdf)<br>
+[P5 3S1FMA Booklist](/files/2025%20Booklist/Booklist_2025_Waterway_P5__3S1FMA_.pdf)
 
 ##### Primary Six
 
 [P6 Booklist](/files/2025%20Booklist/Booklist_2025_Waterway_P6.pdf)<br>
 [P6 Foundation Booklist](/files/2025%20Booklist/Booklist_2025_Waterway_P6_Foundation.pdf)<br>
-[P6 FMT Booklist](/files/2025%20Booklist/Booklist_2025_Waterway_P6__3S1FMT_.pdf)<br>
-[P6 FMA Booklist](/files/2025%20Booklist/Booklist_2025_Waterway_P6__3S1FMA__pdf.pdf)
+[P6 3S1FMT Booklist](/files/2025%20Booklist/Booklist_2025_Waterway_P6__3S1FMT_.pdf)<br>
+[P6 3S1FMA Booklist](/files/2025%20Booklist/Booklist_2025_Waterway_P6__3S1FMA__pdf.pdf)<br>
+[P6 2S, 2FMA, FMT Booklist](/files/2025%20Booklist/Booklist_2025_Waterway_P6__2S__2FMA_FMT__pdf.pdf)
+
+
+
+
+
+
