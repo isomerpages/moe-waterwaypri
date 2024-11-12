@@ -1,6 +1,6 @@
 ---
 title: 2025 Booklist & Uniform Sales Date
-permalink: /2024bookuni/
+permalink: /2025bookuni/
 variant: markdown
 description: ""
 ---
@@ -37,6 +37,3 @@ Shanghai School Uniforms website: [https://shanghai-uniforms.com ](https://shang
 [P6 Foundation Booklist](/files/2025%20Booklist/Booklist_2025_Waterway_P6_Foundation.pdf)<br>
 [P6 FMT Booklist](/files/2025%20Booklist/Booklist_2025_Waterway_P6__3S1FMT_.pdf)<br>
 [P6 FMA Booklist](/files/2025%20Booklist/Booklist_2025_Waterway_P6__3S1FMA__pdf.pdf)
-
-
-
