@@ -60,13 +60,6 @@ towards learning.</p>
 <p><strong>Mother Tongue Language WoW (Tamil Language) – Sweet Pongal</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/EL_WoW_Project___Thailand.jpg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/TL_WOW___Sweet_pongal.jpg">
 </div>
 </td>
