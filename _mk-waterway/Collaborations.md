@@ -165,9 +165,6 @@ experiences. We sincerely appreciate their consistent and steadfast support.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>- RHD, learning journeys</strong>
-</p>
-<p></p>
 <p><strong>Can refer here: <a href="https://www.punggolviewpri.moe.edu.sg/mk-at-punggol-view/collaborations/families/" rel="noopener noreferrer nofollow" target="_blank">https://www.punggolviewpri.moe.edu.sg/mk-at-punggol-view/collaborations/families/</a></strong>
 </p>
 <p></p>
