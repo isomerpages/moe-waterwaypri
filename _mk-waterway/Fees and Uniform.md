@@ -1,10 +1,10 @@
 ---
-title: Fees
-permalink: /fees/
+title: Fees and Uniform
+permalink: /fees-and-uniform/
 variant: tiptap
 description: ""
 ---
-<h4><strong>Fees</strong></h4>
+<h4><strong>Fees and Uniform</strong></h4>
 <p>The monthly fee for MK in 2024 is:
 <br>• $160 for Singapore Citizens.
 <br>• $320 for Singapore Permanent Residents.</p>
