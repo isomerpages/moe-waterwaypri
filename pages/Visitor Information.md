@@ -20,7 +20,7 @@ variant: markdown
 
 |  |  |
 | -------- | -------- |
-| Monday to Friday during Term Time | **7.30 a.m. - 5.30 p.m.**|
+| Monday to Friday during Term Time | **7.00 a.m. - 5.30 p.m.**|
 | Monday to Friday during School Holidays | **8.00 a.m. - 5.00 p.m.** | 
 |Closed on Saturdays, Sundays and Public Holidays | |
 |Payment of school fees to be made before **3.00 p.m.**||
