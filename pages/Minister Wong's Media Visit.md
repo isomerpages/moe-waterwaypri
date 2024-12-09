@@ -55,5 +55,3 @@ Those in secondary schools are more familiar with these routines, and are happy 
 
 **Zaobao**<br>[https://www.zaobao.com.sg/realtime/singapore/story20210104-1113652  
 ](https://www.zaobao.com.sg/realtime/singapore/story20210104-1113652)
-
-
