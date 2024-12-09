@@ -2,6 +2,7 @@ collections:
   distinctive-programmes:
     output: true
     order:
+      - Flipped Classroom My Classroom at Home.md
       - Character & Citizenship Education.md
       - Lifelong Learning Programme.md
       - Applied Learning Programme.md
