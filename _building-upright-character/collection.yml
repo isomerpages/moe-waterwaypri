@@ -2,6 +2,7 @@ collections:
   building-upright-character:
     output: true
     order:
+      - Building Upright Character.md
       - Character & Citizenship Education (CCE) and Leadership Development.md
       - PE & Health Education.md
       - Art.md
