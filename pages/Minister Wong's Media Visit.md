@@ -50,8 +50,5 @@ Those in secondary schools are more familiar with these routines, and are happy 
 **Straits Times**<br>[https://www.straitstimes.com/singapore/parenting-education/student-covid-19-cases-last-month-show-precautions-still-needed-in-new  
 ](https://www.straitstimes.com/singapore/parenting-education/student-covid-19-cases-last-month-show-precautions-still-needed-in-new)
 
-**Channel NewsAsia**<br>[https://www.channelnewsasia.com/news/singapore/covid-19-clusters-sobering-reminder-first-day-school-measures-13889112  
-](https://www.channelnewsasia.com/news/singapore/covid-19-clusters-sobering-reminder-first-day-school-measures-13889112)
-
 **Zaobao**<br>[https://www.zaobao.com.sg/realtime/singapore/story20210104-1113652  
 ](https://www.zaobao.com.sg/realtime/singapore/story20210104-1113652)
