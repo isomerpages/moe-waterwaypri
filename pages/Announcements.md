@@ -2,18 +2,19 @@
 title: Announcements
 permalink: /announcements/
 description: ""
+variant: markdown
 ---
 **Minister Wong's Media Visit**
 
 Minister of Education, Mr Lawrence Wong, made a media visit to our school on 4 Jan 2021. The various media agencies got to observe the safe management practices the school has in place to ensure the safety of our students.
 
-Click on this [link](https://staging.d1vupma46t7042.amplifyapp.com/parents/minister-wongs-media-visit/) to view the media reports and videos.
+Click on this&nbsp;[link](https://staging.d1vupma46t7042.amplifyapp.com/parents/minister-wongs-media-visit/)&nbsp;to view the media reports and videos.
 
 -----------------
 
 **Practising a Growth and Benefit Mindset**
 
-During the circuit breaker period, our students and teachers grew in knowledge and skills and benefited others. Please click on the link to find out how our students and teachers have practised a growth and benefit mindset.
+During the circuit breaker period, our students and teachers grew in knowledge and skills and benefited others.&nbsp;Please click on the link to find out how our students and teachers have practised a growth and benefit mindset.
 
 [Video on Growth and Benefit Mindset](https://drive.google.com/file/d/13FqwVxXE6UV05yPYG0gtLU80s4W2EB3E/view)
 
@@ -44,7 +45,7 @@ If you would like to know more about Waterway Primary School, join us on a virtu
 
 10 of our P4 students represented Waterway Primary School to participate in the National Primary Games Creation and Coding Competition 2019 (NPGC3). They emerged 1st Runner-up and 2nd Runner-up in their respective categories. Well done, children!
 
-Click on this [link](https://staging.d1vupma46t7042.amplifyapp.com/learning-experiences/celebrations/) to read the details.
+Click on this&nbsp;[link](https://staging.d1vupma46t7042.amplifyapp.com/learning-experiences/celebrations/)&nbsp;to read the details.
 
 -----------------
 
@@ -52,33 +53,24 @@ Click on this [link](https://staging.d1vupma46t7042.amplifyapp.com/learning-exp
 
 Our school principal, Mrs Wee, was invited to Mediacorp Channel 8, Hello Singapore 狮城有约, to be interviewed on her views on our school’s Computational Thinking Programme and the enrichment class for all upper primary pupils.
 
-Please click the [link](https://youtu.be/MgA_6yo1VsU) for the full interview:
+Please click the&nbsp;[link](https://youtu.be/MgA_6yo1VsU)&nbsp;for the full interview:
 
 
 --------------
-
-**Computational Thinking Programme**
-
-Waterway Primary School’s Computational Thinking Programme has been featured on IMDA’s website.
-
-Please click on the link below for the full article.
-
-[Link](https://www.imda.gov.sg/digitalmaker/media-center/2019/03/26/19feb16_waterwayprimary) **(BROKEN LINK)**
-
 
 -----------------
 
 **Sharing by Singapore Institute of Technology (SIT)**
 
-As part of our partnership with SIT, two SIT scholars shared with our students on their area of study (computer engineering) during the “Good Morning School” programme on 13 February 2019. 
+As part of our partnership with SIT, two SIT scholars shared with our students on their area of study (computer engineering) during the “Good Morning School” programme on 13 February 2019.&nbsp;
 
-Click [here](https://staging.d1vupma46t7042.amplifyapp.com/wwps/sharing-by-singapore-institute-of-technology-sit-during-good-morning-school-programme/) to view the photos of the sharing.
+Click&nbsp;[here](https://staging.d1vupma46t7042.amplifyapp.com/wwps/sharing-by-singapore-institute-of-technology-sit-during-good-morning-school-programme/)&nbsp;to view the photos of the sharing.
 
 --------------
 
 **Channel 8 News Programme Interview on Orators@Waterway**
 
-Our school's Year Head, Mr Wong Beng Yu, was interviewed on Mediacorp's Channel 8 news programme "Hello Singapore" on 16 January 2019 about the school's Applied Learning Programme (ALP), Orators@Waterway. Watch snippets here: [https://youtu.be/do780anz3HI](https://youtu.be/do780anz3HI)
+Our school's Year Head, Mr Wong Beng Yu, was interviewed on Mediacorp's Channel 8 news programme "Hello Singapore" on 16 January 2019 about the school's Applied Learning Programme (ALP), Orators@Waterway.&nbsp;Watch snippets here:&nbsp;[https://youtu.be/do780anz3HI](https://youtu.be/do780anz3HI)
 
 ----------------
 
@@ -92,7 +84,7 @@ Our Orators@Waterway Programme was featured in Schoolbag.sg
 
 **For A Good Cause**
 
-Minister for Education (Schools) Mr Ng Chee Meng commended us on our initiative for raising a kickstart fund for the "Pay It Forward" Coffee project in his facebook post. Click [here](https://www.facebook.com/NgCheeMengforSG/posts/1331532590200804) to view the post and pictures.
+Minister for Education (Schools) Mr Ng Chee Meng commended us on our initiative for raising a kickstart fund for the&nbsp;"Pay It Forward" Coffee project in his facebook post. Click&nbsp;[here](https://www.facebook.com/NgCheeMengforSG/posts/1331532590200804)&nbsp;to view the post and pictures.
 
 -------------
 
@@ -100,8 +92,7 @@ Minister for Education (Schools) Mr Ng Chee Meng commended us on our initiative 
 
 Our Orators@Waterway programme was highlighted in the Lian He Zao Bao.
 
-<img src="/images/NewsPaper_08012017.jpg"  
-     style="width:55%">
+<img src="/images/NewsPaper_08012017.jpg" style="width:55%">
 
 
 ------------
@@ -118,7 +109,7 @@ Please click on the link below to view:
 
 **We are On Air**
 
-Our Principal, Mrs Wee-Kwan Liam, was featured in a news article giving her comments about the new PSLE Scoring and S1 Posting.
+Our Principal, Mrs Wee-Kwan Liam, was featured in a news article&nbsp;giving her comments about the new PSLE Scoring and S1 Posting.
 
 [Today Online](http://www.todayonline.com/singapore/educators-hope-revamp-will-lead-mastery-content)
 
@@ -126,16 +117,16 @@ Our Principal, Mrs Wee-Kwan Liam, was featured in a news article giving her com
 
 **Parents Say....**
 
-Take a look at what our parents have to say about Waterway Primary School. Find out more [here](https://padlet.com/waterwaypri/us9zlsr4iji9 "Parents Say...").
+Take a look at what our parents have to say about Waterway Primary School. Find out more&nbsp;[here](https://padlet.com/waterwaypri/us9zlsr4iji9 "Parents Say...").
 
 
 -----------------
 
-**2021 P6 Cohort Students & Parents Say**
+**2021 P6 Cohort Students &amp; Parents Say**
 
 Notes of appreciation from our graduating students and their parents.
 
-Click here to [view](https://waterwaypri.wixsite.com/wwps-openhouse/2021-p6-cohort-students-parents-say).
+Click here to&nbsp;[view](https://waterwaypri.wixsite.com/wwps-openhouse/2021-p6-cohort-students-parents-say).
 
 
 ---------------
@@ -155,4 +146,4 @@ You may find more information from the following link.
 
 **Safe Management Measures**
 
-To stay safe and follow Safe Management Measures (SMM), watch this Soaper 5 [episode](https://youtu.be/fQiaQ_yVSCc)
+To stay safe and follow Safe Management Measures (SMM), watch this Soaper 5&nbsp;[episode](https://youtu.be/fQiaQ_yVSCc)
