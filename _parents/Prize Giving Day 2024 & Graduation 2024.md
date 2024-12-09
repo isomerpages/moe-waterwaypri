@@ -9,19 +9,38 @@ description: ""
 </p>
 <h4>Graduation 2024</h4>
 <p>Class 6A</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Graduation 2024/6A.jpg">
+</div>
 <p>Class 6B</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Graduation 2024/6B.jpg">
+</div>
 <p>Class 6C</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Graduation 2024/6C.jpg">
+</div>
 <p>Class 6D</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Graduation 2024/6D.jpg">
+</div>
 <p>Class 6E</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Graduation 2024/6E.jpg">
+</div>
 <p>Class 6F</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Graduation 2024/6F.jpg">
+</div>
 <p>Class 6G</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Graduation 2024/6G.jpg">
+</div>
 <p>Class 6H</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Graduation 2024/6H.jpg">
+</div>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
