@@ -2,8 +2,6 @@ collections:
   learning-experiences:
     output: true
     order:
-      - Building Upright Character.md
-      - Nurturing Young Minds.md
       - Learning Experiences.md
       - English.md
       - Math.md
@@ -18,3 +16,5 @@ collections:
       - Overseas Immersion Programme.md
       - Eco Stewardship.md
       - Student Management.md
+      - Nurturing Young Minds.md
+      - Building Upright Character.md
