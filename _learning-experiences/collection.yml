@@ -2,6 +2,7 @@ collections:
   learning-experiences:
     output: true
     order:
+      - Nurturing Young Minds.md
       - Learning Experiences.md
       - English.md
       - Math.md
