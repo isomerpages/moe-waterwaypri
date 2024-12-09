@@ -77,6 +77,8 @@ links:
   - title: Our Partners
     url: /learning-experiences/our-students-our-pride/
     sublinks:
+      - title: Parents
+        url: /parents
       - title: Parents Say....
         url: https://waterwaypri.wixsite.com/wwps-openhouse/parents-say-1
       - title: P6 Students & Parents Say
@@ -95,8 +97,6 @@ links:
         url: https://app.lapentor.com/sphere/waterway-primary-school
       - title: MOE Kindergarten @ Waterway
         url: /moe-kindergarten-waterway/
-      - title: Parents
-        url: /parents
   - title: Useful Information & Contact
     url: /contact/visitor-information
     sublinks:
