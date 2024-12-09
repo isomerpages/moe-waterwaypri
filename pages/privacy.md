@@ -36,7 +36,9 @@ you to consult the privacy notices of those sites.
 <br>
 <br>
 </p>
-<p>Please contact us using the&nbsp;<a href="Mailto:Waterway_PS@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">online feedback form</a>&nbsp;if you
-have any enquires or feedback on our data protection policies and procedures
+<p>Please contact us by email <a href="Mailto:Waterway_PS@moe.edu.sg" rel="noopener nofollow" target="_blank">waterway_ps@moe.edu.sg</a>&nbsp;if
+you have any enquires or feedback on our data protection policies and procedures
 or you need more information on or access to data which you have provided
 to us in the past.</p>
+<p></p>
+<p></p>
