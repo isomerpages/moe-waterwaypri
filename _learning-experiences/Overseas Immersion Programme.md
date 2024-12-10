@@ -97,15 +97,24 @@ ASEAN awareness, and nurturing eco-sustainability.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Waterway Learning Experience/OIP/Picture51.png">
 </div>
-<p></p><a class="isomer-image-wrapper" href="https://youtu.be/SBTaavpShy0"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/OIP_Tue_20_Aug.png"></a>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/SBTaavpShy0?si=3bg4sp4-wnLIn321"></iframe>
+</div>
 <p><a href="https://youtu.be/SBTaavpShy0" rel="noopener nofollow" target="_blank">Overseas Immersion Trip to Penang - Tue, 20 Aug</a>
 <br>
-<br>
-</p><a class="isomer-image-wrapper" href="https://youtu.be/azFj8xVrc4w"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/OIP_Wed_21_Aug.png"></a>
+</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/azFj8xVrc4w?si=pb18ojbKawDaHxI-"></iframe>
+</div>
 <p><a href="https://youtu.be/azFj8xVrc4w" rel="noopener nofollow" target="_blank">Overseas Trip to Penang - Wed, 21 Aug</a>
 <br>
-<br>
-</p><a class="isomer-image-wrapper" href="https://youtu.be/6VmpcKyoR0E"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/OIP_Thur_22_Aug.png"></a>
+</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/6VmpcKyoR0E?si=IbPH-HwVeXsgwkfh"></iframe>
+</div>
 <p><a href="https://youtu.be/6VmpcKyoR0E" rel="noopener nofollow" target="_blank">Overseas Immersion Trip to Penang - Thur, 22 Aug</a>
 </p>
+<p></p>
+<p></p>
 <p></p>
