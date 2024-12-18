@@ -2,31 +2,29 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Agency Name
+agency_name: Waterway Primary School
 locations:
-  - title: Main Office
-    address:
-        - 31 Sesame Street
-        - Big Bird Building
-        - Singapore 123456
+  - address:
+      - 70 Punggol Drive
+      - Waterway Primary School
+      - Singapore 828802
     operating_hours:
       - days: Mon - Fri
-        time: 8.30am - 6.00pm
-        description: Closed on Public Holidays
-      - days: Sat
-        time: 8.30am - 12.00pm
-  - title: Branch Office
-    address:
-        - 109 North Bridge Road
-        - Singapore 179097
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
+        time: 7.00am - 5.30pm
+        description: During Term Time
+      - days: Mon - Fri
+        time: 8.00am - 5.00pm
+        description: During School Holidays
+      - days: Closed on Saturdays Sundays and Public Holidays
+        time: ""
+        description: Payment of school fees to be made before 3.00 p.m.
+    maps_link: https://maps.app.goo.gl/ukM3hNAE2qQN5cWL9
+    title: General Office
 contacts:
-  - title: General Enquiries & Feedback
-    content:
-    - phone: +65 6123 4567
-    - email: enquiries@abc.gov.sg
-    - other: Any text here <i>including HTML</i>
-  - title: Careers
-    content:
-    - email: careers@abc.gov.sg
+  - content:
+      - phone: +65 6636 6880
+      - email: waterway_ps@moe.edu.sg
+      - other: ""
+    title: General Enquiries & Feedback
+feedback: ""
 ---
