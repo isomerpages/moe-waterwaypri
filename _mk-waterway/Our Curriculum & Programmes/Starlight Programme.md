@@ -51,7 +51,8 @@ Malay or Tamil language).
 </tr>
 </tbody>
 </table>
-<p>MTL and bilingualism</p>
+<p><strong>MTL and bilingualism</strong>
+</p>
 <p>Bilingualism is a cornerstone of Singapore’s education system. Learning
 our MTL gives us direct access to our cultural heritage, and can help us
 better understand our values, roots and identities.</p>
@@ -64,7 +65,8 @@ for language learning in later years.</p>
 <p>Our MK offers classes in the 3 official MTLs (Chinese, Malay and Tamil).
 We encourage children of Chinese, Malay and Indian ethnic race to take
 their own MTLs.</p>
-<p>Chinese Language</p>
+<p><strong>Chinese Language</strong>
+</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -97,7 +99,8 @@ their own MTLs.</p>
 </tr>
 </tbody>
 </table>
-<p>Malay Language</p>
+<p><strong>Malay Language</strong>
+</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -130,7 +133,8 @@ their own MTLs.</p>
 </tr>
 </tbody>
 </table>
-<p>Tamil Language</p>
+<p><strong>Tamil Language</strong>
+</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
