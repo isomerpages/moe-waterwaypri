@@ -68,6 +68,9 @@ links:
       - title: Flipped Class My Class @ Home
         url: /distinctive-programmes/flipped-classroom-my-classroom-at-home/
   - title: CCA
+    url: /permalink
+    sublinks: []
+  - title: CCA
     collection: cca
   - title: Our Students, Our Pride
     url: /learning-experiences/our-students-our-pride-students/
