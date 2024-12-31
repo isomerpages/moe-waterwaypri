@@ -1123,29 +1123,27 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>MR PEH KWANG ENG</strong> 
-<br><a href="mailto:peh_kwang_eng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">peh_kwang_eng@moe.edu.sg</a>
+<br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>MISS GRACE SEAH</strong> 
-<br><a href="" rel="noopener noreferrer nofollow" target="_blank">seah_pei_ru_grace@moe.edu.sg</a>
+<p><strong>MRS POH WEE HOON</strong>
+<br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>MR NG PEH HWEE</strong> 
-<br><a href="mailto:ng_peng_hwee_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_peng_hwee_a@moe.edu.sg</a>
+<p><strong>MRS CHEUNG KA YAN</strong>
+<br><a href="mailto:cheung_ka_yan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cheung_ka_yan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>MDM GINA YEO</strong> 
-<br><a href="mailto:yeo_sim_lian_gina@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_sim_lian_gina@moe.edu.sg</a>
+<p><strong>MRS TAN WEI CHING</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>MDM CHAN BI HUI</strong> 
-<br><a href="mailto:chan_bi_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chan_bi_hui@moe.edu.sg</a>
+<p><strong>MRS ZHANG AIYI PHOEBE</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1204,9 +1202,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>MDM SITI AZIZAH</strong> 
-<br><a href="mailto:siti_azizah_shaikh_abdullah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_azizah_shaikh_abdullah@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -1355,6 +1351,28 @@ variant: tiptap
 <p><strong>MR JOHN CHAN</strong> 
 <br><a href="john_chan_hoe_chye@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">john_chan_hoe_chye@moe.edu.sg</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>MDM ESTHER NG MAY LING</strong>
+<br><a href="mailto:ng_may_ling_esther@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_may_ling_esther@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>MDM MELISSA CHAN</strong>
+<br><a href="mailto:heng_may_may_melissa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">heng_may_may_melissa@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>MRS NG GIM BEE LAUREN</strong>
+<br><a href="mailto:ng_gim_bee_b@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_gim_bee_b@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
