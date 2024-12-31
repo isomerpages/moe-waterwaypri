@@ -91,11 +91,11 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/parents/patoyea2025/" rel="noopener nofollow" target="_blank">Nomination for President's Award for Teachers (PAT) 2025</a>
+<p><a href="/patoyea2025/" rel="noopener nofollow" target="_blank">Nomination for President's Award for Teachers (PAT) 2025</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/parents/patoyea2025/" rel="noopener nofollow" target="_blank">Outstanding Youth in Education Award (OYEA) 2025</a>
+<p><a href="/patoyea2025/" rel="noopener nofollow" target="_blank">Outstanding Youth in Education Award (OYEA) 2025</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
