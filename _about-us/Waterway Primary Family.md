@@ -287,23 +287,21 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>MRS CLARISSA HAN</strong> 
-<br>Senior Teacher Learner Profile (HA)
+<p><strong>MRS CLARISSA CHEONG</strong>
+<br>Senior Teacher Learner Profile (HAL)
 <br><a href="mailto:cheong_yoke_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cheong_yoke_ling@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>MR CHRISTOPHER SHAU</strong> 
-<br>Senior Teacher Educational Support
-<br><a href="mailto:christopher_shau@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">christopher_shau@moe.edu.sg</a>
-</p>
+<p><strong>MR GOH TIEW CHENG STEPHEN</strong>
+<br>Senior Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>MISS GRACE SEAH</strong> 
-<br>Senior Teacher Chinese Language
-<br><a href="mailto:seah_pei_ru_grace@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">seah_pei_ru_grace@moe.edu.sg</a>
+<p>&nbsp;<strong>MS JOLENE LOW WEI LING</strong>
+<br>Senior Teacher INT
+<br><a href="mailto:low_wei_ling_jolene@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">low_wei_ling_jolene@moe.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -315,10 +313,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;<strong>MS JOLENE LOW WEI LING</strong>
-<br>Senior Teacher INT
-<br><a href="mailto:low_wei_ling_jolene@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">low_wei_ling_jolene@moe.gov.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 </tbody>
