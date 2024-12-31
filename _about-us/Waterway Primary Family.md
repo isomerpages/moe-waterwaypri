@@ -202,6 +202,20 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>MS CHUA YINGHAN JOELLE</strong>
+<br>Level Head Chinese Language
+<br><a href="mailto:joelle_chuayinghan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">joelle_chuayinghan@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>MR CHAN ZHI YANG</strong>
+<br>Subject Head
+<br><a href="mailto:chan_zhi_yang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chan_zhi_yang@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>MRS GIN CHAN</strong> 
 <br>Subject Head Aesthetics
 <br><a href="mailto:chua_gim_peng_gin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_gim_peng_gin@moe.edu.sg</a>
@@ -301,9 +315,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;<strong>MRS AUDREY WONG</strong> 
-<br>Orators@Waterway Coordinator
-<br><a href="mailto:toh_ling_hui_audrey@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">toh_ling_hui_audrey@moe.edu.sg</a>
+<p>&nbsp;<strong>MS JOLENE LOW WEI LING</strong>
+<br>Senior Teacher INT
+<br><a href="mailto:low_wei_ling_jolene@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">low_wei_ling_jolene@moe.gov.sg</a>
 </p>
 </td>
 </tr>
