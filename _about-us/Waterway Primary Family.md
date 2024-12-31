@@ -109,6 +109,20 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong>MR IRWAN SHAH BIN SHAHRUDDIN</strong>
+<br>HOD INT
+<br><a href="mailto:Irwan_shah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Irwan_shah@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>MRS FOO SZE LING</strong>
+<br>HOD PE
+<br><a href="mailto:foo_sze_ling@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">foo_sze_ling@moe.gov.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
@@ -174,15 +188,15 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>DR IRWAN</strong> 
+<p><strong>MRS PANG LONG NA CLAIRE</strong>
 <br>Level Head English Language
-<br><a href="mailto:irwan_shah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">irwan_shah@moe.edu.sg</a>
+<br><a href="mailto:Claire_PANG@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Claire_PANG@moe.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>MR ANG ZHENWEI SHAWN</strong> 
 <br>Level Head Math
-<br><a href="mailto:ang_zhenwei_shawn@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ang_zhenwei_shawn@moe.edu.sg</a>
+<br><a href="mailto:ang_zhenwei_shawn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ang_zhenwei_shawn@moe.edu.sg</a>
 </p>
 </td>
 </tr>
