@@ -818,7 +818,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>MR WANG CHOON KIAT</strong>
-<br><a href="mailto:wang_choon_kiat@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wang_choon_kiat@moe.gov.sg</a> 
+<br><a href="mailto:wang_choon_kiat@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wang_choon_kiat@moe.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -843,14 +843,12 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>MR CHENG HAK KEONG</strong> 
-<br><a href="mailto:cheng_hak_keong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cheng_hak_keong@moe.edu.sg</a>
+<p><strong>MS KANG KAI JUN</strong>
+<br><a href="mailto:kang_kai_jun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kang_kai_jun@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>MRS RAEBURN</strong> 
-<br><a href="mailto:raeburn-sim_chey_hoong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">raeburn_sim_chey_hoong@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -859,13 +857,12 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>MR DANIEL SIA SZE MING</strong> 
-<br><a href="sia_sze_ming@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sia_sze_ming@moe.edu.sg</a>
+<p><strong>MR LOW WEI JIE</strong> 
+<br><a href="mailto:low_wei_jie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">low_wei_jie@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>MR RAIHAN SUDIRMAN</strong> 
-<br><a href="mailto:muhamad_raihan_sudirman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhamad_raihan_sudirman@moe.edu.sg</a>
+<p><strong>MRS LIM YAN RU</strong>  <a href="mailto:lim_yan_ru@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_yan_ru@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -875,13 +872,13 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>MISS REBECCA TEO </strong>
-<br><a href="teo_lang_see@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_lang_see@moe.edu.sg</a>
+<p><strong>MR SOH WEI XUAN</strong>
+<br><a href="mailto:soh_wei_xuan@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">soh_wei_xuan@moe.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>MDM YUE ZHUO</strong> 
-<br><a href="mailto:yue_zhuo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yue_zhuo@moe.edu.sg</a>
+<p><strong>MR HOIRULL AMRI BIN TAHIRAN</strong> 
+<br><a href="mailto:hoirull_amri__tahiran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hoirull_amri__tahiran@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -908,13 +905,13 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>MS SITI HAWA</strong> 
-<br><a href="mailto:siti_hawa_mohamad_haniff@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_hawa_mohamad_haniff@moe.edu.sg</a>
+<p><strong>MR IRWAN SHAH BIN SHAHRUDDIN</strong> 
+<br><a href="mailto:Irwan_shah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Irwan_shah@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>MR LIM TICK KIT</strong> 
-<br><a href="mailto:lim_tick_kit@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_tick_kit@moe.edu.sg</a>
+<p><strong>MDM OW - GINA OW</strong> 
+<br><a href="mailto:gina_ow@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gina_ow@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -924,12 +921,12 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>MR NG BAN HOCK</strong> 
-<br><a href="mailto:ng_ban_hock@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_ban_hock@moe.edu.sg</a>
+<p><strong>MS TAN SIHUI PRISCILLA</strong>
+<br><a href="mailto:tan_sihui_priscilla@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_sihui_priscilla@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>MR IMRAN</strong> 
+<p><strong>MR IMRAN - MOHAMMED IMRAN BIN FAIZAL</strong>
 <br><a href="mailto:mohammed_imran_faizal@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohammed_imran_faizal@moe.edu.sg</a>
 </p>
 </td>
@@ -940,13 +937,14 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>MR RISHIKESH</strong> 
-<br><a href="mailto:rishikesh_rajendra_naidu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rishikesh_rajendra_naidu@moe.edu.sg</a>
+<p><strong>MS CHEE - ELYNNE CHEE </strong> 
+<br><a href="mailto:chee_elynne@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chee_elynne@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>MR MUHD AIDIL</strong> 
-<br><a href="mailto:muhammad_aidil_ishak@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_aidil_ishak@moe.edu.sg</a>
+<p><strong>MR ALI - </strong>
+<br><strong>MOHD ALI</strong>
+<br><a href="mailto:mohamed_ali_mohamed_hanafiah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohamed_ali_mohamed_hanafiah@moe.edu.sg</a>
 </p>
 </td>
 </tr>
