@@ -12,7 +12,8 @@ for children to play, explore and discover through:</p>
 <p>•Indoor and outdoor modular activities, such as tinkering, cookery and
 gardening activities.</p>
 <p>•Indoor and outdoor play, such as dramatic play, and sand and water play.</p>
-<p>•Our KCare Provider – Little Professors Learning Centre</p>
+<p><strong>Our KCare Provider – Little Professors Learning Centre</strong>
+</p>
 <p><strong>Fees and subsidies</strong>
 </p>
 <p>For 2024, the maximum KCare monthly fee is $415. KCare fees are also payable

@@ -3,6 +3,7 @@ title: Swimsafer Programme
 permalink: /cca/modular-cca/swimsafer-programme/
 description: ""
 third_nav_title: Modular CCA
+variant: markdown
 ---
 >![](/images/CCA/CCA_02.jpg)
 >CCA
