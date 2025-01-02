@@ -119,7 +119,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>MS FOO SZE LING</strong>
 <br>HOD PE
-<br><a href="mailto:foo_sze_ling@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">foo_sze_ling@moe.gov.sg</a>
+<br><a href="mailto:foo_sze_ling@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">foo_sze_ling@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
