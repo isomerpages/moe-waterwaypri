@@ -117,7 +117,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>MRS FOO SZE LING</strong>
+<p><strong>MS FOO SZE LING</strong>
 <br>HOD PE
 <br><a href="mailto:foo_sze_ling@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">foo_sze_ling@moe.gov.sg</a>
 </p>
@@ -137,44 +137,69 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>MRS SHRLINDA LEE</strong>
+<br>Year Head (P1/P2)
+<br><a href="mailto:see_shu_lan_shrlinda@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">see_shu_lan_shrlinda@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>MRS MITCHELLE WONG</strong>
+<br>Year Head (P3/P4)
+<br><a href="mailto:mitchelle_wong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mitchelle_wong@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>MDM NAZREENA</strong>
+<br>Year Head (P5/P6)
+<br><a href="mailto:nazreena_abdul_rahman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nazreena_abdul_rahman@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><strong>MDM FOO WAN QING</strong> 
 <br>Assistant Year Head (P1)
 <br><a href="mailto:foo_wan_qing@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">foo_wan_qing@moe.edu.sg</a>
 </p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p><strong>MS NUR HUMAIRAH BINTE HASIM</strong>
-<br>Assistant Year Head (P2)
+<br>Assistant Year Head (P2) (INT)
 <br><a href="mailto:nur_humairah_hasim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_humairah_hasim@moe.edu.sg</a>
 </p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p><strong>MR MUHAMMAD AIDIL BIN ISHAK</strong> 
 <br>Assistant Year Head (P3)
 <br><a href="mailto:muhammad_aidil_ishak@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_aidil_ishak@moe.edu.sg</a>
 </p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p><strong>MS CHEW YANN ZANDRA</strong>
-<br>Assistant Year Head (P4)
+<br>Assistant Year Head (P4) (INT)
 <br><a href="mailto:chew_yann_zandra@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chew_yann_zandra@moe.edu.sg</a>
 </p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p><strong>MS KANG KAI JUN</strong>
 <br>Assistant Year Head (P5)
 <br><a href="mailto:kang_kai_jun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kang_kai_jun@moe.edu.sg</a>
 </p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p><strong>MS JULIANA BINTE ABDULLAH</strong>
-<br>Year Head (P6)
+<br>Assitant Year Head (P6) (INT)
 <br><a href="mailto:juliana_abdullah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">juliana_abdullah@moe.edu.sg</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
