@@ -78,11 +78,6 @@ family! <a href="https://form.gov.sg/652e5a9a23d6530012fa850b" rel="noopener nor
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Iris Ng</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Niclas Chang</p>
 </td>
 </tr>
