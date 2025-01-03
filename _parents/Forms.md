@@ -25,10 +25,6 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://form.gov.sg/658b5c5545a70b00113c4e86" rel="noopener noreferrer nofollow" target="_blank">Possession of Smart Device Agreement Form</a>
-</p>
-</li>
-<li>
 <p><a href="/files/Request_for_2025_School_Bus_Services__Bus_Vendor_Terms__Conditions.pdf" rel="noopener noreferrer nofollow" target="_blank">2024/2025 School Bus Request Form</a>
 </p>
 </li>
