@@ -23,7 +23,7 @@ and encourage positive partnerships for our children’s education.
 vibrant learning environment in WAPS.</p>
 <h2>Join Us!</h2>
 <p>Come join us as a Parent Volunteer and be a part of Waterway Primary School
-family! <a href="https://form.gov.sg/652e5a9a23d6530012fa850b" rel="noopener noreferrer nofollow" target="_blank">Register Here</a>
+family! <a href="https://form.gov.sg/671f21f6db4e9bb1479ca7c2" rel="noopener noreferrer nofollow" target="_blank">Register Here</a>
 </p>
 <h3>PSG EXCO 2025</h3>
 <table style="minWidth: 25px">
