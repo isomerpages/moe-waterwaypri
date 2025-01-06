@@ -1487,6 +1487,18 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong>MDM TOH LING HUI AUDREY</strong>
+<br><a href="mailto:toh_ling_hui_audrey@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">toh_ling_hui_audrey@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>MDM EMILIA TAN SOH HIANG</strong>
+<br><a href="mailto:tan_soh_hiang_emilia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_soh_hiang_emilia@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
@@ -1501,13 +1513,13 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>MISS ROFIDAH SAMAH</strong> 
+<p><strong>MDM ROFIDAH SAMAH</strong> 
 <br>Lead SEN Officer
 <br><a href="mailto:rofidah_samah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rofidah_samah@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>MISS SITI KHAIRUNNISA</strong> 
+<p><strong>MS SITI KHAIRUNNISA</strong> 
 <br>SEN Officer
 <br><a href="mailto:siti_khairunnisa_nor@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_khairunnisa_nor@moe.edu.sg</a>
 </p>
@@ -1515,7 +1527,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>MISS DIYANA</strong>
+<p><strong>MS DIYANA BINTE MOHAMED FAUZI</strong>
 <br>SEN Officer
 <br><a href="mailto:diyana_mohamed_fauzi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">diyana_mohamed_fauzi@moe.edu.sg</a>
 </p>
@@ -1529,7 +1541,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>MISS OH CHING FEN</strong>
+<p><strong>MRS OH CHING FEN</strong>
 <br>School Counsellor
 <br><a href="mailto:oh_ching_fen_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">oh_ching_fen_a@moe.edu.sg</a>
 </p>
