@@ -1424,9 +1424,9 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>MR ALI - MOHAMED ALI BIN MOHAMED HANAFIAH</strong> 
+<p><strong>MR MOHD IMRAN</strong>  <strong>BIN FAIZAL</strong>
 <br>PE Teacher
-<br><a href="mailto:Mohamed_Ali_Mohamed_Hanafiah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mohamed_Ali_Mohamed_Hanafiah@moe.edu.sg</a>
+<br><a href="mailto:mohammed_imran_faizal@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohammed_imran_faizal@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1434,17 +1434,6 @@ variant: tiptap
 <br>PE Teacher
 <br><a href="mailto:mohammad_hazmie_jaafar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohammad_hazmie_jaafar@moe.edu.sg</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>MR MOHD IMRAN</strong>  <strong>BIN FAIZAL</strong>
-<br>PE Teacher
-<br><a href="mailto:mohammed_imran_faizal@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohammed_imran_faizal@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
