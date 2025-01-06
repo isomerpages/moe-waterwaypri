@@ -306,21 +306,13 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>MRS RAEBURN-SIM CHEY HOONG</strong> 
 <br>Lead Teacher Science
 <br><a href="mailto:raeburn-sim_chey_hoong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">raeburn-sim_chey_hoong@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>MDM ALWIYAH</strong> 
+<p><strong>MDM ALWIYAH</strong>  <strong>BINTE ABDUL AZIZ</strong>
 <br>Senior Teacher English
 <br><a href="mailto:alwiyah_abdul_aziz@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">alwiyah_abdul_aziz@moe.edu.sg</a>
 </p>
@@ -343,7 +335,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>MS JOLENE LOW WEI LING</strong>
-<br>Senior Teacher INT
+<br>Senior Teacher English (INT)
 <br><a href="mailto:low_wei_ling_jolene@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">low_wei_ling_jolene@moe.gov.sg</a>
 </p>
 </td>
@@ -362,7 +354,25 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>MS TEO JUAY CHENG MELISSA</strong>
+<br>Senior Teacher Mathematics
+<br><a href="mailto:teo_juay_cheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Teo_Juay_Cheng@moe.edu.sg</a>
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>MR JAN JOEL JAYANTA</strong>
+<br>Senior Teacher PE (INT)
+<br><a href="mailto:jan_joel_jayanta@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jan_joel_jayanta@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>MDM ASIYAH BINTE SHEIK MOHAMED ISMAIL</strong>
+<br>Senior Teacher Malay Language (INT)
+<br><a href="mailto:asiyah_sheik_mohamed_ism@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">asiyah_sheik_mohamed_ism@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
