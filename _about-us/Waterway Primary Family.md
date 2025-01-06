@@ -194,7 +194,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>MS JULIANA BINTE ABDULLAH</strong>
-<br>Assitant Year Head (P6) (INT)
+<br>Assistant Year Head (P6) (INT)
 <br><a href="mailto:juliana_abdullah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">juliana_abdullah@moe.edu.sg</a>
 </p>
 </td>
@@ -234,35 +234,35 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>MR CHAN ZHI YANG</strong>
-<br>Subject Head
+<br>Subject Head Student Management
 <br><a href="mailto:chan_zhi_yang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chan_zhi_yang@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>MRS GIN CHAN</strong> 
-<br>Subject Head Aesthetics
-<br><a href="mailto:chua_gim_peng_gin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_gim_peng_gin@moe.edu.sg</a>
+<p><strong>MS REMEDIOS SARAH MEGAN</strong>
+<br>Subject Head Mathematics (INT)
+<br><a href="mailto:remedios_sarah_megan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">remedios_sarah_megan@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>MS CHERYL KHOO</strong> 
-<br>Subject Head Partnership &amp; Engagement
+<br>Subject Head Mathematics
 <br><a href="khoo_wan_shir_cheryl@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">khoo_wan_shir_cheryl@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>MR MUHD MUKHLIS</strong> 
-<br>Subject Head Student Leadership (INT)
-<br><a href="muhammad_mukhlis_dzulfitri@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_mukhlis_dzulfitri@moe.edu.sg</a>
+<p><strong>MDM CHUA GIM PENG GIN</strong>
+<br>Subject Head PAM
+<br><a href="mailto:chua_gim_peng_gin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_gim_peng_gin@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>MR JASON YEW</strong> 
-<br>Subject Head I&amp;E
+<br>Subject Head Science
 <br><a href="yew_kwok_ming@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yew_kwok_ming@moe.edu.sg</a>
 </p>
 </td>
@@ -270,8 +270,22 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>MR WANG CHOON KIAT</strong> 
-<br>Subject Head CCA
+<br>Subject Head Science
 <br><a href="mailto:wang_choon_kiat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wang_choon_kiat@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>MDM MARTINI BINTE MAHMOOD</strong>
+<br>Subject Head Malay Language (INT)
+<br><a href="mailto:martini_mahmood@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">martini_mahmood@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>MR MUHD MUKHLIS</strong> 
+<br>Subject Head Character &amp; Citizenship Education (INT)
+<br><a href="muhammad_mukhlis_dzulfitri@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_mukhlis_dzulfitri@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -290,6 +304,14 @@ variant: tiptap
 <col>
 </colgroup>
 <tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>MRS RAEBURN-SIM CHEY HOONG</strong> 
