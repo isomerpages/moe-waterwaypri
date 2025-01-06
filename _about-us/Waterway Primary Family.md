@@ -255,7 +255,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>MRS CHAN -  CHUA GIM PENG GIN</strong>
+<p><strong>MRS CHAN - CHUA GIM PENG GIN</strong>
 <br>Subject Head Aesthetics
 <br><a href="mailto:chua_gim_peng_gin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_gim_peng_gin@moe.edu.sg</a>
 </p>
@@ -1246,7 +1246,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>CIKGU DINIE -  MUHAMMAD DINIE</strong>  <strong>SHAIFULLAH</strong>
+<p><strong>CIKGU DINIE - MUHAMMAD DINIE</strong>  <strong>SHAIFULLAH</strong>
 <br><a href="mailto:muhammad_dinie_shaifullah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_dinie_shaifullah@moe.edu.sg</a>
 </p>
 </td>
@@ -1355,7 +1355,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>MR ALI -  MOHAMED ALI BIN MOHAMED HANAFIAH</strong> 
+<p><strong>MR ALI - MOHAMED ALI BIN MOHAMED HANAFIAH</strong> 
 <br>PE Teacher
 <br><a href="mailto:Mohamed_Ali_Mohamed_Hanafiah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mohamed_Ali_Mohamed_Hanafiah@moe.edu.sg</a>
 </p>
@@ -1455,7 +1455,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>MS MIKA -  NEEMIKA RAI</strong> 
+<p><strong>MS MIKA - NEEMIKA RAI</strong> 
 <br>School Counsellor
 <br><a href="mailto:neemika_rai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">neemika_rai@moe.edu.sg</a>
 </p>
