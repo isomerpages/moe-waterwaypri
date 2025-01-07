@@ -109,7 +109,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>MR IRWAN SHAH BIN SHAHRUDDIN</strong>
+<p><strong>DR IRWAN SHAH BIN SHAHRUDDIN</strong>
 <br>HOD English (INT)
 <br><a href="mailto:Irwan_shah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Irwan_shah@moe.edu.sg</a>
 </p>
@@ -971,7 +971,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>MR IRWAN SHAH BIN SHAHRUDDIN</strong> 
+<p><strong>DR IRWAN SHAH BIN SHAHRUDDIN</strong> 
 <br><a href="mailto:Irwan_shah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Irwan_shah@moe.edu.sg</a>
 </p>
 </td>
