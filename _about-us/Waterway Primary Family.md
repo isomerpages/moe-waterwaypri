@@ -1471,7 +1471,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>MRS ANGIE HO WOON LEE</strong>
+<p><strong>MRS NG -  ANGIE HO WOON LEE</strong>
 <br><a href="mailto:ho_woon_lee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ho_woon_lee@moe.edu.sg</a>
 </p>
 </td>
@@ -1520,7 +1520,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>MRS OH CHING FEN</strong>
+<p><strong>MS OH CHING FEN</strong>
 <br>School Counsellor
 <br><a href="mailto:oh_ching_fen_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">oh_ching_fen_a@moe.edu.sg</a>
 </p>
