@@ -109,7 +109,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>MR IRWAN SHAH BIN SHAHRUDDIN</strong>
+<p><strong>DR IRWAN SHAH BIN SHAHRUDDIN</strong>
 <br>HOD English (INT)
 <br><a href="mailto:Irwan_shah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Irwan_shah@moe.edu.sg</a>
 </p>
@@ -971,7 +971,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>MR IRWAN SHAH BIN SHAHRUDDIN</strong> 
+<p><strong>DR IRWAN SHAH BIN SHAHRUDDIN</strong> 
 <br><a href="mailto:Irwan_shah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Irwan_shah@moe.edu.sg</a>
 </p>
 </td>
@@ -1479,6 +1479,15 @@ variant: tiptap
 <p><strong>MDM KUMUTHA JAYANDRAN</strong>
 <br><a href="mailto:kumutha_jayandran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kumutha_jayandran@moe.edu.sg</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>MS NURUL FADZILLAH BINTE MOHAMMED FADZIL <a href="mailto:nurul_fadzillah_mohammed_fadzil@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nurul_fadzillah_mohammed_fadzil@moe.edu.sg</a></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
