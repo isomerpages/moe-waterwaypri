@@ -152,7 +152,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>MDM NAZREENA</strong>
-<br>Year Head (P5/P6)
+<br>Year Head (P5/P6) (INT)
 <br><a href="mailto:nazreena_abdul_rahman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nazreena_abdul_rahman@moe.edu.sg</a>
 </p>
 </td>
@@ -172,7 +172,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>MR MUHAMMAD AIDIL BIN ISHAK</strong> 
-<br>Assistant Year Head (P3)
+<br>Assistant Year Head (P3) (INT)
 <br><a href="mailto:muhammad_aidil_ishak@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_aidil_ishak@moe.edu.sg</a>
 </p>
 </td>
@@ -234,7 +234,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>MR CHAN ZHI YANG</strong>
-<br>Subject Head Student Management (INT)
+<br>Subject Head Student Management
 <br><a href="mailto:chan_zhi_yang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chan_zhi_yang@moe.edu.sg</a>
 </p>
 </td>
@@ -248,7 +248,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>MS CHERYL KHOO</strong> 
-<br>Subject Head Mathematics
+<br>Subject Head Partnership &amp; Engagement
 <br><a href="khoo_wan_shir_cheryl@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">khoo_wan_shir_cheryl@moe.edu.sg</a>
 </p>
 </td>
@@ -284,7 +284,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>MR MUHD MUKHLIS</strong> 
-<br>Subject Head Student Leadership Development (INT)
+<br>Subject Head Student Leadership Development
 <br><a href="muhammad_mukhlis_dzulfitri@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_mukhlis_dzulfitri@moe.edu.sg</a>
 </p>
 </td>
@@ -335,7 +335,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>MS JOLENE LOW WEI LING</strong>
-<br>Senior Teacher English (INT)
+<br>Senior Teacher Educational Support (INT)
 <br><a href="mailto:low_wei_ling_jolene@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">low_wei_ling_jolene@moe.gov.sg</a>
 </p>
 </td>
@@ -445,7 +445,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>MR HAZMIE - MOHAMMAD HAZMIE BIN JA'AFAR</strong>
-<br><a href="mailto:rajeswary_ramakrishna@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rajeswary_ramakrishna@moe.edu.sg</a>
+<br><a href="mailto:mohammad_hazmie_jaafar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohammad_hazmie_jaafar@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1198,7 +1198,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>MR TAN WEI CHING</strong>
+<p><strong>MS TAN WEI CHING</strong>
 <br><a href="mailto:Tan_Wei_Ching_A@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Tan_Wei_Ching_A@moe.edu.sg</a>
 </p>
 </td>
@@ -1471,7 +1471,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>MRS ANGIE HO WOON LEE</strong>
+<p><strong>MRS NG -  ANGIE HO WOON LEE</strong>
 <br><a href="mailto:ho_woon_lee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ho_woon_lee@moe.edu.sg</a>
 </p>
 </td>
@@ -1520,7 +1520,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>MRS OH CHING FEN</strong>
+<p><strong>MS OH CHING FEN</strong>
 <br>School Counsellor
 <br><a href="mailto:oh_ching_fen_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">oh_ching_fen_a@moe.edu.sg</a>
 </p>
