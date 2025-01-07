@@ -1198,7 +1198,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>MR TAN WEI CHING</strong>
+<p><strong>MS TAN WEI CHING</strong>
 <br><a href="mailto:Tan_Wei_Ching_A@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Tan_Wei_Ching_A@moe.edu.sg</a>
 </p>
 </td>
