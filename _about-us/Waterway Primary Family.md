@@ -213,7 +213,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>MRS PANG LONG NA CLAIRE</strong>
+<p><strong>MDM CLAIRE PANG</strong>
 <br>Level Head English Language
 <br><a href="mailto:Claire_PANG@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Claire_PANG@moe.gov.sg</a>
 </p>
@@ -348,7 +348,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>MRS TEH - CALYNN CHOW WUN YEN</strong>
+<p><strong>MRS CALYNN TEH </strong>
 <br>Senior Teacher CCE (INT)
 <br><a href="mailto:calynn_chow_wun_yen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">calynn_chow_wun_yen@moe.edu.sg</a>
 </p>
@@ -439,7 +439,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>MRS TEH - CALYNN CHOW WUN YEN</strong>
+<p><strong>MRS CALYNN TEH</strong>
 <br><a href="mailto:calynn_chow_wun_yen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">calynn_chow_wun_yen@moe.edu.sg</a>
 </p>
 </td>
@@ -837,7 +837,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>MS PANG LONG NA CLAIRE</strong> 
+<p><strong>MDM CLAIRE PANG</strong> 
 <br><a href="mailto:Claire_PANG@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Claire_PANG@moe.gov.sg</a>
 </p>
 </td>
@@ -1019,7 +1019,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>MS CHEE - ELYNNE CHEE </strong>
+<p><strong>MS ELYNNE CHEE </strong>
 <br><a href="mailto:chee_elynne@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chee_elynne@moe.edu.sg</a>
 </p>
 </td>
