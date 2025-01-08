@@ -348,7 +348,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>MRS TEH - CALYNN CHOW WUN YEN</strong>
+<p><strong>MRS CALYNN TEH </strong>
 <br>Senior Teacher CCE (INT)
 <br><a href="mailto:calynn_chow_wun_yen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">calynn_chow_wun_yen@moe.edu.sg</a>
 </p>
@@ -439,7 +439,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>MRS TEH - CALYNN CHOW WUN YEN</strong>
+<p><strong>MRS CALYNN TEH</strong>
 <br><a href="mailto:calynn_chow_wun_yen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">calynn_chow_wun_yen@moe.edu.sg</a>
 </p>
 </td>
