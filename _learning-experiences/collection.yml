@@ -2,7 +2,6 @@ collections:
   learning-experiences:
     output: true
     order:
-      - Homework Policy.md
       - Learning Experiences.md
       - Teaching & Learning and Assessment.md
       - English.md
