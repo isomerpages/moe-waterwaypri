@@ -2,6 +2,7 @@ collections:
   nurturing-young-minds:
     output: true
     order:
+      - Teaching & Learning and Assessment.md
       - Homework Policy.md
       - Nurturing Young Minds.md
       - Language Arts/.keep
