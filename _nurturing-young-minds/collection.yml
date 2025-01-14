@@ -2,8 +2,8 @@ collections:
   nurturing-young-minds:
     output: true
     order:
-      - Cyber Wellness.md
       - Nurturing Young Minds.md
+      - Cyber Wellness.md
       - Language Arts/.keep
       - Language Arts/Language Arts.md
       - Language Arts/Literature.md
