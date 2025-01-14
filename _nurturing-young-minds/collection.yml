@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Nurturing Young Minds.md
-      - Teaching & Learning and Assessment.md
       - Language Arts/.keep
       - Language Arts/Language Arts.md
       - Language Arts/Literature.md
