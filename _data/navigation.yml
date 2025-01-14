@@ -107,6 +107,8 @@ links:
         url: https://vle.learning.moe.edu.sg
       - title: OPAC (School Library)
         url: https://schoolibrary.moe.edu.sg/waterwaypri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME
+      - title: General Information
+        url: /permalink
       - title: Visitor Information
         url: /contact/visitor-information
       - title: Vendor Information
