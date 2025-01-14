@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Learning Experiences.md
-      - Teaching & Learning and Assessment.md
       - English.md
       - Math.md
       - Science.md
