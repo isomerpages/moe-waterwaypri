@@ -2,7 +2,6 @@ collections:
   building-upright-character:
     output: true
     order:
-      - CCA Policy and Matters.md
       - Building Upright Character.md
       - Character & Citizenship Education (CCE) and Leadership Development.md
       - PE & Health Education.md
@@ -11,3 +10,4 @@ collections:
       - Programme for Active Learning (PAL).md
       - Sexuality Education.md
       - Eco Stewardship @ WAPS.md
+      - CCA Policy and Matters.md
