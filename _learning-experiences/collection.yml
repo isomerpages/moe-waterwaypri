@@ -2,7 +2,6 @@ collections:
   learning-experiences:
     output: true
     order:
-      - CCA Policy and Matters.md
       - Learning Experiences.md
       - English.md
       - Math.md
@@ -13,6 +12,7 @@ collections:
       - Art.md
       - Music.md
       - Information & Communications Technology.md
+      - CCA Policy and Matters.md
       - Enrichment and Academic Support.md
       - Overseas Immersion Programme.md
       - Eco Stewardship.md
