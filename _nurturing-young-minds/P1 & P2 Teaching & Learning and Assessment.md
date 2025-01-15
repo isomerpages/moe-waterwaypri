@@ -12,4 +12,10 @@ description: ""
 <div class="iframe-wrapper">
 <iframe height="805" width="600" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTJ2SwNbey0s_7ch4GpF7DZQyzG7wIxYM-K5-9iUUZj8mF-SiIWgBX5ZYobMbOs0g/embed?start=false&amp;loop=false&amp;delayms=15000"></iframe>
 </div>
+<h4>P1 &amp; P2 Waterway Primary School<br>Assessment Philosophy and Policy</h4>
+<div class="iframe-wrapper">
+<iframe height="877" width="600" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTkiL-ef0ZaR16hRAz6Ww8v8f3BzEsx7maE96iZjnezgOklXpIIl5--M29MqWksKg/embed?start=false&amp;loop=false&amp;delayms=15000"></iframe>
+</div>
+<p></p>
+<p></p>
 <p></p>
