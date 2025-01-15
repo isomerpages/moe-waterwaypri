@@ -2,10 +2,7 @@ collections:
   nurturing-young-minds:
     output: true
     order:
-      - P3 to P6 Teaching & Learning and Assessment.md
-      - P1 & P2 Teaching & Learning and Assessment.md
       - Nurturing Young Minds.md
-      - Cyber Wellness.md
       - Language Arts/.keep
       - Language Arts/Language Arts.md
       - Language Arts/Literature.md
@@ -13,3 +10,6 @@ collections:
       - Science.md
       - Mother Tongue Languages.md
       - Information & Communications Technology (ICT).md
+      - Cyber Wellness.md
+      - P1 & P2 Teaching & Learning and Assessment.md
+      - P3 to P6 Teaching & Learning and Assessment.md
