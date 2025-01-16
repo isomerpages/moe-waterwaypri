@@ -144,31 +144,7 @@ their peers, with support from the teachers.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Grace Seah</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Senior Teacher CL</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Tan Meo Cher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>CL Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Ti Tat Hua</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>CL Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Gina Yeo</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>CL Teacher</p>
