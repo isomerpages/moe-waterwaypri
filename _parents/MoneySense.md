@@ -2,6 +2,7 @@
 title: MoneySense
 permalink: /parents/moneysense/
 description: ""
+variant: markdown
 ---
 ##### Dear Parents
 
@@ -10,6 +11,8 @@ Join Institute for Financial Literacy (IFL) in the “Ask-Me-Anything” Faceboo
 
 Note: This workshop is for **parents** only.
 
-![](/images/Parents/ama%20_edm%20_10%20nov%202023.png)
-
 ![](/images/Parents/msfyc%20edm.png)
+
+
+
+
