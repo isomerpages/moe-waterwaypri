@@ -87,12 +87,10 @@ It also deepens teamwork and friendships forged over the years.</p>
 <p>MISS HO YONG YING</p>
 <p>MS TAN PEI WEN</p>
 <p>MR JAN JOEL</p>
-<p>MR JUSTIN TAN</p>
 <p>MR LAI WEE YEONG</p>
 <p>MR MOHD ALI</p>
 <p>MR MOHD HAZMIE</p>
 <p>MR MOHD IMRAN</p>
-<p>MR JODEL CHOW</p>
 <p></p>
 <p><strong>Parent Involvement:</strong> 
 <br>Parent volunteers are critical to the success of many of our programmes.
