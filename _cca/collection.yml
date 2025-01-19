@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Brass Band.md
       - CCA.md
       - Basketball.md
       - Interest CCA/.keep
