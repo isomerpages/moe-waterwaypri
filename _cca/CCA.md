@@ -122,8 +122,8 @@ students to deepen their passion and talents.</p>
 <p>Art Club</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Hariati Bte Abdul
-<br><a href="Hamidhariati_abdul_hamid@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Hamidhariati_abdul_hamid@moe.edu.sg</a>
+<p>Mdm Hariati Bte Abdul Hamid
+<br><a href="Hamidhariati_abdul_hamid@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hariati_abdul_hamid@moe.edu.sg</a>
 </p>
 </td>
 </tr>
