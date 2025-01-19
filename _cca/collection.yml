@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Table Tennis.md
       - Art Club.md
       - International Chess.md
       - Cub Scouts.md
