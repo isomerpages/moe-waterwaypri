@@ -2,14 +2,14 @@ collections:
   cca:
     output: true
     order:
-      - Table Tennis.md
-      - Art Club.md
-      - International Chess.md
-      - Cub Scouts.md
-      - Choir.md
-      - Football.md
-      - Modern Dance.md
-      - Coding and Robotics, Info comm and Media (CRIM).md
-      - Brass Band.md
-      - Basketball.md
       - CCA.md
+      - Basketball.md
+      - Brass Band.md
+      - Coding and Robotics, Info comm and Media (CRIM).md
+      - Modern Dance.md
+      - Football.md
+      - Choir.md
+      - Cub Scouts.md
+      - International Chess.md
+      - Art Club.md
+      - Table Tennis.md
