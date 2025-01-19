@@ -2,8 +2,8 @@ collections:
   cca:
     output: true
     order:
-      - Basketball.md
       - CCA.md
+      - Basketball.md
       - Interest CCA/.keep
       - Interest CCA/Brass Band.md
       - Interest CCA/Coding and Robotics, Info comm and Media (CRIM).md
