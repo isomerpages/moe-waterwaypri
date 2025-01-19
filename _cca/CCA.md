@@ -67,7 +67,7 @@ students to deepen their passion and talents.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>WAVE</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Modern Dance</p>
@@ -87,7 +87,7 @@ students to deepen their passion and talents.</p>
 <p>Art Club</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Taekwndo</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -148,8 +148,7 @@ students to deepen their passion and talents.</p>
 <p>Choir</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nur Hidayah Shopieoodin
-<br><a href="nur_hidayah_shopieoodin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_hidayah_shopieoodin@moe.edu.sg</a>
+<p>Mrs Rachel Wee <a rel="noopener noreferrer nofollow" target="_blank">ong_ming_wei@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -161,22 +160,8 @@ students to deepen their passion and talents.</p>
 <p>Modern Dance</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Rajeswary
-<br><a href="rajeswary_ramakrishna@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rajeswary_ramakrishna@moe.edu.sg</a>
-<br>Mdm Nursayidah Abdul Rahim
-<br><a href="nursayidah_abdul_rahim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nursayidah_abdul_rahim@moe.edu.sg</a>
+<p>Ms Tan Pei Wen <a rel="noopener noreferrer nofollow" target="_blank">tan_pei_wen_b@moe.edu.sg</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -187,8 +172,7 @@ students to deepen their passion and talents.</p>
 <p>CRIM Club</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Neo Jun Wei
-<br><a href="neo_jun_wei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">neo_jun_wei@moe.edu.sg</a>
+<p>Mdm Teo Lang See Rebecca <a rel="noopener noreferrer nofollow" target="_blank">teo_lang_see@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -210,10 +194,11 @@ students to deepen their passion and talents.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>WAVE Club</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs Chia Shi Min Shermin <a rel="noopener noreferrer nofollow" target="_blank">shermin_chia_shi_min@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -224,9 +209,8 @@ students to deepen their passion and talents.</p>
 <p>Basketball</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Jan Joel &amp; Mr Justin Tan
+<p>Mr Jan Joel
 <br><a href="jan_joel_jayanta@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jan_joel_jayanta@moe.edu.sg</a>
-<br><a href="tan_siow_meng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_siow_meng@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -261,10 +245,11 @@ students to deepen their passion and talents.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Taekwondo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Ho Yong Ying <a rel="noopener noreferrer nofollow" target="_blank">ho_yong_ying@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -275,8 +260,7 @@ students to deepen their passion and talents.</p>
 <p>Cub Scouts</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ti Tat Hua
-<br><a href="ti_tat_hua@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ti_tat_hua@moe.edu.sg</a>
+<p>Mr Rishikesh Rajendra Naidu <a rel="noopener noreferrer nofollow" target="_blank">rishikesh_rajendra_naidu@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -287,3 +271,6 @@ do contact the respective CCA teacher in-charge via email.</p>
 <p>For general enquiries about CCA, you may contact Mr Wang Choon Kiat at
 <a href="chua_gim_peng_gin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wang_choon_kiat@moe.edu.sg</a>
 </p>
+<p></p>
+<p></p>
+<p></p>
