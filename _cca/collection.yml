@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Interest CCA/.keep
-      - Interest CCA/Interest CCA.md
+      - Interest CCA/CCA.md
       - Interest CCA/P3 CCA Experience.md
       - Interest CCA/Basketball.md
       - Interest CCA/Brass Band.md
