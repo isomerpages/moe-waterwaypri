@@ -2,7 +2,6 @@
 title: Basketball
 permalink: /cca/interest-cca/basketball/
 description: ""
-third_nav_title: Interest CCA
 variant: markdown
 ---
 &gt;![](/images/CCA/CCA_02.jpg)

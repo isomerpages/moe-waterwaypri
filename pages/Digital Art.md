@@ -2,7 +2,6 @@
 title: Digital Art
 permalink: /cca/modular-cca/digital-art/
 description: ""
-third_nav_title: Modular CCA
 ---
 >![](/images/CCA/CCA_02.jpg)
 >CCA

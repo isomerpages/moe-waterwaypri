@@ -2,17 +2,16 @@
 title: Info Communication & Media
 permalink: /cca/modular-cca/info-communication-n-media/
 description: ""
-third_nav_title: Modular CCA
 ---
->![](/images/CCA/CCA_02.jpg)
->CCA
+&gt;![](/images/CCA/CCA_02.jpg)
+&gt;CCA
 
-## Info-Communication & Media
+## Info-Communication &amp; Media
 
 Media and Info-Communication Modular CCA (MCCA) aims to expose our students to media and infocomm technology in a fun and meaningful way. Our goal is to help them learn new infocomm skills and cultivate leadership and entrepreneurship capabilities at an early age. Our students will better appreciate technology and learn about application development, data analytics, cyber security and media production.
 
 **UPLOAD VIDEO TO YOUTUBE/VIMEO** <br>
-_A Stop Motion Video created by P3 students during the Info-Communication & Media MCCA_
+_A Stop Motion Video created by P3 students during the Info-Communication &amp; Media MCCA_
 
 
 **<u>Digital Literacy</u>**
@@ -27,11 +26,10 @@ In a rapidly advancing technological age, we want our students to cultivate a he
 
 **<u>P3 MCCA</u>**
 
-P3 MCCA teaches students to create stop motion videos using Legos and iPads. Students plan and create the videos in groups and film them during the course of 8 weeks. Students can showcase their creativity and develop a keen eye for detail.
+P3 MCCA teaches students to create stop motion videos using Legos and iPads. Students plan and create the videos in groups and film them during the course of 8 weeks.&nbsp;Students can showcase their creativity and develop a keen eye for detail.
 
 
-<img src="/images/CCA/Infocomm%202.jpg"  
-     style="width:55%">
+<img src="/images/CCA/Infocomm%202.jpg" style="width:55%">
 
 **<u>P4 MCCA</u>**
 

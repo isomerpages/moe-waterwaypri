@@ -2,7 +2,6 @@
 title: P3 CCA Experience
 permalink: /cca/interest-cca/p3-cca-experience/
 description: ""
-third_nav_title: Interest CCA
 ---
 >![](/images/CCA/CCA_02.jpg)
 >CCA

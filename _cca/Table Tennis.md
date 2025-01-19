@@ -2,7 +2,6 @@
 title: Table Tennis
 permalink: /cca/interest-cca/table-tennis/
 description: ""
-third_nav_title: Interest CCA
 variant: markdown
 ---
 &gt;![](/images/CCA/CCA_02.jpg)
@@ -68,5 +67,3 @@ Taking care of table tennis equipment, including regular checks on paddles, ball
 •	Matthias Ang (Captain) <br>
 •	Victoria Lau Kai Xi (Vice Captain) <br>
 •	Kaeyen Yeo Jia He (Vice Captain)
-
-

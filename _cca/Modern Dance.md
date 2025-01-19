@@ -2,7 +2,6 @@
 title: Modern Dance
 permalink: /cca/interest-cca/international-dance/
 description: ""
-third_nav_title: Interest CCA
 variant: markdown
 ---
 &gt;![](/images/CCA/CCA_02.jpg)
@@ -46,7 +45,4 @@ Our Modern Dance CCA leaders this year are as follows: <br>
 **Achievements** <br>
 Inter-school presentations such as Singapore Youth Festival (SYF) was halted the past years due to Covid-19. SYF will resume this year. Stay tuned for updates!
 
-<img src="/images/CCA/Int%20Dance%205.jpg" style="width:65%">		 
-
-
-
+<img src="/images/CCA/Int%20Dance%205.jpg" style="width:65%">

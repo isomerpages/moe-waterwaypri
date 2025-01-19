@@ -38,6 +38,8 @@ links:
         url: /music/
       - title: ICT
         url: /information-communications-technology/
+      - title: CCA Policy and Matters
+        url: /cca-policy-and-matters/
       - title: Enrichment & Academic Support
         url: /enrichment-and-academic-support/
       - title: Overseas Immersion Programme
@@ -70,7 +72,7 @@ links:
   - title: CCA
     url: /cca/interest-cca/
     sublinks:
-      - title: Interest CCA
+      - title: CCA
         url: /cca/interest-cca/
   - title: Our Students, Our Pride
     url: /learning-experiences/our-students-our-pride-students/
@@ -107,6 +109,8 @@ links:
         url: https://vle.learning.moe.edu.sg
       - title: OPAC (School Library)
         url: https://schoolibrary.moe.edu.sg/waterwaypri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME
+      - title: General Information
+        url: /general-information-for-parents-and-guardians/
       - title: Visitor Information
         url: /contact/visitor-information
       - title: Vendor Information

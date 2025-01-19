@@ -2,7 +2,6 @@
 title: International Chess
 permalink: /cca/interest-cca/international-chess/
 description: ""
-third_nav_title: Interest CCA
 variant: markdown
 ---
 >![](/images/CCA/CCA_02.jpg)
@@ -39,4 +38,3 @@ The Chess Club conducts weekly training sessions facilitated by a professional c
 
 
 In September 2023, we sent two groups – Boys’ Team(U12 Open) and Girls’ Team (U12 Girls) - to represent the school in the 74th National Teams Championship. We are proud to announce that the Girls’ team had clinched 3rd place in the East Zone category.
-

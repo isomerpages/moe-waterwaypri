@@ -2,7 +2,6 @@
 title: Coding and Robotics, Info comm and Media (CRIM)
 permalink: /cca/interest-cca/coding-and-robotics-info-comm-and-media-crim/
 description: ""
-third_nav_title: Interest CCA
 variant: markdown
 ---
 &gt;![](/images/CCA/CCA_02.jpg)
@@ -56,5 +55,3 @@ Info communication and Media – Minecraft Education; Thunkable and Python codin
 Competition: First Lego League; National Primary Games Creation and Coding Competition; National Infocomm League; World Robo Olympiad Singapore
 
 ![](/images/CCA/CRIM/Waterway_Primary_CRIM_PNG_FORMAT.png)
-
-
