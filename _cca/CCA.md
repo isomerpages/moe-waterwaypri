@@ -7,7 +7,6 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/CCA_02.jpg">
 </div>
-<p>&gt;CCA</p>
 <h2>CCA</h2>
 <p>CCA is conducted on Friday mornings for students from P4 to P6. Additional
 CCA training may be conducted on selected Monday, Wednesday or Thursday
