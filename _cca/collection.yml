@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Interest CCA/.keep
-      - Interest CCA/CCA.md
       - Interest CCA/Basketball.md
       - Interest CCA/Brass Band.md
       - Interest CCA/Coding and Robotics, Info comm and Media (CRIM).md
