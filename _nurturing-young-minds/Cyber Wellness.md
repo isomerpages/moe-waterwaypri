@@ -4,10 +4,6 @@ permalink: /cyber-wellness/
 variant: tiptap
 description: ""
 ---
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cyber_Wellness.jpg">
-</div>
 <h4>Cyber Wellness (CW)</h4>
 <p>The CW programme in Waterway Primary focuses on the well-being of our
 students as they navigate cyberspace. Though the programme, students learn
