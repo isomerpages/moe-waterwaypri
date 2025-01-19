@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Modern Dance.md
       - Coding and Robotics, Info comm and Media (CRIM).md
       - Brass Band.md
       - CCA.md
