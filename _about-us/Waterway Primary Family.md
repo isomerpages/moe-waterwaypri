@@ -227,7 +227,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>MS CHUA YINGHAN JOELLE</strong>
+<p><strong>MDM CHUA YINGHAN JOELLE</strong>
 <br>Level Head Chinese Language
 <br><a href="mailto:joelle_chuayinghan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">joelle_chuayinghan@moe.edu.sg</a>
 </p>
@@ -842,7 +842,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>MS CHUA YINGHAN, JOELLE</strong> 
+<p><strong>MDM CHUA YINGHAN, JOELLE</strong> 
 <br><a href="mailto:joelle_chuayinghan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">joelle_chuayinghan@moe.edu.sg</a>
 </p>
 </td>
