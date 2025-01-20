@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - CCA Policy and Matters.md
       - CCA.md
       - Basketball.md
       - Brass Band.md
