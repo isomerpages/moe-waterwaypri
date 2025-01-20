@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - CCA.md
+      - CCA Policy and Matters.md
       - Basketball.md
       - Brass Band.md
       - Coding and Robotics, Info comm and Media (CRIM).md
