@@ -657,7 +657,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>MDM YEO IVY</strong> 
+<p><strong>MS YEO IVY</strong> 
 <br><a href="mailto:yeo_ivy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_ivy@moe.edu.sg</a>
 </p>
 </td>
