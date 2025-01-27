@@ -657,12 +657,12 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>MDM YEO IVY</strong> 
+<p><strong>MS YEO IVY</strong> 
 <br><a href="mailto:yeo_ivy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_ivy@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>MDM NG MAY LING ESTHER</strong>
+<p><strong>MRS ESTHER CHENG</strong>
 <br><a href="mailto:ng_may_ling_esther@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_may_ling_esther@moe.edu.sg</a>
 </p>
 </td>
@@ -1215,8 +1215,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>MRS POH WEE HOON</strong>
-<br><a href="mailto:poh_wee_hoon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">poh_wee_hoon@moe.edu.sg</a>
+<p><strong>MS LYU YIHAN</strong>
+<br><a href="mailto:lyu_yihan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lyu_yihan@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1228,19 +1228,6 @@ variant: tiptap
 <p><strong>MRS QIU XUE</strong>
 <br><a href="mailto:qiu_xue@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">qiu_xue@moe.edu.sg</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>MS LYU YIHAN</strong>
-<br><a href="mailto:lyu_yihan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lyu_yihan@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
