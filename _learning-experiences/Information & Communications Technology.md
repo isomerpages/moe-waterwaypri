@@ -34,10 +34,26 @@ and experiment with technology.</p>
 our approach. We work closely with other school departments to integrate
 technology effectively into various subjects, enhancing the overall educational
 experience.</p>
-<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Waterway Learning Experience/ICT/Reyes__14_July__1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning Experiences/IMG20250131100710.jpg">
 </div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning Experiences/IMG202501311008451.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
 <p>
 <br>
 </p>
