@@ -1545,7 +1545,7 @@ variant: tiptap
 <p>Administrative Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>MRS JOAN CHUA</strong>
+<p><strong>MRS JOAN HOO</strong>
 </p>
 </td>
 </tr>
@@ -1554,7 +1554,7 @@ variant: tiptap
 <p>Administrative Executive</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>MISS PHUA LEE KOON</strong>
+<p><strong>MS PHUA LEE KOON</strong>
 </p>
 </td>
 </tr>
