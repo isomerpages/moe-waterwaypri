@@ -241,9 +241,9 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>MS REMEDIOS SARAH MEGAN</strong>
-<br>Subject Head Mathematics (INT)
-<br><a href="mailto:remedios_sarah_megan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">remedios_sarah_megan@moe.edu.sg</a>
+<p><strong>MS CLARA ONG</strong> 
+<br>Subject Head CCE
+<br><a href="mailto:ong_fong_yan_clara@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_fong_yan_clara@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -289,10 +289,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>MS CLARA ONG</strong> 
-<br>Subject Head CCE
-<br><a href="mailto:ong_fong_yan_clara@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_fong_yan_clara@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -945,7 +942,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>MDM LIM YAN RU</strong>  <a href="mailto:lim_yan_ru@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_yan_ru@moe.edu.sg</a>
+<p><strong>MDM LIM YAN RU</strong> 
+<br><a href="mailto:lim_yan_ru@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_yan_ru@moe.edu.sg</a>
 </p>
 </td>
 </tr>
