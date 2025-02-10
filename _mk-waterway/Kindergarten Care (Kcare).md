@@ -28,6 +28,6 @@ eligible for a basic subsidy of $150 per month.</p>
 It is closed on public holidays, Teachers' Day, Children's Day and up to
 6 additional days each year.</p>
 <div class="iframe-wrapper">
-<iframe height="535" width="900" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTOoldVOVBvCJwyznXOiS7YszEfx0bEKB3Rb2olopAbsKAymTkDUH9b7Iq9yTOeSQ/embed?start=true&amp;loop=true&amp;delayms=15000"></iframe>
+<iframe height="535" width="900" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTOoldVOVBvCJwyznXOiS7YszEfx0bEKB3Rb2olopAbsKAymTkDUH9b7Iq9yTOeSQ/embed?start=true&amp;loop=true&amp;delayms=30000"></iframe>
 </div>
 <p></p>
