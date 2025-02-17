@@ -4,10 +4,10 @@ permalink: /open-house-2025/
 variant: tiptap
 description: ""
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/Open_House_Poster__2025_.jpg">
-</div>
-<p></p>
+<p>Online registration for 2026 K1 admissions have closed on 17 February
+2025. If you have missed the Online Registration Exercise, please fill
+in the&nbsp;<a href="https://go.gov.sg/mkwywl2025" rel="noopener noreferrer nofollow" target="_blank">Waitlist Application Form</a><strong>.&nbsp;</strong>The
+school will contact you once a vacancy is available for your child.</p>
 <h4><strong>2025 MK@Waterway Open House Slides</strong></h4>
 <div class="iframe-wrapper">
 <iframe height="507" width="850" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT6AlhIR_wmsMSmqDRB-pP7pHLYKXgjyApyjKNiAsFIXlhOS7CkyzIiwR6VNDsB_g/embed?start=true&amp;loop=true&amp;delayms=30000"></iframe>
