@@ -782,7 +782,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>MR CHOO - RYAN CHOO KIAN GUAN</strong>
-<br><a href="mailto:choo_kian_guan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">choo_kian_guan@moe.edu.sg</a>
+<br><a href="mailto:choo_kian_guan_ryan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">choo_kian_guan_ryan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
