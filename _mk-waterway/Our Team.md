@@ -4,8 +4,14 @@ permalink: /our-team/
 variant: tiptap
 description: ""
 ---
+<table style="width: 0px">
+<colgroup></colgroup>
+<tbody>
+<tr></tr>
+</tbody>
+</table>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/Our Team/MK_Team_Photo.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/MK_Waterway_Team_photo.png">
 </div>
 <table style="minWidth: 50px">
 <colgroup>
