@@ -89,7 +89,6 @@ Park and the Lorong Halus wetlands.</p>
 <p>Please follow our detailed instructions to download the Pocket Trips app
 and the content presented to you by our Primary Two students of Waterway
 Primary School.</p>
-<p>The user guide can be view and download from this&nbsp;<a href="https://staging.d1vupma46t7042.amplifyapp.com/wwps/pocket-trips-guide/" rel="noopener noreferrer nofollow" target="_blank">link</a>.</p>
 <h3>ARTWORK DISPLAY @ PUNGGOL21</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning%20Experiences/Celebrations/Celebrations%2011.png">
