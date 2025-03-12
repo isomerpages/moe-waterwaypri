@@ -215,7 +215,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>MDM CLAIRE PANG</strong>
 <br>Level Head English Language
-<br><a href="mailto:Claire_PANG@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Claire_PANG@moe.gov.sg</a>
+<br><a href="mailto:Claire_PANG@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Claire_PANG@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -835,7 +835,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>MDM CLAIRE PANG</strong> 
-<br><a href="mailto:Claire_PANG@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Claire_PANG@moe.gov.sg</a>
+<br><a href="mailto:Claire_PANG@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Claire_PANG@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
