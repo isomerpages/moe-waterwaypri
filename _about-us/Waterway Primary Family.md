@@ -903,7 +903,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>MDM KUMUTHA JAYANDRAN</strong> 
-<br><a href="mailto:kumutha_jayandran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kumutha_jayandran@moe.edu.sg</a>
+<br><a href="mailto:kumutha_jayandran_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kumutha_jayandran_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1462,7 +1462,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>MDM KUMUTHA JAYANDRAN</strong>
-<br><a href="mailto:kumutha_jayandran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kumutha_jayandran@moe.edu.sg</a>
+<br><a href="mailto:kumutha_jayandran_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kumutha_jayandran_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
