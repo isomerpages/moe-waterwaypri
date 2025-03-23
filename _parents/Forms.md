@@ -21,7 +21,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://go.gov.sg/loawaterwaypri" rel="noopener noreferrer nofollow" target="_blank">LOA Application</a>
+<p><a href="https://go.gov.sg/loawaps" rel="noopener noreferrer nofollow" target="_blank">LOA Application</a>
 </p>
 </li>
 <li>
