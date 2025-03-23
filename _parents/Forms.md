@@ -13,7 +13,7 @@ variant: tiptap
 <h2>Forms</h2>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://go.gov.sg/wapswaitlistform" rel="noopener noreferrer nofollow" target="_blank">School Waiting List</a>
+<p><a href="https://go.gov.sg/wapswaitlistappform" rel="noopener noreferrer nofollow" target="_blank">School Waiting List</a>
 </p>
 </li>
 <li>
