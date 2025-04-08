@@ -22,7 +22,7 @@ sections:
         - title: General info
           description: ""
           url: /general-info
-      background: /images/Openhouse_2025_edited_2.jpg
+      background: /images/Openhouse_2025_edited.jpg
       variant: image
       size: md
       alignment: left
