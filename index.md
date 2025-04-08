@@ -21,7 +21,7 @@ sections:
           description: ""
           url: /general-info
       background: /images/Openhouse_2025_edited.jpg
-      variant: image
+      variant: center
       size: md
       alignment: left
 ---
