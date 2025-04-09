@@ -4,9 +4,7 @@ title: Waterway Primary School
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: Do you know of an outstanding teacher? Show your appreciation by
-  nominating him/her for the  President’s Award for Teachers (PAT) or the
-  Outstanding Youth in Education Award (OYEA)!
+notification: ""
 sections:
   - hero:
       key_highlights:
@@ -22,10 +20,8 @@ sections:
         - title: General info
           description: ""
           url: /general-info
-      title: FOR WORK, FOR LIFE, FOR FUTURE
-      subtitle: A Culture of Care and Excellence in a Caring and Enabling Environment
-      background: /images/Banner.gif
-      variant: center
+      background: /images/Openhouse_2025.jpg
+      variant: image
       size: md
       alignment: left
 ---
