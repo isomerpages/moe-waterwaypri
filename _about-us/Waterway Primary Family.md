@@ -333,7 +333,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>MS JOLENE LOW WEI LING</strong>
 <br>Senior Teacher Educational Support (INT)
-<br><a href="mailto:low_wei_ling_jolene@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">low_wei_ling_jolene@moe.gov.sg</a>
+<br><a href="mailto:low_wei_ling_jolene@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">low_wei_ling_jolene@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -394,7 +394,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>MRS TAN WAN JOO</strong> 
-<br><a href="mailto:tan_wan_joo@moe.gov.sg" rel="noopener nofollow" target="_blank">tan_wan_joo@moe.gov.sg</a>
+<br><a href="mailto:tan_wan_joo@moe.edu.sg" rel="noopener nofollow" target="_blank">tan_wan_joo@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -469,7 +469,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>MDM GAN AI LING IRENE</strong>
-<br><a href="mailto:Gan_Ai_Ling_Irene@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Gan_Ai_Ling_Irene@moe.gov.sg</a>
+<br><a href="mailto:Gan_Ai_Ling_Irene@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Gan_Ai_Ling_Irene@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -898,7 +898,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>MR WANG CHOON KIAT</strong>
-<br><a href="mailto:wang_choon_kiat@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wang_choon_kiat@moe.gov.sg</a>
+<br><a href="mailto:wang_choon_kiat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wang_choon_kiat@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -954,7 +954,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>MR SOH WEI XUAN</strong>
-<br><a href="mailto:soh_wei_xuan@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">soh_wei_xuan@moe.gov.sg</a>
+<br><a href="mailto:soh_wei_xuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">soh_wei_xuan@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
