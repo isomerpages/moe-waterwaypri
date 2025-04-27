@@ -4,11 +4,9 @@ permalink: /learning-experiences/celebrations/
 description: ""
 variant: tiptap
 ---
-<p>&gt;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning%20Experiences/learning-experiences_banner.jpg">
 </div>
-<p>&gt;LEARNING EXPERIENCES</p>
 <h2>Celebrations</h2>
 <h3>NATIONAL PRIMARY GAMES CREATION AND CODING COMPETITION 2019</h3>
 <p>On 4 September 2019, 10 of our P4 students, led by Ms Goh Qian Yi and
@@ -71,9 +69,9 @@ success. We believe we have benefited the community through our presentation.</p
 <div class="isomer-image-wrapper">
 <img style="width:85%" height="auto" width="100%" src="/images/Learning%20Experiences/Celebrations/Celebrations%209.png">
 </div>
-<p>### POCKET TRIPS</p>
+<h3> POCKET TRIPS</h3>
 <div class="isomer-image-wrapper">
-<img style="width:240px;height:350px;margin-right:15px;" height="auto" width="100%" src="/images/Learning%20Experiences/Celebrations/Celebrations%2010.png">
+<img style="width: 100%;" height="auto" width="100%" src="/images/Learning%20Experiences/Celebrations/Celebrations%2010.png">
 </div>
 <p>Pocket Trips is an award-winning web-based mobile authoring platform that
 empowers anyone to create, design and publish their own interactive trails
@@ -126,3 +124,10 @@ second and fourth positions at the national level.</p>
 <p>Our teachers and students raised a Kickstart fund for the "Pay It Forward"
 project, which aimed to encourage Punggol residents to help pay for cups
 of coffee or tea for our elderly residents.</p>
+<h3>CFF video 2024 with SN2</h3>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/55z4tqclGVE?si=8eZKsPY4ZlDvNaj1"></iframe>
+</div>
+<p></p>
+<p></p>
+<p></p>
