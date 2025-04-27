@@ -2,46 +2,45 @@
 title: Our Story
 permalink: /about-us/our-story/
 description: ""
+variant: markdown
 ---
-> ![](/images/Images/about-us_02.jpg)
-> About Us 
-
-
-![](/images/About%20Us/School.jpg)
-
+&gt; ![](/images/Images/about-us_02.jpg)
 # Our Story
 
-Waterway Primary School started in 2016 with 5 P1 classes. This quickly grew to 8 P1 classes in 2017 and 10 classes in 2018, despite not having many completed new flats in the vicinity of the school. In the 2019 P1 registration exercise, all 320 places in 10 classes were filled up during the 2C open phase of the exercise. Many parents commented that Waterway Primary School is their school of choice even though there are other schools that are closer in proximity to their homes. Their decision was based on very good feedback about the school and the programmes the school offers.  
+Waterway Primary School started in 2016 with 5 P1 classes. This quickly grew to 10 P1 classes in 2019, with all 320 places taken. Even in the initial years, the school had proven to be the **school of choice** for many parents although there were other schools that were closer in proximity to their homes. Their decision was based on very good feedback about the school and the programmes the school offers.  
   
-Our school aims to prepare students ‘For Work, For Life, For Future’. For work in the future, students must enjoy learning, learn continuously and know how to learn so that they can work in jobs in the future economy. For life, students must grow up with sound values in order to work and live well with others. Students must have healthy bodies and minds and have positive lifelong attitudes towards a healthy lifestyle. They must also be able to enjoy the finer aspects of life such as art and music.  
-  
-Teaching and learning in the school goes beyond prescribed methodologies. Customised programmes are designed to engage students to learn. The learning process is emphasised over content acquisition. The curriculum aims of English and Mother Tongue Languages are to develop in our students, confidence and competence in using the languages. Mathematics and Science aim to develop problem-solving and thinking skills.  
-  
-A spectrum of customised distinctive programmes complements classroom teaching and learning:  
-* Good Morning School is a daily pre-assembly programme. Teachers share with students on a wide range of topics such as current affairs, music, art and science to expose students to learning beyond their classrooms, immediate neighbourhood and Singapore.  
-         
-* Orators@Waterway nurtures students to be engaging presenters who speak with poise and confidence.  
-    
-* Literature is offered from P3. Not only is the learning of English Language enhanced, Literature offers students ‘a window to peer into the world of others and a mirror to hold to look at themselves’. Through Literature, students develop essential 21st century competencies such as communication skills, collaboration skills, critical thinking, global awareness and cross-cultural sensitivities.  
-   
-* Coding and Robotics help students develop creative problem-solving skills through systematic and logical thinking and working collaboratively with others. In P1 and P2, students learn robotics during PAL lessons and from P3 onwards, students learn coding and programming during modular CCAs.  
+Our school aims to prepare students **‘For Work, For Life, For Future’**. **For work** in the **future**, students must enjoy learning, learn continuously and know how to learn so that they can work in jobs in the future economy. **For life**, students must grow up with sound values in order to work and live well with others. Students must have healthy bodies and minds, and have positive lifelong attitudes towards a healthy lifestyle. They must also be able to enjoy the finer aspects of life such as art and music.
 
-* Modular CCAs are distinct from interest CCAs as they are conducted during curriculum time and for all students. Modular CCAs expose students to a wide range of interests to enrich their learning. Modules include Sports and Games, Coding and Programming, Infocomm and Media and Speech and Drama.
+Teaching and learning in our school goes beyond prescribed methodologies. **Customised programmes** are designed to engage students to learn. The learning process is emphasised over content acquisition. The curriculum aims of English and Mother Tongue Languages are to develop in our students, confidence and competence in using the languages. Mathematics and Science aim to develop problem-solving and thinking skills.
 
-The school promotes a Growth and a Benefit mindset. Through the Growth Mindset, students learn that their abilities can be developed through dedication and hard work. A Benefit Mindset takes the Growth Mindset one step further. Rather than learning and growing just for the sake of individual gain, Benefit Mindset helps students to apply their strengths to benefit others. The two mindsets are imbued in students through explicit teaching during Orators lessons as well as through integration in subjects across the curriculum.  
-  
-As our students learn through these meaningful experiences, we want them to always be the best that they can be so that they will thrive in the world they will grow up to. It is our aim to prepare them For Work, For Life, For Future. 
+Over the years, our school has continuously reviewed and refreshed our spectrum of customised **distinctive programmes** which aim to complement classroom teaching and learning. In doing this, we hope to nurture our students into individuals who will thrive in this increasingly complex and uncertain global landscape. 
 
-  
+•	**Good Morning School (GMS)** is a daily pre-assembly programme. Teachers share with students on a wide range of topics such as current affairs, music, art and science to expose students to learning beyond their classrooms, immediate neighbourhood and Singapore.
 
-<center> <font size=6><b>Our Story</b></font> </center>
+•	To nurture the spirit of **Innovation &amp; Enterprise (I&amp;E)**, the school provides a vibrant environment where students feel empowered to experiment, collaborate, and discover new possibilities. By integrating Design Thinking, Makers Education, and Entrepreneurship, we provide opportunities for students to solve real-world problems through creativity and practical application.  
 
-<iframe width="854" height="480" src="https://www.youtube.com/embed/EdsJxvFwOLs" title="Waterway Primary School Official Opening Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+•	**Empowering Voices, Cultivating Leaders (EVoCL) Programme** strives to imbue students with critical thinking and oratorical skills, emphasising the interconnectedness of thought and language as foundational elements in shaping leadership competencies. Through such programmes, students’ oratorical skills are honed and they develop into confident leaders, often playing an active role in school events. 
 
-<center> <font size=6><b>Our School Song</b></font> </center>
+•	In our pursuit of creating a vibrant learning environment, **Curated Programmes** offer students unique, out-of-syllabus experiences that combine fun with learning. Through these specially designed programmes, students explore topics such as growth mindset, coding and robotics, 3D pen fabrication, movie editing with iMovie, just to name a few. Through these specially curated learning opportunities, students are equipped with the essential E21CC skills, preparing them for future success.
 
-<iframe width="850" height="480" src="https://www.youtube.com/embed/bDceZ_zGdxk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+•	Through the **Growth and Benefit Mindset (GBM)**, students learn that their abilities can be developed through dedication and hard work. A Benefit Mindset takes the Growth Mindset one step further. Rather than learning and growing just for the sake of individual gain, a Benefit Mindset helps students to apply their strengths to benefit others. The two mindsets are imbued in students through explicit teaching during CCE lessons as well as through integration in subjects across the curriculum. Over the years, students have put into practice the benefit mindset and contributed to society in various ways – organising donation drives for the elderly and immigrants, supporting their younger buddies and contributing to a greener environment through eco-stewardship projects.
 
-<center> <font size=6><b>Highlights Of Minister's Speech</b></font> </center>
+As a **part of the School Culture of Care and Excellence**, students are given ample and varied opportunities to practise **student agency**. In the curriculum, they actively seek improvement by engaging in feedback – from peers, teachers, **tapping on affordances** of various technological tools. Students are also given a voice when planning school projects such as Values-in-Action (VIA) projects and the selection of our Head Prefect.  
+           
+Another salient aspect of our school culture is the practice of **mindfulness**. Mindfulness **is a practice of learning to focus** and being intensely aware of what we are sensing and feeling in the moment, without interpretation or judgement. Practising mindfulness involves breathing methods, guided imagery, and other practices to relax the body and mind, and help reduce stress. 
+        
+With such practices imbued in our culture, we aim to carve a **Caring and Enabling Learning Environment** that is not only nurturing but also one in which students find joy in learning and pursue lifelong learning.
 
-<iframe width="850" height="480" src="https://www.youtube.com/embed/Wi5ktkQiVBY" title="Highlights of Minister's Speech during Official Opening" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+As our students learn through these meaningful experiences, we nurture in them a spirit to always be the best that they can be, and set themselves ready **For Work, For Life, For Future**.  
+
+<center> <font size="6"><b>Our Story</b></font> </center>
+
+<iframe width="854" height="480" src="https://www.youtube.com/embed/EdsJxvFwOLs" title="Waterway Primary School Official Opening Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+<center> <font size="6"><b>Our School Song</b></font> </center>
+
+<iframe width="850" height="480" src="https://www.youtube.com/embed/bDceZ_zGdxk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+
+<center> <font size="6"><b>Highlights&nbsp;Of Minister's Speech</b></font> </center>
+
+<iframe width="850" height="480" src="https://www.youtube.com/embed/Wi5ktkQiVBY" title="Highlights of Minister's Speech during Official Opening" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
