@@ -6,7 +6,7 @@ description: ""
 ---
 <p>Online registration for 2026 K1 admissions have closed on 17 February
 2025. If you have missed the Online Registration Exercise, please fill
-in the&nbsp;<a href="https://go.gov.sg/mkwywl2025" rel="noopener noreferrer nofollow" target="_blank">Waitlist Application Form</a><strong>.&nbsp;</strong>The
+in the&nbsp;<a href="https://form.gov.sg/682c224ae813ab801ca98fe1" rel="noopener noreferrer nofollow" target="_blank">Waitlist Application Form</a><strong>.&nbsp;</strong>The
 school will contact you once a vacancy is available for your child.</p>
 <h4><strong>2025 MK@Waterway Open House Slides</strong></h4>
 <div class="iframe-wrapper">
