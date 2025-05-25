@@ -14,8 +14,8 @@ sections:
         - title: Corporate Video
           description: WAPS Experience
           url: https://youtu.be/FXT2Do68ics?si=oBkLL8e8KvheID_w
-        - title: MONEYSENSE PROGRAMME
-          description: Financial Literacy Programme
+        - title: E-Brochure
+          description: Open House Experience
           url: /parents/moneysense/
         - title: General info
           description: ""
