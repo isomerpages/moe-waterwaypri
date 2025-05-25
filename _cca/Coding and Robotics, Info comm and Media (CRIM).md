@@ -2,56 +2,132 @@
 title: Coding and Robotics, Info comm and Media (CRIM)
 permalink: /cca/interest-cca/coding-and-robotics-info-comm-and-media-crim/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-&gt;![](/images/CCA/CCA_02.jpg)
-&gt;CCA
-
-## Coding and Robotics, Info-comm and Media (CRIM)
-
-At Waterway Primary School, the vision is to prepare our students for the future. One such area of focus is in the field of Coding and Robotics, Info communication and Media (CRIM). While the foundations are laid out in P1 and P2 PAL robotics, the learning of Computational Thinking Skills (CoTS) does not end there. Students who show potential and interest in CRIM can choose to participate in the CRIM Interest CCA to further hone their CoTS. 
-
-<img src="/images/CCA/CRIM%201.jpeg">
-
-**Educational Goals:** <br>
-Students who join CRIM Club will be stretched further to develop computational thinking skills at an advanced level. In addition, we aim to hone their critical design thinking and crafting skills through school based activities and national competitions. In the process, we strive to build confidence and different skillsets in our members, bringing out the best in each student. With a broad exposure to a range of robotics sets and info communication and media platforms, students’ joy of learning and savviness in technology will be enhanced as well. 
-
-<img src="/images/CCA/CRIM%202.jpeg" style="width:55%">
-
-**Skill Development:** <br>
-•	Computational thinking
-•	Critical design thinking
-•	Crafting
-•	Educational Benefits
-
-**21st Centuries Competencies will be developed.** <br>
-•	Critical thinking
-•	Creativity and innovation
-•	Collaboration
-•	Communication
-
-<img src="/images/CCA/CRIM%203.jpeg" style="width:40%">
-
-**Skill Development:** <br>
-•	Computational thinking <br>
-•	Critical design thinking <br>
-•	Crafting
-
-**Educational Benefits** <br>
-21st Centuries Competencies will be developed. <br>
-•	Critical thinking <br>
-•	Creativity and innovation <br>
-•	Collaboration <br>
-•	Communication
-
-**Personal Development** <br>
-Through hands-on activities during CCA and participation in National Competition, students collaborate and persevere to work towards common goals and develop values such as respect and self-discipline to overcome the various challenges encountered. 
-
-**Regular Activities:** <br>
-Coding and Robotics – EV3 and Spike Prime Robotics Set
-Info communication and Media – Minecraft Education; Thunkable and Python coding
-
-**Special events:** <br>
-Competition: First Lego League; National Primary Games Creation and Coding Competition; National Infocomm League; World Robo Olympiad Singapore
-
-![](/images/CCA/CRIM/Waterway_Primary_CRIM_PNG_FORMAT.png)
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/CCA_02.jpg">
+</div>
+<h2>Coding and Robotics, Info-comm and Media (CRIM)</h2>
+<p>The <strong>CRIM Club</strong> is an exciting space where students explore <strong>coding, robotics, and digital media</strong> to
+develop critical 21st-century skills. Through hands-on projects, teamwork,
+and national competitions, members sharpen their problem-solving abilities,
+creativity, and confidence while having fun with technology!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/CCA/CRIM%201.jpeg">
+</div>
+<p><strong>Educational Goals:</strong> 
+<br>CRIM Club aims to equip students with <strong>computational thinking skills</strong>,
+fostering logical reasoning, creativity, and problem-solving. By engaging
+in school-based activities and competitions, students develop a deep appreciation
+for coding and digital innovation, preparing them for the future.</p>
+<div class="isomer-image-wrapper">
+<img style="width:55%" height="auto" width="100%" src="/images/CCA/CRIM%202.jpeg">
+</div>
+<p><strong>Skill Development:</strong> 
+<br>Through <strong>coding, robotics, and media creation</strong>, students
+will build essential skills, including:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Computational Thinking</strong> – Breaking down problems and developing
+logical solutions.</p>
+</li>
+<li>
+<p><strong>Critical &amp; Design Thinking</strong> – Applying creativity to
+solve real-world challenges.</p>
+</li>
+<li>
+<p><strong>Collaboration &amp; Communication</strong> – Working effectively
+in teams to develop innovative solutions.</p>
+</li>
+</ul>
+<p><strong>21st Centuries Competencies will be developed.</strong> 
+<br>• Critical thinking • Creativity and innovation • Collaboration • Communication</p>
+<div class="isomer-image-wrapper">
+<img style="width:40%" height="auto" width="100%" src="/images/CCA/CRIM%203.jpeg">
+</div>
+<p><strong>Educational Benefits</strong> 
+<br>Participation in CRIM Club strengthens students’ analytical skills, encourages
+innovation, and enhances <strong>technological fluency</strong>. Exposure
+to cutting-edge digital tools builds confidence in using technology responsibly
+and effectively.</p>
+<p><strong>Personal Development</strong> 
+<br>CRIM Club nurtures resilience, teamwork, and leadership. Through hands-on
+learning and competitions, students develop <strong>perseverance, respect, and self-discipline</strong>,
+fostering a growth mindset and preparing them for future success.</p>
+<p><strong>Regular Activities:</strong> 
+<br>🔹 <strong>Coding &amp; Robotics</strong> – Hands-on learning with <strong>Spike Prime Robotics</strong>.
+<br>🔹 <strong>Info-Comm &amp; Media</strong> – App creation using <strong>Thunkable</strong>, <strong>Minecraft Education</strong>,
+and <strong>Python coding</strong>.</p>
+<p><strong>Special events:</strong> 
+<br>🏆 <strong>First Lego League</strong> – A thrilling robotics competition.
+<br>🎮 <strong>National Primary Games Creation &amp; Coding Competition</strong> –
+Design and develop digital games.
+<br>💡 <strong>National Infocomm League</strong> – Solve real-world tech challenges.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/CRIM/Waterway_Primary_CRIM_PNG_FORMAT.png">
+</div>
+<p><strong>Past Achievements:</strong>
+</p>
+<p>National Infocomm League 2024</p>
+<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Best narrative award</p>
+<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Top 12 finalists for onsite presentation</p>
+<p><strong>Testimonials:</strong>
+</p>
+<p>“Our CCA is fun and interesting, we can build robots and do codes to get
+it to move. It feels nice to see our own creation doing something we have
+coded.” - Tara Zee, P5C 2025</p>
+<p>&nbsp;</p>
+<p>“I have learned how to use the Thunkable app creation and now I am currently
+learning the Cospaces. I like the way the teacher teaches and using the
+laptop. I work collaboratively with my friends on Thunkable. We discuss
+what we can do and test our app.” - Vishranthan Aadhi Sheshwaran S/O Sivashankar,
+P5A 2025</p>
+<p></p>
+<p><strong>Leadership</strong>
+</p>
+<p>Our <strong>CRIM Club Leaders</strong>, Sadev Dimandith, Royceton Tng and
+Isaac Lim guide and mentor their peers, fostering a supportive learning
+environment. They inspire others through <strong>teamwork, innovation, and leadership</strong>.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA 2025/CRIM Club/P4_Infocomm__coding_in_Minecraft.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA 2025/CRIM Club/P5_Infocom_Thunkable_coding_2.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA 2025/CRIM Club/P5_Infocomm_Thunkable_coding_1.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA 2025/CRIM Club/P5_Robotics_coding_in_a_team.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA 2025/CRIM Club/P5_Robotics_coding_instructions_for_robot.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
