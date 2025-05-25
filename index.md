@@ -11,9 +11,9 @@ sections:
         - title: Quicklinks
           description: ""
           url: /quicklinks/
-        - title: NOMINATION
-          description: PAT & OYEA 2025
-          url: /patoyea2025
+        - title: Corporate Video
+          description: WAPS Experience
+          url: https://youtu.be/FXT2Do68ics?si=oBkLL8e8KvheID_w
         - title: MONEYSENSE PROGRAMME
           description: Financial Literacy Programme
           url: /parents/moneysense/
