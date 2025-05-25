@@ -53,67 +53,116 @@ fostering a positive and inclusive team culture.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA 2025/Basketball/Picture28.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA 2025/Basketball/Picture29.jpg">
+</div>
 </td>
 </tr>
 </tbody>
 </table>
 <h5>Activities and Events:</h5>
-<p>CCA sessions for recreational basketball are conducted on Fridays while
-students selected for competition teams will have training additional training
-sessions on Tuesdays and Thursdays. Our School Teams participate in the
-annual National School Games Competition where they will have the opportunities
-to play against teams from other primary schools. Through the competition,
-students will gain valuable experiences and enhance their development of
-character and skills.</p>
+<p>The CCA also provides a platform for selected members who will have the
+exciting opportunity to represent the school in the National School Games
+(NSG) for both Junior and Senior divisions, allowing them to showcase their
+abilities and gain valuable competition experience. Participation in competitive
+play nurtures a growth mindset, encouraging students to embrace challenges,
+persevere through setbacks, and continuously strive for improvement. Whether
+they are learning the basics or aspiring to compete at a higher level,
+every student in the Basketball Interest CCA will embark on a fulfilling
+and enriching journey of personal and athletic growth.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Basketball/School_Team_Boys.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA 2025/Basketball/Picture30.png">
 </div>
-<p><strong>Leadership:</strong> 
-<br>Boys Teams:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Jarrod Ong, 6A (Captain)
-<br>
-</p>
-</li>
-<li>
-<p>Jay Chu, 6H (Vice-Captain)
-<br>
-</p>
-</li>
-<li>
-<p>Isaac Tan, 5B (Vice-Captain)</p>
-</li>
-</ul>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Basketball/School_Team_Girls.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA 2025/Basketball/Picture31.jpg">
 </div>
-<p>Girls Teams:
-<br>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Olivia Tham, 6C (Captain)
-<br>
-</p>
-</li>
-<li>
-<p>Shreetika Singh, 6A (Vice-Captain)
-<br>
-</p>
-</li>
-<li>
-<p>Chloe Lim, 5C (Vice-Captain)</p>
-</li>
-</ul>
+</td>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Basketball%204.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Basketball%205.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA 2025/Basketball/Picture32.png">
 </div>
 <p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA 2025/Basketball/Picture33.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA 2025/Basketball/Picture34.png">
+</div>
+<p><strong>Leadership:</strong> 
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<p>NSG Senior Boys Team Captains</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P6-A</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>GAIUS GOH XIANG YU</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P6-C</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MOHAMMED BILAL BIN MOHAMMED PARVESH</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>NSG Senior Girls Team Captains</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P6-C</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LIM KAI YEE CHLOE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P6-C</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ENG EN QI SHERLYNN</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+</p>
