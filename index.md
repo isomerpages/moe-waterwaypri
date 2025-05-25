@@ -16,7 +16,7 @@ sections:
           url: https://youtu.be/FXT2Do68ics?si=oBkLL8e8KvheID_w
         - title: E-Brochure
           description: Open House Experience
-          url: /parents/moneysense/
+          url: https://drive.google.com/file/d/1skVIC_1uoueOyJHlB4MNVHXv5rBEY-gV/view?usp=drive_link
         - title: General info
           description: ""
           url: /general-info
