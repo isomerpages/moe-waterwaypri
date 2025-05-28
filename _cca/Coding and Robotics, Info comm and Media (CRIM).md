@@ -125,7 +125,9 @@ environment. They inspire others through <strong>teamwork, innovation, and leade
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA 2025/CRIM Club/P6_Robotics_helping_out_in_the_P3_Experience.jpg">
+</div>
 </td>
 </tr>
 </tbody>
