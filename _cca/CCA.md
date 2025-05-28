@@ -86,7 +86,7 @@ students to deepen their passion and talents.</p>
 <p>Art Club</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Taekwndo</p>
+<p>Taekwondo</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
