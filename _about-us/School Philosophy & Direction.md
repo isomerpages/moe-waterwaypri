@@ -2,9 +2,9 @@
 title: School Philosophy & Direction
 permalink: /about-us/school-philosophy-n-direction/
 description: ""
+variant: markdown
 ---
 > ![](/images/Images/about-us_02.jpg)
-> About Us 
 
 ## School Philosophy & Direction
 
