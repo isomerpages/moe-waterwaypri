@@ -2,9 +2,9 @@
 title: Mission, Vision, Values
 permalink: /about-us/mission-vision-values/
 description: ""
+variant: markdown
 ---
 > ![](/images/Images/about-us_02.jpg)
-> About Us 
 
 
 ## Mission, Vision, Values
