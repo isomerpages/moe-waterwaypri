@@ -2,9 +2,9 @@
 title: School Crest
 permalink: /about-us/school-crest/
 description: ""
+variant: markdown
 ---
 > ![](/images/Images/about-us_02.jpg)
-> About Us 
 
 ## School Crest
 ![](/images/Images/Sch_Crest.png)
