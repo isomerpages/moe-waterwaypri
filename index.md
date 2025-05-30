@@ -16,7 +16,7 @@ sections:
           url: https://youtu.be/NlDGV2mlkUM?si=jl3j1_BguBvSrAxJ
         - title: E-Brochure
           description: Open House Experience
-          url: https://drive.google.com/file/d/1skVIC_1uoueOyJHlB4MNVHXv5rBEY-gV/view?usp=drive_link
+          url: https://drive.google.com/file/d/1uLZjcJMVYRu9WNitX8QsjVoWltTnAEQr/view?usp=drive_link
         - title: General info
           description: ""
           url: /general-info
