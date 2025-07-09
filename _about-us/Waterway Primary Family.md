@@ -595,8 +595,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>MDM SHAMINI D/O SUBRAMANIAM</strong>
-<br><a href="mailto:shamini_subramaniam_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shamini_subramaniam_a@moe.edu.sg</a>
+<p><strong>MS NURUL FADZILLAH</strong>
+<br><a href="mailto:nurul_fadzillah_mohammed_fadzil@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nurul_fadzillah_mohammed_fadzil@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -659,7 +659,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>MRS ESTHER NG MAY LING</strong>
+<br><a href="mailto:ng_may_ling_esther@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_may_ling_esther@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
