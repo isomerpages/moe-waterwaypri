@@ -823,7 +823,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>MS CHEN XIAOCHEN</strong>
+<br><a href="mailto:chen_xiaochen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chen_xiaochen@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -837,7 +839,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>MS TAN SHI MIN</strong>
+<br><a href="mailto:tan_shi_min@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_shi_min@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -898,7 +902,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>MRS KUMUTHA JAYANDRAN</strong>
+<br><a href="mailto:kumutha_jayandran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kumutha_jayandran@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
