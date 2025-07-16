@@ -2,9 +2,9 @@ collections:
   building-upright-character:
     output: true
     order:
-      - Cyber Wellness.md
       - Building Upright Character.md
       - Character & Citizenship Education (CCE) and Leadership Development.md
+      - Cyber Wellness.md
       - PE & Health Education.md
       - Art.md
       - Music.md
