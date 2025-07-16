@@ -168,7 +168,7 @@ through their art making</p>
 processes in creating artworks</p>
 </td>
 <td rowspan="1" colspan="2">
-<p></p>
+<p>TBC</p>
 </td>
 </tr>
 <tr>
@@ -184,7 +184,7 @@ through their art making
 and cultures are presented in Singapore artworks</p>
 </td>
 <td rowspan="1" colspan="2">
-<p></p>
+<p>TBC</p>
 </td>
 </tr>
 <tr>
@@ -200,7 +200,7 @@ to make art individually and collaboratively</p>
 changing societal, cultural and historical contexts</p>
 </td>
 <td rowspan="1" colspan="2">
-<p></p>
+<p>TBC</p>
 </td>
 </tr>
 <tr>
