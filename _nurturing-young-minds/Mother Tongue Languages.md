@@ -56,10 +56,7 @@ Rakan Bahasa is an initiative by the Malay Language Council, Singapore (MLCS) to
 | Mrs Gina Ow   | HOD MTL/ CL Teacher     | 
 | Mdm Neo Chai Lee    | 	HOD CCE/ CL Teacher   | 
 | Mr Lim Tick Kit    |HOD ICT/ CL Teacher    | 
-| Ms Grace Seah   | Senior Teacher CL     | 
 | Mdm Tan Meo Cher    | CL Teacher     | 
-| Mr Ti Tat Hua    | CL Teacher     | 
-| Mdm Gina Yeo    | CL Teacher   | 
 | Mdm Chan Peiling    | CL Teacher    | 
 | Mrs Yuen Ka Yan    | CL Teacher      | 
 | Ms Geraldine Ng Soh Huey   | CL Teacher    | 
