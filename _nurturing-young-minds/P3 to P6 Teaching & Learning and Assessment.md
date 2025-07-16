@@ -168,7 +168,11 @@ through their art making</p>
 processes in creating artworks</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>TBC</p>
+<p>LO1: Distinguish the visual qualities in what they see.</p>
+<p>LO3: Explore and discover different ways to use materials and tools to
+make art individually and collaboratively.</p>
+<p>LO6: Discuss and reflect with peers about the ideas, intentions and artistic
+processes in creating artworks</p>
 </td>
 </tr>
 <tr>
@@ -184,7 +188,11 @@ through their art making
 and cultures are presented in Singapore artworks</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>TBC</p>
+<p>LO1: Distinguish the visual qualities in what they see</p>
+<p>LO4: Analyse and show understanding of art concepts, techniques and approaches
+through their art making</p>
+<p>LO7: Compare and contrast the ways in which time, traditions, resources
+and cultures are presented in Singapore artworks</p>
 </td>
 </tr>
 <tr>
@@ -200,7 +208,11 @@ to make art individually and collaboratively</p>
 changing societal, cultural and historical contexts</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>TBC</p>
+<p>LO2: Draw to tell stories based on observations and imagination</p>
+<p>LO4: Evaluate and apply art concepts, techniques and approaches to their
+art making</p>
+<p>LO6: Reflect on and explain the intended meaning of artwork to others
+through an artist statement and other formats</p>
 </td>
 </tr>
 <tr>
