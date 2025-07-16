@@ -11,10 +11,21 @@ variant: tiptap
 <p>LEARNING EXPERIENCES</p>
 </blockquote>
 <h2>Nurturing Young Minds</h2>
-<p>In academic learning, we emphasise process over content. Learning must
-be fun and meaningful and emphasis is placed on the learning process. Lessons
-are customised according to the needs and progress of the students. We
-want to develop students to be confident and competent users of English
-and their Mother Tongue Languages. Through Mathematics and Science, we
-want to develop students’ problem solving and thinking process skills.</p>
+<p><strong>Nurturing Thinkers, Problem Identifiers and Creators</strong>
+</p>
+<p>At Waterway, &nbsp;we believe that learning should be meaningful, joyful,
+and student-centred. We place strong emphasis on the learning process rather
+than just content acquisition, customising lessons to support each student’s
+pace and progress.</p>
+<p>In language learning, our goal is to nurture confident and competent users
+of both English and the Mother Tongue Languages. In Mathematics and Science,
+we focus on developing students’ thinking skills and problem-solving abilities.</p>
+<p>Beyond the core subjects, Physical Education, Art and Music play a vital
+role in our holistic approach. These areas not only support physical development
+and creative expression, but also foster discipline, resilience and an
+appreciation for culture and movement.</p>
+<p>Together, these experiences equip our students with the skills and dispositions
+to thrive in school and beyond.</p>
+<p></p>
+<p></p>
 <p></p>
