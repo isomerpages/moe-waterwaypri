@@ -2,7 +2,7 @@ collections:
   nurturing-young-minds:
     output: true
     order:
-      - Language Arts.md
+      - English Language.md
       - Nurturing Young Minds.md
       - Mathematics.md
       - Science.md
