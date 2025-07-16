@@ -2,6 +2,7 @@ collections:
   nurturing-young-minds:
     output: true
     order:
+      - PE & Health Education.md
       - Nurturing Young Minds.md
       - English Language.md
       - Mathematics.md
