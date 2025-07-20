@@ -989,7 +989,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>MDM OW - GINA OW</strong> 
+<p><strong>MRS OW - GINA OW</strong> 
 <br><a href="mailto:gina_ow@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gina_ow@moe.edu.sg</a>
 </p>
 </td>
