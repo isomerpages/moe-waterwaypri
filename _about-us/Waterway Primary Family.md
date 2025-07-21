@@ -510,6 +510,19 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>TRANSIT</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>MRS JOLENE LOW WEI LING</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <h4>PRIMARY 2 TEACHERS</h4>
@@ -744,13 +757,13 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>MR CHAN - JOHN CHAN</strong>
-<br><a href="mailto:john_chan_hoe_chye@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">john_chan_hoe_chye@moe.edu.sg</a>
+<p><strong>MS MAHESWARI D/O KRISHNAN MURTHY</strong>
+<br><a href="mailto:maheswari_krishnan_murthy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">maheswari_krishnan_murthy@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>MS MAHESWARI D/O KRISHNAN MURTHY</strong>
-<br><a href="mailto:maheswari_krishnan_murthy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">maheswari_krishnan_murthy@moe.edu.sg</a>
+<p><strong>MR CHAN - JOHN CHAN</strong>
+<br><a href="mailto:john_chan_hoe_chye@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">john_chan_hoe_chye@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -834,13 +847,13 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>MDM CHUA YINGHAN, JOELLE</strong> 
-<br><a href="mailto:joelle_chuayinghan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">joelle_chuayinghan@moe.edu.sg</a>
+<p><strong>MS TAN SHI MIN</strong>
+<br><a href="mailto:tan_shi_min@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_shi_min@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>MS TAN SHI MIN</strong>
-<br><a href="mailto:tan_shi_min@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_shi_min@moe.edu.sg</a>
+<p><strong>MDM CHUA YINGHAN, JOELLE</strong> 
+<br><a href="mailto:joelle_chuayinghan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">joelle_chuayinghan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -976,7 +989,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>MDM OW - GINA OW</strong> 
+<p><strong>MRS OW - GINA OW</strong> 
 <br><a href="mailto:gina_ow@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gina_ow@moe.edu.sg</a>
 </p>
 </td>
