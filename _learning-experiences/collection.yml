@@ -2,10 +2,6 @@ collections:
   learning-experiences:
     output: true
     order:
-      - Nurturing Young Minds.md
-      - Homework Policy.md
-      - P3 to P6 Teaching & Learning and Assessment.md
-      - P1 & P2 Teaching & Learning and Assessment.md
       - Learning Experiences.md
       - English.md
       - Math.md
@@ -20,3 +16,7 @@ collections:
       - Overseas Immersion Programme.md
       - Eco Stewardship.md
       - Student Management.md
+      - Nurturing Young Minds.md
+      - P1 & P2 Teaching & Learning and Assessment.md
+      - P3 to P6 Teaching & Learning and Assessment.md
+      - Homework Policy.md
