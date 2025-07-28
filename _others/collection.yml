@@ -1,8 +1,7 @@
 collections:
-  nurturing-young-minds:
+  others:
     output: true
     order:
-      - Nurturing Young Minds.md
       - English Language.md
       - Mathematics.md
       - Science.md
@@ -11,6 +10,3 @@ collections:
       - PE & Health Education.md
       - Music.md
       - Art.md
-      - P1 & P2 Teaching & Learning and Assessment.md
-      - P3 to P6 Teaching & Learning and Assessment.md
-      - Homework Policy.md
