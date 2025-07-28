@@ -213,23 +213,23 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>MDM CLAIRE PANG</strong>
-<br>Level Head English Language
-<br><a href="mailto:Claire_PANG@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Claire_PANG@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><strong>MR ANG ZHENWEI SHAWN</strong> 
 <br>Level Head Math
 <br><a href="mailto:ang_zhenwei_shawn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ang_zhenwei_shawn@moe.edu.sg</a>
 </p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p><strong>MDM CHUA YINGHAN JOELLE</strong>
 <br>Level Head Chinese Language
 <br><a href="mailto:joelle_chuayinghan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">joelle_chuayinghan@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>MR MUHD MUKHLIS</strong> 
+<br>Subject Head Student Leadership Development
+<br><a href="muhammad_mukhlis_dzulfitri@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_mukhlis_dzulfitri@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -279,17 +279,6 @@ variant: tiptap
 <br>Subject Head Malay Language (INT)
 <br><a href="mailto:martini_mahmood@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">martini_mahmood@moe.edu.sg</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>MR MUHD MUKHLIS</strong> 
-<br>Subject Head Student Leadership Development
-<br><a href="muhammad_mukhlis_dzulfitri@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_mukhlis_dzulfitri@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
