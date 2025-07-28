@@ -1500,7 +1500,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>MS Amy MARISSA ELLYANA BINTE YAZRIN</strong>
+<p><strong>MS AMY MARISSA ELLYANA BINTE YAZRIN</strong>
 <br><a href="mailto:amy_marissa_ellyana_yazrin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">amy_marissa_ellyana_yazrin@moe.edu.sg</a>
 </p>
 </td>
