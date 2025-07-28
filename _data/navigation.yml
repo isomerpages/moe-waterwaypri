@@ -38,6 +38,12 @@ links:
         url: /music/
       - title: ICT
         url: /information-communications-technology/
+      - title: P1 & P2 Teaching & Learning
+        url: /p1-p2-teaching-learning-and-assessment/
+      - title: P3 to P6 Teaching & Learning
+        url: /p3-to-p6-teaching-learning-and-assessment/
+      - title: Homework Policy
+        url: /homework-policy/
       - title: Enrichment & Academic Support
         url: /enrichment-and-academic-support/
       - title: Overseas Immersion Programme
@@ -50,12 +56,6 @@ links:
         url: /learning-experiences/nurturing-young-minds
       - title: Building Upright Character
         url: /learning-experiences/building-upright-character
-      - title: P1 & P2 Teaching & Learning
-        url: /p1-p2-teaching-learning-and-assessment/
-      - title: P3 to P6 Teaching & Learning
-        url: /p3-to-p6-teaching-learning-and-assessment/
-      - title: Homework Policy
-        url: /homework-policy/
   - title: Distinctive Programmes
     url: /distinctive-programmes/
     sublinks:
