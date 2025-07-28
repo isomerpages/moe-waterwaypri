@@ -1,5 +1,5 @@
 collections:
-  nurturing-young-minds:
+  others:
     output: true
     order:
       - English Language.md
