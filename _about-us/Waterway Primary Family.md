@@ -1544,7 +1544,7 @@ variant: tiptap
 <p>Administration Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>MRS JOAN HOO</strong>
+<p><strong>MDM JOAN HOO</strong>
 </p>
 </td>
 </tr>
@@ -1559,10 +1559,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Administrative Executive (MK)</p>
+<p>Administrative Executive</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>MDM SERENE WU</strong>
+<p><strong>MDM SOPIAH</strong>
 </p>
 </td>
 </tr>
@@ -1571,7 +1571,7 @@ variant: tiptap
 <p>Administrative Executive (MK)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>MDM SOPIAH</strong>
+<p><strong>MDM SERENE WU</strong>
 </p>
 </td>
 </tr>
