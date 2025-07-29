@@ -1562,7 +1562,7 @@ variant: tiptap
 <p>Administrative Executive</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>MDM SOPIAH</strong>
+<p><strong>MDM SOPIAH BINTE MAHMUD</strong>
 </p>
 </td>
 </tr>
@@ -1571,7 +1571,7 @@ variant: tiptap
 <p>Administrative Executive (MK)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>MDM SERENE WU</strong>
+<p><strong>MDM SERENE WU MIAU LUANG</strong>
 </p>
 </td>
 </tr>
