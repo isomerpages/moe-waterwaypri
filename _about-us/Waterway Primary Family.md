@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/STAFF_8r_p2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/STAFF_FUN.jpg">
 </div>
 <h4>SCHOOL LEADERS</h4>
 <table style="minWidth: 50px">
@@ -1571,7 +1571,7 @@ variant: tiptap
 <p>Administrative Executive (MK)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>MDM SERENE WU MIAU LUANG</strong>
+<p><strong>MDM WU MIAU LUANG</strong>
 </p>
 </td>
 </tr>
@@ -1593,14 +1593,6 @@ variant: tiptap
 </p>
 </td>
 </tr>
-</tbody>
-</table>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
 <tr>
 <th rowspan="1" colspan="1">
 <p>OPERATIONAL</p>
@@ -1708,14 +1700,6 @@ variant: tiptap
 </p>
 </td>
 </tr>
-</tbody>
-</table>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
 <tr>
 <th rowspan="1" colspan="1">
 <p>ICT</p>
