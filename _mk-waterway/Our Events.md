@@ -37,7 +37,9 @@ which left everyone smiling and inspired to continue spreading kindness
 every day.</p>
 <p>Special shoutout to our K2 children who performed for Harmony Fest!’25
 in celebration of Racial &amp; Religious Harmony Month!</p>
-<p></p>
+<div class="iframe-wrapper">
+<iframe height="389" width="640" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRQlbNYe8IrFd_trLMTiDsLgYHDQXoTAsiOPmD3RB9xjfXwqIjGYiWUPoqfBdwouA/pubembed?start=true&amp;loop=true&amp;delayms=15000"></iframe>
+</div>
 <h4>National Day 2025</h4>
 <p>Our MK children celebrated National Day in school dressed in vibrant red
 and white. They learnt about Singapore’s journey of progress and the significance
