@@ -38,6 +38,10 @@ every day.</p>
 <p>Special shoutout to our K2 children who performed for Harmony Fest!’25
 in celebration of Racial &amp; Religious Harmony Month!</p>
 <div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/KhVtdaeMl7g?si=OCMlnvRr1Bq4Q1tO"></iframe>
+</div>
+<p></p>
+<div class="iframe-wrapper">
 <iframe height="389" width="640" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRQlbNYe8IrFd_trLMTiDsLgYHDQXoTAsiOPmD3RB9xjfXwqIjGYiWUPoqfBdwouA/pubembed?start=true&amp;loop=true&amp;delayms=15000"></iframe>
 </div>
 <h4>National Day 2025</h4>
