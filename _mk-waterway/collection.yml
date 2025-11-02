@@ -2,7 +2,6 @@ collections:
   mk-waterway:
     output: true
     order:
-      - Our Events.md
       - MOE Kindergarten @ Waterway.md
       - Our Team.md
       - Kindergarten Care (Kcare).md
@@ -13,6 +12,7 @@ collections:
       - Our Curriculum & Programmes/Weeks of Wonder (WOW) Project.md
       - Our Learning Environment.md
       - Our Early Year Centre (EYC) Partners.md
+      - Our Events.md
       - What Our Parents and Children Say.md
       - Collaborations.md
       - Fees and Uniform.md
