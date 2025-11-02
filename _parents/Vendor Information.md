@@ -10,7 +10,7 @@ variant: markdown
 
 ## Vendor Information
 
-
+![](/images/Screenshot_2025_11_03_025030.png)
 [Schedule for End of Year Sales, Collection of Book and Uniforms.pdf](/files/Schedule_for_EOY_sales_collection_of_books_and_uniforms__Waterway_Primary_School_.pdf)
 
 #### School Bookshop
