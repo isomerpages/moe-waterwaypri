@@ -42,9 +42,7 @@ to primary school.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/With_Families_4___2025.jpg">
-</div>
+<p></p>
 </td>
 </tr>
 </tbody>
