@@ -45,7 +45,9 @@ of SG60, singing the National Anthem proudly. We then headed to Waterway
 Primary School’s hall for a joyful combined celebration with the primary
 school students. We danced, sang, and waved our flags with pride! Happy
 birthday, Singapore!</p>
-<p></p>
+<div class="iframe-wrapper">
+<iframe height="389" width="640" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRdgwfk2qbnwwClb2nm1Jeorh2hvk0x-shwfnox2qHD7aPNqfQb9OsgYadq5WlaJg/pubembed?start=true&amp;loop=true&amp;delayms=15000"></iframe>
+</div>
 <h4>Children’s Day 2025</h4>
 <p>Happy Children’s Day! Our children had a blast with a special 2-day celebration
 where there’s balloon sculpting, bouncy castles, roving art trucks, magic
@@ -53,6 +55,8 @@ show, movies and popcorn. The children came dressed up in their favourite
 outfits and ended the celebration with special presents and big smiles
 all around. A huge thank you to our wonderful parent volunteers who joined
 in and became balloon artists for the day!</p>
-<p></p>
+<div class="iframe-wrapper">
+<iframe height="389" width="640" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQCjqs7Okpcx1hJwVv18QQrQUTVjs695pgk5jw2BvE_s7dDGYEXiFX9J4SwVxM5yA/pubembed?start=true&amp;loop=true&amp;delayms=15000"></iframe>
+</div>
 <p></p>
 <p></p>
