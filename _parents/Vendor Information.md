@@ -10,6 +10,9 @@ variant: markdown
 
 ## Vendor Information
 
+
+[Schedule for End of Year Sales, Collection of Book and Uniforms.pdf](/files/Schedule_for_EOY_sales_collection_of_books_and_uniforms__Waterway_Primary_School_.pdf)
+
 #### School Bookshop
 **BL Marketing Pte Ltd (Main Office)**  
 Tel: 62848785 <br>
