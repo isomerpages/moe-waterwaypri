@@ -16,7 +16,7 @@ up as our favourite characters from Eric Carle’s books! It was dazzling
 to witness the creativity of both parents and children in crafting their
 outfits.</p>
 <div class="iframe-wrapper">
-<iframe height="389" width="640" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTpm8KTwSUwRpz4RjeLs6dvX-ltfXYpYNKIEqVwXk1WuBM9sws1cnuHlXifN42E7Slqi3KJq_aIW5hg/pubembed?start=true&amp;loop=true&amp;delayms=15000"></iframe>
+<iframe height="749" width="1280" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTpm8KTwSUwRpz4RjeLs6dvX-ltfXYpYNKIEqVwXk1WuBM9sws1cnuHlXifN42E7Slqi3KJq_aIW5hg/pubembed?start=true&amp;loop=true&amp;delayms=15000"></iframe>
 </div>
 <h4>Kindness Week &amp; Racial Harmony Day 2025</h4>
 <p>We began Kindness Week with a Mass Assembly, where children were introduced
