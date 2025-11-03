@@ -16,7 +16,7 @@ up as our favourite characters from Eric Carle’s books! It was dazzling
 to witness the creativity of both parents and children in crafting their
 outfits.</p>
 <div class="iframe-wrapper">
-<iframe height="749" width="1280" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTpm8KTwSUwRpz4RjeLs6dvX-ltfXYpYNKIEqVwXk1WuBM9sws1cnuHlXifN42E7Slqi3KJq_aIW5hg/pubembed?start=true&amp;loop=true&amp;delayms=15000"></iframe>
+<iframe height="500" width="900" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTpm8KTwSUwRpz4RjeLs6dvX-ltfXYpYNKIEqVwXk1WuBM9sws1cnuHlXifN42E7Slqi3KJq_aIW5hg/pubembed?start=true&amp;loop=true&amp;delayms=15000"></iframe>
 </div>
 <h4>Kindness Week &amp; Racial Harmony Day 2025</h4>
 <p>We began Kindness Week with a Mass Assembly, where children were introduced
@@ -38,11 +38,11 @@ every day.</p>
 <p>Special shoutout to our K2 children who performed for Harmony Fest!’25
 in celebration of Racial &amp; Religious Harmony Month!</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/yYfH4Trmolo?si=_urcCp8SnoOAkP3j"></iframe>
+<iframe height="500" width="900" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/yYfH4Trmolo?si=_urcCp8SnoOAkP3j"></iframe>
 </div>
 <p></p>
 <div class="iframe-wrapper">
-<iframe height="389" width="640" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRQlbNYe8IrFd_trLMTiDsLgYHDQXoTAsiOPmD3RB9xjfXwqIjGYiWUPoqfBdwouA/pubembed?start=true&amp;loop=true&amp;delayms=15000"></iframe>
+<iframe height="500" width="900" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRQlbNYe8IrFd_trLMTiDsLgYHDQXoTAsiOPmD3RB9xjfXwqIjGYiWUPoqfBdwouA/pubembed?start=true&amp;loop=true&amp;delayms=15000"></iframe>
 </div>
 <h4>National Day 2025</h4>
 <p>Our MK children celebrated National Day in school dressed in vibrant red
@@ -52,7 +52,7 @@ Primary School’s hall for a joyful combined celebration with the primary
 school students. We danced, sang, and waved our flags with pride! Happy
 birthday, Singapore!</p>
 <div class="iframe-wrapper">
-<iframe height="389" width="640" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRdgwfk2qbnwwClb2nm1Jeorh2hvk0x-shwfnox2qHD7aPNqfQb9OsgYadq5WlaJg/pubembed?start=true&amp;loop=true&amp;delayms=15000"></iframe>
+<iframe height="500" width="900" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRdgwfk2qbnwwClb2nm1Jeorh2hvk0x-shwfnox2qHD7aPNqfQb9OsgYadq5WlaJg/pubembed?start=true&amp;loop=true&amp;delayms=15000"></iframe>
 </div>
 <h4>Children’s Day 2025</h4>
 <p>Happy Children’s Day! Our children had a blast with a special 2-day celebration
@@ -62,7 +62,7 @@ outfits and ended the celebration with special presents and big smiles
 all around. A huge thank you to our wonderful parent volunteers who joined
 in and became balloon artists for the day!</p>
 <div class="iframe-wrapper">
-<iframe height="389" width="640" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQCjqs7Okpcx1hJwVv18QQrQUTVjs695pgk5jw2BvE_s7dDGYEXiFX9J4SwVxM5yA/pubembed?start=true&amp;loop=true&amp;delayms=15000"></iframe>
+<iframe height="500" width="900" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQCjqs7Okpcx1hJwVv18QQrQUTVjs695pgk5jw2BvE_s7dDGYEXiFX9J4SwVxM5yA/pubembed?start=true&amp;loop=true&amp;delayms=15000"></iframe>
 </div>
 <p></p>
 <p></p>
