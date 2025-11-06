@@ -4,7 +4,7 @@ permalink: /2025bookuni/
 variant: markdown
 description: ""
 ---
-![](/images/Booklist_and_Uniform_Schedule.png)
+![](/images/Screenshot_2025_11_03_025030.png)
 Shanghai School Uniforms website: [https://shanghai-uniforms.com ](https://shanghai-uniforms.com/ )<br>BL Marketing website: [https://www.blmarketing.sg ](https://www.blmarketing.sg )
 
 #### School Booklist<br>
@@ -38,9 +38,3 @@ Shanghai School Uniforms website: [https://shanghai-uniforms.com ](https://shang
 [P6 3S1FMT Booklist](/files/2025%20Booklist/Booklist_2025_Waterway_P6__3S1FMT_.pdf)<br>
 [P6 3S1FMA Booklist](/files/2025%20Booklist/Booklist_2025_Waterway_P6__3S1FMA__pdf.pdf)<br>
 [P6 2S, 2FMA, FMT Booklist](/files/2025%20Booklist/Booklist_2025_Waterway_P6__2S__2FMA_FMT__pdf.pdf)
-
-
-
-
-
-
