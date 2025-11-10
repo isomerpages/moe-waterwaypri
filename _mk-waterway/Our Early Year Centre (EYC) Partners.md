@@ -7,7 +7,7 @@ description: ""
 <h4><strong>MOE Kindergarten – Early Years Centre (EYC) Partnership</strong></h4>
 <p><strong>Overview</strong>
 <br>Under this partnership, your child will attend an Early Years Centre (EYC)
-operated by&nbsp;<a href="https://www.pcf.org.sg/sparkletots/" rel="noopener noreferrer nofollow" target="_blank">PCF</a>&nbsp;and&nbsp;<a href="https://www.myfirstskool.com/early-years-centre" rel="noopener noreferrer nofollow" target="_blank">MFS</a>&nbsp;when
+operated by&nbsp;<a href="https://www.pcf.org.sg/sparkletots/" rel="noopener noreferrer nofollow" target="_blank">PCF</a>&nbsp;and&nbsp;<a href="https://www.myfirstskool.com/our-centres/early-years-centre/" rel="noopener noreferrer nofollow" target="_blank">MFS</a>&nbsp;when
 they are 2 months to 4 years old.</p>
 <p>Eligible children in the EYCs are guaranteed a place at a partner MOE
 Kindergarten (MK). You can choose to enrol at the partner MK for their
