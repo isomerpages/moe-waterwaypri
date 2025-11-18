@@ -1,9 +1,12 @@
 ---
 title: 2026 P1 Orientation
 permalink: /2026p1orientation/
-variant: markdown
+variant: tiptap
 description: ""
 ---
-Click the following to download and view the presentation slides.
-
-[06 November 2024 - P1 Orientation Presentation Slides](/files/Upload_to_Website_P1_Orientation_for_2025_cohort__Consolidated_Slides_.pdf)
+<p>Click the following to download and view the presentation slides.</p>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSAZeZ8s-0QaWy5I8dNYlwcQRoGaIAO0bYHbHpmLM4KFVrSu66vrrO1XwF_ZmgDNQ/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<p></p>
