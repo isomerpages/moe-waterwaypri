@@ -27,8 +27,9 @@ Shanghai School Uniforms website: [https://shanghai-uniforms.com ](https://shang
 ##### Primary Five
 [P5 Booklist](/files/2026%20Booklist/Booklist_2026_WAP_P5.pdf)
 <br>
-[P5 Foundation Booklist](/files/2026%20Booklist/Booklist_2026_WAP_P5_Foundation.pdf)
+
 <br>
+
 [P5 3S1FMT Booklist](/files/2026%20Booklist/Booklist_2026_WAP_P5__3S1FMT_.pdf)
 <br>
 [P5 3S1FMA Booklist](/files/2026%20Booklist/Booklist_2026_WAP_P5__3S1FMA_.pdf)
