@@ -1,13 +1,13 @@
 ---
-title: 2026 Booklist & Uniform Sales Date
-permalink: /2026bookuni/
+title: 2025 Books & Uniform Sales Date
+permalink: /2025bookuni/
 variant: markdown
 description: ""
 ---
 ![](/images/Screenshot_2025_11_03_025030.png)
 Shanghai School Uniforms website: [https://shanghai-uniforms.com ](https://shanghai-uniforms.com/ )<br>BL Marketing website: [https://www.blmarketing.sg ](https://www.blmarketing.sg )
 
-#### School Booklist<br>
+#### 2026 School Booklist<br>
 ##### Primary One
 [P1 Booklist](/files/2026%20Booklist/Booklist_2026_WAP_P1.pdf)
 
