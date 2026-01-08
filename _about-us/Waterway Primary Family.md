@@ -138,7 +138,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>MDM NAZREENA</strong>
-<br>Year Head (P5/P6) (INT)
+<br>Year Head (P5/P6)
 <br><a href="mailto:nazreena_abdul_rahman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nazreena_abdul_rahman@moe.edu.sg</a>
 </p>
 </td>
@@ -363,7 +363,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>MDM CALYNN TEH</strong> 
+<p><strong>MRS CALYNN TEH</strong> 
 <br>Senior Teacher CCE (int)
 <br><a href="mailto:calynn_chow_wun_yen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">calynn_chow_wun_yen@moe.edu.sg</a>
 </p>
