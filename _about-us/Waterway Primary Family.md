@@ -830,7 +830,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>MDM HO WOON LEE ANGIE</strong>
+<p><strong>MRS HO WOON LEE ANGIE</strong>
 <br><a href="mailto:ho_woon_lee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ho_woon_lee@moe.edu.sg</a>
 </p>
 </td>
@@ -1420,7 +1420,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>MS ONG MING WEI RACHEL</strong> 
+<p><strong>MRS WEE - ONG MING WEI RACHEL</strong> 
 <br>Music
 <br><a href="mailto:ong_ming_wei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_ming_wei@moe.edu.sg</a>
 </p>
@@ -1434,7 +1434,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>MS HO YONG YING</strong> 
+<p><strong>MRS HO YONG YING</strong> 
 <br>PE Teacher
 <br><a href="mailto:ho_yong_ying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ho_yong_ying@moe.edu.sg</a>
 </p>
@@ -1470,7 +1470,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>MR MOHD IMRAN</strong>  <strong>BIN FAIZAL</strong>
+<p><strong>MR MOHAMMED IMRAN</strong>  <strong>BIN FAIZAL</strong>
 <br>PE Teacher
 <br><a href="mailto:mohammed_imran_faizal@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohammed_imran_faizal@moe.edu.sg</a>
 </p>
@@ -1498,7 +1498,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>MDM TOH LING HUI AUDREY</strong>
+<p><strong>MRS WONG - TOH LING HUI AUDREY</strong>
 <br><a href="mailto:toh_ling_hui_audrey@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">toh_ling_hui_audrey@moe.edu.sg</a>
 </p>
 </td>
@@ -1517,7 +1517,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>MRS NG - ANGIE HO WOON LEE</strong>
+<p><strong>MRS HO WOON LEE ANGIE</strong>
 <br><a href="mailto:ho_woon_lee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ho_woon_lee@moe.edu.sg</a>
 </p>
 </td>
