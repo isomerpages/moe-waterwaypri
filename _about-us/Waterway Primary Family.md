@@ -76,7 +76,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>MR NG BAN HOCK</strong> 
-<br>HOD Student Management
+<br>HOD CCE
 <br><a href="mailto:ng_ban_hock@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_ban_hock@moe.edu.sg</a>
 </p>
 </td>
@@ -89,29 +89,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>MS NEO CHAI LEE</strong> 
-<br>HOD CCE/NE &amp; SS
-<br><a href="mailto:neo_chai_lee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">neo_chai_lee@moe.edu.sg</a>
+<p><strong>MR JASON YEW</strong>
+<br>HOD I&amp;E
+<br><a href="mailto:yew_kwok_ming@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yew_kwok_ming@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>MS FOO SZE LING</strong>
 <br>HOD PE
 <br><a href="mailto:foo_sze_ling@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">foo_sze_ling@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>MR LIM TICK KIT</strong> 
-<br>HOD ICT
-<br><a href="mailto:lim_tick_kit@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_tick_kit@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>DR IRWAN SHAH BIN SHAHRUDDIN</strong>
-<br>HOD English (INT)
-<br><a href="mailto:Irwan_shah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Irwan_shah@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -157,44 +143,44 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>MDM FOO WAN QING</strong> 
-<br>Assistant Year Head (P1)
-<br><a href="mailto:foo_wan_qing@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">foo_wan_qing@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>MS HUMAIRAH - NUR HUMAIRAH BINTE HASIM</strong>
-<br>Assistant Year Head (P2) (INT)
-<br><a href="mailto:nur_humairah_hasim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_humairah_hasim@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>MR MUHAMMAD AIDIL BIN ISHAK</strong> 
-<br>Assistant Year Head (P3) (INT)
-<br><a href="mailto:muhammad_aidil_ishak@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_aidil_ishak@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>MS CHEW YANN ZANDRA</strong>
-<br>Assistant Year Head (P4) (INT)
-<br><a href="mailto:chew_yann_zandra@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chew_yann_zandra@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><strong>MS KANG KAI JUN</strong>
-<br>Assistant Year Head (P5)
+<br>Assistant Year Head (P1)
 <br><a href="mailto:kang_kai_jun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kang_kai_jun@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>MDM FOO WAN QING</strong> 
+<br>Assistant Year Head (P2)
+<br><a href="mailto:foo_wan_qing@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">foo_wan_qing@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>MS HUMAIRAH - NUR HUMAIRAH BINTE HASIM</strong>
+<br>Assistant Year Head (P3)
+<br><a href="mailto:nur_humairah_hasim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_humairah_hasim@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>MS TAN PEI WEN</strong>
+<br>Assistant Year Head (P4) (int)
+<br><a href="mailto:tan_pei_wen_b@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_pei_wen_b@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>MDM CHAN PEI LING</strong>
+<br>Assistant Year Head (P5) (Int)
+<br><a href="mailto:chan_pei_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chan_pei_ling@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>MS JULIANA BINTE ABDULLAH</strong>
-<br>Assistant Year Head (P6) (INT)
+<br>Assistant Year Head (P6)
 <br><a href="mailto:juliana_abdullah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">juliana_abdullah@moe.edu.sg</a>
 </p>
 </td>
@@ -227,6 +213,20 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>MRS AUDREY WONG</strong>
+<br>Level Head English Language (int)
+<br><a href="mailto:toh_ling_hui_audrey@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">toh_ling_hui_audrey@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>MS SUVITA D/O THANAGOPALASAMY</strong>
+<br>Subject Head Partnership &amp; Engagement (int)
+<br><a href="mailto:suvita_thanagopalasamy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">suvita_thanagopalasamy@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>MR MUHD MUKHLIS</strong> 
 <br>Subject Head Student Leadership Development
 <br><a href="muhammad_mukhlis_dzulfitri@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_mukhlis_dzulfitri@moe.edu.sg</a>
@@ -247,9 +247,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>MS CHERYL KHOO</strong> 
-<br>Subject Head Partnership &amp; Engagement
-<br><a href="khoo_wan_shir_cheryl@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">khoo_wan_shir_cheryl@moe.edu.sg</a>
+<p><strong>MS REMEDIOS SARAH MEGAN</strong>
+<br>Subject Head ICT
+<br><a href="mailto:remedios_sarah_megan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">remedios_sarah_megan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -261,9 +261,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>MR YEW</strong>  <strong>KWOK MING JASON</strong>
-<br>Subject Head I&amp;E
-<br><a href="yew_kwok_ming@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yew_kwok_ming@moe.edu.sg</a>
+<p><strong>MS CHEW YANN ZANDRA</strong>
+<br>Subject Head Student Management (int)
+<br><a href="mailto:chew_yann_zandra@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chew_yann_zandra@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -359,6 +359,17 @@ variant: tiptap
 <br>Senior Teacher Malay Language (INT)
 <br><a href="mailto:asiyah_sheik_mohamed_ism@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">asiyah_sheik_mohamed_ism@moe.edu.sg</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>MDM CALYNN CHOW</strong> 
+<br>Senior Teacher CCE (int)
+<br><a href="mailto:calynn_chow_wun_yen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">calynn_chow_wun_yen@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -1513,10 +1524,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>MS OH CHING FEN</strong>
-<br>School Counsellor
-<br><a href="mailto:oh_ching_fen_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">oh_ching_fen_a@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
