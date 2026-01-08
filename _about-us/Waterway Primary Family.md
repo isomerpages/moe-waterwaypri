@@ -1172,15 +1172,15 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>MS RUTH SEAH XIANG RU</strong> 
-<br><a href="mailto:seah_xiang_ru_ruth@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">seah_xiang_ru_ruth@moe.edu.sg</a>
+<p><strong>MRS WANG YUANQING</strong>
+<br><a href="mailto:wang_yuanqing@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wang_yuanqing@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>MR PEH KWANG ENG</strong> 
-<br><a href="mailto:peh_kwang_eng_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">peh_kwang_eng_a@moe.edu.sg</a>
+<p><strong>MRS QIU XUE</strong>
+<br><a href="mailto:qiu_xue@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">qiu_xue@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1191,23 +1191,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>MRS TAN WAN JOO (CHEN WANRU)</strong>
 <br><a href="mailto:tan_wan_joo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_wan_joo@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>MS LYU YIHAN</strong>
-<br><a href="mailto:lyu_yihan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lyu_yihan@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>MRS WANG YUANQING</strong>
-<br><a href="mailto:wang_yuanqing@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wang_yuanqing@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>MRS QIU XUE</strong>
-<br><a href="mailto:qiu_xue@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">qiu_xue@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1328,10 +1311,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>MS NUR ADILAH BINTE AZHAR</strong>
-<br>Art &amp; Craft
-<br><a href="mailto:nur_adilah_azhar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_adilah_azhar@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -1451,7 +1431,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>MS NURUL FADZILLAH BINTE MOHAMMED FADZIL <a href="mailto:nurul_fadzillah_mohammed_fadzil@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nurul_fadzillah_mohammed_fadzil@moe.edu.sg</a></strong>
+<p><strong>MS NURUL FADZILLAH BINTE MOHAMMED FADZIL </strong><a href="mailto:nurul_fadzillah_mohammed_fadzil@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nurul_fadzillah_mohammed_fadzil@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
