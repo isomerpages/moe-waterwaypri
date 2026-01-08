@@ -363,7 +363,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>MDM CALYNN CHOW</strong> 
+<p><strong>MDM CALYNN TEH</strong> 
 <br>Senior Teacher CCE (int)
 <br><a href="mailto:calynn_chow_wun_yen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">calynn_chow_wun_yen@moe.edu.sg</a>
 </p>
@@ -432,17 +432,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>PRIMARY 1D</strong>
+<p><strong>PRIMARY 1 RESILIENCE</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>MRS CALYNN TEH</strong>
-<br><a href="mailto:calynn_chow_wun_yen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">calynn_chow_wun_yen@moe.edu.sg</a>
+<p><strong>MS REMEDIOS SARAH MEGAN </strong>
+<br><a href="mailto:remedios_sarah_megan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">remedios_sarah_megan@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>MR HAZMIE - MOHAMMAD HAZMIE BIN JA'AFAR</strong>
-<br><a href="mailto:mohammad_hazmie_jaafar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohammad_hazmie_jaafar@moe.edu.sg</a>
+<p><strong>MR TAN WEIQIANG</strong>
+<br><a href="mailto:tan_weiqiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_weiqiang@moe.edu.sg</a>
 </p>
 </td>
 </tr>
