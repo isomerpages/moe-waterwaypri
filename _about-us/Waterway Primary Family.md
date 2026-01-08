@@ -1505,6 +1505,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>MS JASMINE TAN WEI QI</strong>
+<br>SEN Officer
 <br><a href="mailto:jasmine_tan_wei_qi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jasmine_tan_wei_qi@moe.edu.sg</a>
 </p>
 </td>
@@ -1512,6 +1513,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>MS AMY MARISSA ELLYANA BINTE YAZRIN</strong>
+<br>SEN Officer
 <br><a href="mailto:amy_marissa_ellyana_yazrin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">amy_marissa_ellyana_yazrin@moe.edu.sg</a>
 </p>
 </td>
@@ -1524,10 +1526,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>MDM LIM GUAT ENG JANIE</strong>
+<br>School Counsellor
+<br><a href="mailto:lim_guat_eng_janie_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_guat_eng_janie_a@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>MS KANCHANA D/O KALAMOGAN</strong>
+<br>School Counsellor
+<br><a href="mailto:kanchana_kalamogan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kanchana_kalamogan@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
@@ -1598,6 +1606,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>MDM SITI NUR HAJAR</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Corporate Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>MDM NG LI QING</strong>
 </p>
 </td>
 </tr>
@@ -1740,15 +1757,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>MR IQBAL</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Desktop Engineer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>MR GABRIEL</strong>
 </p>
 </td>
 </tr>
