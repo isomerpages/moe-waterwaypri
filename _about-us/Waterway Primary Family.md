@@ -416,17 +416,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>PRIMARY 1C</strong>
+<p><strong>PRIMARY 1 INTEGRITY</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>MS MEGHANA PRASAD</strong> 
-<br><a href="mailto:meghana_prasad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">meghana_prasad@moe.edu.sg</a>
+<p><strong>MS KANG KAI JUN</strong> 
+<br><a href="mailto:kang_kai_jun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kang_kai_jun@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>MDM LEE SING LAN SHARON</strong>
-<br><a href="mailto:lee_sing_lan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_sing_lan@moe.edu.sg</a>
+<p><strong>MRS RAJESWARY D/O RAMAKRISHNA</strong>
+<br><a href="mailto:rajeswary_ramakrishna@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rajeswary_ramakrishna@moe.edu.sg</a>
 </p>
 </td>
 </tr>
