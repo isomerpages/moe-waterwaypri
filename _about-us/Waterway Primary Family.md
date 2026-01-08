@@ -81,7 +81,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>MRS GINA OW</strong> 
+<p><strong>MRS GINA TAN</strong> 
 <br>HOD Mother Tongue Language
 <br><a href="mailto:gina_ow@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gina_ow@moe.edu.sg</a>
 </p>
@@ -89,13 +89,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>MR JASON YEW</strong>
+<p><strong>MR YEW KWOK MING JASON</strong>
 <br>HOD I&amp;E
 <br><a href="mailto:yew_kwok_ming@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yew_kwok_ming@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>MS FOO SZE LING</strong>
+<p><strong>MRS FOO SZE LING</strong>
 <br>HOD PE
 <br><a href="mailto:foo_sze_ling@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">foo_sze_ling@moe.edu.sg</a>
 </p>
@@ -157,7 +157,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>MS HUMAIRAH - NUR HUMAIRAH BINTE HASIM</strong>
+<p><strong>MS NUR HUMAIRAH BINTE HASIM</strong>
 <br>Assistant Year Head (P3)
 <br><a href="mailto:nur_humairah_hasim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_humairah_hasim@moe.edu.sg</a>
 </p>
@@ -199,7 +199,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>MR ANG ZHENWEI SHAWN</strong> 
+<p><strong>MR SHAWN ANG ZHENWEI</strong> 
 <br>Level Head Math
 <br><a href="mailto:ang_zhenwei_shawn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ang_zhenwei_shawn@moe.edu.sg</a>
 </p>
@@ -227,7 +227,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>MR MUHD MUKHLIS</strong> 
+<p><strong>MR MUHAMMAD MUKHLIS</strong> 
 <br>Subject Head Student Leadership Development
 <br><a href="muhammad_mukhlis_dzulfitri@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_mukhlis_dzulfitri@moe.edu.sg</a>
 </p>
@@ -292,9 +292,9 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>MRS RAEBURN-SIM CHEY HOONG</strong> 
-<br>Lead Teacher Science
-<br><a href="mailto:raeburn-sim_chey_hoong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">raeburn-sim_chey_hoong@moe.edu.sg</a>
+<p><strong>MRS CALYNN TEH</strong> 
+<br>Senior Teacher CCE (int)
+<br><a href="mailto:calynn_chow_wun_yen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">calynn_chow_wun_yen@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -359,17 +359,6 @@ variant: tiptap
 <br>Senior Teacher Malay Language (INT)
 <br><a href="mailto:asiyah_sheik_mohamed_ism@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">asiyah_sheik_mohamed_ism@moe.edu.sg</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>MRS CALYNN TEH</strong> 
-<br>Senior Teacher CCE (int)
-<br><a href="mailto:calynn_chow_wun_yen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">calynn_chow_wun_yen@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
