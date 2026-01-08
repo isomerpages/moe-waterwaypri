@@ -520,7 +520,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>PRIMARY 2A</strong>
+<p><strong>PRIMARY 2 CARE</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -536,7 +536,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>PRIMARY 2B</strong>
+<p><strong>PRIMARY 2 EMPATHY</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -552,7 +552,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>PRIMARY 2C</strong>
+<p><strong>PRIMARY 2 INTEGRITY</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -568,7 +568,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>PRIMARY 2D</strong>
+<p><strong>PRIMARY 2 RESILIENCE</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -584,7 +584,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>PRIMARY 2E</strong>
+<p><strong>PRIMARY 2 RESPECT</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -600,7 +600,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>PRIMARY 2F</strong>
+<p><strong>PRIMARY 2 RESPONSIBILITY</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -616,7 +616,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>PRIMARY 2G</strong>
+<p><strong>PRIMARY 2 SELF DISCIPLINE</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -632,7 +632,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>PRIMARY 2H</strong>
+<p><strong>PRIMARY 2 HARMONY</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -643,22 +643,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>MDM ASIYAH BINTE SHEIK MOHAMED ISMAIL</strong> 
 <br><a href="mailto:asiyah_sheik_mohamed_ism@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">asiyah_sheik_mohamed_ism@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>PRIMARY 2I</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>MS YEO IVY</strong> 
-<br><a href="mailto:yeo_ivy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_ivy@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>MRS ESTHER CHENG</strong>
-<br><a href="mailto:ng_may_ling_esther@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_may_ling_esther@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -674,7 +658,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>PRIMARY 3A</strong>
+<p><strong>PRIMARY 3 CARE</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -690,7 +674,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>PRIMARY 3B</strong>
+<p><strong>PRIMARY 3 EMPATHY</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -706,7 +690,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>PRIMARY 3C</strong>
+<p><strong>PRIMARY 3 INTEGRITY</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -722,7 +706,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>PRIMARY 3D</strong>
+<p><strong>PRIMARY 3 RESILIENCE</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -738,7 +722,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>PRIMARY 3E</strong>
+<p><strong>PRIMARY 3 RESPECT</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -754,7 +738,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>PRIMARY 3F</strong>
+<p><strong>PRIMARY 3 RESPONSIBILITY</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -770,7 +754,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>PRIMARY 3G</strong>
+<p><strong>PRIMARY 3 SELF DISCIPLINE</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -796,7 +780,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>PRIMARY 4A</strong>
+<p><strong>PRIMARY 4 CARE</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -812,7 +796,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>PRIMARY 4B</strong>
+<p><strong>PRIMARY 4 EMPATHY</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -828,7 +812,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>PRIMARY 4C</strong>
+<p><strong>PRIMARY 4 INTEGRITY</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -844,7 +828,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>PRIMARY 4D</strong>
+<p><strong>PRIMARY 4 RESILIENCE</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -860,7 +844,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>PRIMARY 4E</strong>
+<p><strong>PRIMARY 4 RESPECT</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -876,7 +860,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>PRIMARY 4F</strong>
+<p><strong>PRIMARY 4 RESPONSIBILITY</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -891,7 +875,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>PRIMARY 4G</strong>
+<p><strong>PRIMARY 4 SELF DISCIPLINE</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -917,7 +901,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>PRIMARY 5A</strong>
+<p><strong>PRIMARY 5 CARE</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -933,7 +917,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>PRIMARY 5B</strong>
+<p><strong>PRIMARY 5 EMPATHY</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -949,7 +933,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>PRIMARY 5C</strong>
+<p><strong>PRIMARY 5 INTEGRITY</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -965,7 +949,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>PRIMARY 5D</strong>
+<p><strong>PRIMARY 5 RESILIENCE</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -981,7 +965,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>PRIMARY 5E</strong>
+<p><strong>PRIMARY 5 RESPECT</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -997,7 +981,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>PRIMARY 5F</strong>
+<p><strong>PRIMARY 5 RESPONSIBILITY</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1013,7 +997,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>PRIMARY 5G</strong>
+<p><strong>PRIMARY 5 SELF DISCIPLINE</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1040,7 +1024,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>PRIMARY 6A</strong>
+<p><strong>PRIMARY 6 CARE</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1056,7 +1040,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>PRIMARY 6B</strong>
+<p><strong>PRIMARY 6 EMPATHY</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1072,7 +1056,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>PRIMARY 6C</strong>
+<p><strong>PRIMARY 6 INTEGRITY</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1088,7 +1072,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>PRIMARY 6D</strong>
+<p><strong>PRIMARY 6 RESILIENCE</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1104,7 +1088,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>PRIMARY 6E</strong>
+<p><strong>PRIMARY 6 RESPECT</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1120,7 +1104,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>PRIMARY 6F</strong>
+<p><strong>PRIMARY 6 RESPONSIBILITY</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1136,7 +1120,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>PRIMARY 6G</strong>
+<p><strong>PRIMARY 6 SELF DISCIPLINE</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
