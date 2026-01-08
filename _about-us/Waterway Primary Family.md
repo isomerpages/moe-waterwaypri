@@ -384,33 +384,33 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>PRIMARY 1A</strong>
+<p><strong>PRIMARY 1 CARE</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>MS ONG FONG YAN CLARA</strong> 
-<br><a href="mailto:ong_fong_yan_clara@moe.edu.sg" rel="noopener nofollow" target="_blank">ong_fong_yan_clara@moe.edu.sg</a>
+<p><strong>MRS NG - NEO PO TIN SERENE</strong> 
+<br><a href="mailto:neo_po_tin_serene@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>neo_po_tin_serene@moe.edu.sg</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>MRS TAN WAN JOO</strong> 
-<br><a href="mailto:tan_wan_joo@moe.edu.sg" rel="noopener nofollow" target="_blank">tan_wan_joo@moe.edu.sg</a>
+<p><strong>MRS WEE - RACHEL ONG MING WEI</strong>
+<br><a href="mailto:ong_ming_wei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_ming_wei@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>PRIMARY 1B</strong>
+<p><strong>PRIMARY 1 EMPATHY</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>MDM FOO WAN QING</strong>
-<br><a href="mailto:foo_wan_qing@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">foo_wan_qing@moe.edu.sg</a>
+<p><strong>MR MUHAMMAD AIDIL BIN ISHAK </strong>
+<br><a href="mailto:muhammad_aidil_ishak@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_aidil_ishak@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>MDM NOOR HIDAYAH BINTE NOORDIN</strong>
-<br><a href="mailto:noor_hidayah_noordin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">noor_hidayah_noordin@moe.edu.sg</a>
+<p><strong>MS TEOW WEN YAN</strong>
+<br><a href="mailto:teow_wen_yan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teow_wen_yan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
