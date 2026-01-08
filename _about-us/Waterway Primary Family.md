@@ -753,7 +753,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>MR WANG CHOON KIAT</strong> 
-<br><a href="mailto:wang_choon_kiat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wang_choon_kiat@moe.edu.sg</a> 
+<br><a href="mailto:wang_choon_kiat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wang_choon_kiat@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
