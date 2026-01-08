@@ -608,7 +608,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>MRS YONG -  TAN MEO CHER</strong>
+<p><strong>MRS YONG - TAN MEO CHER</strong>
 <br><a href="mailto:tan_meo_cher@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_meo_cher@moe.edu.sg</a>
 </p>
 </td>
@@ -627,7 +627,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>MR MUHAMMAD MUKHLIS DZULFITRI BIN DZULKIFLI </strong> 
+<p><strong>MR MUHAMMAD MUKHLIS DZULFITRI BIN DZULKIFLI </strong>
 <br><a href="mailto:muhammad_mukhlis_dzulfitri@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_mukhlis_dzulfitri@moe.edu.sg</a>
 </p>
 </td>
@@ -689,13 +689,13 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>MDM ALWIYAH BTE ABDUL AZIZ</strong> 
-<br><a href="mailto:alwiyah_abdul_aziz@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">alwiyah_abdul_aziz@moe.edu.sg</a>
+<p><strong>MS TAN SHI MIN</strong> 
+<br><a href="mailto:tan_shi_min@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_shi_min@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>MDM CHAN - MELISSA CHAN</strong>
-<br><a href="mailto:heng_may_may_melissa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">heng_may_may_melissa@moe.edu.sg</a>
+<p><strong>MS UMAPATHY KANITHA ANGELA SIBAYAN</strong>
+<br><a href="mailto:umapathy_kanitha_angela_sibayan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">umapathy_kanitha_angela_sibayan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
