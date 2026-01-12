@@ -95,7 +95,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>MRS FOO SZE LING</strong>
+<p><strong>MS FOO SZE LING</strong>
 <br>HOD PE
 <br><a href="mailto:foo_sze_ling@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">foo_sze_ling@moe.edu.sg</a>
 </p>
@@ -158,7 +158,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>MS NUR HUMAIRAH BINTE HASIM</strong>
-<br>Assistant Year Head (P3)
+<br>Assistant Year Head (P3) (int)
 <br><a href="mailto:nur_humairah_hasim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_humairah_hasim@moe.edu.sg</a>
 </p>
 </td>
@@ -180,7 +180,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>MS JULIANA BINTE ABDULLAH</strong>
-<br>Assistant Year Head (P6)
+<br>Assistant Year Head (P6) (int)
 <br><a href="mailto:juliana_abdullah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">juliana_abdullah@moe.edu.sg</a>
 </p>
 </td>
@@ -334,9 +334,9 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>MRS CALYNN TEH </strong>
-<br>Senior Teacher CCE (INT)
-<br><a href="mailto:calynn_chow_wun_yen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">calynn_chow_wun_yen@moe.edu.sg</a>
+<p><strong>MDM ASIYAH BINTE SHEIK MOHAMED ISMAIL</strong>
+<br>Senior Teacher Malay Language (INT)
+<br><a href="mailto:asiyah_sheik_mohamed_ism@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">asiyah_sheik_mohamed_ism@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -355,10 +355,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>MDM ASIYAH BINTE SHEIK MOHAMED ISMAIL</strong>
-<br>Senior Teacher Malay Language (INT)
-<br><a href="mailto:asiyah_sheik_mohamed_ism@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">asiyah_sheik_mohamed_ism@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -543,7 +540,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>MRS LOO AI LIN</strong>
+<p><strong>MDM LOO AI LIN</strong>
 <br><a href="mailto:loo_ai_lin_b@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loo_ai_lin_b@moe.edu.sg</a>
 </p>
 </td>
@@ -592,7 +589,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>MRS SHERMIN CHIA SHI MIN</strong>
+<p><strong>MS SHERMIN CHIA SHI MIN</strong>
 <br><a href="mailto:shermin_chia_shi_min@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shermin_chia_shi_min@moe.edu.sg</a>
 </p>
 </td>
@@ -846,7 +843,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>MRS FOO SZE LING</strong>
+<p><strong>MS FOO SZE LING</strong>
 <br><a href="mailto:foo_sze_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">foo_sze_ling@moe.edu.sg</a>
 </p>
 </td>
@@ -947,7 +944,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>MR CHOO KIAN GUAN RYAN</strong>
-<br><a href="mailto:choo_kian_guan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">choo_kian_guan@moe.edu.sg</a>
+<br><a href="mailto:choo_kian_guan_ryan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">choo_kian_guan_ryan@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
