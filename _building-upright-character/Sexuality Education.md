@@ -11,24 +11,20 @@ variant: tiptap
 <p>&gt;LEARNING EXPERIENCES</p>
 <h2>Sexuality Education</h2>
 <h5>MOE Sexuality Education in Schools</h5>
-<ol data-tight="true" class="tight">
-<li>
-<p>Sexuality Education (SEd) in schools aims to enable students to understand
-the physiological, social and emotional changes they experience as they
-mature, develop healthy and rewarding relationships with others, including
-those with members of the opposite sex, and make wise, informed and responsible
-decisions on sexuality matters. SEd is premised on the importance of the
-family as the basic unit of society. This means encouraging healthy, heterosexual
-marriages and stable nuclear family units with extended family support.
-The teaching and learning of SEd is based on respect for the values and
-beliefs of the different ethnic and religious communities in Singapore
-on sexuality issues.</p>
-<p>&nbsp;</p>
-</li>
-<li>
-<p>The <strong>Goals</strong> of Sexuality Education are:</p>
-<p>(a) Support&nbsp;students in managing their physiological, social and
-emotional changes as they grow up and develop safe and healthy relationships.</p>
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education (SEd) in schools
+aims to enable students to understand the physiological, social and emotional
+changes they experience as they mature, develop healthy and rewarding relationships
+with others, including those with members of the opposite sex, and make
+wise, informed and responsible decisions on sexuality matters.</p>
+<p>SEd is premised on the importance of the family as the basic unit of society.
+This means encouraging healthy, heterosexual marriages and stable nuclear
+family units with extended family support. The teaching and learning of
+SEd is based on respect for the values and beliefs of the different ethnic
+and religious communities in Singapore on sexuality issues.</p>
+<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The <strong>Goals</strong> of Sexuality
+Education are:</p>
+<p>(a) Support students in managing their physiological, social and emotional
+changes as they grow up and develop safe and healthy relationships.</p>
 <p></p>
 <p>(b) Guide students to make wise, informed and responsible decisions on
 sexuality matters.</p>
@@ -36,39 +32,35 @@ sexuality matters.</p>
 <p>(c) Help students develop a moral compass and respect for themselves and
 others by having positive mainstream values and attitudes about sexuality
 that are premised on the family as the basic unit of society.</p>
+<p>&nbsp;</p>
+<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The <strong>Key Messages</strong> of
+Sexuality Education are:</p>
 <p></p>
-</li>
-<li>
-<p>The <strong>Key Messages</strong> of Sexuality Education are:</p>
-<p>(a) Love and respect yourself as you love and respect others;</p>
-<p>(b) Build positive relationships based on love and respect (which are
-the foundation for strong families);</p>
-<p>(c) Make responsible decisions for yourself, your family and society;
-and</p>
-<p>(d) Abstinence before marriage is the best protection against STIs/HIV
-and unintended pregnancies. Casual sex can harm and hurt you and your loved
+<p>(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Love and
+respect yourself as you love and respect others;</p>
+<p>(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Build
+positive relationships based on love and respect (which are the foundation
+for strong families);</p>
+<p>(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Make responsible
+decisions for yourself, your family and society; and</p>
+<p>Abstinence before marriage is the best protection against STIs/HIV and
+unintended pregnancies. Casual sex can harm and hurt you and your loved
 ones.</p>
-</li>
-</ol>
 <p>You may click&nbsp;<strong><a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>&nbsp;for
 more information on MOE Sexuality Education.&nbsp;</p>
-<h5>Overview of Waterway Primary School’s Sexuality Education Programme for 2025</h5>
-<ol start="4">
-<li>
-<p>Sexuality Education is delivered in a holistic manner through the school
-curriculum. The content for Sexuality Education is grouped into five main
-themes: Human Development, Interpersonal Relationships, Sexual Health,
-Sexual Behaviour, and, Culture, Society and Law.</p>
+<h5>Overview of Waterway Primary School’s Sexuality Education Programme for 2026</h5>
+<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education is delivered
+in a holistic manner through the school curriculum. The content for Sexuality
+Education is grouped into five main themes: Human Development, Interpersonal
+Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and
+Law.</p>
 <p></p>
 <p>You may click&nbsp;<strong><a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>&nbsp;for
 more information on the scope of Sexuality Education in the school curriculum.
 <br>
 </p>
-</li>
-<li>
-<p>The subjects that incorporate topics on sexuality include:</p>
-</li>
-</ol>
+<p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The subjects that incorporate topics
+on sexuality include:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Science</p>
@@ -78,33 +70,28 @@ more information on the scope of Sexuality Education in the school curriculum.
 </li>
 </ul>
 <h5><strong><u>Sexuality Education Lessons</u></strong></h5>
-<ol start="6">
-<li>
-<p>The upper primary years mark the onset of puberty. With better nutrition
-and improved health care, children are reaching puberty at a younger age
-and have to grapple with physical, emotional and psychological changes
-in themselves. The implication is that our children are becoming biologically
-ready for sexual activity sooner without necessarily having the corresponding
-cognitive or emotional maturity to modulate their behaviours. Furthermore,
-our young are also exposed to a wide range of influences that could endanger
-health and undermine the integrity of the family. Our students require
-guidance so that they can respond with discernment to the sexual messages
-in the media and other sources.</p>
+<p>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The upper primary years mark the
+onset of puberty. With better nutrition and improved health care, children
+are reaching puberty at a younger age and have to grapple with physical,
+emotional and psychological changes in themselves. The implication is that
+our children are becoming biologically ready for sexual activity sooner
+without necessarily having the corresponding cognitive or emotional maturity
+to modulate their behaviours.</p>
+<p>Furthermore, our young are also exposed to a wide range of influences
+that could endanger health and undermine the integrity of the family. Our
+students require guidance so that they can respond with discernment to
+the sexual messages in the media and other sources.</p>
 <p>
 <br>
 </p>
-</li>
-<li>
-<p>Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at
-Primary 5 and 6. Through these lessons, students will learn healthy ways
-to manage the physiological, social and emotional changes in their growing
-years. They learn to build healthy and rewarding relationships with others,
-including those with members of the opposite sex. Students are also guided
-to make wise, informed and responsible decisions to keep themselves safe
-from sexuality-related risks.</p>
-</li>
-</ol>
-<h5>At Waterway Primary School, the following the following Sexuality Education lessons will be taught in&nbsp;2025:</h5>
+<p>7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education (SEd) lessons
+are taught as part of CCE (FTGP) at Primary 5 and 6. Through these lessons,
+students will learn healthy ways to manage the physiological, social and
+emotional changes in their growing years. They learn to build healthy and
+rewarding relationships with others, including those with members of the
+opposite sex. Students are also guided to make wise, informed and responsible
+decisions to keep themselves safe from sexuality-related risks.</p>
+<h5>At Waterway Primary School, the following the following Sexuality Education lessons will be taught in&nbsp;2026:</h5>
 <h5>Primary 5</h5>
 <table style="minWidth: 100px">
 <colgroup>
@@ -142,9 +129,9 @@ from sexuality-related risks.</p>
 caused by physical changes during puberty. Students will learn to describe
 the healthy ways to manage their negative feelings during this time. They
 will also learn to recognise that one’s identity need not be negatively
-affected, even when one’s body is experiencing changes due to puberty.
-<br>This lesson is conducted separately for boys and girls in different classrooms,
-so that the students will feel more comfortable during the discussions.</p>
+affected, even when one’s body is experiencing changes due to puberty.</p>
+<p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 2</p>
@@ -161,8 +148,9 @@ it can affect themselves and others. Students will learn about the dangers
 of being exposed to sexually explicit materials and reject the viewing
 and/or reading of pornographic materials. They will learn to evaluate their
 own responses when they encounter pornography by applying the strategy <strong>‘Stop-Think-Do’.</strong>
-<br>This lesson is conducted separately for boys and girls in different classrooms,
-so that the students will feel more comfortable during the discussions.</p>
+</p>
+<p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 2</p>
@@ -187,7 +175,7 @@ so that the students will feel more comfortable during the discussions.</p>
 </tr>
 </tbody>
 </table>
-<h5>2025 SEXUALITY EDUCATION LESSONS IN CCE</h5>
+<h5>2026 SEXUALITY EDUCATION LESSONS IN CCE</h5>
 <h5>Primary 6</h5>
 <table style="minWidth: 100px">
 <colgroup>
@@ -253,22 +241,17 @@ and learn to behave maturely towards each other.</p>
 </tbody>
 </table>
 <h5>Information for Parents</h5>
-<ol start="8">
-<li>
-<p>Parents may opt their children out of Sexuality Education lessons, and/or
-supplementary Sexuality Education programmes by MOE-approved external providers.&nbsp;</p>
+<p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents may opt their children
+out of Sexuality Education lessons, and/or supplementary Sexuality Education
+programmes by MOE-approved external providers.&nbsp;</p>
+<p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children
+out of the Sexuality Education lessons need to complete an opt-out form.
+This form will be communicated to parents at the start of the year and
+is also available <strong><a href="/files/SEd_Opt_Out_Form_2026.pdf" rel="noopener nofollow" target="_blank">here</a></strong>.
+The completed opt-out form is to be submitted by 06/02/2026.</p>
 <p></p>
-</li>
-<li>
-<p>Parents who wish to opt their children out of the Sexuality Education
-lessons need to complete an opt-out form. This form will be distributed
-to parents at the start of the year and is also downloadable <strong><a href="/files/SEd_Opt_out_form.pdf" rel="noopener nofollow" target="_blank">here</a></strong>.
-The completed opt-out form is to be submitted by 21/02/2025.</p>
-<p></p>
-</li>
-<li>
-<p>Parents can contact the school at 6636 6880 or <a href="waterway_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">waterway_ps@moe.edu.sg</a> for discussion
-or to seek clarification about the school’s sexuality education programme.</p>
-</li>
-</ol>
+<p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school
+at 6636 6880 or <a href="mailto:waterway_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">waterway_ps@moe.edu.sg</a> for
+discussion or to seek clarification about the school’s sexuality education
+programme.</p>
 <p></p>
