@@ -248,7 +248,7 @@ programmes by MOE-approved external providers.&nbsp;</p>
 out of the Sexuality Education lessons need to complete an opt-out form.
 This form will be distributed to parents at the start of the year and is
 also downloadable <strong><a href="/files/SEd_Opt_out_form.pdf" rel="noopener nofollow" target="_blank">here</a></strong>.
-The completed opt-out form is to be submitted by 21/02/2025.</p>
+The completed opt-out form is to be submitted by 06/02/2026.</p>
 <p></p>
 <p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school
 at 6636 6880 or <a href="mailto:waterway_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">waterway_ps@moe.edu.sg</a> for
