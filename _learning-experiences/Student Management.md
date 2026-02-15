@@ -4,37 +4,37 @@ permalink: /student-management/
 variant: tiptap
 description: ""
 ---
-<p>WAPS Student Management Framework</p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Waterway Learning Experience/Student Management/Picture52.jpg">
-</div>
-<p>The Student Management (SM) Committee aims to create a safe, caring and
-enabling school environment so that WAP students will be able to think
-positively, feel supported and embrace their future with optimism. The
-committee focuses on promoting Positive Discipline, Student Wellbeing and
-Peer Support Relationships (PSR).&nbsp;</p>
-<p><strong>Department Goals and how they help achieve 21 CC</strong>:</p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Waterway Learning Experience/Student Management/Picture53.jpg">
-</div>
-<p>We believe in taking a positive and proactive approach to promote discipline
-and wellbeing. Through the CCE curriculum, classroom lessons and school
-experiences, we teach and demonstrate positive values to our students and
-provide students with opportunities to establish strong <strong><em>PSR</em></strong>.</p>
-<p>We adopt the <strong><em>Restorative Practice</em></strong> approach towards
-addressing inappropriate behaviour. Teachers will guide students to reflect
-on their actions and to restore the relationships that they have damaged.
-We believe in guiding our students to take ownership of their mistakes
-and we will empower them correct their wrongdoings.
-<br>
+<h4><a rel="noopener noreferrer nofollow" target="_blank">Positive Discipline @ WAPS</a></h4>
+<p><strong>Discipline Framework</strong>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Waterway Learning Experience/Student Management/Students_making_anti_bullying_pledge.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture1.png">
 </div>
-<p><strong>Developing 21CC</strong> 
-<br>Through our programmes, students will develop <strong><em>Social-Emotional Competencies</em></strong> -
-Self-Awareness, Self-Management, Relationship Management, Responsible Decision-Making
-and Social Awareness.&nbsp;&nbsp;</p>
+<p>
+<br>Student Management at Waterway Primary School is committed to fostering
+a <strong>Caring </strong>and <strong>Enabling </strong>environment where
+every student feels <strong>Safe</strong>, <strong>Respected</strong>, and <strong>Valued</strong>.</p>
+<p>We believe that when students feel Safe, they are more motivated to give
+their best in school. A sense of safety reduces the likelihood of misbehavior
+and encourages students to approach life and its challenges with our RISE
+values, resilience and a Growth Mindset.</p>
+<p>A key aspect of creating this sense of safety is ensuring that students
+feel Respected by their teachers. Respect begins with teachers role-modeling
+respectful behavior towards students. This principle is embodied in our
+use of Restorative Practices (RP) to address discipline cases and our emphasis
+on building strong Teacher-Student Relationships (TSR).</p>
+<p>When students feel both Safe and Respected, they develop a strong sense
+of belonging and purpose within the school community. This sense of connection
+inspires them to contribute positively to the lives of others. Acts of
+kindness and responsibility are celebrated through our "Caught Doing Right"
+(CDR) program, which recognizes and commends students at various levels
+based on the impact of their good deeds. This recognition reinforces their
+sense of being Valued in the school.</p>
+<p>In essence, our Student Management approach is rooted in positive discipline,
+empowering teachers to cultivate a <strong>Caring </strong>and <strong>Enabling </strong>environment
+where every student feels Safe, <strong>Respected</strong>, and <strong>Valued</strong>.</p>
+<p></p>
 <p><strong>Key Programmes</strong>:
 <br><u>Peer Support Leaders (PSL) Programme</u> 
 <br>At the P4 level, students will be identified by their teachers to go through
