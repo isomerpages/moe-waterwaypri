@@ -38,7 +38,9 @@ description: ""
 </div>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 57%;" height="auto" width="100%" alt="" src="/images/MK/Our Team/Deputy_Centre_Head___Lenny_Haslinda_Jaffar.png">
+</div>
 </th>
 </tr>
 </tbody>
