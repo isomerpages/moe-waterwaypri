@@ -16,8 +16,14 @@ description: ""
 <tr></tr>
 </tbody>
 </table>
+<table style="width: 0px">
+<colgroup></colgroup>
+<tbody>
+<tr></tr>
+</tbody>
+</table>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/Our Team/STAFF_FORMAL_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/Our Team/STAFF_2026.png">
 </div>
 <table style="minWidth: 50px">
 <colgroup>
@@ -32,9 +38,7 @@ description: ""
 </div>
 </th>
 <th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/Our Team/Slide2.png">
-</div>
+<p></p>
 </th>
 </tr>
 </tbody>
