@@ -7,7 +7,6 @@ description: ""
 <h4><a rel="noopener noreferrer nofollow" target="_blank">Positive Discipline @ WAPS</a></h4>
 <p><strong>Discipline Framework</strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture1.png">
 </div>
