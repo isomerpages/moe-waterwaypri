@@ -4,7 +4,7 @@ permalink: /student-management/
 variant: tiptap
 description: ""
 ---
-<h4><a rel="noopener noreferrer nofollow" target="_blank">Positive Discipline @ WAPS</a></h4>
+<h4>Positive Discipline @ WAPS</h4>
 <p><strong>Discipline Framework</strong>
 </p>
 <div class="isomer-image-wrapper">
