@@ -16,8 +16,14 @@ description: ""
 <tr></tr>
 </tbody>
 </table>
+<table style="width: 0px">
+<colgroup></colgroup>
+<tbody>
+<tr></tr>
+</tbody>
+</table>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/Our Team/STAFF_FORMAL_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/Our Team/STAFF_2026.png">
 </div>
 <table style="minWidth: 50px">
 <colgroup>
@@ -33,7 +39,7 @@ description: ""
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/Our Team/Slide2.png">
+<img style="width: 56%;" height="auto" width="100%" alt="" src="/images/MK/Our Team/Deputy_Centre_Head___Lenny_Haslinda_Jaffar_2.png">
 </div>
 </th>
 </tr>
@@ -49,7 +55,7 @@ description: ""
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/Our Team/Slide3.png">
+<img style="width: 56%;" height="auto" width="100%" alt="" src="/images/MK/Our Team/Slide3.png">
 </div>
 </th>
 <th rowspan="1" colspan="1">
@@ -59,14 +65,14 @@ description: ""
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/Our Team/Slide5.png">
+<img style="width: 56%;" height="auto" width="100%" alt="" src="/images/MK/Our Team/Slide5.png">
 </div>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/Our Team/Slide6.png">
+<img style="width: 56%;" height="auto" width="100%" alt="" src="/images/MK/Our Team/Slide6.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -76,14 +82,14 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/Our Team/Slide8.png">
+<img style="width: 56%;" height="auto" width="100%" alt="" src="/images/MK/Our Team/Slide8.png">
 </div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/Our Team/Slide9.png">
+<img style="width: 56%;" height="auto" width="100%" alt="" src="/images/MK/Our Team/Slide9.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -93,19 +99,31 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/Our Team/Slide11.png">
+<img style="width: 56%;" height="auto" width="100%" alt="" src="/images/MK/Our Team/Peh_Rui_En_Gaby.png">
 </div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/Our Team/Slide12.png">
+<img style="width: 56%;" height="auto" width="100%" alt="" src="/images/MK/Our Team/Sri_Siti_Fatimah_Abdul_Rashid.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/Our Team/Slide13.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/Our Team/Slide11.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 56%;" height="auto" width="100%" alt="" src="/images/MK/Our Team/Slide12.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 56%;" height="auto" width="100%" alt="" src="/images/MK/Our Team/Slide13.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -113,16 +131,16 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/Our Team/Slide14.png">
 </div>
 </td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 56%;" height="auto" width="100%" alt="" src="/images/MK/Our Team/Slide15.png">
+</div>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/Our Team/Slide15.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/Our Team/Slide16.png">
+<img style="width: 56%;" height="auto" width="100%" alt="" src="/images/MK/Our Team/Slide16.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -130,23 +148,18 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/Our Team/Slide17.png">
 </div>
 </td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 56%;" height="auto" width="100%" alt="" src="/images/MK/Our Team/Slide18.png">
+</div>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/Our Team/Slide18.png">
+<img style="width: 56%;" height="auto" width="100%" alt="" src="/images/MK/Our Team/Slide19.png">
 </div>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/Our Team/Slide19.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/Our Team/Slide20.png">
@@ -154,11 +167,8 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/Our Team/Slide21.png">
+<img style="width: 56%;" height="auto" width="100%" alt="" src="/images/MK/Our Team/Slide21.png">
 </div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
