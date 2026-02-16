@@ -10,8 +10,7 @@ description: ""
 <br>
 <br>We offer 4-hour K1 and K2 programs. You can choose from the following
 options:
-<br>•Morning session (8am to 12pm)
-<br>•Afternoon session (1pm to 5pm)</p>
+<br>•Morning session (8am to 12pm)</p>
 <p><strong>Our Vision</strong>
 <br>A Strong Start for Every Child.</p>
 <p></p>
