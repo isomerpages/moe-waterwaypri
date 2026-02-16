@@ -1644,15 +1644,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Administrative Executive (MK)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>MDM WU MIAU LUANG</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Corporate Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1675,6 +1666,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>MDM NG LI QING</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Corporate Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>MDM RINNA TAN AI POH</strong>
 </p>
 </td>
 </tr>
