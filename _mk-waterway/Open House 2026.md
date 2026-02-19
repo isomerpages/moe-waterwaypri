@@ -7,9 +7,7 @@ description: ""
 <p><strong>Learn more about MOE Kindergarten by viewing the following videos:</strong>
 <br>
 </p>
-<p><strong>MKWY Open House will be held on 28th March 2026. </strong>
-<br><strong>More information will be coming soon, stay tuned!</strong>
-</p>
+<p>You may also register for MKWY Open House 2026 via this link: <a href="https://go.gov.sg/mkwyopenhouse2026" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/mkwyopenhouse2026</a>"</p>
 <p><strong>A Day At An MOE Kindergarten</strong>
 </p>
 <div class="iframe-wrapper">
