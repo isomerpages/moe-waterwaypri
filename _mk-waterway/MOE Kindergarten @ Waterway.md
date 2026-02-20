@@ -8,9 +8,8 @@ description: ""
 <p>MK aims to provide quality and affordable Kindergarten 1 (K1) and Kindergarten
 2 (K2) education to Singapore Citizens (SC) and Permanent Residents (PR).
 <br>
-<br>We offer 4-hour K1 and K2 programs. You can choose from the following
-options:
-<br>•Morning session (8am to 12pm)</p>
+<br>We offer 4-hour K1 and K2 programmes for children in the morning from
+8.00am to 12noon</p>
 <p><strong>Our Vision</strong>
 <br>A Strong Start for Every Child.</p>
 <p></p>
