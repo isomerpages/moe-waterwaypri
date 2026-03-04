@@ -48,15 +48,5 @@ Email address:  [waterway2024tpt@gmail.com](waterway2024tpt@gmail.com)
 <br>
 * [2024/2025 School Bus Request Form](/files/Request_for_2025_School_Bus_Services__Bus_Vendor_Terms__Conditions.pdf)
 
-#### Student Care Centre
-
-**Little Professors**  
-Tel: 8201 2475 (7.30am - 7.00pm)  
-Email:&nbsp;[waterway@littleprofessors.com.sg](mailto:waterway@littleprofessors.com.sg)  
-  
-Feedback and enquiry  
-Tel: 6100 8789 (Headquarters)  
-Email:&nbsp;[enquiry@littleprofessors.com.sg](mailto:enquiry@littleprofessors.com.sg)&nbsp;
-
 #### School Dental Clinic 
 Tel: 91139437
