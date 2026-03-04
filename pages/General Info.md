@@ -53,10 +53,7 @@ Tel: 8149 1427 (Mdm Angel Siti Norbaya)<br>
 Email: <a href="waterway2024tpt@outlook.com" target="_blank" rel="noopener noreferrer">waterway2024tpt@outlook.com
 <br></a></td>
   </tr>
-  <tr>
-    <td>Student Care Centre<br></td>
-    <td><b>Little Professors</b><br>Tel: 8201 2475 (7.30am - 7.00pm)<br>Email:  <a href="mailto:waterway@littleprofessors.com.sg" target="_blank" rel="noopener noreferrer">waterway@littleprofessors.com.sg</a><br><br>Feedback and enquiry<br>Tel: 6100 8789 (Headquarters)<br>Email: <a href="mailto:enquiry@littleprofessors.com.sg" target="_blank" rel="noopener noreferrer">enquiry@littleprofessors.com.sg</a></td>
-  </tr>
+
   <tr>
     <td>School Dental Clinic</td>
     <td>Tel: 91139437<br>Please call for operation hours.</td>
