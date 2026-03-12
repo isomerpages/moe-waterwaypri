@@ -632,7 +632,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>MDM CHAI HWEE HIAN</strong>
+<p><strong>MDM CHIA HWEE HIAN</strong>
 <br><a href="mailto:chia_hwee_hian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chia_hwee_hian@moe.edu.sg</a>
 </p>
 </td>
