@@ -516,9 +516,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>MS NG GIM BEE LAUREN</strong>
-<br><a href="mailto:ng_gim_bee_b@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_gim_bee_b@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
