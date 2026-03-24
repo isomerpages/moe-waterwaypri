@@ -14,9 +14,9 @@ gardening activities.</p>
 <p>•Indoor and outdoor play, such as dramatic play, and sand and water play.</p>
 <p><strong>Fees and subsidies</strong>
 </p>
-<p>The maximum KCare monthly fee is $415. KCare fees are also payable during
-the June and December holidays. All Singapore Citizen children are eligible
-for a basic subsidy of $150 per month.</p>
+<p>KCare fees are also payable during the June and December holidays. All
+Singapore Citizen children are eligible for a basic subsidy of $150 per
+month.</p>
 <p></p>
 <p>KCare operates from Monday to Friday, 7am till 7pm, including school holidays.
 It is closed on public holidays, Teachers' Day, Children's Day and up to
