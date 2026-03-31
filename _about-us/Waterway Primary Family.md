@@ -607,7 +607,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>MDM GAN AI LING IRENE</strong> 
-<br><a href="mailto:Gan_Ai_Ling_Irene@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Gan_Ai_Ling_Irene@moe.gov.sg</a>
+<br><a href="mailto:Gan_Ai_Ling_Irene@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Gan_Ai_Ling_Irene@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
