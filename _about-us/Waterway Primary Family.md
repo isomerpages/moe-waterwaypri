@@ -516,9 +516,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>MS NG GIM BEE LAUREN</strong>
-<br><a href="mailto:ng_gim_bee_b@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_gim_bee_b@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -609,7 +607,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>MDM GAN AI LING IRENE</strong> 
-<br><a href="mailto:Gan_Ai_Ling_Irene@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Gan_Ai_Ling_Irene@moe.gov.sg</a>
+<br><a href="mailto:Gan_Ai_Ling_Irene@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Gan_Ai_Ling_Irene@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
