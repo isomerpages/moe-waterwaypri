@@ -1,89 +1,78 @@
 ---
 title: FAQ
 permalink: /faq/
+variant: tiptap
 ---
->![](/images/about-us_02.jpg)
->WWPS
-
-## FAQs
-
-
-**What other distinctive programmes are offered by the school?**
-
-There are 5 distinctive programmes offered in Waterway Primary School. More information can be found [here](https://staging.d1vupma46t7042.amplifyapp.com/distinctive-programmes/).
-
-  
-
-**When will CCAs be offered to the students?**
-
-Students will begin their interest CCA starting from Primary 3.
-
-  
-
-**What are the Mother Tongue languages offered?**
-
-Chinese and Malay Language are the two main languages offered.
-
-  
-
-**What are current levels in Waterway Primary School?**
-
-As of 2018, we are providing academic programmes from Primary 1 to Primary 3. 
-
-  
-
-**What are the school hours in Waterway Primary School?**
-
-School hours is from 8.00am - 2.00pm.
-
-  
-
-**Is there transport(School Bus) service provided?**
-
-Yes. You can contact the following Bus vendor: 
-
-**Sin Bus Transport Services**
-
-Tel: 9753 3363 (Mr William Thia)
-
-  
-
-For enquiries, i**s there a contact number or email address that I can write to?**  
-You can contact the school at 6636 6880 or email to us at [waterway\_ps@moe.edu.sg](mailto:waterway_ps@moe.edu.sg).
-
-**What are the school facilities?**<br>
-Waterway Primary is designed to provide an engaging learning environment to support your child's holistic education.  
-Some of the facilities include:  
-
-*   Art and Crafts Room
-*   Dance Studio
-*   Speech and Drama Studio
-*   Indoor Sports Hall
-*   Health and Fitness Room
-*   Synthetic Sports Field
-*   Mathematics and Science Rooms
-*   Teaching Laboratory
-*   Media Resource Library
-*   Programme for Active Learning Rooms 
-*   Outdoor Running Track and Fitness Centre 
-*   Outdoor Experiential Science Garden
-
-  
-
-For FAQs related to the P1 registration procedures, please refer to [Primary one registration](https://www.moe.gov.sg/admissions/primary-one-registration).  
-
-**How many vacancies are available at Westwood Primary School ?**
-
-The number of Primary One vacancies each school will offer for the Primary One Registration Exercise will be made available before the registration begins. Parents can refer to [Primary Schools Vacancies by Phases](https://www.moe.gov.sg/admissions/primary-one-registration/vacancies) for information on vacancies for each school.
-
-  
-
-**What are the seats allocated for each phase?**
-
-To track the vacancies at each phases, please refer to [Allocation](https://www.moe.gov.sg/admissions/primary-one-registration/allocation). (BROKEN LINK)
-
-  
-
-**What are the registration dates and time?**
-
-Parents can refer to [Registrations Phases](https://www.moe.gov.sg/admissions/primary-one-registration/phases) for more information. (BROKEN LINK)
+<p><strong>What other distinctive programmes are offered by the school?</strong>
+</p>
+<p>There are 5 distinctive programmes offered in Waterway Primary School.
+More information can be found&nbsp;<a href="https://staging.d1vupma46t7042.amplifyapp.com/distinctive-programmes/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p><strong>When will CCAs be offered to the students?</strong>
+</p>
+<p>Students will begin their interest CCA starting from Primary 3.</p>
+<p><strong>What are the Mother Tongue languages offered?</strong>
+</p>
+<p>Chinese and Malay Language are the two main languages offered.</p>
+<p><strong>What are current levels in Waterway Primary School?</strong>
+</p>
+<p>As of 2018, we are providing academic programmes from Primary 1 to Primary
+3.&nbsp;</p>
+<p><strong>What are the school hours in Waterway Primary School?</strong>
+</p>
+<p>School hours is from 8.00am - 2.00pm.</p>
+<p><strong>Is there transport(School Bus) service provided?</strong>
+</p>
+<p>Yes. You can contact the following Bus vendor</p>
+<p>For enquiries, i<strong>s there a contact number or email address that I can write to?</strong>
+<br>You can contact the school at 6636 6880 or email to us at&nbsp;<a href="mailto:waterway_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">waterway_ps@moe.edu.sg</a>.</p>
+<p><strong>What are the school facilities?</strong>
+<br>Waterway Primary is designed to provide an engaging learning environment
+to support your child's holistic education.
+<br>Some of the facilities include:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Art and Crafts Room</p>
+</li>
+<li>
+<p>Dance Studio</p>
+</li>
+<li>
+<p>Speech and Drama Studio</p>
+</li>
+<li>
+<p>Indoor Sports Hall</p>
+</li>
+<li>
+<p>Health and Fitness Room</p>
+</li>
+<li>
+<p>Synthetic Sports Field</p>
+</li>
+<li>
+<p>Mathematics and Science Rooms</p>
+</li>
+<li>
+<p>Teaching Laboratory</p>
+</li>
+<li>
+<p>Media Resource Library</p>
+</li>
+<li>
+<p>Programme for Active Learning Rooms&nbsp;</p>
+</li>
+<li>
+<p>Outdoor Running Track and Fitness Centre&nbsp;</p>
+</li>
+<li>
+<p>Outdoor Experiential Science Garden</p>
+<p></p>
+</li>
+</ul>
+<p><strong>How many vacancies are available at Waterway Primary School ?</strong>
+</p>
+<p>The number of Primary One vacancies each school will offer for the Primary
+One Registration Exercise will be made available before the registration
+begins.</p>
+<p></p>
+<p></p>
+<p></p>
