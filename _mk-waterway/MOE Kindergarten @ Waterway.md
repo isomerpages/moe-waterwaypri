@@ -35,8 +35,8 @@ MK@WY:
 </p>
 <p></p>
 <p>If you have missed the Online Registration Exercise, please fill in the
-<a href="https://form.gov.sg/682c224ae813ab801ca98fe1" rel="noopener nofollow" target="_blank">Waitlist Application Form</a><strong>. </strong>The school will contact
-you once a vacancy is available for your child.</p>
+<a href="https://form.gov.sg/69dfea90f29c7f7bcf659727" rel="noopener nofollow" target="_blank">Waitlist Application Form</a><strong>. </strong>MK@Waterway will reach
+out to you once a vacancy is available for your child.</p>
 <p></p>
 <p><strong>Contact Us</strong>
 <br>Email: &nbsp;<a href="mailto:mk_waterway@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mk_waterway@moe.edu.sg</a>

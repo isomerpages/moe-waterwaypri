@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h4><strong>Fees and Uniform</strong></h4>
-<p>The monthly fee for MK in 2024 is:
+<p>The monthly fee for MK is:
 <br>• $160 for Singapore Citizens.
 <br>• $320 for Singapore Permanent Residents.</p>
 <p>Fees are also payable during the June and December holidays. There are
