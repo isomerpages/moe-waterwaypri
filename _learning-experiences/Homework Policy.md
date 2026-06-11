@@ -6,6 +6,6 @@ description: ""
 ---
 <h4>Homework Policy</h4>
 <div class="iframe-wrapper">
-<iframe height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQiV4HIJ_bSgD2_F2qzLeE1ix7Yfo2awZvmY1bIJhaXNWiq-RxOhQ4T6w2yRmnX1A/pubembed?start=true&amp;loop=true&amp;delayms=15000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="500" width="700" allowfullscreen="true" frameborder="0" src="https://docs.google.com/document/d/e/2PACX-1vTb1YASVc9EYVfH0unOdmj35uQOOiChwVEJTf2J2aUV_zKxNZVNYbQJMLY6CFyqMw/pub?embedded=true"></iframe>
 </div>
 <p></p>
