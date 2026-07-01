@@ -180,7 +180,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>MS JULIANA BINTE ABDULLAH</strong>
-<br>Assistant Year Head (P6) (int)
+<br>Assistant Year Head (P6)
 <br><a href="mailto:juliana_abdullah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">juliana_abdullah@moe.edu.sg</a>
 </p>
 </td>
@@ -334,9 +334,9 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>MDM ASIYAH BINTE SHEIK MOHAMED ISMAIL</strong>
-<br>Senior Teacher Malay Language (INT)
-<br><a href="mailto:asiyah_sheik_mohamed_ism@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">asiyah_sheik_mohamed_ism@moe.edu.sg</a>
+<p><strong>MR JAN JOEL JAYANTA</strong>
+<br>Senior Teacher PE (INT)
+<br><a href="mailto:jan_joel_jayanta@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jan_joel_jayanta@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -345,17 +345,6 @@ variant: tiptap
 <br><a href="mailto:teo_juay_cheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Teo_Juay_Cheng@moe.edu.sg</a>
 <br>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>MR JAN JOEL JAYANTA</strong>
-<br>Senior Teacher PE (INT)
-<br><a href="mailto:jan_joel_jayanta@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jan_joel_jayanta@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
@@ -521,7 +510,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>MR LIU HUAQING</strong>
+<br><a href="mailto:liu_huaqing_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">liu_huaqing_a@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -540,8 +531,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>MR LIU HUAQING</strong>
-<br><a href="mailto:liu_huaqing_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">liu_huaqing_a@moe.edu.sgs</a>
+<p><strong>MS RAYISHA FARVEEN D/O BATHURUL JAMAN</strong>
+<br><a href="mailto:rayisha_farveen_bathurul_jaman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rayisha_farveen_bathurul_jaman@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -724,7 +715,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>MS SITI ZARIFAH BINTE MOHD SIDEK</strong>
+<br><a href="mailto:siti_zarifah_mohd_sidek@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_zarifah_mohd_sidek@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -906,7 +899,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>MR JAMES PHANG CHAN CHOW</strong>
+<br><a href="mailto:james_phang_chan_chow@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">james_phang_chan_chow@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -1799,6 +1794,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>MR IQBAL</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Desktop Engineer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>MS NANA</strong>
 </p>
 </td>
 </tr>
