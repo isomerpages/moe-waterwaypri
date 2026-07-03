@@ -25,7 +25,7 @@ sections:
       subtitle: A Culture of Care and Excellence in a Caring and Enabling Environment
   - infopic:
       id: infopic
-      description: Waterway Primary School 2026 E-Open House
+      description: Waterway Primary School 2026  E-Open House
       button: Link to E-Openhouse
       url: https://waterwaypri.wixsite.com/waps-openhouse
       image: /images/Waterway_E_Openhouse.jpg
