@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/STAFF_FUN.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/STAFF_FUN_8R_REVISED_B.jpg">
 </div>
 <h4>SCHOOL LEADERS</h4>
 <table style="minWidth: 50px">
