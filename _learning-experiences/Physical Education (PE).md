@@ -51,8 +51,7 @@ content areas.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="#t5ovd2vkg8qx" rel="noopener noreferrer nofollow" target="_blank">Bowling</a>
-</p>
+<p>Bowling</p>
 </td>
 </tr>
 <tr>
@@ -61,8 +60,7 @@ content areas.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="#jcznu92qc1lc" rel="noopener noreferrer nofollow" target="_blank">Golf</a>
-</p>
+<p>Golf</p>
 </td>
 </tr>
 <tr>
@@ -71,24 +69,20 @@ content areas.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="#xnt2nkx77l68" rel="noopener noreferrer nofollow" target="_blank">Swimsafer</a>
-</p>
+<p>Swimsafer</p>
 </td>
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p><strong>P4</strong>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="#8f2ij043v7f9" rel="noopener noreferrer nofollow" target="_blank">Neighbourhood Walk - Outdoor Education</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><u>NAPFA Test</u>
-</p>
+<p>NAPFA Test</p>
 </td>
 </tr>
 <tr>
@@ -97,8 +91,7 @@ content areas.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="#ube3xrau5isq" rel="noopener noreferrer nofollow" target="_blank">Cohort Camp</a>
-</p>
+<p>Cohort Camp</p>
 </td>
 </tr>
 <tr>
@@ -107,14 +100,12 @@ content areas.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="#l8jvue253rnf" rel="noopener noreferrer nofollow" target="_blank">Post-PSLE Interclass Games</a>
-</p>
+<p>Post-PSLE Interclass Games</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><u>NAPFA test</u>
-</p>
+<p>NAPFA Test</p>
 </td>
 </tr>
 </tbody>
@@ -143,8 +134,7 @@ content areas.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="#70v5j4cbsise" rel="noopener noreferrer nofollow" target="_blank">PAMtastic Week</a>
-</p>
+<p>PAMTASTIC Week</p>
 </td>
 </tr>
 <tr>
@@ -153,8 +143,7 @@ content areas.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="#q5t1frih43qa" rel="noopener noreferrer nofollow" target="_blank">Ad-Hoc Opportunities</a>
-</p>
+<p>Ad-Hoc Opportunities</p>
 </td>
 </tr>
 </tbody>
