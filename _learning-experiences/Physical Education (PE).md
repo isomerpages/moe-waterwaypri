@@ -210,19 +210,18 @@ continuous improvement are key to success both in sport and in life.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE/PE_2___Golf.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE/PE_3___Golf.jpg">
+</div>
 </td>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
-<p><strong><u><br></u></strong>
-</p>
-<p><strong><u>&nbsp;</u></strong>
-</p>
 <p><strong><u>SwimSafer Programme (Primary 3)</u></strong>
 </p>
 <p>Our Primary 3 students participate in the SwimSafer Programme, where they
@@ -244,30 +243,30 @@ and responsibly while nurturing lifelong confidence in the aquatic environment.<
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE/PE_4___Swimsafer.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE/PE_5___Swimsafer.jpg">
+</div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE/PE_6___Swimsafer.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE/PE_7___Swimsafer.jpg">
+</div>
 </td>
 </tr>
 </tbody>
 </table>
-<p><strong><u>&nbsp;</u></strong>
-</p>
-<p><strong><u>&nbsp;</u></strong>
-</p>
-<p><strong><u><br></u></strong>
-</p>
-<p><strong><u>&nbsp;</u></strong>
-</p>
 <p><strong><u>Neighbourhood Walk - Outdoor Education (Primary 4)</u></strong>
 </p>
 <p>Our Primary 4 Outdoor Education (OE) programme empowers students to become
@@ -290,22 +289,18 @@ fostering a lifelong appreciation for the outdoors.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE/PE_8___Outdoor_Ed.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE/PE_9___Outdoor_Ed.jpg">
+</div>
 </td>
 </tr>
 </tbody>
 </table>
-<p><strong><u>&nbsp;</u></strong>
-</p>
-<p><strong><u>&nbsp;</u></strong>
-</p>
-<p><strong><u><br></u></strong>
-</p>
-<p><strong><u>&nbsp;</u></strong>
-</p>
 <p><strong><u>NAPFA Test (Primary 4 &amp; Primary 6)</u></strong>
 </p>
 <p>Each year, our Primary 4 and Primary 6 students rise to the challenge
@@ -329,29 +324,30 @@ lifelong habits that support their health, well-being, and personal growth.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE/PE_10___Napfa_Test.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE/PE_11___Napfa_Test.jpg">
+</div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE/PE_12___Napfa_Test.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE/PE_13___Napfa_Test.jpg">
+</div>
 </td>
 </tr>
 </tbody>
 </table>
-<p><strong><u>&nbsp;</u></strong>
-</p>
-<p>
-<br>
-</p>
-<p><strong><u>&nbsp;</u></strong>
-</p>
 <p><strong><u>P5 Cohort Camp</u></strong>
 </p>
 <p>The Primary 5 Outdoor Adventure Camp is part of MOE's National Outdoor
@@ -369,10 +365,6 @@ and demonstrate adaptability in unfamiliar environments.</p>
 of adventure, resilience, and self-confidence, while fostering a deeper
 appreciation for the natural environment and a greater sense of responsibility
 for one another.</p>
-<p><strong><u><br></u></strong>
-</p>
-<p><strong><u>&nbsp;</u></strong>
-</p>
 <p><strong><u>Post-PSLE Interclass Games (Primary 6)</u></strong>
 </p>
 <p>The Post-PSLE Interclass Games provide students with meaningful opportunities
@@ -401,22 +393,18 @@ to a caring and supportive community.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE/PE_14___Post_PSLE.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE/PE_15___Post_PSLE.jpg">
+</div>
 </td>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>
-<br>
-</p>
-<p><strong><u>&nbsp;</u></strong>
-</p>
 <p><strong><u>PAMtastic Week (All Levels)</u></strong>
 </p>
 <p>PAMtastic Week (PAM Week) is an exciting interdisciplinary experience
@@ -447,23 +435,26 @@ the joy of interdisciplinary learning.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE/PE_16___PAMTASTIC.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE/PE_17___PAMTASTIC.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE/PE_18___PAMTASTIC.jpg">
+</div>
 </td>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p><strong>&nbsp;</strong>
-</p>
 <p><strong><u>Ad Hoc Opportunities (Subject to Availability)</u></strong>
 </p>
+<p></p>
 <p><strong><u>2025 World Aquatics Spectating</u></strong>
 </p>
 <p>A group of selected Sports CCA students had the exciting opportunity to
@@ -475,4 +466,6 @@ at the highest level of international competition.</p>
 of the values that underpin sporting excellence and were inspired to pursue
 their own goals with commitment and perseverance. The shared experience
 also strengthened friendships, fostered team spirit, and created lasting
-memories, making it a meaningful learning journey beyond the clas</p>
+memories, making it a meaningful learning journey beyond the classroom.</p>
+<p></p>
+<p></p>
