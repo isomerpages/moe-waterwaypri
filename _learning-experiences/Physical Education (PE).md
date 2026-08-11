@@ -18,9 +18,11 @@ to participate in physical activities and cooperate with their peers to
 reinforce learning. In hope of helping our students develop the essential
 competencies to succeed in our fast-changing world, our lessons are crafted
 with purposeful assessment and pedagogy.</p>
-<p></p>
-<p>Physical Education Curriculum Framework</p>
-<p>Curriculum and Programmes:
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE/21st_Century_Competencies.jpg">
+</div>
+<h4>Physical Education Curriculum Framework</h4>
+<p><strong>Curriculum and Programmes: </strong>
 <br>Students in Primary School will learn five content areas, mainly, Athletics,
 Dance, Games and Sports, Gymnastics, and Swimming. Through these content
 areas, students are taught fundamental movement skills, movement concepts,
@@ -163,10 +165,7 @@ content areas.</p>
 </p>
 <p>As part of the Lower Primary Learning Carnival, our Primary 1 and 2 students
 explored the world of careers through the lens of sport.</p>
-<p><strong><u><br></u></strong>
-</p>
-<p><strong><u>&nbsp;</u></strong>
-</p>
+<p></p>
 <p><strong><u>Bowling (Primary 1)</u></strong>
 </p>
 <p>Bowling is more than just a fun and social activity. It provides a meaningful
@@ -183,17 +182,13 @@ in a fun, supportive, and encouraging environment.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE/PE_1___Bowling.jpg">
+</div>
 </td>
 </tr>
 </tbody>
 </table>
-<p><strong><u>&nbsp;</u></strong>
-</p>
-<p><strong><u><br></u></strong>
-</p>
-<p><strong><u>&nbsp;</u></strong>
-</p>
 <p><strong><u>Golf (Primary 2)</u></strong>
 </p>
 <p>Primary 2 students were introduced to golf, a sport that offers valuable
