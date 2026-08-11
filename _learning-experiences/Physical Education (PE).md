@@ -74,10 +74,11 @@ content areas.</p>
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p></p>
+<p><strong>P4</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Neighbourhood Walk - Outdoor Education</p>
 </td>
 </tr>
 <tr>
@@ -143,7 +144,7 @@ content areas.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ad-Hoc Opportunities</p>
+<p>Ad-Hoc</p>
 </td>
 </tr>
 </tbody>
