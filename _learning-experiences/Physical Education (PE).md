@@ -4,13 +4,13 @@ permalink: /physical-education-pe/
 variant: tiptap
 description: ""
 ---
-<p><strong>Introduction:</strong> 
+<p><strong>Introduction:</strong>
 <br>The PE department seeks to develop physically competent and confident
 individuals. Through our curriculum and meaningful learning experiences,
 we aim to help students realise the importance of safe participation in
 physical activities, and the joy of maintaining an active and healthy lifestyle.
 <br>
-<br><strong>Department Goals:</strong> 
+<br><strong>Department Goals:</strong>
 <br>Our PE education focuses on three learning areas, namely, Physical Activity,
 Outdoor Education, and Physical Health and Safety.&nbsp; With strong emphasis
 on, about, and through movement, students are offered innumerable opportunities
@@ -19,20 +19,14 @@ reinforce learning. In hope of helping our students develop the essential
 competencies to succeed in our fast-changing world, our lessons are crafted
 with purposeful assessment and pedagogy.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Waterway Learning Experience/Physical Education/Picture14.jpg">
-</div>
-<p><strong>Physical Education Curriculum Framework</strong>
-</p>
-<p><strong>Curriculum and Programmes:</strong> 
+<p>Physical Education Curriculum Framework</p>
+<p>Curriculum and Programmes:
 <br>Students in Primary School will learn five content areas, mainly, Athletics,
 Dance, Games and Sports, Gymnastics, and Swimming. Through these content
 areas, students are taught fundamental movement skills, movement concepts,
 along with the transference of these skills and concepts across the various
-content areas.
-<br>
-<br>
-</p>
+content areas.</p>
+<p>&nbsp;</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -123,6 +117,8 @@ content areas.
 </tr>
 </tbody>
 </table>
+<p><em>&nbsp;</em>
+</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -161,88 +157,327 @@ content areas.
 </tr>
 </tbody>
 </table>
-<p>*All programmes are subjected to review as deemed appropriate.</p>
-<p></p>
+<p><em>*All programmes are subjected to review as deemed appropriate.</em>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
 <p>As part of the Lower Primary Learning Carnival, our Primary 1 and 2 students
 explored the world of careers through the lens of sport.</p>
-<p></p>
+<p><strong><u><br></u></strong>
+</p>
+<p><strong><u>&nbsp;</u></strong>
+</p>
 <p><strong><u>Bowling (Primary 1)</u></strong>
-<br>Bowling is more than just a fun and social activity. It provides a meaningful
+</p>
+<p>Bowling is more than just a fun and social activity. It provides a meaningful
 platform for Primary 1 students to develop essential life skills. As they
 take turns rolling the ball and aiming for the pins, students strengthen
 their focus, hand-eye coordination, and sportsmanship. Through this hands-on
 experience, our young learners also discover the importance of setting
 goals, persevering through challenges, and celebrating personal progress
 in a fun, supportive, and encouraging environment.</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Waterway Learning Experience/Physical Education/P1_Mass_Walk_1.jpg">
-</div>
-<p></p>
-<p><strong>P1 Mass Walk</strong> 
-<br>The Mass Walk is held at Punggol Waterway Park adjacent to Waterway Primary
-School. The walks are held weekly during one teaching term, and it aims
-to build student’s confidence, help them identify potential outdoor hazards,
-and develop appreciation for flora and fauna.</p>
-<p></p>
-<p><strong>Swimsafer</strong> 
-<br>The Swimsafer Programme is part of the PE curriculum where students will
-learn about water safety, personal water survival and swimming strokes.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Waterway Learning Experience/Physical Education/P3P4_Carnival_4.jpg">
-</div>
-<p><strong>P3 Sports MCCA</strong> 
-<br>P3 Sports MCCA (Tchoukball) provides students with exposure to team sports
-and the opportunity to develop interpersonal skills, school values of Responsibility,
-Integrity, Self-discipline and Empathy through collaborative team play.</p>
-<p></p>
-<p><strong>P3 &amp; P4 Sports Carnival</strong> 
-<br>Our sports carnival presents P3 and P4 students the opportunity to challenge
-their friends at various game stations. These stations put the different
-skills that they have learnt and mastered during PE lessons (such as fundamental
-movement and manipulative motor skills) to a good test!</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Waterway Learning Experience/Physical Education/P3P4_Carnival_2.jpg">
-</div>
-<p><strong>P5 Camp</strong> 
-<br>P5 Camp is part of MOE’s National Outdoor Adventure Education Master Plan.&nbsp;
-The 3 Days 2 Nights camp is put in place to strengthen the holistic development
-of all our students. The programme seeks to develop ruggedness, resilience,
-and build cohesion amongst our students.</p>
-<p></p>
-<p><strong>P5 Outdoor &amp; Life Skills MCCA</strong> 
-<br>Outdoor and Life Skills Modular CCA for Primary 5 students provides them
-with an enriching experience in problem solving and managing relationships.
-Students engage in authentic learning experiences using collaborative skills,
-creativity and reflective thinking.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Waterway Learning Experience/Physical Education/P3P4_Carnival_3.jpg">
-</div>
-<p><strong>P6 Games Day</strong> 
-<br>Lastly, we engage our P6 students in an exciting territorial-invasion
-team sport post-PSLE. This event encapsulates the curriculum objectives
-through involvement in physical activities with their peers in the cohort.
-It also deepens teamwork and friendships forged over the years.</p>
-<p></p>
-<p><strong>Teaching Staff:</strong>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong><u>&nbsp;</u></strong>
 </p>
-<p>MISS HO YONG YING</p>
-<p>MS TAN PEI WEN</p>
-<p>MR JAN JOEL</p>
-<p>MR LAI WEE YEONG</p>
-<p>MR MOHD ALI</p>
-<p>MR MOHD HAZMIE</p>
-<p>MR MOHD IMRAN</p>
+<p><strong><u><br></u></strong>
+</p>
+<p><strong><u>&nbsp;</u></strong>
+</p>
+<p><strong><u>Golf (Primary 2)</u></strong>
+</p>
+<p>Primary 2 students were introduced to golf, a sport that offers valuable
+opportunities for both skill development and character building. Beyond
+learning the fundamentals of the game, our professional instructors emphasised
+core values such as patience, integrity, focus, and resilience, helping
+students appreciate how these qualities extend beyond the sport into their
+everyday lives.</p>
+<p>To provide a safe and engaging learning experience, students practised
+strokes using specialised swing nets and putting mats. Through hands-on
+activities in swinging, chipping, and putting, students developed coordination,
+confidence, and perseverance, while discovering that steady effort and
+continuous improvement are key to success both in sport and in life.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
-<p><strong>Parent Involvement:</strong> 
-<br>Parent volunteers are critical to the success of many of our programmes.
-Working alongside the teachers, parent volunteers help to ensure the safety
-and well-being of students during programmes such as Swimsafer and P1 Mass
-Walk.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p><strong><u><br></u></strong>
+</p>
+<p><strong><u>&nbsp;</u></strong>
+</p>
+<p><strong><u>SwimSafer Programme (Primary 3)</u></strong>
+</p>
+<p>Our Primary 3 students participate in the SwimSafer Programme, where they
+develop essential swimming competencies and water safety knowledge through
+a structured and progressive curriculum.</p>
+<p>Throughout the programme, students demonstrate courage, discipline, and
+a positive attitude towards learning as they build confidence in and around
+the water. Beyond acquiring swimming skills, they learn to assess risks,
+make safe decisions, and persevere through challenges, fostering resilience
+and self-confidence.</p>
+<p>By equipping students with essential water safety skills and awareness,
+the SwimSafer Programme empowers them to enjoy water-based activities safely
+and responsibly while nurturing lifelong confidence in the aquatic environment.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong><u>&nbsp;</u></strong>
+</p>
+<p><strong><u>&nbsp;</u></strong>
+</p>
+<p><strong><u><br></u></strong>
+</p>
+<p><strong><u>&nbsp;</u></strong>
+</p>
+<p><strong><u>Neighbourhood Walk - Outdoor Education (Primary 4)</u></strong>
+</p>
+<p>Our Primary 4 Outdoor Education (OE) programme empowers students to become
+confident and responsible explorers through meaningful, hands-on learning
+experiences.</p>
+<p>The programme begins with foundational trip-planning skills and culminates
+in an engaging neighbourhood walk and picnic, where students apply their
+learning in navigation, outdoor living, and risk assessment. Through these
+authentic experiences, they develop a deeper awareness of their surroundings,
+strengthen their problem-solving and decision-making skills, and learn
+to navigate the outdoors safely and responsibly.</p>
+<p>By encouraging teamwork, independence, and resilience, the Outdoor Education
+programme nurtures students' confidence to embrace new experiences while
+fostering a lifelong appreciation for the outdoors.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong><u>&nbsp;</u></strong>
+</p>
+<p><strong><u>&nbsp;</u></strong>
+</p>
+<p><strong><u><br></u></strong>
+</p>
+<p><strong><u>&nbsp;</u></strong>
+</p>
+<p><strong><u>NAPFA Test (Primary 4 &amp; Primary 6)</u></strong>
+</p>
+<p>Each year, our Primary 4 and Primary 6 students rise to the challenge
+of the NAPFA test with determination and resilience, demonstrating not
+only their commitment to physical fitness but also strong self-discipline
+and perseverance.</p>
+<p>Each test station provides an opportunity for students to challenge their
+physical abilities, build confidence, and cultivate a growth mindset. Beyond
+the performance outcomes, the experience reinforces the importance of leading
+an active lifestyle, setting meaningful goals, and striving for personal
+best.</p>
+<p>More importantly, the NAPFA experience encourages students to recognise
+that progress is achieved through consistent effort, resilience, and perseverance.
+These values extend beyond the test, empowering our students to develop
+lifelong habits that support their health, well-being, and personal growth.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong><u>&nbsp;</u></strong>
+</p>
+<p>
+<br>
+</p>
+<p><strong><u>&nbsp;</u></strong>
+</p>
+<p><strong><u>P5 Cohort Camp</u></strong>
+</p>
+<p>The Primary 5 Outdoor Adventure Camp is part of MOE's National Outdoor
+Adventure Education Master Plan. Through this immersive 3-Day, 2-Night
+experience, students strengthen their holistic development, build resilience
+and ruggedness, learn about teamwork, and build meaningful peer relationships
+through authentic outdoor learning.</p>
+<p>Throughout the camp, students apply the outdoor competencies, knowledge,
+skills, and attitudes they have developed in school through activities
+such as day expeditions, team challenges, and cohort camp tasks. These
+experiential and increasingly self-directed learning opportunities encourage
+students to step out of their comfort zones, solve problems collaboratively,
+and demonstrate adaptability in unfamiliar environments.</p>
+<p>Beyond developing outdoor competencies, the camp nurtures students' spirit
+of adventure, resilience, and self-confidence, while fostering a deeper
+appreciation for the natural environment and a greater sense of responsibility
+for one another.</p>
+<p><strong><u><br></u></strong>
+</p>
+<p><strong><u>&nbsp;</u></strong>
+</p>
+<p><strong><u>Post-PSLE Interclass Games (Primary 6)</u></strong>
+</p>
+<p>The Post-PSLE Interclass Games provide students with meaningful opportunities
+to strengthen friendships, embrace inclusivity, and experience the joy
+of participation through sport. Through carefully selected para-sport-inspired
+games, students deepen their understanding of game strategies, enhance
+their spatial awareness, and develop effective communication skills in
+dynamic team settings.</p>
+<p>Beyond developing physical competencies, the programme fosters important
+values such as teamwork, adaptability, sportsmanship, empathy, and mutual
+respect. By experiencing modified sports that simulate different physical
+abilities, students gain a deeper appreciation of the diverse challenges
+that others may face. These authentic experiences encourage them to be
+more inclusive, celebrate individual strengths, and support one another
+in achieving shared goals.</p>
+<p>As they participate, students build confidence, resilience, and a stronger
+sense of belonging while developing meaningful friendships. More importantly,
+the programme reinforces the importance of empathy, active living, and
+inclusive participation, inspiring students to value diversity and contribute
+to a caring and supportive community.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>
+<br>
+</p>
+<p><strong><u>&nbsp;</u></strong>
+</p>
+<p><strong><u>PAMtastic Week (All Levels)</u></strong>
+</p>
+<p>PAMtastic Week (PAM Week) is an exciting interdisciplinary experience
+where the Physical Education, Art, and Music (PAM) departments collaborate
+with the English, Mathematics, and Science departments to bring curriculum
+concepts to life through engaging and meaningful activities.</p>
+<p>Anchored in the school's Build-Share-Create-Apply (BSCA) Teaching and
+Learning Framework, PAM Week encourages students to make authentic connections
+across disciplines by integrating physical, aesthetic, and auditory experiences
+with core academic concepts. This holistic approach deepens understanding,
+sparks curiosity, and inspires students to see how knowledge can be applied
+across different contexts.</p>
+<p>Through a series of interactive games-based booths and hands-on activities,
+students across all levels are challenged to apply their knowledge creatively,
+solve problems collaboratively, and express their ideas in meaningful ways.
+By building on prior learning, sharing ideas, creating solutions, and applying
+their understanding through play, students strengthen and apply their critical
+and creative thinking, communication, and collaboration skills while experiencing
+the joy of interdisciplinary learning.</p>
+<p><strong><u>PAMtastic Week 2025</u></strong>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 <p><strong>&nbsp;</strong>
 </p>
-<p></p>
-<p></p>
+<p><strong><u>Ad Hoc Opportunities (Subject to Availability)</u></strong>
+</p>
+<p><strong><u>2025 World Aquatics Spectating</u></strong>
+</p>
+<p>A group of selected Sports CCA students had the exciting opportunity to
+spectate world-class aquatic competitions firsthand. The experience provided
+students with valuable exposure to elite athletes, allowing them to witness
+the dedication, discipline, resilience, and sportsmanship required to perform
+at the highest level of international competition.</p>
+<p>Beyond the excitement of the event, students gained a deeper appreciation
+of the values that underpin sporting excellence and were inspired to pursue
+their own goals with commitment and perseverance. The shared experience
+also strengthened friendships, fostered team spirit, and created lasting
+memories, making it a meaningful learning journey beyond the clas</p>
