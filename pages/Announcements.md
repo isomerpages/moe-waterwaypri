@@ -36,8 +36,6 @@ Students' Channel@Waterway is entirely the creation and works of our students.
 
 If you would like to know more about Waterway Primary School, join us on a virtual open house with a 360 degrees Virtual Tour. You can get to understand the school's programmes and co-curricular activities and have a view of the school's facilities as well.
 
-[Link for Virtual Open House](https://waterwaypri.wixsite.com/wwps-openhouse)
-
 ------------------
 
 
